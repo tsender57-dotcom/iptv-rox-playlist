@@ -2,7 +2,7 @@ from pathlib import Path
 from urllib.parse import urljoin
 import os
 import asyncio
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 from playwright.async_api import async_playwright
@@ -18,7 +18,7 @@ API_FILE = Cache(f"{TAG.lower()}-api.json", exp=7_200)
 
 OUTPUT_FILE = Path("centerstrm.m3u")
 
-# Mengambil API URL dari GitHub Secrets
+# API URL FROM SECRET
 BASE_URL = os.environ.get("CENTERSTRM_API")
 
 EMBED_BASE = "https://streams.center/"
@@ -102,7 +102,6 @@ async def get_events(cached_ids: set[str]) -> list[dict]:
 
     for row in api_data:
         event_id = row.get("id")
-        # Jika gameName kosong (null), pakai "name" sebagai cadangan
         name = row.get("gameName") or row.get("name") 
         category_id = row.get("categoryId")
         embed = row.get("videoUrl")
@@ -139,8 +138,9 @@ async def get_events(cached_ids: set[str]) -> list[dict]:
                 "sport": sport,
                 "event": name,
                 "embed": embed_url,
+                "begin_raw": begin, # Menangkap teks jam mentah dari API
+                "end_raw": end,     # Menangkap teks jam mentah dari API
                 "timestamp": start_dt.timestamp(),
-                "end_timestamp": end_dt.timestamp(),
             }
         )
 
@@ -193,18 +193,23 @@ async def scrape() -> None:
                             ev["sport"], ev["event"]
                         )
 
-                        # LOGIKA WAKTU WIB & STATUS LIVE
+                        # LOGIKA WAKTU WIB (FIXED: Bypassing DST Issue)
                         try:
-                            ts_start = ev["timestamp"]
-                            ts_end = ev.get("end_timestamp", ts_start + 7200)
+                            # Parse string dari API (Contoh "2026-04-18T03:00:00")
+                            dt_api_start = datetime.strptime(ev["begin_raw"], "%Y-%m-%dT%H:%M:%S")
+                            dt_api_end = datetime.strptime(ev["end_raw"], "%Y-%m-%dT%H:%M:%S")
                             
-                            # Konversi timestamp UTC ke WIB
-                            dt_wib = datetime.fromtimestamp(ts_start, tz=ZoneInfo("UTC")).astimezone(ZoneInfo("Asia/Jakarta"))
-                            time_str = f"[{dt_wib.strftime('%H:%M WIB')}]"
+                            # API adalah UTC+1. WIB adalah UTC+7. 
+                            # Selisih pastinya adalah +6 jam dari jam di API.
+                            dt_wib_start = dt_api_start + timedelta(hours=6)
+                            dt_wib_end = dt_api_end + timedelta(hours=6)
                             
-                            # Cek status LIVE
-                            current_ts = datetime.now(ZoneInfo("UTC")).timestamp()
-                            if ts_start <= current_ts <= ts_end:
+                            time_str = f"[{dt_wib_start.strftime('%H:%M WIB')}]"
+                            
+                            # Cek status LIVE menggunakan jam saat ini (yang tidak terikat zona waktu)
+                            now_wib = datetime.now(ZoneInfo("Asia/Jakarta")).replace(tzinfo=None)
+                            
+                            if dt_wib_start <= now_wib <= dt_wib_end:
                                 time_str = f"[🔴 LIVE] {time_str}"
                                 
                         except Exception as e:
