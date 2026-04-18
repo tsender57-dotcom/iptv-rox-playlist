@@ -1,0 +1,60 @@
+name: CenterStrm Updater
+
+on:
+  schedule:
+    - cron: '*/20 * * * *' # Berjalan otomatis setiap 20 menit
+  workflow_dispatch: # Memungkinkan tombol 'Run workflow' manual
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright httpx[http2] pytz
+          playwright install --with-deps
+          playwright install chromium
+
+      - name: Run scraper
+        env:
+          CENTERSTRM_API: ${{ secrets.CENTERSTRM_API }} # Mengambil API dari GitHub Secrets
+        run: |
+          echo "Starting StreamCenter scraper..."
+          python centerstrm.py
+
+      - name: Commit & Push safely
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+          git add centerstrm.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update CenterStrm playlist (LIVE Tag)"
+
+          # Push dengan aman jika ada konflik
+          if ! git push origin main; then
+            echo "Push rejected — rebasing safely..."
+            git stash
+            git pull --rebase origin main
+            git stash pop
+            git add centerstrm.m3u
+            git commit -m "Update CenterStrm playlist (rebased)" || true
+            git push origin main
+          fi
