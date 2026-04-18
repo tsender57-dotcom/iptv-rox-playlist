@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from urllib.parse import quote, urljoin, urlparse
 import re
 import requests
@@ -239,7 +240,7 @@ def get_category_event_candidates(category_path):
     """
     Fetch category page and return a list of (anchor_text, href) candidates.
     We consider anchors whose href contains 'stream'/'streams' or looks like an event slug.
-    MODIFIED: Now attempts to parse table rows (tr) to extract 'Start Time' next to the event.
+    MODIFIED: Now attempts to parse table rows (tr) to extract 'Start Time' next to the event and converts to WIB.
     """
     if not category_path:
         cat_url = BASE_URL
@@ -274,13 +275,30 @@ def get_category_event_candidates(category_path):
             # Usually Start Time is in the second column (index 1)
             if len(cols) >= 2:
                 raw_time = cols[1].get_text(strip=True)
-                # Try to extract just the time portion e.g., "04:30 PM"
-                time_match = re.search(r"(\d{2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
-                if time_match:
-                    time_text = f"[{time_match.group(1).upper()}] "
-                elif raw_time and "Event Started!" not in raw_time:
-                    # Fallback if time format is different
-                    time_text = f"[{raw_time}] "
+                
+                # Check if not "Event Started!"
+                if "Event Started!" not in raw_time and raw_time:
+                    try:
+                        # 1. Parse time from web text (e.g. "April 17, 2026 4:30 PM")
+                        clean_raw = " ".join(raw_time.split())
+                        dt_web = datetime.strptime(clean_raw, "%B %d, %Y %I:%M %p")
+                        
+                        # 2. Set source timezone (Pacific Time / Los Angeles)
+                        dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
+                        
+                        # 3. Convert to WIB (Asia/Jakarta)
+                        dt_wib = dt_source.astimezone(ZoneInfo("Asia/Jakarta"))
+                        
+                        # 4. Final format: [06:30 WIB]
+                        time_text = f"[{dt_wib.strftime('%H:%M WIB')}] "
+                        
+                    except ValueError:
+                        # Fallback if format fails
+                        time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
+                        if time_match:
+                            time_text = f"[{time_match.group(1).upper()}] "
+                        else:
+                            time_text = f"[{raw_time}] "
             
             # Combine time and title
             full_title = f"{time_text}{title_text}".strip()
@@ -389,7 +407,7 @@ def main():
                     continue
                 seen_urls.add(clean)
                 
-                # PRESERVE THE TIME TAG (e.g. "[04:30 PM] ") from anchor_text
+                # PRESERVE THE TIME TAG (e.g. "[06:30 WIB] ") from anchor_text
                 final_title = ev_title or anchor_text or derive_title_from_page(None, fallback_url=href) or clean
                 
                 # if anchor_text has a time tag but ev_title doesn't, prepend it
