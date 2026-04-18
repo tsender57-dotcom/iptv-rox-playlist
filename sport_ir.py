@@ -2,6 +2,8 @@ import asyncio
 import os
 from functools import partial
 from urllib.parse import urljoin, quote
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 from utils import Cache, Time, get_logger, leagues, network
 
@@ -53,15 +55,30 @@ def generate_playlists():
         logo = data.get("logo") or ""
         tvg_id = data.get("id")
         base = data.get("base")
+        ts = data.get("timestamp")  # Mengambil timestamp waktu pertandingan
         
         if not url:
             continue
         
         valid_streams += 1
         
+        # Format Waktu ke WIB
+        time_prefix = ""
+        if ts:
+            try:
+                # Ubah timestamp UTC ke format datetime, lalu konversi ke WIB
+                dt_utc = datetime.fromtimestamp(float(ts), tz=ZoneInfo("UTC"))
+                dt_wib = dt_utc.astimezone(ZoneInfo("Asia/Jakarta"))
+                time_prefix = f"[{dt_wib.strftime('%H:%M WIB')}] "
+            except Exception as e:
+                log.warning(f"Gagal memformat waktu untuk {name}: {e}")
+
+        # Gabungkan Jam dan Nama Pertandingan
+        display_name = f"{time_prefix}{name}"
+        
         extinf = (
             f'#EXTINF:-1 tvg-chno="{chno}" tvg-id="{tvg_id}" '
-            f'tvg-name="{name}" tvg-logo="{logo}" group-title="Live Events",{name}'
+            f'tvg-name="{display_name}" tvg-logo="{logo}" group-title="Live Events",{display_name}'
         )
         
         # VLC format (with #EXTVLCOPT headers)
