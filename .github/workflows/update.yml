@@ -1,0 +1,37 @@
+name: Auto Update Playlist
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Script akan berjalan otomatis setiap 3 jam
+  workflow_dispatch: # Mengizinkan Anda menekan tombol "Run" manual
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    # Memberikan izin kepada bot untuk menulis file ke repository
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run script to fetch M3U8
+        run: python update_rox.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Roxiestreams_VLC.m3u8 Roxiestreams_TiviMate.m3u8
+          git commit -m "Auto-update playlist" || exit 0
+          git push
