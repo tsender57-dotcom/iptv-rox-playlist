@@ -2,7 +2,7 @@ name: Auto Update Playlist
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Script akan berjalan otomatis setiap 3 jam
+    - cron: '*/30 * * * *' # Script akan berjalan otomatis setiap 30 menit
   workflow_dispatch: # Mengizinkan Anda menekan tombol "Run" manual
 
 jobs:
