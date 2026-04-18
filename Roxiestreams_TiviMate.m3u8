@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-18 16:04 UTC
+# Last Updated: 2026-04-18 22:00 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [04:00 WIB]
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/7b2add8f6c990c9e43454caedce67487/manifest/video.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [23:50 WIB] East vs West XXIII
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/888440f832c675999cba4d810e1462cf/manifest/video.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [05:00 WIB] WWE WrestleMania (NIGHT 1)
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/f6f236cb01bdb58bbb446d70f9b9c759/manifest/video.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWHFvV0/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Soccer - [18:00 WIB] Dynamo Dresden vs Bochum
 https://602.underupturnip.net/bochum.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWHFvV0/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Soccer - [18:30 WIB] Brentford vs Fulham
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/f6f236cb01bdb58bbb446d70f9b9c759/manifest/video.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWHFvV0/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Soccer - [08:07 WIB] Guadalajara vs Puebla
 https://602.underupturnip.net/tudn.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
@@ -49,21 +49,12 @@ https://602.underupturnip.net/mlb14.m3u8|referer=https://roxiestreams.info/|user
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [08:38 WIB] San Diego Padres vs Los Angeles Angels
 https://602.underupturnip.net/mlb15.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Nba - [02:30 WIB] Minnesota Timberwolves vs Denver Nuggets
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/888440f832c675999cba4d810e1462cf/manifest/video.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Roxiestreams - NHL",Nhl - [02:00 WIB] Ottawa Senators vs Carolina Hurricanes
-https://602.underupturnip.net/nhl.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Roxiestreams - NHL",Nhl - [04:30 WIB] Minnesota Wild vs Dallas Stars
-https://602.underupturnip.net/nhl2.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Roxiestreams - NHL",Nhl - [07:00 WIB] Philadelphia Flyers vs Pittsburgh Penguins
-https://602.underupturnip.net/nhl3.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Nba - [00:00 WIB] Toronto Raptors vs Cleveland Cavaliers
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/cf464ac4daf41050862bb378df16822a/manifest/video.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [23:50 WIB] ARCA Menards Series - Race
 https://602.underupturnip.net/fs1.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [03:05 WIB] IMSA Acura Grand Prix
-https://daffodil.underupturnip.net/imsa.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
+https://602.underupturnip.net/imsa.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
 
