@@ -240,7 +240,7 @@ def get_category_event_candidates(category_path):
     """
     Fetch category page and return a list of (anchor_text, href) candidates.
     We consider anchors whose href contains 'stream'/'streams' or looks like an event slug.
-    MODIFIED: Now attempts to parse table rows (tr) to extract 'Start Time' next to the event and converts to WIB.
+    MODIFIED: Parse time to WIB, check if LIVE within 3.5 hours.
     """
     if not category_path:
         cat_url = BASE_URL
@@ -254,12 +254,13 @@ def get_category_event_candidates(category_path):
 
     candidates = []
     seen = set()
+    now_wib = datetime.now(ZoneInfo("Asia/Jakarta"))
     
     # Check if page contains rows (table layout)
     rows = soup.find_all("tr")
     
     if rows:
-        # Table parsing logic (extracting time)
+        # Table parsing logic
         for row in rows:
             a_tag = row.find("a", href=True)
             if not a_tag:
@@ -276,29 +277,40 @@ def get_category_event_candidates(category_path):
             if len(cols) >= 2:
                 raw_time = cols[1].get_text(strip=True)
                 
-                # Check if not "Event Started!"
-                if "Event Started!" not in raw_time and raw_time:
-                    try:
-                        # 1. Parse time from web text (e.g. "April 17, 2026 4:30 PM")
-                        clean_raw = " ".join(raw_time.split())
-                        dt_web = datetime.strptime(clean_raw, "%B %d, %Y %I:%M %p")
-                        
-                        # 2. Set source timezone (Pacific Time / Los Angeles)
-                        dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
-                        
-                        # 3. Convert to WIB (Asia/Jakarta)
-                        dt_wib = dt_source.astimezone(ZoneInfo("Asia/Jakarta"))
-                        
-                        # 4. Final format: [06:30 WIB]
-                        time_text = f"[{dt_wib.strftime('%H:%M WIB')}] "
-                        
-                    except ValueError:
-                        # Fallback if format fails
-                        time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
-                        if time_match:
-                            time_text = f"[{time_match.group(1).upper()}] "
-                        else:
-                            time_text = f"[{raw_time}] "
+                if raw_time:
+                    if "Event Started!" in raw_time:
+                        # Fallback jika jam aslinya sudah terhapus oleh web
+                        time_text = "[🔴 LIVE] "
+                    else:
+                        try:
+                            # 1. Parse waktu dari teks web
+                            clean_raw = " ".join(raw_time.split())
+                            dt_web = datetime.strptime(clean_raw, "%B %d, %Y %I:%M %p")
+                            
+                            # 2. Set source timezone (Pacific Time / Los Angeles)
+                            dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
+                            
+                            # 3. Convert to WIB
+                            dt_wib = dt_source.astimezone(ZoneInfo("Asia/Jakarta"))
+                            
+                            # 4. Logika durasi 3.5 jam (3.5 jam = 12600 detik)
+                            diff_seconds = (now_wib - dt_wib).total_seconds()
+                            is_live = (0 <= diff_seconds <= 12600)
+                            
+                            time_str = f"[{dt_wib.strftime('%H:%M WIB')}]"
+                            
+                            if is_live:
+                                time_text = f"[🔴 LIVE] {time_str} "
+                            else:
+                                time_text = f"{time_str} "
+                                
+                        except ValueError:
+                            # Fallback jika format gagal
+                            time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
+                            if time_match:
+                                time_text = f"[{time_match.group(1).upper()}] "
+                            else:
+                                time_text = f"[{raw_time}] "
             
             # Combine time and title
             full_title = f"{time_text}{title_text}".strip()
@@ -315,7 +327,7 @@ def get_category_event_candidates(category_path):
                     seen.add(full)
                     candidates.append((full_title, full))
     else:
-        # Fallback logic if no tables are found (original logic)
+        # Fallback logic if no tables are found
         for a in soup.find_all("a", href=True):
             href = a["href"].strip()
             text = a.get_text(" ", strip=True) or ""
@@ -340,12 +352,10 @@ def get_category_event_candidates(category_path):
 
 def get_tv_data_for_category(cat_path):
     key = (cat_path or "misc").lower().strip()
-    # normalize some paths (e.g., 'f1-streams' -> 'f1')
+    # normalize some paths
     key = key.replace("-streams", "").replace("streams", "")
-    # try direct mapping
     if key in TV_INFO:
         return TV_INFO[key]
-    # try partial match
     for k in TV_INFO:
         if k in key:
             return TV_INFO[k]
@@ -363,7 +373,7 @@ def write_playlists(streams):
             f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Roxiestreams - {group_name}",{ev_name}\n')
             f.write(f'{url}\n\n')
 
-    # TiviMate output (pipe headers with encoded UA)
+    # TiviMate output
     ua_enc = quote(USER_AGENT, safe="")
     with open(TIVIMATE_OUTPUT, "w", encoding="utf-8") as f:
         f.write(header)
@@ -407,13 +417,15 @@ def main():
                     continue
                 seen_urls.add(clean)
                 
-                # PRESERVE THE TIME TAG (e.g. "[06:30 WIB] ") from anchor_text
                 final_title = ev_title or anchor_text or derive_title_from_page(None, fallback_url=href) or clean
                 
-                # if anchor_text has a time tag but ev_title doesn't, prepend it
-                time_tag_match = re.search(r"^(\[.*?\]\s)", anchor_text)
-                if time_tag_match and time_tag_match.group(1) not in final_title:
-                    final_title = time_tag_match.group(1) + clean_event_title(final_title)
+                # Memastikan tag waktu dan LIVE yang ada di anchor_text masuk ke hasil akhir
+                time_tag_match = re.search(r"^((?:\[.*?\]\s*)+)", anchor_text)
+                if time_tag_match:
+                    tags = time_tag_match.group(1).strip() + " "
+                    # Bersihkan tag ganda di nama acara asli jika ada
+                    clean_ft = re.sub(r"^(?:\[.*?\]\s*)+", "", final_title)
+                    final_title = tags + clean_event_title(clean_ft)
                 else:
                     final_title = clean_event_title(final_title)
                     
