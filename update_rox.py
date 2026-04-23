@@ -89,60 +89,54 @@ def get_category_event_candidates(category_path):
 
     candidates = []
     seen = set()
-    now_wita = datetime.now(ZoneInfo("Asia/Makassar"))
     
     rows = soup.find_all("tr")
     
     if rows:
         for row in rows:
-            a_tag = row.find("a", href=True)
-            if not a_tag: continue
-                
-            href = a_tag["href"].strip()
-            title_text = a_tag.get_text(" ", strip=True) or ""
             cols = row.find_all("td")
-            time_text = ""
             
-            if len(cols) >= 2:
-                raw_time = cols[1].get_text(strip=True)
-                
-                if raw_time:
-                    if "Event Started!" in raw_time:
-                        time_text = "[🔴 LIVE] "
-                    else:
-                        try:
-                            clean_raw = " ".join(raw_time.split())
-                            dt_web = datetime.strptime(clean_raw, "%B %d, %Y %I:%M %p")
-                            dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
-                            dt_wita = dt_source.astimezone(ZoneInfo("Asia/Makassar"))
-                            
-                            diff_seconds = (now_wita - dt_wita).total_seconds()
-                            is_live = (0 <= diff_seconds <= 12600)
-                            
-                            time_str = f"[{dt_wita.strftime('%H:%M WITA')}]"
-                            if is_live:
-                                time_text = f"[🔴 LIVE] {time_str} "
-                            else:
-                                time_text = f"{time_str} "
-                                
-                        except ValueError:
-                            time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
-                            if time_match:
-                                time_text = f"[{time_match.group(1).upper()}] "
-                            else:
-                                time_text = f"[{raw_time}] "
-            
-            full_title = f"{time_text}{title_text}".strip()
-            if not href or href.startswith(("mailto:", "javascript:")): continue
-                
-            full = href if href.startswith("http") else urljoin(cat_url, href)
-            low = href.lower()
-            
-            if ".m3u8" in href or any(k in low for k in ("stream", "streams", "match", "game", "event")) or re.search(r"-\d+$", low):
-                if full not in seen:
-                    seen.add(full)
-                    candidates.append((full_title, full))
+            # Memastikan baris memiliki 3 kolom (Event, Start Time, Countdown)
+            if len(cols) >= 3:
+                a_tag = cols[0].find("a", href=True)
+                if not a_tag: continue
                     
+                href = a_tag["href"].strip()
+                title_text = a_tag.get_text(" ", strip=True) or ""
+                
+                raw_time = cols[1].get_text(strip=True)
+                countdown_text = cols[2].get_text(strip=True).upper()
+                
+                time_text = ""
+                
+                # Mengonversi waktu ke WITA
+                try:
+                    clean_raw = " ".join(raw_time.split())
+                    dt_web = datetime.strptime(clean_raw, "%B %d, %Y %I:%M %p")
+                    dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
+                    dt_wita = dt_source.astimezone(ZoneInfo("Asia/Makassar"))
+                    time_str = f"[{dt_wita.strftime('%H:%M WITA')}]"
+                except ValueError:
+                    time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
+                    time_str = f"[{time_match.group(1).upper()}]" if time_match else f"[{raw_time}]"
+                
+                # LOGIKA BARU: Cek langsung apakah teks di kolom 3 adalah "LIVE"
+                if "LIVE" in countdown_text:
+                    time_text = f"[🔴 LIVE] {time_str} "
+                else:
+                    time_text = f"{time_str} "
+                
+                full_title = f"{time_text}{title_text}".strip()
+                if not href or href.startswith(("mailto:", "javascript:")): continue
+                    
+                full = href if href.startswith("http") else urljoin(cat_url, href)
+                low = href.lower()
+                
+                if ".m3u8" in href or any(k in low for k in ("stream", "streams", "match", "game", "event")) or re.search(r"-\d+$", low):
+                    if full not in seen:
+                        seen.add(full)
+                        candidates.append((full_title, full))
+                        
     print(f"  → Found {len(candidates)} candidate links on category page")
     return candidates
 
@@ -174,7 +168,7 @@ def write_playlists(streams):
             f.write(f'{url}|referer={REFERER}|user-agent={ua_enc}\n\n')
 
 # ------------------------------------------------------------------
-# PLAYWRIGHT: SNIFFER + SIMULASI KLIK TOMBOL PLAY
+# PLAYWRIGHT: SNIFFER + TARGETED IFRAME CLICKING
 # ------------------------------------------------------------------
 async def get_stream_url_playwright(page, url):
     captured_m3u8 = None
@@ -188,28 +182,45 @@ async def get_stream_url_playwright(page, url):
     page.on("request", handle_request)
 
     try:
-        # Buka halaman
         await page.goto(url, wait_until="domcontentloaded", timeout=15000)
         await page.wait_for_timeout(2000)
 
-        # SIMULASI MANUSIA: KLIK TENGAH LAYAR UNTUK MEMICU TOMBOL PLAY
-        # Kami mengukur lebar layar viewport robot, lalu mengeklik tepat di tengah
-        viewport = page.viewport_size
-        x = (viewport['width'] / 2) if viewport else 640
-        y = (viewport['height'] / 2) if viewport else 360
-
-        # Klik 3 kali secara berkala (1x hilangkan overlay, 1x tutup iklan popup, 1x Play video)
-        for _ in range(3):
-            if captured_m3u8: 
-                break # Jika jaringan sudah keluar, berhenti klik
-            await page.mouse.click(x, y)
-            await page.wait_for_timeout(1500) # Jeda antar klik agar web merespons
+        # MENCARI IFRAME (KOTAK VIDEO) DAN MENEMBAK KLIK DI TENGAHNYA
+        iframes = await page.locator("iframe").all()
+        if iframes:
+            for iframe in iframes:
+                if captured_m3u8: break
+                try:
+                    box = await iframe.bounding_box()
+                    # Pastikan iframenya cukup besar (bukan iframe pelacak iklan)
+                    if box and box["width"] > 100 and box["height"] > 100:
+                        cx = box["x"] + box["width"] / 2
+                        cy = box["y"] + box["height"] / 2
+                        
+                        # Klik 3x di dalam iframe
+                        for _ in range(3):
+                            if captured_m3u8: break
+                            await page.mouse.click(cx, cy)
+                            await page.wait_for_timeout(1000)
+                except:
+                    pass
+        
+        # Jika tidak ada iframe, lakukan fallback klik di tengah layar
+        if not captured_m3u8:
+            viewport = page.viewport_size
+            x = (viewport['width'] / 2) if viewport else 640
+            y = (viewport['height'] / 2) if viewport else 360
+            for _ in range(2):
+                if captured_m3u8: break
+                await page.mouse.click(x, y)
+                await page.wait_for_timeout(1000)
 
     except Exception as e:
         pass 
 
     page.remove_listener("request", handle_request)
 
+    # Fallback terakhir: Cek kode sumber halamannya
     if not captured_m3u8:
         try:
             content = await page.content()
@@ -244,7 +255,6 @@ async def main():
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
-        # Kami menyertakan pengaturan layar default agar klik mouse bekerja akurat
         context = await browser.new_context(user_agent=USER_AGENT, viewport={'width': 1280, 'height': 720})
         page = await context.new_page()
 
@@ -264,7 +274,7 @@ async def main():
             # --- LOGIKA BROSUR (PENGUMPUL SEMUA JADWAL) ---
             is_live_sniffed = True
             if not clean_m3u8:
-                clean_m3u8 = href
+                clean_m3u8 = href # Tetap simpan URL web jika tayangan aslinya belum keluar
                 is_live_sniffed = False
 
             if clean_m3u8 not in seen_urls:
