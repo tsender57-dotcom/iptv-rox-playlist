@@ -4,7 +4,6 @@ import re
 import requests
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
-import json
 
 # Konfigurasi Dasar
 BASE_URL = "https://sharkstreams.net"
@@ -19,7 +18,7 @@ HEADERS = {
 VLC_OUTPUT = "Sharkstreams_VLC.m3u8"
 TIVIMATE_OUTPUT = "Sharkstreams_TiviMate.m3u8"
 
-# Dictionary Logo (Menggunakan data yang sama dengan Roxie)
+# Dictionary Logo
 TV_INFO = {
     "soccer": ("Soccer.Dummy.us", "https://i.postimg.cc/HsWHFvV0/Soccer.png", "Soccer"),
     "mlb": ("MLB.Baseball.Dummy.us", "https://i.postimg.cc/FsFmwC7K/Baseball3.png", "MLB"),
@@ -59,9 +58,8 @@ def get_shark_events():
     soup = BeautifulSoup(html, "html.parser")
     events = []
     
-    # Mencari pola openEmbed('url')
     embed_pattern = re.compile(r"openEmbed\('([^']+)'\)", re.IGNORECASE)
-    now_wita = datetime.now(ZoneInfo("Asia/Makassar"))
+    now_wib = datetime.now(ZoneInfo("Asia/Jakarta")) # Target Waktu: WIB
 
     for row in soup.find_all("div", class_="row"):
         date_node = row.find(class_="ch-date")
@@ -80,25 +78,22 @@ def get_shark_events():
         match = embed_pattern.search(onclick)
         if not match: continue
 
-        # --- TRIK RAHASIA API BYPASS ---
-        # Mengubah player.php menjadi get-stream.php untuk memanggil API JSON
         api_link = match.group(1).replace("player.php", "get-stream.php")
 
-        # --- LOGIKA WAKTU & WITA ---
         try:
-            # Sharkstreams menggunakan EST (Eastern Standard Time)
+            # Sharkstreams menggunakan zona waktu New York (EST)
             dt_est = datetime.strptime(raw_time, "%Y-%m-%d %H:%M:%S")
             dt_source = dt_est.replace(tzinfo=ZoneInfo("America/New_York"))
-            dt_wita = dt_source.astimezone(ZoneInfo("Asia/Makassar"))
             
-            # Abaikan jika jadwalnya bukan untuk hari ini/besok yang relevan
-            if dt_wita.date() < now_wita.date() - timedelta(days=1):
+            # Konversi ke WIB
+            dt_wib = dt_source.astimezone(ZoneInfo("Asia/Jakarta"))
+            
+            # Abaikan jadwal lawas
+            if dt_wib.date() < now_wib.date() - timedelta(days=1):
                 continue
                 
-            time_str = f"[{dt_wita.strftime('%H:%M WITA')}]"
-            
-            # Logika LIVE (Asumsi tayang 3.5 jam)
-            diff_seconds = (now_wita - dt_wita).total_seconds()
+            time_str = f"[{dt_wib.strftime('%H:%M WIB')}]"
+            diff_seconds = (now_wib - dt_wib).total_seconds()
             is_live = (0 <= diff_seconds <= 12600)
             
         except ValueError:
@@ -129,7 +124,6 @@ def extract_api_m3u8(api_url):
         urls = data.get("urls")
         if not urls: return None
         
-        # Regex pembersih (Dari playlist.m3u8 menjadi chunks.m3u8)
         raw_m3u8 = urls[0]
         clean_m3u8 = re.sub(r"playlist\.m3u8\?.*$", "chunks.m3u8", raw_m3u8, flags=re.IGNORECASE)
         
@@ -149,11 +143,12 @@ def main():
     for ev in events:
         print(f"Memproses API: {ev['title']}")
         
-        # Ekstrak M3U8 menggunakan API
         m3u8_link = extract_api_m3u8(ev["api_link"])
         
         if m3u8_link:
-            display_name = f"Sharkstreams - {ev['title']}"
+            # Format: [Waktu WIB] Nama Acara - SHRK
+            display_name = f"{ev['title']} - SHRK"
+            
             all_streams.append((ev["sport"], display_name, m3u8_link))
             print(f"  ✅ BERHASIL: {m3u8_link}")
         else:
@@ -163,7 +158,6 @@ def main():
         print("\nGagal mengekstrak stream apapun.")
         return
 
-    # Tulis playlist
     ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     header = f'#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n# Last Updated: {ts}\n\n'
 
