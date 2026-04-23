@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-23 18:43 UTC
+# Last Updated: 2026-04-23 20:07 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] Washington Nationals vs Atlanta Braves - WFTY
-https://lb9.wfty.wtf/playlist/easy/washington-nationals-atlanta-braves/1/401815056/playlist.m3u8?hash=9e7d4572bf1822c594a0cd1ba4f96869&t=1776969791283|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] San Francisco Giants vs Los Angeles Dodgers - WFTY
+https://lb4.wfty.wtf/playlist/easy/san-francisco-giants-los-angeles-dodgers/1/401815064/playlist.m3u8?hash=8a230d4949af7c706cccd2d2a915329f&t=1776974784622|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Levante vs Sevilla - WFTY
-https://lb9.wfty.wtf/playlist/easy/levante-sevilla/1/748473/playlist.m3u8?hash=01a48977b239828119400cd27ddcf61f&t=1776969794774|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] LPGA TOUR: The Chevron Championship (USA) - WFTY
+https://lb5.wfty.wtf/playlist/prime/lpga-tour-the-chevron-championship-usa/1/23_0bnTzfAN/playlist.m3u8?hash=ae4a16210360f6a17dc3a63f62ecbfba&t=1776974791132|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Rayo Vallecano vs Espanyol - WFTY
-https://lb5.wfty.wtf/playlist/easy/rayo-vallecano-espanyol/1/4467335/playlist.m3u8?hash=93397753a5484e206f995d2b73a5e7db&t=1776969798258|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Real Oviedo vs Villarreal - WFTY
+https://lb4.wfty.wtf/playlist/easy/real-oviedo-villarreal/1/748464/playlist.m3u8?hash=48503e948edd7d8b32b6ce3dc060626e&t=1776974794664|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Patro Eisden vs K. Beerschot V.A. - WFTY
-https://lb3.wfty.wtf/playlist/elite/patro-eisden-k-beerschot-v-a/1/4703440/playlist.m3u8?hash=76eba84024ddbc48d32b3d357c412ef3&t=1776969805233|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Torreense vs AD Fafe - WFTY
+https://lb8.wfty.wtf/playlist/easy/torreense-fafe/4/5074294/playlist.m3u8?hash=0481a81506744fd26d6a301e4bacf2f5&t=1776974798024|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Lommel United vs RFC Liege - WFTY
-https://lb8.wfty.wtf/playlist/elite/lommel-united-rfc-liege/1/4703441/playlist.m3u8?hash=de09c4f2de33a614f015250229b8061e&t=1776969808767|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Humphries L. vs Littler L. - WFTY
+https://lb9.wfty.wtf/playlist/easy/humphries-l-littler-l/1/7db243d9d4b/playlist.m3u8?hash=3990c2ac692f741dc433bcb6e84e0ec1&t=1776974801373|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Lommel vs FC Liege - WFTY
-https://lb1.wfty.wtf/playlist/elite/lommel-united-rfc-liege/1/1000010992/playlist.m3u8?hash=7829bfa5bb4925a4cb9d770794e671b2&t=1776969812281|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] PSV Eindhoven vs PEC Zwolle - WFTY
+https://lb6.wfty.wtf/playlist/easy/psv-eindhoven-pec-zwolle/1/4815512/playlist.m3u8?hash=16c086a526b5dac5f6768fb9968c5402&t=1776974804721|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] van Veen G. vs Price G. - WFTY
-https://lb6.wfty.wtf/playlist/easy/van-veen-g-price-g/1/a880e468ae7/playlist.m3u8?hash=0e031858affa8709cecb9852d475e9bc&t=1776969815969|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Salford City vs Bromley - WFTY
+https://lb5.wfty.wtf/playlist/easy/salford-city-bromley/1/746243/playlist.m3u8?hash=356380e35255860fd6f725e4d2f2f1ff&t=1776974808083|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Casa Pia vs Braga - WFTY
-https://lb4.wfty.wtf/playlist/easy/casa-pia-braga/1/750474/playlist.m3u8?hash=2b97a451f8cb549987e13c8718d61a2d&t=1776969822929|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] VfB Stuttgart vs SC Freiburg - WFTY
+https://lb8.wfty.wtf/playlist/easy/vfb-stuttgart-sc-freiburg/1/401862314/playlist.m3u8?hash=4cb97d4123a92ccf050dc9881b11cc90&t=1776974811431|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Stuttgart vs Freiburg - WFTY
+https://lb7.wfty.wtf/playlist/easy/vfb-stuttgart-sc-freiburg/1/4676952/playlist.m3u8?hash=977f329d41876d3a23fa849fa1c1ed8c&t=1776974814786|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Sint-Truidense vs Anderlecht - WFTY
+https://lb8.wfty.wtf/playlist/sigma/sint-truidense-anderlecht/1/401866290/playlist.m3u8?hash=36b6ccc24d3f97b4b031bc307bef6511&t=1776974818144|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
