@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import asyncio
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from urllib.parse import quote, urljoin, urlparse
@@ -8,6 +9,8 @@ import requests
 from bs4 import BeautifulSoup
 import html
 import sys
+
+from playwright.async_api import async_playwright
 
 BASE_URL = "https://roxiestreams.info/"
 CATEGORIES = ["", "soccer", "mlb", "nba", "nfl", "nhl", "fighting", "motorsports", "motogp",
@@ -39,16 +42,14 @@ TV_INFO = {
     "misc": ("Sports.Dummy.us", "https://i.postimg.cc/qMm0rc3L/247.png", "Random Events"),
 }
 
-# Regex to find .m3u8 in arbitrary text (capture the URL)
 M3U8_RE = re.compile(r"(https?://[^\s\"'<>`]+?\.m3u8(?:\?[^\"'<>`\s]*)?)", re.IGNORECASE)
 
-# Session
+# Session for fast category parsing
 SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
 SESSION.timeout = 10
 
 def fetch(url, timeout=12):
-    """Fetch a page and return (soup, text) or (None, '') on failure."""
     try:
         r = SESSION.get(url, timeout=timeout)
         r.raise_for_status()
@@ -59,195 +60,37 @@ def fetch(url, timeout=12):
         print(f"fetch failed: {url} -> {e}")
         return None, ""
 
-def abs_url(base, href):
-    """Return absolute URL for href relative to base."""
-    if not href:
-        return None
-    return urljoin(base, href)
-
-def extract_m3u8_from_text(text, base=None):
-    """Return first clean m3u8 URL found in text or None."""
-    if not text:
-        return None
-    # search for HTTP m3u8
-    m = M3U8_RE.search(text)
-    if m:
-        url = m.group(1)
-        # fix protocol-relative
-        if url.startswith("//"):
-            url = "https:" + url
-        if base and not urlparse(url).scheme:
-            url = urljoin(base, url)
-        return url
-    return None
-
 def clean_event_title(raw_title):
-    """Clean the raw title: strip, unescape, and remove common site suffix noise."""
     if not raw_title:
         return ""
     t = html.unescape(raw_title).strip()
-
-    # remove weird repeated whitespace and newlines
     t = " ".join(t.split())
-
-    # common site-suffixes to remove (example patterns)
     t = re.sub(r"\s*-\s*Roxiestreams.*$", "", t, flags=re.IGNORECASE)
     t = re.sub(r"\s*-\s*Watch Live.*$", "", t, flags=re.IGNORECASE)
     t = re.sub(r"\s*-\s*Watch.*$", "", t, flags=re.IGNORECASE)
     t = re.sub(r"\s*-\s*Live Stream.*$", "", t, flags=re.IGNORECASE)
-    t = re.sub(r"\s*\|.*$", "", t)  # strip trailing pipe content
+    t = re.sub(r"\s*\|.*$", "", t)
     t = t.strip(" -,:")
     return t
 
-def derive_title_from_page(soup, fallback_url=None):
-    """Pick best title from page: anchor text already preferred externally; fallback to H1 -> meta og:title -> title tag -> url slug"""
-    if not soup:
-        return ""
-    # H1
-    h1 = soup.find("h1")
-    if h1 and h1.get_text(strip=True):
-        return clean_event_title(h1.get_text(strip=True))
-    # meta og:title
-    og = soup.find("meta", property="og:title") or soup.find("meta", attrs={"name":"og:title"})
-    if og and og.get("content"):
-        return clean_event_title(og.get("content"))
-    # title
-    title = soup.find("title")
-    if title and title.get_text(strip=True):
-        return clean_event_title(title.get_text(strip=True))
-    # fallback from url slug
-    if fallback_url:
-        path = urlparse(fallback_url).path.rstrip("/")
-        if path:
-            slug = path.split("/")[-1].replace("-", " ")
-            return clean_event_title(slug)
-    return ""
-
-def get_event_m3u8(event_href, anchor_text=None):
-    """
-    Inspect event page (or direct m3u8 link) and return list of (event_title, clean_m3u8_url).
-    anchor_text: text from category page anchor (preferred)
-    """
-    results = []
-    if not event_href:
-        return results
-
-    # normalize event URL
-    event_url = event_href if event_href.startswith("http") else urljoin(BASE_URL, event_href)
-
-    # If the href already contains a direct m3u8, return it quickly (cleaned)
-    direct = extract_m3u8_from_text(event_href, base=event_url)
-    if direct:
-        title = clean_event_title(anchor_text or derive_title_from_page(None, fallback_url=event_url) or direct)
-        return [(title, direct)]
-
-    # Fetch event page
-    soup, html_text = fetch(event_url)
-    if not soup and not html_text:
-        return []
-
-    # preferred base title sequence: anchor_text -> H1 -> meta -> title -> url slug
-    base_title = clean_event_title(anchor_text) if anchor_text else ""
-    if not base_title:
-        base_title = derive_title_from_page(soup, fallback_url=event_url)
-
-    seen = set()
-
-    # 1) anchors with .m3u8 href
-    for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
-        # try to extract a clean m3u8 from the href or the anchor html
-        cand = extract_m3u8_from_text(href, base=event_url) or extract_m3u8_from_text(str(a), base=event_url)
-        if cand:
-            cand = cand.strip()
-            if cand.startswith("//"):
-                cand = "https:" + cand
-            if cand not in seen:
-                seen.add(cand)
-                title = a.get_text(strip=True) or base_title or cand
-                title = clean_event_title(title)
-                results.append((title, cand))
-
-    # 2) <source src=...> or <video src=...>
-    for tag in soup.find_all(["source", "video"], src=True):
-        src = tag.get("src", "").strip()
-        cand = extract_m3u8_from_text(src, base=event_url)
-        if cand and cand not in seen:
-            seen.add(cand)
-            title = tag.get("title") or tag.get("alt") or base_title or cand
-            title = clean_event_title(title)
-            results.append((title, cand))
-
-    # 3) iframes: fetch iframe content and search
-    for iframe in soup.find_all("iframe", src=True):
-        src = iframe.get("src", "").strip()
-        iframe_url = urljoin(event_url, src)
-        soup_if, html_if = fetch(iframe_url)
-        # search iframe HTML for m3u8
-        if html_if:
-            cand = extract_m3u8_from_text(html_if, base=iframe_url)
-            if cand and cand not in seen:
-                seen.add(cand)
-                title = iframe.get("title") or iframe.get("name") or base_title or cand
-                title = clean_event_title(title)
-                results.append((title, cand))
-            # also inspect anchors/sources inside iframe
-            if soup_if:
-                for a in soup_if.find_all("a", href=True):
-                    cand = extract_m3u8_from_text(a["href"], base=iframe_url)
-                    if cand and cand not in seen:
-                        seen.add(cand)
-                        title = a.get_text(strip=True) or base_title or cand
-                        title = clean_event_title(title)
-                        results.append((title, cand))
-                for tag in soup_if.find_all(["source", "video"], src=True):
-                    cand = extract_m3u8_from_text(tag.get("src", ""), base=iframe_url)
-                    if cand and cand not in seen:
-                        seen.add(cand)
-                        title = tag.get("title") or tag.get("alt") or base_title or cand
-                        title = clean_event_title(title)
-                        results.append((title, cand))
-
-    # 4) inline JS / page HTML search for m3u8
-    cand = extract_m3u8_from_text(html_text, base=event_url)
-    if cand and cand not in seen:
-        seen.add(cand)
-        results.append((base_title or cand, cand))
-
-    # Final normalization: absolute urls and dedupe
-    final = []
-    final_seen = set()
-    for t, u in results:
-        if not u:
-            continue
-        u = u.strip()
-        if u.startswith("//"):
-            u = "https:" + u
-        if not urlparse(u).scheme:
-            u = urljoin(event_url, u)
-        if u in final_seen:
-            continue
-        final_seen.add(u)
-        # ensure title is clean and short
-        title_clean = clean_event_title(t)
-        if not title_clean:
-            # fallback
-            title_clean = derive_title_from_page(soup, fallback_url=event_url) or u
-        final.append((title_clean, u))
-    return final
+def extract_m3u8_from_text(text, base=None):
+    if not text: return None
+    m = M3U8_RE.search(text)
+    if m:
+        url = m.group(1)
+        if url.startswith("//"): url = "https:" + url
+        if base and not urlparse(url).scheme: url = urljoin(base, url)
+        return url
+    return None
 
 def get_category_event_candidates(category_path):
     """
-    Fetch category page and return a list of (anchor_text, href) candidates.
-    We consider anchors whose href contains 'stream'/'streams' or looks like an event slug.
-    MODIFIED: Parse time to WIB, check if LIVE within 3.5 hours.
+    Mengambil daftar pertandingan (Tetap menggunakan Requests karena cepat).
+    Logika WIB dan status LIVE 3.5 jam tetap aktif.
     """
-    if not category_path:
-        cat_url = BASE_URL
-    else:
-        cat_url = urljoin(BASE_URL, category_path)
-
+    cat_url = BASE_URL if not category_path else urljoin(BASE_URL, category_path)
     print(f"Processing category: {category_path or 'root'} -> {cat_url}")
+    
     soup, html_text = fetch(cat_url)
     if not soup and not html_text:
         return []
@@ -256,44 +99,32 @@ def get_category_event_candidates(category_path):
     seen = set()
     now_wib = datetime.now(ZoneInfo("Asia/Jakarta"))
     
-    # Check if page contains rows (table layout)
     rows = soup.find_all("tr")
     
     if rows:
-        # Table parsing logic
         for row in rows:
             a_tag = row.find("a", href=True)
-            if not a_tag:
-                continue
+            if not a_tag: continue
                 
             href = a_tag["href"].strip()
             title_text = a_tag.get_text(" ", strip=True) or ""
-            
-            # Find columns
             cols = row.find_all("td")
             time_text = ""
             
-            # Usually Start Time is in the second column (index 1)
             if len(cols) >= 2:
                 raw_time = cols[1].get_text(strip=True)
                 
                 if raw_time:
                     if "Event Started!" in raw_time:
-                        # Fallback jika jam aslinya sudah terhapus oleh web
                         time_text = "[🔴 LIVE] "
                     else:
                         try:
-                            # 1. Parse waktu dari teks web
                             clean_raw = " ".join(raw_time.split())
                             dt_web = datetime.strptime(clean_raw, "%B %d, %Y %I:%M %p")
-                            
-                            # 2. Set source timezone (Pacific Time / Los Angeles)
                             dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
-                            
-                            # 3. Convert to WIB
                             dt_wib = dt_source.astimezone(ZoneInfo("Asia/Jakarta"))
                             
-                            # 4. Logika durasi 3.5 jam (3.5 jam = 12600 detik)
+                            # Logika durasi 3.5 jam (12600 detik)
                             diff_seconds = (now_wib - dt_wib).total_seconds()
                             is_live = (0 <= diff_seconds <= 12600)
                             
@@ -305,67 +136,39 @@ def get_category_event_candidates(category_path):
                                 time_text = f"{time_str} "
                                 
                         except ValueError:
-                            # Fallback jika format gagal
                             time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
                             if time_match:
                                 time_text = f"[{time_match.group(1).upper()}] "
                             else:
                                 time_text = f"[{raw_time}] "
             
-            # Combine time and title
             full_title = f"{time_text}{title_text}".strip()
             
-            if not href or href.startswith(("mailto:", "javascript:")):
-                continue
+            if not href or href.startswith(("mailto:", "javascript:")): continue
                 
             full = href if href.startswith("http") else urljoin(cat_url, href)
             low = href.lower()
             
-            # Heuristics for event links
             if ".m3u8" in href or any(k in low for k in ("stream", "streams", "match", "game", "event")) or re.search(r"-\d+$", low):
                 if full not in seen:
                     seen.add(full)
                     candidates.append((full_title, full))
-    else:
-        # Fallback logic if no tables are found
-        for a in soup.find_all("a", href=True):
-            href = a["href"].strip()
-            text = a.get_text(" ", strip=True) or ""
-            if not href or href.startswith(("mailto:", "javascript:")):
-                continue
-            full = href if href.startswith("http") else urljoin(cat_url, href)
-            low = href.lower()
-            if ".m3u8" in href or any(k in low for k in ("stream", "streams", "match", "game", "event")) or re.search(r"-\d+$", low):
-                if full not in seen:
-                    seen.add(full)
-                    candidates.append((text.strip(), full))
                     
-    # If nothing found, try scanning JS blobs for m3u8 candidates
-    if not candidates:
-        for m in M3U8_RE.findall(html_text):
-            if m and m not in seen:
-                seen.add(m)
-                candidates.append(("", m))
-                
     print(f"  → Found {len(candidates)} candidate links on category page")
     return candidates
 
 def get_tv_data_for_category(cat_path):
     key = (cat_path or "misc").lower().strip()
-    # normalize some paths
     key = key.replace("-streams", "").replace("streams", "")
-    if key in TV_INFO:
-        return TV_INFO[key]
+    if key in TV_INFO: return TV_INFO[key]
     for k in TV_INFO:
-        if k in key:
-            return TV_INFO[k]
+        if k in key: return TV_INFO[k]
     return TV_INFO["misc"]
 
 def write_playlists(streams):
     ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     header = f'#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n# Last Updated: {ts}\n\n'
 
-    # VLC output
     with open(VLC_OUTPUT, "w", encoding="utf-8") as f:
         f.write(header)
         for cat_name, ev_name, url in streams:
@@ -373,7 +176,6 @@ def write_playlists(streams):
             f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Roxiestreams - {group_name}",{ev_name}\n')
             f.write(f'{url}\n\n')
 
-    # TiviMate output
     ua_enc = quote(USER_AGENT, safe="")
     with open(TIVIMATE_OUTPUT, "w", encoding="utf-8") as f:
         f.write(header)
@@ -382,65 +184,116 @@ def write_playlists(streams):
             f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Roxiestreams - {group_name}",{ev_name}\n')
             f.write(f'{url}|referer={REFERER}|user-agent={ua_enc}\n\n')
 
-def main():
+
+# ------------------------------------------------------------------
+# BAGIAN BARU: PLAYWRIGHT NETWORK SNIFFER
+# ------------------------------------------------------------------
+async def get_stream_url_playwright(page, url):
+    """Membuka halaman web dan mengendus (sniff) file .m3u8 seperti ekstensi browser."""
+    captured_m3u8 = None
+
+    def handle_request(request):
+        nonlocal captured_m3u8
+        req_url = request.url
+        # Abaikan URL iklan dan ambil M3U8
+        if ".m3u8" in req_url and "ad" not in req_url.lower() and not captured_m3u8:
+            captured_m3u8 = req_url
+
+    # Memasang alat penyadap di halaman
+    page.on("request", handle_request)
+
+    try:
+        # Buka halaman dan biarkan script berjalan (Tunggu sampai network sedikit tenang)
+        await page.goto(url, wait_until="domcontentloaded", timeout=15000)
+        # Beri waktu ekstra 3 detik agar video player di dalam web berjalan dan memanggil M3U8
+        await page.wait_for_timeout(3000)
+    except Exception as e:
+        pass # Abaikan jika timeout, kita hanya butuh jaringan background-nya
+
+    # Copot penyadap
+    page.remove_listener("request", handle_request)
+
+    # Fallback: Jika tidak terendus di jaringan, cari di dalam kode halaman (seperti cara lama)
+    if not captured_m3u8:
+        try:
+            content = await page.content()
+            m = M3U8_RE.search(content)
+            if m:
+                captured_m3u8 = m.group(1)
+        except:
+            pass
+
+    return captured_m3u8
+
+async def main():
     print("Starting RoxieStreams playlist generation...")
     all_streams = []
     seen_urls = set()
-
+    
+    # Kumpulkan semua kandidat pertandingan (Sangat Cepat)
+    all_candidates = []
     for cat in CATEGORIES:
         try:
             candidates = get_category_event_candidates(cat)
+            for anchor_text, href in candidates:
+                all_candidates.append((cat, anchor_text, href))
         except Exception as e:
             print(f"Failed to parse category {cat}: {e}")
             continue
 
-        for anchor_text, href in candidates:
-            # If candidate is direct .m3u8, take it
+    if not all_candidates:
+        print("No streams found.")
+        return
+
+    print(f"\nMulai proses Sniffing menggunakan Playwright untuk {len(all_candidates)} pertandingan...")
+
+    # Jalankan Playwright (Browser Asli) untuk sniffing
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
+        context = await browser.new_context(user_agent=USER_AGENT)
+        page = await context.new_page()
+
+        for cat, anchor_text, href in all_candidates:
+            # Jika href sudah berupa m3u8 (Sangat jarang)
             if ".m3u8" in href:
                 clean = extract_m3u8_from_text(href, base=href) or href
                 if clean and clean not in seen_urls:
                     seen_urls.add(clean)
-                    title = clean_event_title(anchor_text) or derive_title_from_page(None, fallback_url=href) or clean
+                    title = clean_event_title(anchor_text)
                     display_name = f"{(cat or 'Roxiestreams').title()} - {title}"
                     all_streams.append(((cat or "misc"), display_name, clean))
                 continue
 
-            # Inspect event page
-            found = get_event_m3u8(href, anchor_text)
-            for ev_title, ev_url in found:
-                if not ev_url or ".m3u8" not in ev_url:
-                    continue
-                clean = extract_m3u8_from_text(ev_url, base=href) or ev_url
-                if not clean:
-                    continue
-                if clean in seen_urls:
-                    continue
-                seen_urls.add(clean)
+            print(f"Mengendus URL: {href}")
+            # SNIFFING FILE VIDEO NYATA!
+            clean_m3u8 = await get_stream_url_playwright(page, href)
+
+            if clean_m3u8 and clean_m3u8 not in seen_urls:
+                seen_urls.add(clean_m3u8)
                 
-                final_title = ev_title or anchor_text or derive_title_from_page(None, fallback_url=href) or clean
-                
-                # Memastikan tag waktu dan LIVE yang ada di anchor_text masuk ke hasil akhir
+                # Memastikan tag waktu ([🔴 LIVE] [06:30 WIB]) masuk dengan aman
+                final_title = clean_event_title(anchor_text)
                 time_tag_match = re.search(r"^((?:\[.*?\]\s*)+)", anchor_text)
                 if time_tag_match:
                     tags = time_tag_match.group(1).strip() + " "
-                    # Bersihkan tag ganda di nama acara asli jika ada
                     clean_ft = re.sub(r"^(?:\[.*?\]\s*)+", "", final_title)
                     final_title = tags + clean_event_title(clean_ft)
                 else:
                     final_title = clean_event_title(final_title)
                     
                 display_name = f"{(cat or 'Roxiestreams').title()} - {final_title}"
-                all_streams.append(((cat or "misc"), display_name, clean))
+                all_streams.append(((cat or "misc"), display_name, clean_m3u8))
+                print(f"  ✅ BERHASIL MENDAPATKAN LINK: {clean_m3u8}")
+            else:
+                print(f"  ❌ Gagal / Belum ada tayangan")
 
-    if not all_streams:
-        print("No streams found.")
-    else:
-        print(f"Found {len(all_streams)} streams.")
+        await browser.close()
 
+    print(f"\nBerhasil menangkap {len(all_streams)} streams Live/Aktif.")
     write_playlists(all_streams)
     print(f"VLC: {VLC_OUTPUT}")
     print(f"TiviMate: {TIVIMATE_OUTPUT}")
-    print("Finished generating playlists.")
+    print("Selesai.")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
