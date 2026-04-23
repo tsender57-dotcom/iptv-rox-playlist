@@ -1,6 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-23 15:27 UTC
+# Last Updated: 2026-04-23 17:02 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Kerala Blasters FC vs Odisha FC - WFTY
-https://lb1.wfty.wtf/playlist/regular/kerala-blasters-fc-odisha-fc/1/401860505/playlist.m3u8?hash=22a982b893ae6b7fbd139fe29a5a1f71&t=1776958060842|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] FC Nordsjælland vs AGF - WFTY
+https://lb9.wfty.wtf/playlist/easy/fc-nordsj-lland-agf/1/401863661/playlist.m3u8?hash=80bdd0f581efd73652fd1184bcaa8505&t=1776963746118|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Randers FC vs Fredericia - WFTY
+https://lb6.wfty.wtf/playlist/easy/randers-fc-fc-fredericia/1/5222334/playlist.m3u8?hash=809fa9b1b437edb77e8aa475ccc695dd&t=1776963749571|referer=https://sportsembed.su/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
