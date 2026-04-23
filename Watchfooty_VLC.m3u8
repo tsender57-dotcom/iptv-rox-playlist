@@ -1,15 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-23 21:42 UTC
+# Last Updated: 2026-04-23 22:27 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] San Francisco Giants vs Los Angeles Dodgers - WFTY
-https://lb2.wfty.wtf/playlist/easy/san-francisco-giants-los-angeles-dodgers/1/401815064/playlist.m3u8?hash=e1ea037e6bc74bdd55c19e905193ffef&t=1776980528317
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs New York Yankees - WFTY
+https://lb5.wfty.wtf/playlist/elite/boston-red-sox-new-york-yankees/1/4556140/playlist.m3u8?hash=9d2625c40da41a9baf753413aff33b16&t=1776983219253
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] Arizona Diamondbacks vs Chicago White Sox - WFTY
-https://lb5.wfty.wtf/playlist/easy/arizona-diamondbacks-chicago-white-sox/2/4555054/playlist.m3u8?hash=01f00536143673edbffeec15c4a4db15&t=1776980531514
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Clayton J. vs Littler L. - WFTY
-https://lb10.wfty.wtf/playlist/easy/clayton-j-littler-l/2/7c37f762a19/playlist.m3u8?hash=50626196ae1ce02d4c1ca43eefd7f417&t=1776980535262
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] Torreense vs AD Fafe - WFTY
-https://lb2.wfty.wtf/playlist/easy/torreense-fafe/2/5074294/playlist.m3u8?hash=548c5093e573a2345b9db6bd32b59679&t=1776980538726
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Copa do Brasil] Atletico MG vs Ceara - WFTY
+https://lb2.wfty.wtf/playlist/regular/atletico-mg-ceara/1/1000010282/playlist.m3u8?hash=b82a66ae3afdbdff9522b8085f2428a5&t=1776983225779
 
