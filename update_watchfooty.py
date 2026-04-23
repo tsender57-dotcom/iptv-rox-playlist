@@ -47,7 +47,7 @@ def get_tv_data(sport_name):
     return TV_INFO["misc"]
 
 def get_wfty_live_events():
-    """Mengambil daftar jadwal pertandingan LIVE melalui API TRPC Watchfooty."""
+    """Mengambil jadwal pertandingan LIVE melalui API TRPC Watchfooty."""
     print(f"Mencari jadwal LIVE di API {BASE_DOMAIN}...")
     
     now = datetime.utcnow()
@@ -75,10 +75,31 @@ def get_wfty_live_events():
         for link in api_data:
             if not link.get("viewerCount"): continue
             
+            # Ekstrak Nama Liga
+            league = link.get("league") or link.get("competition") or "Misc"
+            title = link.get("title", "Unknown Event")
+            
+            # Ekstrak Jam Kick-off (Fallback pertama)
+            raw_time = link.get("startTime") or link.get("startDate")
+            time_str = ""
+            if raw_time:
+                try:
+                    if isinstance(raw_time, (int, float)) or (isinstance(raw_time, str) and raw_time.isdigit()):
+                        ts = float(raw_time)
+                        if ts > 9999999999: ts /= 1000
+                        dt_utc = datetime.fromtimestamp(ts, tz=ZoneInfo("UTC"))
+                    else:
+                        dt_utc = datetime.fromisoformat(str(raw_time).replace("Z", "+00:00"))
+                    dt_wib = dt_utc.astimezone(ZoneInfo("Asia/Jakarta"))
+                    time_str = f"[{dt_wib.strftime('%H:%M WIB')}] "
+                except: pass
+
             events.append({
                 "id": link.get("id"),
-                "sport": link.get("league", "misc"),
-                "title": link.get("title", "Unknown Event") # Menyimpan nama mentah dulu
+                "sport": league,
+                "title": title,
+                "league_name": league,
+                "time_str": time_str
             })
             
         return events
@@ -86,8 +107,8 @@ def get_wfty_live_events():
         print(f"Gagal mengakses API WFTY: {e}")
         return []
 
-def get_embed_data(event_id):
-    """Menembak API detail untuk mendapatkan URL Iframe DAN Jam Kick-off."""
+def get_embed_data(event_id, fallback_time):
+    """Menembak API detail untuk mendapatkan URL Iframe DAN Jam Kick-off (jika di awal kosong)."""
     now = datetime.utcnow()
     start_iso = now.isoformat() + "Z"
     end_iso = (now + timedelta(days=1)).isoformat() + "Z"
@@ -104,28 +125,26 @@ def get_embed_data(event_id):
         data = r.json()
         api_data = data[-1].get("result", {}).get("data", {}).get("json", {})
         
-        # --- JURUS TARIK JAM DETAIL (KEBAL FORMAT ANGKA & TEKS) ---
-        raw_time = api_data.get("startTime") or api_data.get("startDate")
-        time_str = ""
-        if raw_time:
-            try:
-                # Jika formatnya Unix Timestamp (angka)
-                if isinstance(raw_time, (int, float)) or (isinstance(raw_time, str) and raw_time.isdigit()):
-                    ts = float(raw_time)
-                    if ts > 9999999999: ts /= 1000 # Normalisasi milidetik
-                    dt_utc = datetime.fromtimestamp(ts, tz=ZoneInfo("UTC"))
-                else:
-                    # Jika formatnya Teks ISO
-                    dt_utc = datetime.fromisoformat(str(raw_time).replace("Z", "+00:00"))
-                
-                # Konversi mutlak ke WIB
-                dt_wib = dt_utc.astimezone(ZoneInfo("Asia/Jakarta"))
-                time_str = f"[{dt_wib.strftime('%H:%M WIB')}] "
-            except Exception as e:
-                pass
+        # --- JURUS MENGGELEDAH JAM DETAIL ---
+        time_str = fallback_time
+        fixture_data = api_data.get("fixtureData", {})
+        
+        if not time_str:
+            raw_time = fixture_data.get("startTime") or fixture_data.get("startDate") or api_data.get("startTime")
+            if raw_time:
+                try:
+                    if isinstance(raw_time, (int, float)) or (isinstance(raw_time, str) and raw_time.isdigit()):
+                        ts = float(raw_time)
+                        if ts > 9999999999: ts /= 1000
+                        dt_utc = datetime.fromtimestamp(ts, tz=ZoneInfo("UTC"))
+                    else:
+                        dt_utc = datetime.fromisoformat(str(raw_time).replace("Z", "+00:00"))
+                    dt_wib = dt_utc.astimezone(ZoneInfo("Asia/Jakarta"))
+                    time_str = f"[{dt_wib.strftime('%H:%M WIB')}] "
+                except: pass
 
         # Mengambil link Iframe terbaik
-        links = api_data.get("fixtureData", {}).get("links", [])
+        links = fixture_data.get("links", [])
         valid_links = [l for l in links if l.get("wld") and "e" not in l.get("wld")]
         valid_links.sort(key=lambda x: x.get("viewerCount", -1), reverse=True)
         
@@ -141,7 +160,7 @@ def get_embed_data(event_id):
         return embed_url, time_str
 
     except Exception:
-        return None, ""
+        return None, fallback_time
 
 # --- JURUS MENCURI M3U8 (Playwright) ---
 async def extract_m3u8_playwright(page, url):
@@ -203,18 +222,17 @@ async def main():
         for ev in events:
             print(f"Memproses: {ev['title']}")
             
-            # Mendapatkan data detail (Iframe URL dan Jam Kick-off)
-            embed_data = get_embed_data(ev['id'])
+            embed_data = get_embed_data(ev['id'], ev['time_str'])
             if not embed_data or not embed_data[0]:
                 print("  ❌ Gagal mendapatkan Iframe embed.")
                 continue
                 
             embed_url, time_str = embed_data
             
-            # Merakit nama lengkap dengan Tag LIVE, Waktu WIB, dan WFTY
-            full_title = f"[🔴 LIVE] {time_str}{ev['title']} - WFTY"
+            # --- RAKITAN NAMA PAMUNGKAS ---
+            # Format: [🔴 LIVE] [Jam WIB] [Nama Liga] Nama Pertandingan - WFTY
+            full_title = f"[🔴 LIVE] {time_str}[{ev['league_name']}] {ev['title']} - WFTY"
             
-            # Curi M3U8
             m3u8_link = await extract_m3u8_playwright(page, embed_url)
             
             if m3u8_link:
@@ -244,10 +262,10 @@ async def main():
         f.write(header)
         for sport, title, url in all_streams:
             tvg_id, logo, group_name = get_tv_data(sport)
-            # Referer harus sportsembed.su
             f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Watchfooty - {group_name}",{title}\n{url}|referer=https://sportsembed.su/|user-agent={ua_enc}\n\n')
 
     print(f"\nSelesai! {len(all_streams)} tayangan berhasil disimpan.")
 
 if __name__ == "__main__":
     asyncio.run(main())
+    
