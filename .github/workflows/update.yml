@@ -1,12 +1,12 @@
-name: Auto Update Playlist
+name: Auto Update Playlists
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Script akan berjalan otomatis setiap 30 menit
+    - cron: '*/30 * * * *' # Berjalan otomatis setiap 30 menit
   workflow_dispatch: # Mengizinkan Anda menekan tombol "Run" manual
 
 jobs:
-  update-playlist:
+  update-playlists:
     runs-on: ubuntu-latest
 
     # Memberikan izin kepada bot untuk menulis file ke repository
@@ -29,21 +29,28 @@ jobs:
           playwright install --with-deps
           playwright install chromium
         
-      - name: Run script to fetch M3U8
+      - name: Run Roxiestreams Script
         run: python update_rox.py
+        continue-on-error: true # Jika Roxie error, bot tetap akan lanjut ke Shark
+
+      - name: Run Sharkstreams Script
+        run: python update_shark.py
+        continue-on-error: true # Jika Shark error, bot tetap akan lanjut ke Commit
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add Roxiestreams_VLC.m3u8 Roxiestreams_TiviMate.m3u8
+          
+          # Mendaftarkan file M3U8 Roxie dan Shark
+          git add Roxiestreams_VLC.m3u8 Roxiestreams_TiviMate.m3u8 Sharkstreams_VLC.m3u8 Sharkstreams_TiviMate.m3u8
           
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
           
-          git commit -m "Auto-update Roxiestreams playlist"
+          git commit -m "Auto-update Roxie & Shark playlists"
           
           # Push dengan aman (Safe Push)
           if ! git push origin main; then
@@ -51,7 +58,7 @@ jobs:
             git stash
             git pull --rebase origin main
             git stash pop
-            git add Roxiestreams_VLC.m3u8 Roxiestreams_TiviMate.m3u8
-            git commit -m "Auto-update Roxiestreams playlist (rebased)" || true
+            git add Roxiestreams_VLC.m3u8 Roxiestreams_TiviMate.m3u8 Sharkstreams_VLC.m3u8 Sharkstreams_TiviMate.m3u8
+            git commit -m "Auto-update Roxie & Shark playlists (rebased)" || true
             git push origin main
           fi
