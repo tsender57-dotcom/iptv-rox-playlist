@@ -89,14 +89,13 @@ def get_category_event_candidates(category_path):
 
     candidates = []
     seen = set()
+    now_wita = datetime.now(ZoneInfo("Asia/Makassar"))
     
     rows = soup.find_all("tr")
     
     if rows:
         for row in rows:
             cols = row.find_all("td")
-            
-            # Memastikan baris memiliki 3 kolom (Event, Start Time, Countdown)
             if len(cols) >= 3:
                 a_tag = cols[0].find("a", href=True)
                 if not a_tag: continue
@@ -108,6 +107,7 @@ def get_category_event_candidates(category_path):
                 countdown_text = cols[2].get_text(strip=True).upper()
                 
                 time_text = ""
+                is_live = False
                 
                 # Mengonversi waktu ke WITA
                 try:
@@ -116,12 +116,18 @@ def get_category_event_candidates(category_path):
                     dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
                     dt_wita = dt_source.astimezone(ZoneInfo("Asia/Makassar"))
                     time_str = f"[{dt_wita.strftime('%H:%M WITA')}]"
+                    
+                    # Logika Matematika 3.5 jam (Jaring Pengaman JS)
+                    diff_seconds = (now_wita - dt_wita).total_seconds()
+                    if 0 <= diff_seconds <= 12600:
+                        is_live = True
+                        
                 except ValueError:
                     time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
                     time_str = f"[{time_match.group(1).upper()}]" if time_match else f"[{raw_time}]"
                 
-                # Cek teks LIVE dari kolom countdown web asli
-                if "LIVE" in countdown_text or "STARTED" in countdown_text:
+                # Cek teks LIVE ATAU Hasil Matematika
+                if "LIVE" in countdown_text or "STARTED" in countdown_text or is_live:
                     time_text = f"[🔴 LIVE] {time_str} "
                 else:
                     time_text = f"{time_str} "
@@ -168,7 +174,7 @@ def write_playlists(streams):
             f.write(f'{url}|referer={REFERER}|user-agent={ua_enc}\n\n')
 
 # ------------------------------------------------------------------
-# PLAYWRIGHT: SNIFFER + TARGETED IFRAME CLICKING + ANTI-POPUP
+# PLAYWRIGHT: IFRAME PENETRATOR + ANTI-POPUP
 # ------------------------------------------------------------------
 async def get_stream_url_playwright(page, url):
     captured_m3u8 = None
@@ -182,54 +188,45 @@ async def get_stream_url_playwright(page, url):
     page.on("request", handle_request)
 
     try:
+        # Buka Halaman Utama
         await page.goto(url, wait_until="domcontentloaded", timeout=20000)
         await page.wait_for_timeout(2000)
 
-        # MENCARI IFRAME (KOTAK VIDEO)
-        iframes = await page.locator("iframe").all()
-        target_iframe = None
-        
-        if iframes:
-            for iframe in iframes:
-                try:
-                    box = await iframe.bounding_box()
-                    if box and box["width"] > 200 and box["height"] > 150:
-                        target_iframe = iframe
-                        break 
-                except:
-                    continue
+        # MENCARI URL ASLI DARI IFRAME (VIDEO PLAYER)
+        iframes = await page.locator("iframe").element_handles()
+        player_url = None
+        for frame in iframes:
+            src = await frame.get_attribute("src")
+            if src and "chat" not in src.lower() and "ad" not in src.lower():
+                # Jika link iframe tidak diawali http, gabungkan dengan BASE URL
+                player_url = src if src.startswith("http") else urljoin(url, src)
+                break 
 
-        if target_iframe:
-            box = await target_iframe.bounding_box()
-            cx = box["x"] + box["width"] / 2
-            cy = box["y"] + box["height"] / 2
+        # JIKA MENEMUKAN PLAYER URL, PINDAH KE DALAM PLAYER TERSEBUT!
+        if player_url:
+            print(f"  Masuk ke dalam iframe player: {player_url}")
+            await page.goto(player_url, wait_until="domcontentloaded", timeout=15000)
+            await page.wait_for_timeout(2000)
 
-            # KLIK BRUTAL 10x di tengah Iframe (Anti-Popup akan langsung menutup tab baru)
-            for _ in range(10):
-                if captured_m3u8: break 
-                try:
-                    await page.mouse.click(cx, cy)
-                    await page.wait_for_timeout(1000)
-                except:
-                    pass
-        else:
-            # Fallback klik tengah layar
-            viewport = page.viewport_size
-            x = (viewport['width'] / 2) if viewport else 640
-            y = (viewport['height'] / 2) if viewport else 360
-            for _ in range(5):
-                if captured_m3u8: break
-                try:
-                    await page.mouse.click(x, y)
-                    await page.wait_for_timeout(1000)
-                except:
-                    pass
+        # SEKARANG KITA SUDAH DI DALAM PLAYER, KLIK BRUTAL DI TENGAH LAYAR
+        viewport = page.viewport_size
+        x = (viewport['width'] / 2) if viewport else 640
+        y = (viewport['height'] / 2) if viewport else 360
+
+        for _ in range(8):
+            if captured_m3u8: break
+            try:
+                await page.mouse.click(x, y)
+                await page.wait_for_timeout(1500)
+            except:
+                pass
 
     except Exception as e:
         print(f"Error membuka {url}: {e}")
 
     page.remove_listener("request", handle_request)
 
+    # Fallback terakhir: Cek kode sumber
     if not captured_m3u8:
         try:
             content = await page.content()
@@ -268,12 +265,13 @@ async def main():
             args=[
                 "--no-sandbox", 
                 "--disable-dev-shm-usage",
-                "--disable-popup-blocking"
+                "--disable-popup-blocking",
+                "--disable-web-security" # Tambahan agar iframe cross-origin lebih mudah diakses
             ]
         )
         context = await browser.new_context(user_agent=USER_AGENT, viewport={'width': 1280, 'height': 720})
         
-        # FUNGSI ANTI-POPUP: Tutup semua tab baru dengan cepat!
+        # FUNGSI ANTI-POPUP
         async def close_popup(new_page):
             await new_page.close()
         context.on("page", close_popup) 
@@ -290,7 +288,7 @@ async def main():
                     all_streams.append(((cat or "misc"), display_name, clean))
                 continue
 
-            print(f"Membuka & Mengeklik: {href}")
+            print(f"Mengendus: {href}")
             clean_m3u8 = await get_stream_url_playwright(page, href)
 
             # --- LOGIKA BROSUR (PENGUMPUL SEMUA JADWAL) ---
@@ -315,9 +313,9 @@ async def main():
                 all_streams.append(((cat or "misc"), display_name, clean_m3u8))
                 
                 if is_live_sniffed:
-                    print(f"  ✅ DAPAT VIDEO M3U8: {clean_m3u8}")
+                    print(f"  ✅ DAPAT M3U8: {clean_m3u8}")
                 else:
-                    print(f"  ⚠️ TERSIMPAN SBG JADWAL URL: {clean_m3u8}")
+                    print(f"  ⚠️ JADWAL TERSIMPAN: {clean_m3u8}")
 
         await browser.close()
 
