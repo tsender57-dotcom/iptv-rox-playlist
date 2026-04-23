@@ -1,9 +1,12 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-23 22:27 UTC
+# Last Updated: 2026-04-23 23:13 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs New York Yankees - WFTY
-https://lb5.wfty.wtf/playlist/elite/boston-red-sox-new-york-yankees/1/4556140/playlist.m3u8?hash=9d2625c40da41a9baf753413aff33b16&t=1776983219253
+https://lb5.wfty.wtf/playlist/pro/boston-red-sox-new-york-yankees/2/4556140/playlist.m3u8?hash=a561411e12ec1b69788cbe2c719e7f99&t=1776985989778
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Copa do Brasil] Atletico MG vs Ceara - WFTY
-https://lb2.wfty.wtf/playlist/regular/atletico-mg-ceara/1/1000010282/playlist.m3u8?hash=b82a66ae3afdbdff9522b8085f2428a5&t=1776983225779
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [PGA TOUR: Zurich Classic of New Orleans (USA)] PGA TOUR: Zurich Classic of New Orleans (USA) - WFTY
+https://lb2.wfty.wtf/playlist/prime/pga-tour-zurich-classic-of-new-orleans-usa/3/23_ner8PszJ/playlist.m3u8?hash=276ddc7cac34f35a6866bbaa715c6bd0&t=1776985992880
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Copa do Brasil] Palmeiras vs EC Jacuipense - WFTY
+https://lb5.wfty.wtf/playlist/regular/palmeiras-jacuipense/1/1000010294/playlist.m3u8?hash=1522f7833cbd717bfc9be67ce79eef27&t=1776985999588
 
