@@ -10,9 +10,10 @@ from bs4 import BeautifulSoup
 import html
 import sys
 
-from playwright.async_api import async_playwright
+from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
 
-BASE_URL = "https://roxiestreams.info/"
+# UPDATE: Menggunakan domain .su sesuai temuan terakhir
+BASE_URL = "https://roxiestreams.su/"
 CATEGORIES = ["", "soccer", "mlb", "nba", "nfl", "nhl", "fighting", "motorsports", "motogp",
               "ufc", "ppv", "wwe", "f1", "f1-streams", "nascar"]
 
@@ -71,7 +72,7 @@ def clean_event_title(raw_title):
 
 def get_category_event_candidates(category_path):
     cat_url = BASE_URL if not category_path else urljoin(BASE_URL, category_path)
-    print(f"Mengecek jadwal: {cat_url}")
+    print(f"Mengambil jadwal: {cat_url}")
     
     soup, html_text = fetch(cat_url)
     if not soup and not html_text: return []
@@ -91,11 +92,10 @@ def get_category_event_candidates(category_path):
                     
                 href = a_tag["href"].strip()
                 title_text = a_tag.get_text(" ", strip=True) or ""
-                
                 raw_time = cols[1].get_text(strip=True)
                 countdown_text = cols[2].get_text(strip=True).upper()
                 
-                is_live = False
+                is_live = "LIVE" in countdown_text or "STARTED" in countdown_text
                 
                 try:
                     clean_raw = " ".join(raw_time.split())
@@ -103,17 +103,12 @@ def get_category_event_candidates(category_path):
                     dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
                     dt_wita = dt_source.astimezone(ZoneInfo("Asia/Makassar"))
                     time_str = f"[{dt_wita.strftime('%H:%M WITA')}]"
-                    
-                    diff_seconds = (now_wita - dt_wita).total_seconds()
-                    if 0 <= diff_seconds <= 12600:
-                        is_live = True
                 except ValueError:
                     time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
                     time_str = f"[{time_match.group(1).upper()}]" if time_match else f"[{raw_time}]"
                 
-                if "LIVE" in countdown_text or "STARTED" in countdown_text or is_live:
+                if is_live:
                     time_text = f"[🔴 LIVE] {time_str} "
-                    is_live = True # Pastikan terdeteksi LIVE untuk di-scrape
                 else:
                     time_text = f"{time_str} "
                 
@@ -121,117 +116,44 @@ def get_category_event_candidates(category_path):
                 if not href or href.startswith(("mailto:", "javascript:")): continue
                     
                 full = href if href.startswith("http") else urljoin(cat_url, href)
-                low = href.lower()
-                
-                if ".m3u8" in href or any(k in low for k in ("stream", "streams", "match", "game", "event")) or re.search(r"-\d+$", low):
-                    if full not in seen:
-                        seen.add(full)
-                        candidates.append((full_title, full, is_live))
+                if full not in seen:
+                    seen.add(full)
+                    candidates.append((full_title, full, is_live))
                         
     return candidates
 
-def get_tv_data_for_category(cat_path):
-    key = (cat_path or "misc").lower().strip()
-    key = key.replace("-streams", "").replace("streams", "")
-    if key in TV_INFO: return TV_INFO[key]
-    for k in TV_INFO:
-        if k in key: return TV_INFO[k]
-    return TV_INFO["misc"]
-
-def write_playlists(streams):
-    ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    header = f'#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n# Last Updated: {ts}\n\n'
-
-    with open(VLC_OUTPUT, "w", encoding="utf-8") as f:
-        f.write(header)
-        for cat_name, ev_name, url in streams:
-            tvg_id, logo, group_name = get_tv_data_for_category(cat_name)
-            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Roxiestreams - {group_name}",{ev_name}\n')
-            f.write(f'{url}\n\n')
-
-    ua_enc = quote(USER_AGENT, safe="")
-    with open(TIVIMATE_OUTPUT, "w", encoding="utf-8") as f:
-        f.write(header)
-        for cat_name, ev_name, url in streams:
-            tvg_id, logo, group_name = get_tv_data_for_category(cat_name)
-            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Roxiestreams - {group_name}",{ev_name}\n')
-            f.write(f'{url}|referer={REFERER}|user-agent={ua_enc}\n\n')
-
-# ------------------------------------------------------------------
-# JURUS PENEMBUS IFRAME (CROSS-ORIGIN PIERCING)
-# ------------------------------------------------------------------
-async def extract_m3u8_advanced(page, url):
+async def extract_m3u8_playwright(page, url):
+    """Mengekstrak M3U8 menggunakan injeksi JavaScript Clappr."""
     stream_url = None
-
-    # Sniffer Jaringan Berjalan di Background
-    def handle_request(request):
-        nonlocal stream_url
-        if ".m3u8" in request.url and "ad" not in request.url.lower():
-            if not stream_url:
-                stream_url = request.url
-
-    page.on("request", handle_request)
-
     try:
-        await page.goto(url, wait_until="domcontentloaded", timeout=20000)
-        await page.wait_for_timeout(3000) # Biarkan semua Iframe termuat
-
-        # LANGKAH 1: Cari tombol di halaman utama (Berjaga-jaga)
+        await page.goto(url, wait_until="domcontentloaded", timeout=15000)
+        
+        # Klik tombol play jika ada
         try:
             btn = page.locator("button.streambutton").first
-            if await btn.count() > 0:
-                await btn.dblclick(force=True, timeout=2000)
-                await page.wait_for_timeout(2000)
-        except:
+            await btn.dblclick(force=True, timeout=3000)
+        except PlaywrightTimeoutError:
             pass
-
-        # LANGKAH 2: EKSEKUSI DI DALAM SEMUA IFRAME (Ini letak tombol aslinya!)
-        if not stream_url:
-            for frame in page.frames:
-                try:
-                    # Hajar tombol play di dalam iframe
-                    btn = frame.locator("button.streambutton, .play-wrapper").first
-                    if await btn.count() > 0:
-                        print("  >> Tombol Play ditemukan di dalam Iframe!")
-                        await btn.dblclick(force=True, timeout=2000)
-                        await page.wait_for_timeout(3000) # Tunggu loading video
-                except:
-                    pass
-
-                # Coba cabut M3U8 langsung dari otak Clappr di dalam Iframe
-                if not stream_url:
-                    try:
-                        src = await frame.evaluate("() => clapprPlayer.options.source")
-                        if src and ".m3u8" in src:
-                            stream_url = src
-                            print("  ✅ Dapat M3U8 dari Injeksi Clappr JS Iframe.")
-                            break
-                    except:
-                        pass
-
-        # LANGKAH 3: Tembakan Buta di tengah Kotak Video (Jika tombol diblokir)
-        if not stream_url:
-            iframes = await page.locator("iframe").all()
-            for iframe in iframes:
-                if stream_url: break
-                try:
-                    box = await iframe.bounding_box()
-                    if box and box["width"] > 250 and box["height"] > 150:
-                        cx = box["x"] + box["width"] / 2
-                        cy = box["y"] + box["height"] / 2
-                        await page.mouse.click(cx, cy)
-                        await page.wait_for_timeout(2000)
-                except:
-                    pass
-
-    except Exception as e:
-        print(f"  Error Ekstraksi: {e}")
-
-    page.remove_listener("request", handle_request)
+            
+        # Tunggu variabel Clappr Player muncul di memori browser
+        try:
+            await page.wait_for_function("() => typeof clapprPlayer !== 'undefined'", timeout=8000)
+            src = await page.evaluate("() => clapprPlayer.options.source")
+            if src and ".m3u8" in src:
+                stream_url = src
+        except PlaywrightTimeoutError:
+            # Fallback: Cari m3u8 statis di kode sumber
+            content = await page.content()
+            m = M3U8_RE.search(content)
+            if m: stream_url = m.group(1)
+            
+    except Exception:
+        pass
+        
     return stream_url
 
 async def main():
-    print("Memulai RoxieStreams playlist generation...")
+    print("Memulai RoxieStreams playlist generation (Mode Kolaborasi)...")
     all_streams = []
     seen_urls = set()
     
@@ -248,42 +170,28 @@ async def main():
         print("Tidak ada jadwal ditemukan.")
         return
 
-    # Hitung jumlah live
-    live_count = sum(1 for _, _, _, is_live in all_candidates if is_live)
-    print(f"\nDitemukan total {len(all_candidates)} jadwal. {live_count} sedang LIVE.")
-
     async with async_playwright() as p:
-        # PENGATURAN BROWSER ANTI-BLOKIR & IZIN LINTAS-DOMAIN (CROSS-ORIGIN)
-        browser = await p.chromium.launch(
-            headless=True, 
-            args=[
-                "--no-sandbox", 
-                "--disable-dev-shm-usage",
-                "--disable-popup-blocking",
-                "--disable-web-security",           # Penting untuk menembus Iframe beda domain
-                "--disable-site-isolation-trials"   # Melemahkan pertahanan Iframe
-            ]
-        )
+        browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
         context = await browser.new_context(user_agent=USER_AGENT)
         
+        # Penutupan popup otomatis
         async def close_popup(new_page): await new_page.close()
         context.on("page", close_popup) 
 
         page = await context.new_page()
 
         for cat, anchor_text, href, is_live in all_candidates:
-            clean = href
+            clean = href # Default: Gunakan URL web (Logika Brosur)
             
-            if ".m3u8" in href:
-                clean = href
-            elif is_live:
-                print(f"🔥 MENYERBU TAYANGAN LIVE: {href}")
-                extracted_url = await extract_m3u8_advanced(page, href)
-                if extracted_url:
-                    clean = extracted_url
-                    print(f"  ✅ BERHASIL DICULIK: {clean}")
+            # Eksekusi Sniper: Hanya gunakan Playwright jika pertandingan LIVE
+            if is_live:
+                print(f"🔥 Sniffing tayangan LIVE: {href}")
+                extracted = await extract_m3u8_playwright(page, href)
+                if extracted:
+                    clean = extracted
+                    print(f"  ✅ BERHASIL: {clean}")
                 else:
-                    print(f"  ❌ Gagal ekstrak, pakai URL web.")
+                    print(f"  ⚠️ Gagal ekstrak link mentah, menggunakan URL web.")
             
             if clean not in seen_urls:
                 seen_urls.add(clean)
@@ -302,8 +210,25 @@ async def main():
 
         await browser.close()
 
-    print(f"\nSelesai! Berhasil menyimpan {len(all_streams)} tayangan ke Playlist.")
-    write_playlists(all_streams)
+    from datetime import datetime as dt_file
+    ts = dt_file.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    header = f'#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n# Last Updated: {ts}\n\n'
+
+    # Tulis playlist
+    with open(VLC_OUTPUT, "w", encoding="utf-8") as f:
+        f.write(header)
+        for cat_name, ev_name, url in all_streams:
+            tvg_id, logo, group_name = get_tv_data_for_category(cat_name)
+            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Roxiestreams - {group_name}",{ev_name}\n{url}\n\n')
+
+    ua_enc = quote(USER_AGENT, safe="")
+    with open(TIVIMATE_OUTPUT, "w", encoding="utf-8") as f:
+        f.write(header)
+        for cat_name, ev_name, url in all_streams:
+            tvg_id, logo, group_name = get_tv_data_for_category(cat_name)
+            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Roxiestreams - {group_name}",{ev_name}\n{url}|referer={REFERER}|user-agent={ua_enc}\n\n')
+
+    print(f"\nSelesai! {len(all_streams)} tayangan berhasil diproses.")
 
 if __name__ == "__main__":
     asyncio.run(main())
