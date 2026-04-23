@@ -84,10 +84,7 @@ def extract_m3u8_from_text(text, base=None):
     return None
 
 def get_category_event_candidates(category_path):
-    """
-    Mengambil daftar pertandingan (Tetap menggunakan Requests karena cepat).
-    Logika WIB dan status LIVE 3.5 jam tetap aktif.
-    """
+    """Mengambil daftar pertandingan (Tetap Cepat & Logika WITA 3.5 jam)"""
     cat_url = BASE_URL if not category_path else urljoin(BASE_URL, category_path)
     print(f"Processing category: {category_path or 'root'} -> {cat_url}")
     
@@ -97,7 +94,7 @@ def get_category_event_candidates(category_path):
 
     candidates = []
     seen = set()
-    now_wib = datetime.now(ZoneInfo("Asia/Jakarta"))
+    now_wita = datetime.now(ZoneInfo("Asia/Makassar"))
     
     rows = soup.find_all("tr")
     
@@ -122,14 +119,12 @@ def get_category_event_candidates(category_path):
                             clean_raw = " ".join(raw_time.split())
                             dt_web = datetime.strptime(clean_raw, "%B %d, %Y %I:%M %p")
                             dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
-                            dt_wib = dt_source.astimezone(ZoneInfo("Asia/Jakarta"))
+                            dt_wita = dt_source.astimezone(ZoneInfo("Asia/Makassar"))
                             
-                            # Logika durasi 3.5 jam (12600 detik)
-                            diff_seconds = (now_wib - dt_wib).total_seconds()
+                            diff_seconds = (now_wita - dt_wita).total_seconds()
                             is_live = (0 <= diff_seconds <= 12600)
                             
-                            time_str = f"[{dt_wib.strftime('%H:%M WIB')}]"
-                            
+                            time_str = f"[{dt_wita.strftime('%H:%M WITA')}]"
                             if is_live:
                                 time_text = f"[🔴 LIVE] {time_str} "
                             else:
@@ -143,7 +138,6 @@ def get_category_event_candidates(category_path):
                                 time_text = f"[{raw_time}] "
             
             full_title = f"{time_text}{title_text}".strip()
-            
             if not href or href.startswith(("mailto:", "javascript:")): continue
                 
             full = href if href.startswith("http") else urljoin(cat_url, href)
@@ -184,39 +178,32 @@ def write_playlists(streams):
             f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Roxiestreams - {group_name}",{ev_name}\n')
             f.write(f'{url}|referer={REFERER}|user-agent={ua_enc}\n\n')
 
-
 # ------------------------------------------------------------------
-# BAGIAN BARU: PLAYWRIGHT NETWORK SNIFFER
+# PLAYWRIGHT NETWORK SNIFFER + LOGIKA BROSUR
 # ------------------------------------------------------------------
 async def get_stream_url_playwright(page, url):
-    """Membuka halaman web dan mengendus (sniff) file .m3u8 seperti ekstensi browser."""
     captured_m3u8 = None
 
     def handle_request(request):
         nonlocal captured_m3u8
         req_url = request.url
-        # Abaikan URL iklan dan ambil M3U8
         if ".m3u8" in req_url and "ad" not in req_url.lower() and not captured_m3u8:
             captured_m3u8 = req_url
 
-    # Memasang alat penyadap di halaman
     page.on("request", handle_request)
 
     try:
-        # Buka halaman dan biarkan script berjalan (Tunggu sampai network sedikit tenang)
         await page.goto(url, wait_until="domcontentloaded", timeout=15000)
-        # Beri waktu ekstra 3 detik agar video player di dalam web berjalan dan memanggil M3U8
         await page.wait_for_timeout(3000)
     except Exception as e:
-        pass # Abaikan jika timeout, kita hanya butuh jaringan background-nya
+        pass 
 
-    # Copot penyadap
     page.remove_listener("request", handle_request)
 
-    # Fallback: Jika tidak terendus di jaringan, cari di dalam kode halaman (seperti cara lama)
     if not captured_m3u8:
         try:
             content = await page.content()
+            # Logika "Mencari m3u8 di mana saja"
             m = M3U8_RE.search(content)
             if m:
                 captured_m3u8 = m.group(1)
@@ -230,7 +217,6 @@ async def main():
     all_streams = []
     seen_urls = set()
     
-    # Kumpulkan semua kandidat pertandingan (Sangat Cepat)
     all_candidates = []
     for cat in CATEGORIES:
         try:
@@ -245,16 +231,14 @@ async def main():
         print("No streams found.")
         return
 
-    print(f"\nMulai proses Sniffing menggunakan Playwright untuk {len(all_candidates)} pertandingan...")
+    print(f"\nMulai proses Sniffing untuk {len(all_candidates)} pertandingan...")
 
-    # Jalankan Playwright (Browser Asli) untuk sniffing
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
         context = await browser.new_context(user_agent=USER_AGENT)
         page = await context.new_page()
 
         for cat, anchor_text, href in all_candidates:
-            # Jika href sudah berupa m3u8 (Sangat jarang)
             if ".m3u8" in href:
                 clean = extract_m3u8_from_text(href, base=href) or href
                 if clean and clean not in seen_urls:
@@ -265,13 +249,19 @@ async def main():
                 continue
 
             print(f"Mengendus URL: {href}")
-            # SNIFFING FILE VIDEO NYATA!
             clean_m3u8 = await get_stream_url_playwright(page, href)
 
-            if clean_m3u8 and clean_m3u8 not in seen_urls:
+            # --- LOGIKA BROSUR (PENGUMPUL SEMUA JADWAL) ---
+            is_live_sniffed = True
+            if not clean_m3u8:
+                # Jika tidak ada video m3u8 sama sekali, jangan dibuang!
+                # Jadikan URL halamannya sebagai placeholder agar jadwal tetap masuk playlist.
+                clean_m3u8 = href
+                is_live_sniffed = False
+
+            if clean_m3u8 not in seen_urls:
                 seen_urls.add(clean_m3u8)
                 
-                # Memastikan tag waktu ([🔴 LIVE] [06:30 WIB]) masuk dengan aman
                 final_title = clean_event_title(anchor_text)
                 time_tag_match = re.search(r"^((?:\[.*?\]\s*)+)", anchor_text)
                 if time_tag_match:
@@ -283,13 +273,15 @@ async def main():
                     
                 display_name = f"{(cat or 'Roxiestreams').title()} - {final_title}"
                 all_streams.append(((cat or "misc"), display_name, clean_m3u8))
-                print(f"  ✅ BERHASIL MENDAPATKAN LINK: {clean_m3u8}")
-            else:
-                print(f"  ❌ Gagal / Belum ada tayangan")
+                
+                if is_live_sniffed:
+                    print(f"  ✅ DAPAT VIDEO: {clean_m3u8}")
+                else:
+                    print(f"  ⚠️ TERSIMPAN SBG JADWAL: {clean_m3u8}")
 
         await browser.close()
 
-    print(f"\nBerhasil menangkap {len(all_streams)} streams Live/Aktif.")
+    print(f"\nBerhasil menangkap {len(all_streams)} streams jadwal & Live.")
     write_playlists(all_streams)
     print(f"VLC: {VLC_OUTPUT}")
     print(f"TiviMate: {TIVIMATE_OUTPUT}")
