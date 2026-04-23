@@ -9,7 +9,6 @@ jobs:
   update-playlists:
     runs-on: ubuntu-latest
 
-    # Memberikan izin kepada bot untuk menulis file ke repository
     permissions:
       contents: write 
 
@@ -31,26 +30,30 @@ jobs:
         
       - name: Run Roxiestreams Script
         run: python update_rox.py
-        continue-on-error: true # Jika Roxie error, bot tetap akan lanjut ke Shark
+        continue-on-error: true
 
       - name: Run Sharkstreams Script
         run: python update_shark.py
-        continue-on-error: true # Jika Shark error, bot tetap akan lanjut ke Commit
+        continue-on-error: true
+
+      - name: Run Watchfooty Script
+        run: python update_watchfooty.py
+        continue-on-error: true
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Mendaftarkan file M3U8 Roxie dan Shark
-          git add Roxiestreams_VLC.m3u8 Roxiestreams_TiviMate.m3u8 Sharkstreams_VLC.m3u8 Sharkstreams_TiviMate.m3u8
+          # Tambahkan file Watchfooty ke dalam antrean penyimpanan
+          git add Roxiestreams_VLC.m3u8 Roxiestreams_TiviMate.m3u8 Sharkstreams_VLC.m3u8 Sharkstreams_TiviMate.m3u8 Watchfooty_VLC.m3u8 Watchfooty_TiviMate.m3u8
           
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
           
-          git commit -m "Auto-update Roxie & Shark playlists"
+          git commit -m "Auto-update Roxie, Shark, & WFTY playlists"
           
           # Push dengan aman (Safe Push)
           if ! git push origin main; then
@@ -58,7 +61,7 @@ jobs:
             git stash
             git pull --rebase origin main
             git stash pop
-            git add Roxiestreams_VLC.m3u8 Roxiestreams_TiviMate.m3u8 Sharkstreams_VLC.m3u8 Sharkstreams_TiviMate.m3u8
-            git commit -m "Auto-update Roxie & Shark playlists (rebased)" || true
+            git add Roxiestreams_VLC.m3u8 Roxiestreams_TiviMate.m3u8 Sharkstreams_VLC.m3u8 Sharkstreams_TiviMate.m3u8 Watchfooty_VLC.m3u8 Watchfooty_TiviMate.m3u8
+            git commit -m "Auto-update Roxie, Shark, & WFTY playlists (rebased)" || true
             git push origin main
           fi
