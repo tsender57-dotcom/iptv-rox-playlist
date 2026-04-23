@@ -10,10 +10,9 @@ from bs4 import BeautifulSoup
 import html
 import sys
 
-from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
+from playwright.async_api import async_playwright
 
 BASE_URL = "https://roxiestreams.info/"
-# Mengambil dari halaman utama ("") dan kategori lainnya
 CATEGORIES = ["", "soccer", "mlb", "nba", "nfl", "nhl", "fighting", "motorsports", "motogp",
               "ufc", "ppv", "wwe", "f1", "f1-streams", "nascar"]
 
@@ -55,8 +54,7 @@ def fetch(url, timeout=12):
         text = r.text
         soup = BeautifulSoup(text, "html.parser")
         return soup, text
-    except Exception as e:
-        print(f"fetch failed: {url} -> {e}")
+    except Exception:
         return None, ""
 
 def clean_event_title(raw_title):
@@ -73,13 +71,14 @@ def clean_event_title(raw_title):
 
 def get_category_event_candidates(category_path):
     cat_url = BASE_URL if not category_path else urljoin(BASE_URL, category_path)
-    print(f"Mengecek tabel jadwal di: {category_path or 'Home'} -> {cat_url}")
+    print(f"Mengecek jadwal: {cat_url}")
     
     soup, html_text = fetch(cat_url)
     if not soup and not html_text: return []
 
     candidates = []
     seen = set()
+    now_wita = datetime.now(ZoneInfo("Asia/Makassar"))
     
     rows = soup.find_all("tr")
     
@@ -96,22 +95,25 @@ def get_category_event_candidates(category_path):
                 raw_time = cols[1].get_text(strip=True)
                 countdown_text = cols[2].get_text(strip=True).upper()
                 
-                # JURUS ACUAN: Hanya set True jika di web tertulis LIVE atau STARTED
-                is_live = "LIVE" in countdown_text or "STARTED" in countdown_text
+                is_live = False
                 
-                # Konversi waktu ke WITA untuk tampilan
                 try:
                     clean_raw = " ".join(raw_time.split())
                     dt_web = datetime.strptime(clean_raw, "%B %d, %Y %I:%M %p")
                     dt_source = dt_web.replace(tzinfo=ZoneInfo("America/Los_Angeles"))
                     dt_wita = dt_source.astimezone(ZoneInfo("Asia/Makassar"))
                     time_str = f"[{dt_wita.strftime('%H:%M WITA')}]"
+                    
+                    diff_seconds = (now_wita - dt_wita).total_seconds()
+                    if 0 <= diff_seconds <= 12600:
+                        is_live = True
                 except ValueError:
                     time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
                     time_str = f"[{time_match.group(1).upper()}]" if time_match else f"[{raw_time}]"
                 
-                if is_live:
+                if "LIVE" in countdown_text or "STARTED" in countdown_text or is_live:
                     time_text = f"[🔴 LIVE] {time_str} "
+                    is_live = True # Pastikan terdeteksi LIVE untuk di-scrape
                 else:
                     time_text = f"{time_str} "
                 
@@ -124,7 +126,6 @@ def get_category_event_candidates(category_path):
                 if ".m3u8" in href or any(k in low for k in ("stream", "streams", "match", "game", "event")) or re.search(r"-\d+$", low):
                     if full not in seen:
                         seen.add(full)
-                        # Kita kirimkan parameter is_live ke proses selanjutnya
                         candidates.append((full_title, full, is_live))
                         
     return candidates
@@ -157,32 +158,76 @@ def write_playlists(streams):
             f.write(f'{url}|referer={REFERER}|user-agent={ua_enc}\n\n')
 
 # ------------------------------------------------------------------
-# JURUS CLAPPR SAKTI (Hanya berjalan untuk tayangan LIVE)
+# JURUS PENEMBUS IFRAME (CROSS-ORIGIN PIERCING)
 # ------------------------------------------------------------------
-async def extract_clappr_m3u8(page, url):
+async def extract_m3u8_advanced(page, url):
     stream_url = None
+
+    # Sniffer Jaringan Berjalan di Background
+    def handle_request(request):
+        nonlocal stream_url
+        if ".m3u8" in request.url and "ad" not in request.url.lower():
+            if not stream_url:
+                stream_url = request.url
+
+    page.on("request", handle_request)
+
     try:
-        await page.goto(url, wait_until="domcontentloaded", timeout=15000)
-        
-        # Eksekusi persis seperti roxie.py (Cari tombol dan paksa klik)
+        await page.goto(url, wait_until="domcontentloaded", timeout=20000)
+        await page.wait_for_timeout(3000) # Biarkan semua Iframe termuat
+
+        # LANGKAH 1: Cari tombol di halaman utama (Berjaga-jaga)
         try:
             btn = page.locator("button.streambutton").first
-            await btn.dblclick(force=True, timeout=3000)
-        except PlaywrightTimeoutError:
-            pass # Lanjut jika tombol tidak ketemu
-            
-        # Tunggu otak Clappr muncul
-        try:
-            await page.wait_for_function("() => typeof clapprPlayer !== 'undefined'", timeout=6000)
-            src = await page.evaluate("() => clapprPlayer.options.source")
-            if src:
-                stream_url = src
-        except PlaywrightTimeoutError:
+            if await btn.count() > 0:
+                await btn.dblclick(force=True, timeout=2000)
+                await page.wait_for_timeout(2000)
+        except:
             pass
-            
+
+        # LANGKAH 2: EKSEKUSI DI DALAM SEMUA IFRAME (Ini letak tombol aslinya!)
+        if not stream_url:
+            for frame in page.frames:
+                try:
+                    # Hajar tombol play di dalam iframe
+                    btn = frame.locator("button.streambutton, .play-wrapper").first
+                    if await btn.count() > 0:
+                        print("  >> Tombol Play ditemukan di dalam Iframe!")
+                        await btn.dblclick(force=True, timeout=2000)
+                        await page.wait_for_timeout(3000) # Tunggu loading video
+                except:
+                    pass
+
+                # Coba cabut M3U8 langsung dari otak Clappr di dalam Iframe
+                if not stream_url:
+                    try:
+                        src = await frame.evaluate("() => clapprPlayer.options.source")
+                        if src and ".m3u8" in src:
+                            stream_url = src
+                            print("  ✅ Dapat M3U8 dari Injeksi Clappr JS Iframe.")
+                            break
+                    except:
+                        pass
+
+        # LANGKAH 3: Tembakan Buta di tengah Kotak Video (Jika tombol diblokir)
+        if not stream_url:
+            iframes = await page.locator("iframe").all()
+            for iframe in iframes:
+                if stream_url: break
+                try:
+                    box = await iframe.bounding_box()
+                    if box and box["width"] > 250 and box["height"] > 150:
+                        cx = box["x"] + box["width"] / 2
+                        cy = box["y"] + box["height"] / 2
+                        await page.mouse.click(cx, cy)
+                        await page.wait_for_timeout(2000)
+                except:
+                    pass
+
     except Exception as e:
-        pass
-        
+        print(f"  Error Ekstraksi: {e}")
+
+    page.remove_listener("request", handle_request)
     return stream_url
 
 async def main():
@@ -190,29 +235,37 @@ async def main():
     all_streams = []
     seen_urls = set()
     
-    # Kumpulkan semua pertandingan
     all_candidates = []
     for cat in CATEGORIES:
         try:
             candidates = get_category_event_candidates(cat)
             for anchor_text, href, is_live in candidates:
                 all_candidates.append((cat, anchor_text, href, is_live))
-        except Exception as e:
+        except Exception:
             continue
 
     if not all_candidates:
         print("Tidak ada jadwal ditemukan.")
         return
 
-    # Hitung berapa banyak yang LIVE
+    # Hitung jumlah live
     live_count = sum(1 for _, _, _, is_live in all_candidates if is_live)
-    print(f"\nDitemukan total {len(all_candidates)} jadwal. {live_count} di antaranya sedang LIVE.")
+    print(f"\nDitemukan total {len(all_candidates)} jadwal. {live_count} sedang LIVE.")
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
+        # PENGATURAN BROWSER ANTI-BLOKIR & IZIN LINTAS-DOMAIN (CROSS-ORIGIN)
+        browser = await p.chromium.launch(
+            headless=True, 
+            args=[
+                "--no-sandbox", 
+                "--disable-dev-shm-usage",
+                "--disable-popup-blocking",
+                "--disable-web-security",           # Penting untuk menembus Iframe beda domain
+                "--disable-site-isolation-trials"   # Melemahkan pertahanan Iframe
+            ]
+        )
         context = await browser.new_context(user_agent=USER_AGENT)
         
-        # Cegah popup iklan
         async def close_popup(new_page): await new_page.close()
         context.on("page", close_popup) 
 
@@ -221,22 +274,17 @@ async def main():
         for cat, anchor_text, href, is_live in all_candidates:
             clean = href
             
-            # KEPUTUSAN EKSEKUSI PINTAR (SNIPER MODE)
             if ".m3u8" in href:
                 clean = href
             elif is_live:
                 print(f"🔥 MENYERBU TAYANGAN LIVE: {href}")
-                # HANYA panggil Clappr jika status di web adalah LIVE
-                extracted_url = await extract_clappr_m3u8(page, href)
+                extracted_url = await extract_m3u8_advanced(page, href)
                 if extracted_url:
                     clean = extracted_url
                     print(f"  ✅ BERHASIL DICULIK: {clean}")
                 else:
                     print(f"  ❌ Gagal ekstrak, pakai URL web.")
-            else:
-                # Jadwal belum mulai, langsung simpan brosurnya
-                pass 
-
+            
             if clean not in seen_urls:
                 seen_urls.add(clean)
                 
