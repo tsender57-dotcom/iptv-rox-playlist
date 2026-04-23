@@ -10,9 +10,8 @@ from bs4 import BeautifulSoup
 import html
 import sys
 
-from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
+from playwright.async_api import async_playwright
 
-# UPDATE: Menggunakan domain .su sesuai temuan terakhir
 BASE_URL = "https://roxiestreams.su/"
 CATEGORIES = ["", "soccer", "mlb", "nba", "nfl", "nhl", "fighting", "motorsports", "motogp",
               "ufc", "ppv", "wwe", "f1", "f1-streams", "nascar"]
@@ -122,38 +121,72 @@ def get_category_event_candidates(category_path):
                         
     return candidates
 
+def get_tv_data_for_category(cat_path):
+    key = (cat_path or "misc").lower().strip()
+    key = key.replace("-streams", "").replace("streams", "")
+    if key in TV_INFO: return TV_INFO[key]
+    for k in TV_INFO:
+        if k in key: return TV_INFO[k]
+    return TV_INFO["misc"]
+
+# ------------------------------------------------------------------
+# JURUS KOMBO: IFRAME PENETRATOR + CLAPPR JS
+# ------------------------------------------------------------------
 async def extract_m3u8_playwright(page, url):
-    """Mengekstrak M3U8 menggunakan injeksi JavaScript Clappr."""
     stream_url = None
+
+    # Sniffer Jaringan Berjalan di Background (Sebagai cadangan)
+    def handle_request(request):
+        nonlocal stream_url
+        if ".m3u8" in request.url and "ad" not in request.url.lower():
+            if not stream_url:
+                stream_url = request.url
+
+    page.on("request", handle_request)
+
     try:
-        await page.goto(url, wait_until="domcontentloaded", timeout=15000)
-        
-        # Klik tombol play jika ada
+        await page.goto(url, wait_until="domcontentloaded", timeout=20000)
+        await page.wait_for_timeout(3000)
+
+        # MENGGELEDAH SEMUA IFRAME
+        for frame in page.frames:
+            if stream_url: break
+            try:
+                # 1. Coba klik tombol play di dalam iframe (meniru roxie.py)
+                btn = frame.locator("button.streambutton").first
+                if await btn.count() > 0:
+                    await btn.dblclick(force=True, timeout=2000)
+                    await page.wait_for_timeout(2000)
+            except Exception:
+                pass
+
+            try:
+                # 2. Curi data langsung dari otak Clappr JS yang ada DI DALAM Iframe
+                src = await frame.evaluate("() => clapprPlayer.options.source")
+                if src and ".m3u8" in src:
+                    stream_url = src
+                    break
+            except Exception:
+                pass
+
+    except Exception as e:
+        print(f"  Error Navigasi: {e}")
+
+    page.remove_listener("request", handle_request)
+
+    # Fallback terakhir dari kode HTML statis
+    if not stream_url:
         try:
-            btn = page.locator("button.streambutton").first
-            await btn.dblclick(force=True, timeout=3000)
-        except PlaywrightTimeoutError:
-            pass
-            
-        # Tunggu variabel Clappr Player muncul di memori browser
-        try:
-            await page.wait_for_function("() => typeof clapprPlayer !== 'undefined'", timeout=8000)
-            src = await page.evaluate("() => clapprPlayer.options.source")
-            if src and ".m3u8" in src:
-                stream_url = src
-        except PlaywrightTimeoutError:
-            # Fallback: Cari m3u8 statis di kode sumber
             content = await page.content()
             m = M3U8_RE.search(content)
             if m: stream_url = m.group(1)
-            
-    except Exception:
-        pass
-        
+        except Exception:
+            pass
+
     return stream_url
 
 async def main():
-    print("Memulai RoxieStreams playlist generation (Mode Kolaborasi)...")
+    print("Memulai RoxieStreams playlist generation (Anti-Crash Version)...")
     all_streams = []
     seen_urls = set()
     
@@ -171,27 +204,40 @@ async def main():
         return
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
+        browser = await p.chromium.launch(
+            headless=True, 
+            args=[
+                "--no-sandbox", 
+                "--disable-dev-shm-usage",
+                "--disable-popup-blocking",
+                "--disable-web-security",          # Izin menembus Iframe
+                "--disable-site-isolation-trials"  # Melemahkan Iframe protection
+            ]
+        )
         context = await browser.new_context(user_agent=USER_AGENT)
         
-        # Penutupan popup otomatis
-        async def close_popup(new_page): await new_page.close()
+        # PERBAIKAN FATAL ERROR: Tameng Anti-Crash untuk Popup
+        async def close_popup(new_page): 
+            try:
+                await new_page.close()
+            except Exception:
+                pass # Jika iklan tertutup sendiri, abaikan saja (Jangan sampai crash)
+                
         context.on("page", close_popup) 
 
         page = await context.new_page()
 
         for cat, anchor_text, href, is_live in all_candidates:
-            clean = href # Default: Gunakan URL web (Logika Brosur)
+            clean = href 
             
-            # Eksekusi Sniper: Hanya gunakan Playwright jika pertandingan LIVE
             if is_live:
                 print(f"🔥 Sniffing tayangan LIVE: {href}")
                 extracted = await extract_m3u8_playwright(page, href)
                 if extracted:
                     clean = extracted
-                    print(f"  ✅ BERHASIL: {clean}")
+                    print(f"  ✅ BERHASIL MENCURI: {clean}")
                 else:
-                    print(f"  ⚠️ Gagal ekstrak link mentah, menggunakan URL web.")
+                    print(f"  ⚠️ Gagal ekstrak, menggunakan URL web.")
             
             if clean not in seen_urls:
                 seen_urls.add(clean)
@@ -210,11 +256,11 @@ async def main():
 
         await browser.close()
 
+    # Tulis playlist
     from datetime import datetime as dt_file
     ts = dt_file.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     header = f'#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n# Last Updated: {ts}\n\n'
 
-    # Tulis playlist
     with open(VLC_OUTPUT, "w", encoding="utf-8") as f:
         f.write(header)
         for cat_name, ev_name, url in all_streams:
