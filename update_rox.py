@@ -120,8 +120,8 @@ def get_category_event_candidates(category_path):
                     time_match = re.search(r"(\d{1,2}:\d{2}\s*[AP]M)", raw_time, re.IGNORECASE)
                     time_str = f"[{time_match.group(1).upper()}]" if time_match else f"[{raw_time}]"
                 
-                # LOGIKA BARU: Cek langsung apakah teks di kolom 3 adalah "LIVE"
-                if "LIVE" in countdown_text:
+                # Cek teks LIVE dari kolom countdown web asli
+                if "LIVE" in countdown_text or "STARTED" in countdown_text:
                     time_text = f"[🔴 LIVE] {time_str} "
                 else:
                     time_text = f"{time_str} "
@@ -168,7 +168,7 @@ def write_playlists(streams):
             f.write(f'{url}|referer={REFERER}|user-agent={ua_enc}\n\n')
 
 # ------------------------------------------------------------------
-# PLAYWRIGHT: SNIFFER + TARGETED IFRAME CLICKING
+# PLAYWRIGHT: SNIFFER + TARGETED IFRAME CLICKING + ANTI-POPUP
 # ------------------------------------------------------------------
 async def get_stream_url_playwright(page, url):
     captured_m3u8 = None
@@ -182,45 +182,54 @@ async def get_stream_url_playwright(page, url):
     page.on("request", handle_request)
 
     try:
-        await page.goto(url, wait_until="domcontentloaded", timeout=15000)
+        await page.goto(url, wait_until="domcontentloaded", timeout=20000)
         await page.wait_for_timeout(2000)
 
-        # MENCARI IFRAME (KOTAK VIDEO) DAN MENEMBAK KLIK DI TENGAHNYA
+        # MENCARI IFRAME (KOTAK VIDEO)
         iframes = await page.locator("iframe").all()
+        target_iframe = None
+        
         if iframes:
             for iframe in iframes:
-                if captured_m3u8: break
                 try:
                     box = await iframe.bounding_box()
-                    # Pastikan iframenya cukup besar (bukan iframe pelacak iklan)
-                    if box and box["width"] > 100 and box["height"] > 100:
-                        cx = box["x"] + box["width"] / 2
-                        cy = box["y"] + box["height"] / 2
-                        
-                        # Klik 3x di dalam iframe
-                        for _ in range(3):
-                            if captured_m3u8: break
-                            await page.mouse.click(cx, cy)
-                            await page.wait_for_timeout(1000)
+                    if box and box["width"] > 200 and box["height"] > 150:
+                        target_iframe = iframe
+                        break 
+                except:
+                    continue
+
+        if target_iframe:
+            box = await target_iframe.bounding_box()
+            cx = box["x"] + box["width"] / 2
+            cy = box["y"] + box["height"] / 2
+
+            # KLIK BRUTAL 10x di tengah Iframe (Anti-Popup akan langsung menutup tab baru)
+            for _ in range(10):
+                if captured_m3u8: break 
+                try:
+                    await page.mouse.click(cx, cy)
+                    await page.wait_for_timeout(1000)
                 except:
                     pass
-        
-        # Jika tidak ada iframe, lakukan fallback klik di tengah layar
-        if not captured_m3u8:
+        else:
+            # Fallback klik tengah layar
             viewport = page.viewport_size
             x = (viewport['width'] / 2) if viewport else 640
             y = (viewport['height'] / 2) if viewport else 360
-            for _ in range(2):
+            for _ in range(5):
                 if captured_m3u8: break
-                await page.mouse.click(x, y)
-                await page.wait_for_timeout(1000)
+                try:
+                    await page.mouse.click(x, y)
+                    await page.wait_for_timeout(1000)
+                except:
+                    pass
 
     except Exception as e:
-        pass 
+        print(f"Error membuka {url}: {e}")
 
     page.remove_listener("request", handle_request)
 
-    # Fallback terakhir: Cek kode sumber halamannya
     if not captured_m3u8:
         try:
             content = await page.content()
@@ -254,8 +263,21 @@ async def main():
     print(f"\nMulai proses Sniffing & Clicking untuk {len(all_candidates)} pertandingan...")
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
+        browser = await p.chromium.launch(
+            headless=True, 
+            args=[
+                "--no-sandbox", 
+                "--disable-dev-shm-usage",
+                "--disable-popup-blocking"
+            ]
+        )
         context = await browser.new_context(user_agent=USER_AGENT, viewport={'width': 1280, 'height': 720})
+        
+        # FUNGSI ANTI-POPUP: Tutup semua tab baru dengan cepat!
+        async def close_popup(new_page):
+            await new_page.close()
+        context.on("page", close_popup) 
+
         page = await context.new_page()
 
         for cat, anchor_text, href in all_candidates:
