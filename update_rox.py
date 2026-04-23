@@ -24,7 +24,6 @@ TIVIMATE_OUTPUT = "Roxiestreams_TiviMate.m3u8"
 
 HEADERS = {"User-Agent": USER_AGENT, "Referer": REFERER, "Accept-Language": "en-US,en;q=0.9"}
 
-# Logo / Metadata Dictionary
 TV_INFO = {
     "soccer": ("Soccer.Dummy.us", "https://i.postimg.cc/HsWHFvV0/Soccer.png", "Soccer"),
     "mlb": ("MLB.Baseball.Dummy.us", "https://i.postimg.cc/FsFmwC7K/Baseball3.png", "MLB"),
@@ -44,7 +43,6 @@ TV_INFO = {
 
 M3U8_RE = re.compile(r"(https?://[^\s\"'<>`]+?\.m3u8(?:\?[^\"'<>`\s]*)?)", re.IGNORECASE)
 
-# Session for fast category parsing
 SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
 SESSION.timeout = 10
@@ -61,8 +59,7 @@ def fetch(url, timeout=12):
         return None, ""
 
 def clean_event_title(raw_title):
-    if not raw_title:
-        return ""
+    if not raw_title: return ""
     t = html.unescape(raw_title).strip()
     t = " ".join(t.split())
     t = re.sub(r"\s*-\s*Roxiestreams.*$", "", t, flags=re.IGNORECASE)
@@ -84,13 +81,11 @@ def extract_m3u8_from_text(text, base=None):
     return None
 
 def get_category_event_candidates(category_path):
-    """Mengambil daftar pertandingan (Tetap Cepat & Logika WITA 3.5 jam)"""
     cat_url = BASE_URL if not category_path else urljoin(BASE_URL, category_path)
     print(f"Processing category: {category_path or 'root'} -> {cat_url}")
     
     soup, html_text = fetch(cat_url)
-    if not soup and not html_text:
-        return []
+    if not soup and not html_text: return []
 
     candidates = []
     seen = set()
@@ -179,7 +174,7 @@ def write_playlists(streams):
             f.write(f'{url}|referer={REFERER}|user-agent={ua_enc}\n\n')
 
 # ------------------------------------------------------------------
-# PLAYWRIGHT NETWORK SNIFFER + LOGIKA BROSUR
+# PLAYWRIGHT: SNIFFER + SIMULASI KLIK TOMBOL PLAY
 # ------------------------------------------------------------------
 async def get_stream_url_playwright(page, url):
     captured_m3u8 = None
@@ -193,8 +188,23 @@ async def get_stream_url_playwright(page, url):
     page.on("request", handle_request)
 
     try:
+        # Buka halaman
         await page.goto(url, wait_until="domcontentloaded", timeout=15000)
-        await page.wait_for_timeout(3000)
+        await page.wait_for_timeout(2000)
+
+        # SIMULASI MANUSIA: KLIK TENGAH LAYAR UNTUK MEMICU TOMBOL PLAY
+        # Kami mengukur lebar layar viewport robot, lalu mengeklik tepat di tengah
+        viewport = page.viewport_size
+        x = (viewport['width'] / 2) if viewport else 640
+        y = (viewport['height'] / 2) if viewport else 360
+
+        # Klik 3 kali secara berkala (1x hilangkan overlay, 1x tutup iklan popup, 1x Play video)
+        for _ in range(3):
+            if captured_m3u8: 
+                break # Jika jaringan sudah keluar, berhenti klik
+            await page.mouse.click(x, y)
+            await page.wait_for_timeout(1500) # Jeda antar klik agar web merespons
+
     except Exception as e:
         pass 
 
@@ -203,7 +213,6 @@ async def get_stream_url_playwright(page, url):
     if not captured_m3u8:
         try:
             content = await page.content()
-            # Logika "Mencari m3u8 di mana saja"
             m = M3U8_RE.search(content)
             if m:
                 captured_m3u8 = m.group(1)
@@ -231,11 +240,12 @@ async def main():
         print("No streams found.")
         return
 
-    print(f"\nMulai proses Sniffing untuk {len(all_candidates)} pertandingan...")
+    print(f"\nMulai proses Sniffing & Clicking untuk {len(all_candidates)} pertandingan...")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
-        context = await browser.new_context(user_agent=USER_AGENT)
+        # Kami menyertakan pengaturan layar default agar klik mouse bekerja akurat
+        context = await browser.new_context(user_agent=USER_AGENT, viewport={'width': 1280, 'height': 720})
         page = await context.new_page()
 
         for cat, anchor_text, href in all_candidates:
@@ -248,14 +258,12 @@ async def main():
                     all_streams.append(((cat or "misc"), display_name, clean))
                 continue
 
-            print(f"Mengendus URL: {href}")
+            print(f"Membuka & Mengeklik: {href}")
             clean_m3u8 = await get_stream_url_playwright(page, href)
 
             # --- LOGIKA BROSUR (PENGUMPUL SEMUA JADWAL) ---
             is_live_sniffed = True
             if not clean_m3u8:
-                # Jika tidak ada video m3u8 sama sekali, jangan dibuang!
-                # Jadikan URL halamannya sebagai placeholder agar jadwal tetap masuk playlist.
                 clean_m3u8 = href
                 is_live_sniffed = False
 
@@ -275,9 +283,9 @@ async def main():
                 all_streams.append(((cat or "misc"), display_name, clean_m3u8))
                 
                 if is_live_sniffed:
-                    print(f"  ✅ DAPAT VIDEO: {clean_m3u8}")
+                    print(f"  ✅ DAPAT VIDEO M3U8: {clean_m3u8}")
                 else:
-                    print(f"  ⚠️ TERSIMPAN SBG JADWAL: {clean_m3u8}")
+                    print(f"  ⚠️ TERSIMPAN SBG JADWAL URL: {clean_m3u8}")
 
         await browser.close()
 
