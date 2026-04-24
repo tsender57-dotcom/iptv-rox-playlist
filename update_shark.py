@@ -94,14 +94,16 @@ def get_shark_events():
                 
             time_str = f"[{dt_wib.strftime('%H:%M WIB')}]"
             diff_seconds = (now_wib - dt_wib).total_seconds()
-            is_live = (0 <= diff_seconds <= 12600)
+            is_live = (0 <= diff_seconds <= 14400)
             
         except ValueError:
             time_str = f"[{raw_time}]"
             is_live = False
 
         time_tag = f"[🔴 LIVE] {time_str}" if is_live else time_str
-        full_title = f"{time_tag} {event_name}".strip()
+        
+        # --- PENYISIPAN NAMA LIGA ---
+        full_title = f"{time_tag} [{sport}] {event_name}".strip()
 
         events.append({
             "sport": sport,
@@ -146,7 +148,7 @@ def main():
         m3u8_link = extract_api_m3u8(ev["api_link"])
         
         if m3u8_link:
-            # Format: [Waktu WIB] Nama Acara - SHRK
+            # Format akhir akan menjadi: [🔴 LIVE] [Waktu WIB] [Liga] Nama Acara - SHRK
             display_name = f"{ev['title']} - SHRK"
             
             all_streams.append((ev["sport"], display_name, m3u8_link))
@@ -172,7 +174,7 @@ def main():
             f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
             f.write(f'{url}\n\n')
 
-    # Menulis untuk TiviMate Output dengan struktur baris yang sama (bukan disatukan dengan URL)
+    # Menulis untuk TiviMate Output dengan struktur baris yang sama
     with open(TIVIMATE_OUTPUT, "w", encoding="utf-8") as f:
         f.write(header)
         for sport, title, url in all_streams:
