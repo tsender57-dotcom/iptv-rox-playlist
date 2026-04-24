@@ -1,1 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [MLB] Detroit Tigers vs Cincinnati Reds (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [MLB] Detroit Tigers vs Cincinnati Reds (SPORTir)
+#EXTVLCOPT:http-referrer=https://mlb24all.ir
+#EXTVLCOPT:http-origin=https://mlb24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://node-6a57c764.streamtofu.com/69ec5b2b.fe759568i2d5bc482.11987.5ec3e75c/free.live.espn/master.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[06:05 WIB] [MLB] Boston Red Sox vs Baltimore Orioles (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[06:05 WIB] [MLB] Boston Red Sox vs Baltimore Orioles (SPORTir)
+#EXTVLCOPT:http-referrer=https://mlb24all.ir
+#EXTVLCOPT:http-origin=https://mlb24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://node-59639d19.streamtofu.com/69ec5b2c.0d6c37dei2d5bc482.11982.05396374/free.live.espn/master.m3u8
