@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-24 15:37 UTC
+# Last Updated: 2026-04-24 16:39 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [LPGA TOUR: The Chevron Championship (USA)] LPGA TOUR: The Chevron Championship (USA) - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German 2. Bundesliga] FC Kaiserslautern vs Eintracht Braunschweig - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/79bf0421d0fd0035399ca9c98eb71f0c/prime/lpga-tour-the-chevron-championship-usa/1/23_0bnTzfAN/playlist.m3u8
+https://lb1.wfty.wtf/playlist/b3159dc82d7e7367424bbf06f5cef1e4/easy/kaiserslautern-tsv-eintracht-braunschweig/1/4464451/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Veikkausliiga] VPS vs Ilves - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German 2. Bundesliga] Fortuna Düsseldorf vs Dynamo Dresden - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/2a375281c96c106314614af7931ec0cd/regular/vaasa-ps-ilves/1/5147527/playlist.m3u8
+https://lb10.wfty.wtf/playlist/58a37a3d9aeaf4b9f77d3e08f39830f9/easy/fortuna-dusseldorf-dynamo-dresden/1/4465196/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ekstraklasa] Zagłębie Lubin vs Termalica Nieciecza - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/playlist/2aa03f9635e147f370847d9581c44031/easy/zaglebie-lubin-termalica-nieciecza/1/4803688/playlist.m3u8
 
