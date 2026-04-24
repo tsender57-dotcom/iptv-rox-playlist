@@ -75,11 +75,9 @@ def get_wfty_live_events():
         for link in api_data:
             if not link.get("viewerCount"): continue
             
-            # Ekstrak Nama Liga
             league = link.get("league") or link.get("competition") or "Misc"
             title = link.get("title", "Unknown Event")
             
-            # Ekstrak Jam Kick-off (Fallback pertama)
             raw_time = link.get("startTime") or link.get("startDate")
             time_str = ""
             if raw_time:
@@ -108,7 +106,7 @@ def get_wfty_live_events():
         return []
 
 def get_embed_data(event_id, fallback_time):
-    """Menembak API detail untuk mendapatkan URL Iframe DAN Jam Kick-off (jika di awal kosong)."""
+    """Menembak API detail untuk mendapatkan URL Iframe DAN Jam Kick-off."""
     now = datetime.utcnow()
     start_iso = now.isoformat() + "Z"
     end_iso = (now + timedelta(days=1)).isoformat() + "Z"
@@ -125,7 +123,6 @@ def get_embed_data(event_id, fallback_time):
         data = r.json()
         api_data = data[-1].get("result", {}).get("data", {}).get("json", {})
         
-        # --- JURUS MENGGELEDAH JAM DETAIL ---
         time_str = fallback_time
         fixture_data = api_data.get("fixtureData", {})
         
@@ -143,7 +140,6 @@ def get_embed_data(event_id, fallback_time):
                     time_str = f"[{dt_wib.strftime('%H:%M WIB')}] "
                 except: pass
 
-        # Mengambil link Iframe terbaik
         links = fixture_data.get("links", [])
         valid_links = [l for l in links if l.get("wld") and "e" not in l.get("wld")]
         valid_links.sort(key=lambda x: x.get("viewerCount", -1), reverse=True)
@@ -177,14 +173,12 @@ async def extract_m3u8_playwright(page, url):
         await page.goto(url, wait_until="domcontentloaded", timeout=20000)
         await page.wait_for_timeout(3000)
 
-        # Hajar Clappr Player
         try:
             btn = page.locator("button.streambutton").first
             if await btn.count() > 0:
                 await btn.dblclick(force=True, timeout=2000)
         except: pass
 
-        # Curi dari memori Iframe
         try:
             src = await page.evaluate("() => clapprPlayer.options.source")
             if src and ".m3u8" in src: stream_url = src
@@ -210,11 +204,7 @@ async def main():
     async with async_playwright() as p:
         browser = await p.chromium.launch(
             headless=True, 
-            args=[
-                "--no-sandbox", 
-                "--disable-dev-shm-usage",
-                "--disable-web-security"
-            ]
+            args=["--no-sandbox", "--disable-dev-shm-usage", "--disable-web-security"]
         )
         context = await browser.new_context(user_agent=USER_AGENT)
         page = await context.new_page()
@@ -229,8 +219,6 @@ async def main():
                 
             embed_url, time_str = embed_data
             
-            # --- RAKITAN NAMA PAMUNGKAS ---
-            # Format: [🔴 LIVE] [Jam WIB] [Nama Liga] Nama Pertandingan - WFTY
             full_title = f"[🔴 LIVE] {time_str}[{ev['league_name']}] {ev['title']} - WFTY"
             
             m3u8_link = await extract_m3u8_playwright(page, embed_url)
@@ -247,25 +235,32 @@ async def main():
         print("\nGagal mengekstrak stream apapun.")
         return
 
-    # Tulis playlist
     ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     header = f'#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n# Last Updated: {ts}\n\n'
 
+    # JURUS FORMAT BARIS (EXTVLCOPT)
     with open(VLC_OUTPUT, "w", encoding="utf-8") as f:
         f.write(header)
         for sport, title, url in all_streams:
             tvg_id, logo, group_name = get_tv_data(sport)
-            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Watchfooty - {group_name}",{title}\n{url}\n\n')
+            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Watchfooty - {group_name}",{title}\n')
+            f.write(f'#EXTVLCOPT:http-referrer=https://sportsembed.su/\n')
+            f.write(f'#EXTVLCOPT:http-origin=https://sportsembed.su\n')
+            f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
+            f.write(f'{url}\n\n')
 
-    ua_enc = quote(USER_AGENT, safe="")
     with open(TIVIMATE_OUTPUT, "w", encoding="utf-8") as f:
         f.write(header)
         for sport, title, url in all_streams:
             tvg_id, logo, group_name = get_tv_data(sport)
-            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Watchfooty - {group_name}",{title}\n{url}|referer=https://sportsembed.su/|user-agent={ua_enc}\n\n')
+            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Watchfooty - {group_name}",{title}\n')
+            f.write(f'#EXTVLCOPT:http-referrer=https://sportsembed.su/\n')
+            f.write(f'#EXTVLCOPT:http-origin=https://sportsembed.su\n')
+            f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
+            f.write(f'{url}\n\n')
 
     print(f"\nSelesai! {len(all_streams)} tayangan berhasil disimpan.")
 
 if __name__ == "__main__":
     asyncio.run(main())
-    
+        
