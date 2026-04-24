@@ -161,19 +161,27 @@ def main():
     ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     header = f'#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n# Last Updated: {ts}\n\n'
 
+    # Menulis untuk VLC Output dengan tag per baris
     with open(VLC_OUTPUT, "w", encoding="utf-8") as f:
         f.write(header)
         for sport, title, url in all_streams:
             tvg_id, logo, group_name = get_tv_data(sport)
-            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Shark - {group_name}",{title}\n{url}\n\n')
+            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Shark - {group_name}",{title}\n')
+            f.write(f'#EXTVLCOPT:http-referrer={BASE_URL}/\n')
+            f.write(f'#EXTVLCOPT:http-origin={BASE_URL}\n')
+            f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
+            f.write(f'{url}\n\n')
 
-    from urllib.parse import quote
-    ua_enc = quote(USER_AGENT, safe="")
+    # Menulis untuk TiviMate Output dengan struktur baris yang sama (bukan disatukan dengan URL)
     with open(TIVIMATE_OUTPUT, "w", encoding="utf-8") as f:
         f.write(header)
         for sport, title, url in all_streams:
             tvg_id, logo, group_name = get_tv_data(sport)
-            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Shark - {group_name}",{title}\n{url}|referer={BASE_URL}|user-agent={ua_enc}\n\n')
+            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Shark - {group_name}",{title}\n')
+            f.write(f'#EXTVLCOPT:http-referrer={BASE_URL}/\n')
+            f.write(f'#EXTVLCOPT:http-origin={BASE_URL}\n')
+            f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
+            f.write(f'{url}\n\n')
 
     print(f"\nSelesai! {len(all_streams)} tayangan berhasil disimpan.")
 
