@@ -546,20 +546,6 @@
     "endPartie": "2026-04-25T23:05:00"
   },
   {
-    "id": 8732,
-    "category": null,
-    "categoryId": 16,
-    "name": "Carolina Hurricanes vs Ottawa Senators",
-    "description": "Carolina Hurricanes at Ottawa Senators - CAR @ OTT",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png",
-    "gameName": "Carolina Hurricanes at Ottawa Senators",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png",
-    "videoUrl": "https://streams.center/embed/ch50.php<English",
-    "beginPartie": "2026-04-25T20:00:00",
-    "endPartie": "2026-04-25T23:00:00"
-  },
-  {
     "id": 8692,
     "category": null,
     "categoryId": 9,
@@ -570,6 +556,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
     "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
+    "beginPartie": "2026-04-25T20:00:00",
+    "endPartie": "2026-04-25T23:00:00"
+  },
+  {
+    "id": 8732,
+    "category": null,
+    "categoryId": 16,
+    "name": "Carolina Hurricanes vs Ottawa Senators",
+    "description": "Carolina Hurricanes at Ottawa Senators - CAR @ OTT",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png",
+    "gameName": "Carolina Hurricanes at Ottawa Senators",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png",
+    "videoUrl": "https://streams.center/embed/ch50.php<English",
     "beginPartie": "2026-04-25T20:00:00",
     "endPartie": "2026-04-25T23:00:00"
   },
@@ -600,34 +600,6 @@
     "videoUrl": "https://streams.center/embed/ch16.php<English",
     "beginPartie": "2026-04-25T19:15:00",
     "endPartie": "2026-04-25T22:15:00"
-  },
-  {
-    "id": 8708,
-    "category": null,
-    "categoryId": 9,
-    "name": "Paris Saint-Germain vs Angers",
-    "description": "Paris Saint-Germain at Angers - PSG @ ANG",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-    "gameName": "Paris Saint-Germain at Angers",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-    "videoUrl": "https://streams.center/embed/ch7.php<English",
-    "beginPartie": "2026-04-25T18:00:00",
-    "endPartie": "2026-04-25T21:00:00"
-  },
-  {
-    "id": 8735,
-    "category": null,
-    "categoryId": 4,
-    "name": "Detroit Pistons vs Orlando Magic",
-    "description": "Detroit Pistons at Orlando Magic - DET @ ORL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-    "gameName": "Detroit Pistons at Orlando Magic",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-    "videoUrl": "https://streams.center/embed/ch65.php<English",
-    "beginPartie": "2026-04-25T18:00:00",
-    "endPartie": "2026-04-25T21:00:00"
   },
   {
     "id": 8741,
