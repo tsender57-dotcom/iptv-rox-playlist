@@ -546,20 +546,6 @@
     "endPartie": "2026-04-25T23:05:00"
   },
   {
-    "id": 8692,
-    "category": null,
-    "categoryId": 9,
-    "name": "Athletic Club vs Atlético Madrid",
-    "description": "Athletic Club at Atlético Madrid - ATH @ ATM",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-    "gameName": "Athletic Club at Atlético Madrid",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
-    "beginPartie": "2026-04-25T20:00:00",
-    "endPartie": "2026-04-25T23:00:00"
-  },
-  {
     "id": 8732,
     "category": null,
     "categoryId": 16,
@@ -570,6 +556,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png",
     "videoUrl": "https://streams.center/embed/ch50.php<English",
+    "beginPartie": "2026-04-25T20:00:00",
+    "endPartie": "2026-04-25T23:00:00"
+  },
+  {
+    "id": 8692,
+    "category": null,
+    "categoryId": 9,
+    "name": "Athletic Club vs Atlético Madrid",
+    "description": "Athletic Club at Atlético Madrid - ATH @ ATM",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+    "gameName": "Athletic Club at Atlético Madrid",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
     "beginPartie": "2026-04-25T20:00:00",
     "endPartie": "2026-04-25T23:00:00"
   },
@@ -628,34 +628,6 @@
     "videoUrl": "https://streams.center/embed/ch65.php<English",
     "beginPartie": "2026-04-25T18:00:00",
     "endPartie": "2026-04-25T21:00:00"
-  },
-  {
-    "id": 8685,
-    "category": null,
-    "categoryId": 9,
-    "name": "Newcastle United vs Arsenal",
-    "description": "Newcastle United at Arsenal - NEW @ ARS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-    "gameName": "Newcastle United at Arsenal",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-    "videoUrl": "https://streams.center/embed/ch1.php<English",
-    "beginPartie": "2026-04-25T17:30:00",
-    "endPartie": "2026-04-25T20:30:00"
-  },
-  {
-    "id": 8691,
-    "category": null,
-    "categoryId": 9,
-    "name": "Girona vs Valencia",
-    "description": "Girona at Valencia - GIR @ VAL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-    "gameName": "Girona at Valencia",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png",
-    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
-    "beginPartie": "2026-04-25T17:30:00",
-    "endPartie": "2026-04-25T20:30:00"
   },
   {
     "id": 8741,
