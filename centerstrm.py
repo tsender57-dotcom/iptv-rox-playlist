@@ -16,7 +16,8 @@ TAG = "STRMCNTR"
 CACHE_FILE = Cache(f"{TAG.lower()}.json", exp=10_800)
 API_FILE = Cache(f"{TAG.lower()}-api.json", exp=7_200)
 
-OUTPUT_FILE = Path("centerstrm.m3u")
+# 1. Ekstensi diubah menjadi .m3u8 agar UTF-8 (Emoji) terbaca sempurna
+OUTPUT_FILE = Path("centerstrm.m3u8")
 
 # API URL FROM SECRET
 BASE_URL = os.environ.get("CENTERSTRM_API")
@@ -37,11 +38,8 @@ CATEGORIES = {
     21: "Tennis",
 }
 
-UA_ENC = (
-    "Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)"
-    "%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)"
-    "%20Chrome%2F144.0.0.0%20Safari%2F537.36"
-)
+# 2. User-Agent diubah ke format teks normal (bukan URL Encoded)
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
 
 
 # -------------------------------------------------
@@ -62,12 +60,12 @@ def build_playlist(data: dict) -> str:
             f'group-title="Live Events",{name}'
         )
 
-        lines.append(
-            f'{e["url"]}'
-            f'|referer=https://streamcenter.xyz/'
-            f'|origin=https://streamcenter.xyz'
-            f'|user-agent={UA_ENC}'
-        )
+        # 3. Format baris bersusun EXTVLCOPT
+        lines.append(f'#EXTVLCOPT:http-referrer=https://streamcenter.xyz/')
+        lines.append(f'#EXTVLCOPT:http-origin=https://streamcenter.xyz')
+        lines.append(f'#EXTVLCOPT:http-user-agent={USER_AGENT}')
+        lines.append(f'{e["url"]}')
+        
         ch += 1
 
     return "\n".join(lines) + "\n"
@@ -161,7 +159,7 @@ async def scrape() -> None:
 
     if not events:
         OUTPUT_FILE.write_text(build_playlist(cached), encoding="utf-8")
-        log.info(f"Wrote {len(cached)} entries to centerstrm.m3u")
+        log.info(f"Wrote {len(cached)} entries to {OUTPUT_FILE.name}")
         return
 
     async with async_playwright() as p:
@@ -233,7 +231,7 @@ async def scrape() -> None:
     CACHE_FILE.write(cached)
     OUTPUT_FILE.write_text(build_playlist(cached), encoding="utf-8")
 
-    log.info(f"Wrote {len(cached)} entries to centerstrm.m3u")
+    log.info(f"Wrote {len(cached)} entries to {OUTPUT_FILE.name}")
 
 
 # -------------------------------------------------
