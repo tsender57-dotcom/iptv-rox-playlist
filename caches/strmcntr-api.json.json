@@ -70,20 +70,6 @@
     "endPartie": "2026-04-26T23:00:00"
   },
   {
-    "id": 8714,
-    "category": null,
-    "categoryId": 9,
-    "name": "Nice vs Marseille",
-    "description": "Nice at Marseille - NICE @ OLM",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-    "gameName": "Nice at Marseille",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-    "videoUrl": "https://streams.center/embed/ch7.php<English",
-    "beginPartie": "2026-04-26T19:45:00",
-    "endPartie": "2026-04-26T22:45:00"
-  },
-  {
     "id": 8704,
     "category": null,
     "categoryId": 9,
@@ -94,6 +80,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
     "videoUrl": "https://streams.center/embed/ch9.php<Italien",
+    "beginPartie": "2026-04-26T19:45:00",
+    "endPartie": "2026-04-26T22:45:00"
+  },
+  {
+    "id": 8714,
+    "category": null,
+    "categoryId": 9,
+    "name": "Nice vs Marseille",
+    "description": "Nice at Marseille - NICE @ OLM",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+    "gameName": "Nice at Marseille",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+    "videoUrl": "https://streams.center/embed/ch7.php<English",
     "beginPartie": "2026-04-26T19:45:00",
     "endPartie": "2026-04-26T22:45:00"
   },
@@ -630,20 +630,6 @@
     "endPartie": "2026-04-25T21:00:00"
   },
   {
-    "id": 8691,
-    "category": null,
-    "categoryId": 9,
-    "name": "Girona vs Valencia",
-    "description": "Girona at Valencia - GIR @ VAL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-    "gameName": "Girona at Valencia",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png",
-    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
-    "beginPartie": "2026-04-25T17:30:00",
-    "endPartie": "2026-04-25T20:30:00"
-  },
-  {
     "id": 8685,
     "category": null,
     "categoryId": 9,
@@ -654,6 +640,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
     "videoUrl": "https://streams.center/embed/ch1.php<English",
+    "beginPartie": "2026-04-25T17:30:00",
+    "endPartie": "2026-04-25T20:30:00"
+  },
+  {
+    "id": 8691,
+    "category": null,
+    "categoryId": 9,
+    "name": "Girona vs Valencia",
+    "description": "Girona at Valencia - GIR @ VAL",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+    "gameName": "Girona at Valencia",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png",
+    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
     "beginPartie": "2026-04-25T17:30:00",
     "endPartie": "2026-04-25T20:30:00"
   },
@@ -686,20 +686,6 @@
     "endPartie": "2026-04-25T20:05:00"
   },
   {
-    "id": 8741,
-    "category": null,
-    "categoryId": 14,
-    "name": "NFL Draft Day 3",
-    "description": "NFL Draft Day 3",
-    "logoTeam1": "",
-    "gameName": null,
-    "popularLive": false,
-    "logoTeam2": "",
-    "videoUrl": "https://streams.center/embed/ch30.php<English",
-    "beginPartie": "2026-04-25T17:00:00",
-    "endPartie": "2026-04-26T02:00:00"
-  },
-  {
     "id": 8699,
     "category": null,
     "categoryId": 9,
@@ -712,6 +698,20 @@
     "videoUrl": "https://streams.center/embed/ch9.php<Italien",
     "beginPartie": "2026-04-25T17:00:00",
     "endPartie": "2026-04-25T20:00:00"
+  },
+  {
+    "id": 8741,
+    "category": null,
+    "categoryId": 14,
+    "name": "NFL Draft Day 3",
+    "description": "NFL Draft Day 3",
+    "logoTeam1": "",
+    "gameName": null,
+    "popularLive": false,
+    "logoTeam2": "",
+    "videoUrl": "https://streams.center/embed/ch30.php<English",
+    "beginPartie": "2026-04-25T17:00:00",
+    "endPartie": "2026-04-26T02:00:00"
   },
   {
     "id": 8690,
@@ -810,20 +810,6 @@
     "videoUrl": "https://streams.center/embed/ch9.php<Italien",
     "beginPartie": "2026-04-25T14:00:00",
     "endPartie": "2026-04-25T17:00:00"
-  },
-  {
-    "id": 8689,
-    "category": null,
-    "categoryId": 9,
-    "name": "Mallorca vs Alavés",
-    "description": "Mallorca at Alavés - MLL @ ALA",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-    "gameName": "Mallorca at Alavés",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
-    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
-    "beginPartie": "2026-04-25T13:00:00",
-    "endPartie": "2026-04-25T16:00:00"
   },
   {
     "id": 8681,
