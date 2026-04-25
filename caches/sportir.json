@@ -41,18 +41,18 @@
     "timestamp": 1777154700.0,
     "id": "MLB.Baseball.Dummy.us"
   },
-  "[MLB] Seattle Mariners vs St. Louis Cardinals (SPORTir)": {
-    "url": "https://node-6a57c764.streamtofu.com/69eda5ae.f86b8f4cia18c8e78.11c51.b91189c5/free.live.espn/master.m3u8",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "base": "https://mlb24all.ir",
-    "timestamp": 1777140900.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
   "[NHL] Dallas Stars vs Minnesota Wild (SPORTir)": {
     "url": null,
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
     "base": "https://nhl24all.ir",
     "timestamp": 1777152600.0,
     "id": "NHL.Hockey.Dummy.us"
+  },
+  "[MLB] Seattle Mariners vs St. Louis Cardinals (SPORTir)": {
+    "url": "https://node-6a57c764.streamtofu.com/69eda821.c7c82691i0af98a41.11c51.c35d5860/free.live.espn/master.m3u8",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "base": "https://mlb24all.ir",
+    "timestamp": 1777140900.0,
+    "id": "MLB.Baseball.Dummy.us"
   }
 }
