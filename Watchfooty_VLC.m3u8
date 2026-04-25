@@ -1,21 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-25 12:51 UTC
+# Last Updated: 2026-04-25 13:02 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Fulham vs Aston Villa - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/F9r08-nWsm9xcz4PxHbmdQ/easy/fulham-aston-villa/1/740935/1777143074/playlist.m3u8
+https://lb4.wfty.wtf/playlist/39K8reApIO8F_t5eMZSkFw/easy/fulham-aston-villa/1/740935/1777143695/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Women's Super League] Brighton & Hove Albion vs Manchester City - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/playlist/da35jzM9mZLjQOo3PRECBg/easy/brighton-hove-albion-manchester-city/1/754411/1777143077/playlist.m3u8
+https://lb3.wfty.wtf/playlist/6uXF3LQkDRef-qPRChafVQ/easy/brighton-hove-albion-manchester-city/1/754411/1777143698/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA] Alaves vs Mallorca - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Malaysian Super League] Brunei DPMM vs Kuching City - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/playlist/oHNiVl8QblT1ihdu0xYTgg/easy/alaves-mallorca/1/4467347/1777143081/playlist.m3u8
+https://lb7.wfty.wtf/playlist/dip8gzwGd0FEsm51ducbYA/regular/dpmm-fc-kuching-city-fc/1/4865042/1777143701/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA] Deportivo Alaves vs Mallorca - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/playlist/-LZrdwsdTDvpeuAeQETXww/easy/alaves-mallorca/1/4837420/1777143717/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Frauen Bundesliga] Rb Leipzig (W) vs Werder Bremen (W) - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/playlist/4WP9PufQGDO24NR4lu5AtA/easy/rb-leipzig-w-werder-bremen-w/1/4484320/1777143720/playlist.m3u8
 
