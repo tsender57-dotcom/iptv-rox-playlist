@@ -41,15 +41,8 @@
     "timestamp": 1777158900.0,
     "id": "MLB.Baseball.Dummy.us"
   },
-  "[MLB] Seattle Mariners vs St. Louis Cardinals (SPORTir)": {
-    "url": "https://node-6a57c764.streamtofu.com/69edacc5.748552e9i2db01d86.11c51.39f64c31/free.live.espn/master.m3u8",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "base": "https://mlb24all.ir",
-    "timestamp": 1777140900.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
   "[NHL] Carolina Hurricanes vs Ottawa Senators (SPORTir)": {
-    "url": "https://node-9b5feb01.streamtofu.com/69edacc5.5f4d847ci2db01d86.11e21.6d144ef9/free.live.sportsnet/master.m3u8",
+    "url": "https://node-9b5feb01.streamtofu.com/69edaf06.9f71d0dbi0ec21a41.11e21.a6eca207/free.live.sportsnet/master.m3u8",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
     "base": "https://nhl24all.ir",
     "timestamp": 1777143600.0,
