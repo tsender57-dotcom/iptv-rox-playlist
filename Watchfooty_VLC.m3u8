@@ -1,39 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-25 13:41 UTC
+# Last Updated: 2026-04-25 13:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] Mainz 05 vs Bayern Munich - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/C-OIaiZMSogMax9cGvKFBA/easy/mainz-bayern-munchen/1/4464647/1777146078/playlist.m3u8
+https://lb9.wfty.wtf/playlist/Wu6205XIhRH3aontDRn6MA/easy/mainz-bayern-munchen/1/4464647/1777146680/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] Köln vs Leverkusen - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/playlist/cgpq-EjZdX7it_H25UbdKQ/easy/fc-cologne-bayer-leverkusen/1/4829587/1777146085/playlist.m3u8
+https://lb4.wfty.wtf/playlist/Ro3d5PF63M2yIXellvdDEA/easy/fc-cologne-bayer-leverkusen/1/4829587/1777146687/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] 1. FC Heidenheim 1846 vs St. Pauli - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/_Pw_k4HJ5HIgEvAO25Y8gA/easy/1-fc-heidenheim-1846-st-pauli/1/746988/1777146088/playlist.m3u8
+https://lb7.wfty.wtf/playlist/3w0HLU6FCYqXS6k0MyoJ4g/easy/1-fc-heidenheim-1846-st-pauli/1/746988/1777146690/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] Augsburg vs Frankfurt - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/playlist/orjLCqS7L5fNO2JtabIoeQ/easy/fc-augsburg-eintracht-frankfurt/1/4829585/1777146693/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [French Ligue 1] Lyon vs AJ Auxerre - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/playlist/vlI3UXgrqlICJSKwNmheRQ/easy/lyon-aj-auxerre/1/746686/1777146096/playlist.m3u8
+https://lb10.wfty.wtf/playlist/X-tXrWyye_PqCneI1qRfjQ/easy/lyon-aj-auxerre/1/746686/1777146697/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [First Professional League] CSKA Sofia vs Levski Sofia - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie B] Reggiana vs Palermo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/IdjGV49Zpz_VCj-Pw7oavA/prime/cska-sofia-levski-sofia/1/4703489/1777146099/playlist.m3u8
+https://lb7.wfty.wtf/playlist/Gs676AP4_XP-nnQwvYEgEQ/easy/reggiana-palermo/1/4510505/1777146700/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie A] Parma vs Pisa - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/viiHMOc_TL9nIyBxjGd2cg/easy/parma-pisa/1/4803375/1777146103/playlist.m3u8
+https://lb9.wfty.wtf/playlist/xflX9_jd5zr2QpOGsSMqAQ/easy/parma-pisa/1/4445145/1777146703/playlist.m3u8
 
