@@ -1,63 +1,57 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-25 16:41 UTC
+# Last Updated: 2026-04-25 16:52 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Arsenal vs Newcastle United - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/cQD4r6O8seHDxHTrucoUDg/easy/arsenal-newcastle-united/1/4452596/1777156886/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FA Cup - Semi Finals] Manchester City vs Southampton - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/ylDglpJ0MC-omh3Q59A7xQ/easy/manchester-city-southampton/1/4699330/1777156889/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA Women's Champions League] Bayern München vs Barcelona - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/EWcpLeaa2HVYOb9nx1yBvg/easy/bayern-munchen-barcelona/1/401842605/1777156892/playlist.m3u8
+https://lb8.wfty.wtf/playlist/WiAH_se06WCN6yXCJg_Ehg/easy/arsenal-newcastle-united/1/4452596/1777157476/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English FA Cup] Manchester City vs Southampton - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/playlist/46TeCjPGsaziF_5t99ndsA/easy/manchester-city-southampton/1/401867654/1777156896/playlist.m3u8
+https://lb4.wfty.wtf/playlist/oku0tzcqxAYw3-lU_RfEqQ/easy/manchester-city-southampton/1/401867654/1777157479/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie A] Bologna vs Roma - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA Women's Champions League] Bayern München vs Barcelona - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/playlist/GS9NNsvLWtCd5Z29VNUBow/easy/bologna-as-roma/1/4803368/1777156899/playlist.m3u8
+https://lb2.wfty.wtf/playlist/gdRbl18ng7BgohhiJ7O5ew/easy/bayern-munchen-barcelona/1/401842605/1777157483/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FA Cup - Semi Finals] Manchester City vs Southampton - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/playlist/8OVeRn_3SlP0GXR1QTr8ZQ/easy/manchester-city-southampton/1/4699330/1777157486/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Baltimore Orioles vs Boston Red Sox - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/playlist/mgMiDTC4W44FJVskd3OhEA/easy/baltimore-orioles-boston-red-sox/1/401815080/1777156902/playlist.m3u8
+https://lb9.wfty.wtf/playlist/ytkzysAeD0Zm5BIke1aUSA/easy/baltimore-orioles-boston-red-sox/1/401815080/1777157509/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership - Championship Group] Celtic vs Falkirk - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/cyeMBMb8kmc8Hs5xO7jKGA/easy/celtic-falkirk/1/4699951/1777156906/playlist.m3u8
+https://lb1.wfty.wtf/playlist/E7Jt_BBOzAW7DxcmoEnZoQ/easy/celtic-falkirk/1/4699951/1777157512/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] Hamburg SV vs TSG Hoffenheim - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/CpeHInTT68aQ-1ZyjZVjfg/easy/hamburg-sv-tsg-hoffenheim/1/746993/1777156909/playlist.m3u8
+https://lb6.wfty.wtf/playlist/0X4ZdiF2shfNpXet0RqE5A/easy/hamburg-sv-tsg-hoffenheim/1/746993/1777157515/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Gallagher Prem] Northampton Saints vs Bath Rugby - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/playlist/ycbZhRRSsr5Af0IksFOH8w/easy/northampton-saints-bath-rugby/1/603048/1777157519/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership] Celtic vs Falkirk - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/playlist/0dDo9WyPnAFootA-BOA9gQ/easy/celtic-falkirk/1/401867697/1777156913/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [AFC Champions League Elite] Al Ahli vs Machida Zelvia - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/u-4JirBB_oildg8PdNYw-Q/easy/al-ahli-machida-zelvia/1/5359905/1777156916/playlist.m3u8
+https://lb9.wfty.wtf/playlist/vSsCTyPFkXfaoqrh3DtDMQ/easy/celtic-falkirk/1/401867697/1777157523/playlist.m3u8
 
