@@ -1,11 +1,4 @@
 {
-  "[MLB] Seattle Mariners vs St. Louis Cardinals (SPORTir)": {
-    "url": "https://node-6a57c764.streamtofu.com/69ed6b21.4c0f7ceei42e54c48.11c51.7a688010/free.live.espn/master.m3u8",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "base": "https://mlb24all.ir",
-    "timestamp": 1777140900.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
   "[MLB] Cleveland Guardians vs Toronto Blue Jays (SPORTir)": {
     "url": "https://node-31fbddbb.streamtofu.com/69ed7927.a2df837ci2f6c1641.11e30.7acc11de/free.live.sportsnet/master.m3u8",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
@@ -39,6 +32,13 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
     "base": "https://mlb24all.ir",
     "timestamp": 1777147800.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "[MLB] Seattle Mariners vs St. Louis Cardinals (SPORTir)": {
+    "url": null,
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "base": "https://mlb24all.ir",
+    "timestamp": 1777140900.0,
     "id": "MLB.Baseball.Dummy.us"
   }
 }
