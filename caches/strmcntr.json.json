@@ -1,135 +1,44 @@
 {
+  "8698": {
+    "name": "[20:00 WIB] [Football] Pisa at Parma (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=q6W_biw9txysAcYggYOhEJZqorYELKYajXGTAo4nStI&e=1777108908",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777118400.0,
+    "id": "Soccer.Dummy.us"
+  },
+  "8707": {
+    "name": "[20:00 WIB] [Football] AJ Auxerre at Lyon (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/dza5z8f69.m3u8?st=-1BO6EetCH0QmsVFUCEwWwbOLi1tdJ-ibiNF5nlakBA&e=1777108909",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777118400.0,
+    "id": "Soccer.Dummy.us"
+  },
+  "8689": {
+    "name": "[19:00 WIB] [Football] Mallorca at Alavés (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=qKkg1RKLZsiWulaKxly8ET-ARc42wkSqraEyJWgDAcE&e=1777108910",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777114800.0,
+    "id": "Soccer.Dummy.us"
+  },
+  "8683": {
+    "name": "[18:30 WIB] [Football] Aston Villa at Fulham (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=HR12LUxrxYaXSs4D61V00IA-sG1Vyri2uXPG9B4W9_4&e=1777108911",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777113000.0,
+    "id": "Soccer.Dummy.us"
+  },
   "8656": {
-    "name": "[🔴 LIVE] [09:30 WIB] [Basketball] San Antonio Spurs at Portland Trail Blazers (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/hfsdqtaxvb67.m3u8?st=SrNpR6F0N7j3N0zpCPaPWvk0UaXikFYQileKqfnsDR8&e=1777097042",
+    "name": "[09:30 WIB] [Basketball] San Antonio Spurs at Portland Trail Blazers (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=0BLK2nmbCx3RUn_ijmjciXKBfExpb_bgKuaexDoMt68&e=1777108912",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "timestamp": 1777080600.0,
     "id": "NBA.Basketball.Dummy.us"
   },
-  "8672": {
-    "name": "[🔴 LIVE] [09:15 WIB] [Baseball] Chicago Cubs at Los Angeles Dodgers (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?st=d1sbSwPHW3EPSspBdMqrRcNdOaLOSbjavIgp5RKzxeQ&e=1777097043",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777079700.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8673": {
-    "name": "[🔴 LIVE] [09:15 WIB] [Baseball] Miami Marlins at San Francisco Giants (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?st=PTMhkTFygYedf7kBAgsNsnSA4jyeEAeocbSfhd9lWQ8&e=1777097043",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777079700.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8659": {
-    "name": "[🔴 LIVE] [09:00 WIB] [Hockey] Edmonton Oilers at Anaheim Ducks (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/lmdsjkfgv52.m3u8?st=mOL0rFYVEoOjMfC4jcm2WIA5xQwYZjpWB3B_1GmZOPE&e=1777097044",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-    "timestamp": 1777078800.0,
-    "id": "NHL.Hockey.Dummy.us"
-  },
-  "8658": {
-    "name": "[🔴 LIVE] [08:30 WIB] [Hockey] Vegas Golden Knights at Utah Mammoth (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=hqyFR7tuXg6FqDNf9OqXqemcoljI4P3jKypZANL53sc&e=1777097045",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-    "timestamp": 1777077000.0,
-    "id": "NHL.Hockey.Dummy.us"
-  },
-  "8671": {
-    "name": "[🔴 LIVE] [07:15 WIB] [Baseball] Seattle Mariners at St. Louis Cardinals (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?st=Dq9pfN5zlGN8hLQfYAW6isie_0Vgqhm5k_bdUrSwyH4&e=1777097046",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777072500.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8670": {
-    "name": "[🔴 LIVE] [07:10 WIB] [Baseball] New York Yankees at Houston Astros (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=C1xRWooaYUIOEHbU11NDqvUfmmOP8mLYetf4kjqtezk&e=1777097046",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777072200.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8669": {
-    "name": "[🔴 LIVE] [07:05 WIB] [Baseball] Athletics Athletics at Texas Rangers (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?st=0kQm_2-QQ62vuIJt83EuNF9nYVpwmX6KVcgZf60cFis&e=1777097047",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777071900.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8680": {
-    "name": "[🔴 LIVE] [07:00 WIB] [WWE] WWE Friday Night Smackdown (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=e2D5XxXzUxHeSxldFqOHG9vyGF278xN48KNVtGmDlMM&e=1777097048",
-    "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-    "timestamp": 1777071600.0,
-    "id": "PPV.EVENTS.Dummy.us"
-  },
   "8681": {
     "name": "[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=PvhtkTtrdHlgko6r8QGED1FyktV5EfahJvMgc5r9ltE&e=1777097049",
+    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=m5-VkbsLRE4XO1rgMmMEYR8YQr1zV5pdy_sUOdP5QB8&e=1777108913",
     "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
     "timestamp": 1777071600.0,
     "id": "Live.Event.us"
-  },
-  "8655": {
-    "name": "[07:00 WIB] [Basketball] Los Angeles Lakers at Houston Rockets (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?st=7PVTv0SKXdcsmAysnsiPzbL37EJ-dA8oaPB050qx37k&e=1777097049",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-    "timestamp": 1777071600.0,
-    "id": "NBA.Basketball.Dummy.us"
-  },
-  "8666": {
-    "name": "[06:40 WIB] [Baseball] Los Angeles Angels at Kansas City Royals (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=lcKp9iaKaAucDD0KJWlf3ZQItOJA8svnxdemBLFZ2Ps&e=1777097050",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777070400.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8667": {
-    "name": "[06:40 WIB] [Baseball] Pittsburgh Pirates at Milwaukee Brewers (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=5i8T0u1JHCVuO8vGnx6ocilKvRLAQU7ZFpaP00HnjNE&e=1777097051",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777070400.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8668": {
-    "name": "[06:40 WIB] [Baseball] Washington Nationals at Chicago White Sox (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=M93N6PwPFHpAuhEpbWo-KJ5mu2Wa0AetEWDk2u-WmeY&e=1777097052",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777070400.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8665": {
-    "name": "[06:15 WIB] [Baseball] Philadelphia Phillies at Atlanta Braves (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?st=ZVix-uo9rxoFjeu77cQLa4VwTZVUzy4QSR8HJLF3vYk&e=1777097052",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777068900.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8663": {
-    "name": "[06:10 WIB] [Baseball] Colorado Rockies at New York Mets (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?st=k3XwBGU5Czb1n4XHzdrxRAD65w_9Vj_bHnVdAeLBnLE&e=1777097053",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777068600.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8664": {
-    "name": "[06:10 WIB] [Baseball] Minnesota Twins at Tampa Bay Rays (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=pMhxIYWRinzHfMtherg9SSfY2_bDTVCFMuxVvPIn-84&e=1777097054",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777068600.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8662": {
-    "name": "[06:07 WIB] [Baseball] Cleveland Guardians at Toronto Blue Jays (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=wGtQzj-hShcuqIUKUXlWUoVSP5WPZazQc9oeITte9bM&e=1777097055",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777068420.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8661": {
-    "name": "[06:05 WIB] [Baseball] Boston Red Sox at Baltimore Orioles (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=zuXGkQXJPUwRn5IDpnf6t-1GKFfxzxRQbijgO-y-9QY&e=1777097055",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777068300.0,
-    "id": "MLB.Baseball.Dummy.us"
   }
 }
