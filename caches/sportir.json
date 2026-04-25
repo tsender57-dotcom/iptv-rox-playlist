@@ -19,5 +19,19 @@
     "base": "https://mlb24all.ir",
     "timestamp": 1777140900.0,
     "id": "MLB.Baseball.Dummy.us"
+  },
+  "[MLB] Cleveland Guardians vs Toronto Blue Jays (SPORTir)": {
+    "url": "https://node-31fbddbb.streamtofu.com/69ed7927.a2df837ci2f6c1641.11e30.7acc11de/free.live.sportsnet/master.m3u8",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "base": "https://mlb24all.ir",
+    "timestamp": 1777144020.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "[NHL] Carolina Hurricanes vs Ottawa Senators (SPORTir)": {
+    "url": "https://node-025d151e.streamtofu.com/69ed7928.04913038i2f6c1641.11e21.302ecf59/free.live.sportsnet/master.m3u8",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
+    "base": "https://nhl24all.ir",
+    "timestamp": 1777143600.0,
+    "id": "NHL.Hockey.Dummy.us"
   }
 }
