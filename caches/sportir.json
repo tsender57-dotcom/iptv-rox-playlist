@@ -1,25 +1,4 @@
 {
-  "[MLB] Miami Marlins vs San Francisco Giants (SPORTir)": {
-    "url": "https://node-59639d19.streamtofu.com/69ed8039.e4a61728i2d6c3341.11ca3.593a2b85/free.live.espn/master.m3u8",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "base": "https://mlb24all.ir",
-    "timestamp": 1777147500.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "[MLB] Washington Nationals vs Chicago White Sox (SPORTir)": {
-    "url": "https://node-59639d19.streamtofu.com/69ed8746.6414f7b2i1ec89d03.11cc8.ee8cda3b/free.live.espn/master.m3u8",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "base": "https://mlb24all.ir",
-    "timestamp": 1777147800.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "[MLB] Minnesota Twins vs Tampa Bay Rays (SPORTir)": {
-    "url": "https://node-59639d19.streamtofu.com/69ed8746.04e3a949i1ec89d03.11ccf.b83c8002/free.live.espn/master.m3u8",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "base": "https://mlb24all.ir",
-    "timestamp": 1777147800.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
   "[MLB] San Diego Padres vs Arizona Diamondbacks (SPORTir)": {
     "url": "https://node-59639d19.streamtofu.com/69eda34c.7fa66e42i00366dca.11d09.fa8ae2a2/free.live.espn/master.m3u8",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
@@ -67,6 +46,34 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
     "base": "https://mlb24all.ir",
     "timestamp": 1777158300.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "[MLB] Miami Marlins vs San Francisco Giants (SPORTir)": {
+    "url": null,
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "base": "https://mlb24all.ir",
+    "timestamp": 1777147500.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "[MLB] Chicago Cubs vs Los Angeles Dodgers (SPORTir)": {
+    "url": "https://node-6a57c764.streamtofu.com/69edbacf.3f4aa6e8i62627778.11d3b.d5e45d9d/free.live.espn/master.m3u8",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "base": "https://mlb24all.ir",
+    "timestamp": 1777158900.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "[MLB] Detroit Tigers vs Cincinnati Reds (SPORTir)": {
+    "url": "https://node-6a57c764.streamtofu.com/69edbad2.610125e9i62627778.11d3a.0d16d9cf/free.live.espn/master.m3u8",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "base": "https://mlb24all.ir",
+    "timestamp": 1777158900.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "[MLB] Washington Nationals vs Chicago White Sox (SPORTir)": {
+    "url": "https://node-59639d19.streamtofu.com/69edbad3.1c75fc42i62627778.11cc8.bc743f25/free.live.espn/master.m3u8",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "base": "https://mlb24all.ir",
+    "timestamp": 1777147800.0,
     "id": "MLB.Baseball.Dummy.us"
   }
 }

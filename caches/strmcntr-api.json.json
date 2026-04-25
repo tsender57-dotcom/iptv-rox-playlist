@@ -210,20 +210,6 @@
     "endPartie": "2026-04-26T18:00:00"
   },
   {
-    "id": 8702,
-    "category": null,
-    "categoryId": 9,
-    "name": "Como vs Genoa",
-    "description": "Como at Genoa - COMO @ GEN",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-    "gameName": "Como at Genoa",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-    "videoUrl": "https://streams.center/embed/ch9.php<Italien",
-    "beginPartie": "2026-04-26T14:00:00",
-    "endPartie": "2026-04-26T17:00:00"
-  },
-  {
     "id": 8710,
     "category": null,
     "categoryId": 9,
@@ -234,6 +220,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
     "videoUrl": "https://streams.center/embed/ch7.php<English",
+    "beginPartie": "2026-04-26T14:00:00",
+    "endPartie": "2026-04-26T17:00:00"
+  },
+  {
+    "id": 8702,
+    "category": null,
+    "categoryId": 9,
+    "name": "Como vs Genoa",
+    "description": "Como at Genoa - COMO @ GEN",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+    "gameName": "Como at Genoa",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+    "videoUrl": "https://streams.center/embed/ch9.php<Italien",
     "beginPartie": "2026-04-26T14:00:00",
     "endPartie": "2026-04-26T17:00:00"
   },
@@ -516,34 +516,6 @@
     "videoUrl": "https://streams.center/embed/ch66.php<English",
     "beginPartie": "2026-04-25T20:30:00",
     "endPartie": "2026-04-25T23:30:00"
-  },
-  {
-    "id": 8719,
-    "category": null,
-    "categoryId": 13,
-    "name": "Cleveland Guardians vs Toronto Blue Jays",
-    "description": "Cleveland Guardians at Toronto Blue Jays - CLE @ TOR",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png",
-    "gameName": "Cleveland Guardians at Toronto Blue Jays",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png",
-    "videoUrl": "https://streams.center/embed/ch17.php<English",
-    "beginPartie": "2026-04-25T20:07:00",
-    "endPartie": "2026-04-25T23:07:00"
-  },
-  {
-    "id": 8709,
-    "category": null,
-    "categoryId": 9,
-    "name": "AS Monaco vs Toulouse",
-    "description": "AS Monaco at Toulouse - MON @ TOU",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-    "gameName": "AS Monaco at Toulouse",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-    "videoUrl": "https://streams.center/embed/ch7.php<English",
-    "beginPartie": "2026-04-25T20:05:00",
-    "endPartie": "2026-04-25T23:05:00"
   },
   {
     "id": 8741,
