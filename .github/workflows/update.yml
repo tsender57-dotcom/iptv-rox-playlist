@@ -20,16 +20,17 @@ jobs:
         with:
           python-version: '3.11'
 
+      # Menggabungkan SEMUA library dari kelima script
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests bs4 playwright pytz httpx
+          pip install requests bs4 playwright pytz httpx[http2] selectolax
           playwright install --with-deps
           playwright install chromium
         
       - name: Run Roxiestreams Script
         run: python update_rox.py
-        continue-on-error: true # Jika error, lanjut ke script berikutnya
+        continue-on-error: true
 
       - name: Run Sharkstreams Script
         run: python update_shark.py
@@ -39,11 +40,17 @@ jobs:
         run: python update_watchfooty.py
         continue-on-error: true
 
+      # Menambahkan Environment Variable untuk CenterStrm
       - name: Run CenterStrm Script
+        env:
+          CENTERSTRM_API: ${{ secrets.CENTERSTRM_API }}
         run: python centerstrm.py
         continue-on-error: true
 
+      # Menambahkan Environment Variable untuk SportIR (berjaga-jaga)
       - name: Run Sport IR Script
+        env:
+          PYTHONUNBUFFERED: 1
         run: python sport_ir.py
         continue-on-error: true
 
@@ -52,8 +59,8 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # JURUS SAPU BERSIH: Tambahkan semua file .m3u8 
-          git add *.m3u8
+          # HANYA menjaring file .m3u8 dan .json (jika CenterStrm masih pakai .json untuk cache)
+          git add *.m3u8 *.json
           
           # Cek apakah ada perubahan file
           if git diff --cached --quiet; then
@@ -69,7 +76,7 @@ jobs:
             git stash
             git pull --rebase origin main
             git stash pop
-            git add *.m3u8
+            git add *.m3u8 *.json
             git commit -m "Auto-update All Playlists (rebased)" || true
             git push origin main
           fi
