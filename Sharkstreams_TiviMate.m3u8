@@ -1,21 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-25 20:11 UTC
+# Last Updated: 2026-04-25 20:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[🔴 LIVE] [00:00 WIB] [NBA] Detroit Pistons vs Orlando Magic - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mp1.mpfiles.cfd/live/magic/stream.m3u8?expires=1777148778&token=6aac5406dd4e9fad65337609c73d7a85a671af27003f02bd4a6fa93eb4649070
+https://mp1.mpfiles.cfd/live/magic/stream.m3u8?expires=1777149398&token=29f3714b9288da594aefbcc49f6b72bbd14517d04a28348e35e853458a674a40
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[🔴 LIVE] [02:36 WIB] [NBA] Oklahoma City Thunder vs Phoenix Suns - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mp2.mpfiles.cfd/live/thunder/stream.m3u8?expires=1777148671&token=fcd3a6efd0f60049d77d57d7f9894d1e4ea79b4db9c0f3538faa2f68d3731d91
+https://mp2.mpfiles.cfd/live/thunder/stream.m3u8?expires=1777148840&token=e0549c9a9f740ca647bf431ea2e90481e98576850de05d8efe58d86d29ff260e
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRNpSGCq/Maxx.png" tvg-id="Football.Dummy.us" group-title="Shark - NFL",[06:00 WIB] [NFL] 2026 NFL Draft - Day3 - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[05:12 WIB] [NBA] New York Knicks vs Atlanta Hawks - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mp5.mpfiles.cfd/live/nfl/stream.m3u8?expires=1777148779&token=d32ac1cede7bb9108c7a56aac90f640d522ab97e8edba0138d21d240646c91bd
+https://mp3.mpfiles.cfd/live/hawk/stream.m3u8?expires=1777149398&token=519a43f8c4c14c0d086691142d893b60ba2f42a12a3da690178ddb8a9107a1c9
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRNpSGCq/Maxx.png" tvg-id="Football.Dummy.us" group-title="Shark - NFL",[06:00 WIB] [NFL] 2026 NFL Draft - Day 3 - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://mp5.mpfiles.cfd/live/nfl/stream.m3u8?expires=1777148750&token=5e8b7ec6068200b824ee32c6c8061e0a111ac22d9835b5cf46a0455251638925
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[07:30 WIB] [NBA] Denver Nuggets vs Minnesota Timberwolves - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://mp1.mpfiles.cfd/live/timber/stream.m3u8?expires=1777149399&token=6f0d4dd40e57cb42d6d1f66828c7a322bd7a2471d65502ce0ded8492d76cb3e7
 
