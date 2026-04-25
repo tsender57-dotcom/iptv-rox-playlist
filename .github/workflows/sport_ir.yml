@@ -2,7 +2,6 @@ name: SPORTir Stream Updater
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
