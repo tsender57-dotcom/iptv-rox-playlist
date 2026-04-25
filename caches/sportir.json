@@ -1,11 +1,4 @@
 {
-  "[MLB] Boston Red Sox vs Baltimore Orioles (SPORTir)": {
-    "url": "https://node-59639d19.streamtofu.com/69ed4818.d9457172i02231a43.11cbf.ed0f77ce/free.live.espn/master.m3u8",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "base": "https://mlb24all.ir",
-    "timestamp": 1777133100.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
   "[NBA] Detroit Pistons vs Orlando Magic (SPORTir)": {
     "url": "https://node-582e4e77.streamtofu.com/69ed641f.3f0d55a9i55eef741.11e29.5be1f71e/free.live.sportsnet/master.m3u8",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
@@ -39,6 +32,13 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
     "base": "https://mlb24all.ir",
     "timestamp": 1777147500.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "[MLB] Boston Red Sox vs Baltimore Orioles (SPORTir)": {
+    "url": "https://node-59639d19.streamtofu.com/69ed8299.4ec6210ei4fbbce04.11ccd.9c4c24d3/free.live.espn/master.m3u8",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "base": "https://mlb24all.ir",
+    "timestamp": 1777133100.0,
     "id": "MLB.Baseball.Dummy.us"
   }
 }
