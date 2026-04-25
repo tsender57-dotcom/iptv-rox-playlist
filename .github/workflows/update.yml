@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests bs4 playwright pytz
+          pip install requests bs4 playwright pytz httpx
           playwright install --with-deps
           playwright install chromium
         
