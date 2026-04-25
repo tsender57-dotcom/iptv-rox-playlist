@@ -1,8 +1,6 @@
 name: Auto Update Playlists
 
 on:
-  schedule:
-    - cron: '*/15 * * * *' # Script akan berjalan otomatis setiap 15 menit
   workflow_dispatch: # Mengizinkan Anda menekan tombol "Run" manual
 
 jobs:
