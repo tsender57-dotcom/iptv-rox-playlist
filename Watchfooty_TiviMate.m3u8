@@ -1,39 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-25 21:21 UTC
+# Last Updated: 2026-04-25 21:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Sterling vs. Zalal - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/playlist/ZVwFbw_ToWzA2ClP2yuuSA/deluxe/ufc-fight-night-sterling-vs-zalal/1/600058746/1777173695/playlist.m3u8
+https://lb8.wfty.wtf/playlist/vcQdaZYoiv6iEBYKXhvCJw/pro/ufc-fight-night-sterling-vs-zalal/1/600058746/1777174891/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Minnesota United FC vs LAFC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/playlist/OB3-NYLxDqQkJr8d8w0mgQ/easy/minnesota-united-fc-lafc/1/761571/1777173698/playlist.m3u8
+https://lb7.wfty.wtf/playlist/XeP7uUd0-bOgyD7X5MLLhQ/easy/minnesota-united-fc-lafc/1/761571/1777174895/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Toronto Blue Jays vs Cleveland Guardians - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/playlist/qZGSQmACTIGuaGMOlJV9nQ/easy/toronto-blue-jays-cleveland-guardians/1/4556031/1777173701/playlist.m3u8
+https://lb7.wfty.wtf/playlist/wcSsgBevDbm9npAcFLL5og/easy/toronto-blue-jays-cleveland-guardians/1/4556031/1777174898/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] San Francisco Giants vs Miami Marlins - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/oVroPw4OG6BYQkCfLJdxOA/easy/san-francisco-giants-miami-marlins/2/401815093/1777173705/playlist.m3u8
+https://lb9.wfty.wtf/playlist/4rDnJq5XSgeMlsUUSaobEg/easy/san-francisco-giants-miami-marlins/2/401815093/1777174901/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Ottawa Senators vs Carolina Hurricanes - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/playlist/11lpD5NIBgFhZhIkHbZ3LA/easy/ottawa-senators-carolina-hurricanes/1/401869786/1777173708/playlist.m3u8
+https://lb9.wfty.wtf/playlist/OFTwuHcD04TAE07rxjX2dQ/easy/ottawa-senators-carolina-hurricanes/1/401869786/1777174905/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Botafogo RJ vs Internacional - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.wtf/playlist/qnJpsYUbtWQDkP2Rue11Rw/easy/botafogo-internacional/1/5103485/1777174908/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Canadian Premier League] Cavalry FC vs Inter Toronto FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/KDdPK0WyOLk0HHVji9x1HQ/easy/cavalry-inter-toronto-fc/1/1000008648/1777173712/playlist.m3u8
+https://lb6.wfty.wtf/playlist/-i4fblK2doRgtbl0rAo6NQ/easy/cavalry-inter-toronto-fc/1/1000008648/1777174912/playlist.m3u8
 
