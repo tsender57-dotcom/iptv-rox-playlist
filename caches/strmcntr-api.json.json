@@ -602,20 +602,6 @@
     "endPartie": "2026-04-25T22:15:00"
   },
   {
-    "id": 8735,
-    "category": null,
-    "categoryId": 4,
-    "name": "Detroit Pistons vs Orlando Magic",
-    "description": "Detroit Pistons at Orlando Magic - DET @ ORL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-    "gameName": "Detroit Pistons at Orlando Magic",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-    "videoUrl": "https://streams.center/embed/ch65.php<English",
-    "beginPartie": "2026-04-25T18:00:00",
-    "endPartie": "2026-04-25T21:00:00"
-  },
-  {
     "id": 8708,
     "category": null,
     "categoryId": 9,
@@ -626,6 +612,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
     "videoUrl": "https://streams.center/embed/ch7.php<English",
+    "beginPartie": "2026-04-25T18:00:00",
+    "endPartie": "2026-04-25T21:00:00"
+  },
+  {
+    "id": 8735,
+    "category": null,
+    "categoryId": 4,
+    "name": "Detroit Pistons vs Orlando Magic",
+    "description": "Detroit Pistons at Orlando Magic - DET @ ORL",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+    "gameName": "Detroit Pistons at Orlando Magic",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+    "videoUrl": "https://streams.center/embed/ch65.php<English",
     "beginPartie": "2026-04-25T18:00:00",
     "endPartie": "2026-04-25T21:00:00"
   },
@@ -782,34 +782,6 @@
     "videoUrl": "https://streams.center/embed/ch8.php<Deutch",
     "beginPartie": "2026-04-25T14:30:00",
     "endPartie": "2026-04-25T17:30:00"
-  },
-  {
-    "id": 8707,
-    "category": null,
-    "categoryId": 9,
-    "name": "AJ Auxerre vs Lyon",
-    "description": "AJ Auxerre at Lyon - AUX @ LYON",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-    "gameName": "AJ Auxerre at Lyon",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-    "videoUrl": "https://streams.center/embed/ch7.php<English",
-    "beginPartie": "2026-04-25T14:00:00",
-    "endPartie": "2026-04-25T17:00:00"
-  },
-  {
-    "id": 8698,
-    "category": null,
-    "categoryId": 9,
-    "name": "Pisa vs Parma",
-    "description": "Pisa at Parma - PIS @ PAR",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-    "gameName": "Pisa at Parma",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/3956.png",
-    "videoUrl": "https://streams.center/embed/ch9.php<Italien",
-    "beginPartie": "2026-04-25T14:00:00",
-    "endPartie": "2026-04-25T17:00:00"
   },
   {
     "id": 8681,

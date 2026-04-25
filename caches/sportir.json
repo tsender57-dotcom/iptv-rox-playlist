@@ -5,5 +5,12 @@
     "base": "https://mlb24all.ir",
     "timestamp": 1777133100.0,
     "id": "MLB.Baseball.Dummy.us"
+  },
+  "[NBA] Detroit Pistons vs Orlando Magic (SPORTir)": {
+    "url": "https://node-582e4e77.streamtofu.com/69ed641f.3f0d55a9i55eef741.11e29.5be1f71e/free.live.sportsnet/master.m3u8",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+    "base": "https://nba24all.ir",
+    "timestamp": 1777136400.0,
+    "id": "NBA.Basketball.Dummy.us"
   }
 }
