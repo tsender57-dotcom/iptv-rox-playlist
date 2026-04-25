@@ -1,7 +1,7 @@
 name: Auto Update Playlists
 
 on:
-  workflow_dispatch: # Mengizinkan Anda menekan tombol "Run" manual
+  workflow_dispatch: # Mengizinkan Anda menekan tombol "Run" manual / via API cron-job.org
 
 jobs:
   update-playlists:
@@ -29,22 +29,30 @@ jobs:
         
       - name: Run Roxiestreams Script
         run: python update_rox.py
-        continue-on-error: true # Jika Roxie error, bot tetap akan lanjut ke Shark
+        continue-on-error: true # Jika error, lanjut ke script berikutnya
 
       - name: Run Sharkstreams Script
         run: python update_shark.py
-        continue-on-error: true # Jika Shark error, bot tetap akan lanjut ke Watchfooty
+        continue-on-error: true
 
       - name: Run Watchfooty Script
         run: python update_watchfooty.py
-        continue-on-error: true # Jika Watchfooty error, bot tetap akan lanjut ke Commit
+        continue-on-error: true
+
+      - name: Run CenterStrm Script
+        run: python centerstrm.py
+        continue-on-error: true
+
+      - name: Run Sport IR Script
+        run: python sport_ir.py
+        continue-on-error: true
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # JURUS SAPU BERSIH: Tambahkan semua file .m3u8 yang berhasil dibuat
+          # JURUS SAPU BERSIH: Tambahkan semua file .m3u8 
           git add *.m3u8
           
           # Cek apakah ada perubahan file
@@ -53,7 +61,7 @@ jobs:
             exit 0
           fi
           
-          git commit -m "Auto-update Roxie, Shark, & WFTY playlists"
+          git commit -m "Auto-update All Playlists (Roxie, Shark, WFTY, Center, SportIR)"
           
           # Push dengan aman (Safe Push)
           if ! git push origin main; then
@@ -62,6 +70,6 @@ jobs:
             git pull --rebase origin main
             git stash pop
             git add *.m3u8
-            git commit -m "Auto-update Roxie, Shark, & WFTY playlists (rebased)" || true
+            git commit -m "Auto-update All Playlists (rebased)" || true
             git push origin main
           fi
