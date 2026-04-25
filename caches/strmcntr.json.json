@@ -1,11 +1,4 @@
 {
-  "8699": {
-    "name": "[23:00 WIB] [Football] AS Roma at Bologna (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=bT3IzbcB2Rt0Xp0u-tsT8yJmxbiPGCmw5lgSpk-8_mc&e=1777118515",
-    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-    "timestamp": 1777129200.0,
-    "id": "Soccer.Dummy.us"
-  },
   "8717": {
     "name": "[23:05 WIB] [Baseball] Boston Red Sox at Baltimore Orioles (STRMCNTR)",
     "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=FKEgKnJqPE-GgmMJHzWnP006pwRtVJTFh-z_50x_Enw&e=1777119099",
@@ -216,37 +209,23 @@
     "timestamp": 1777159800.0,
     "id": "NBA.Basketball.Dummy.us"
   },
+  "8699": {
+    "name": "[🔴 LIVE] [23:00 WIB] [Football] AS Roma at Bologna (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=t94jJy9muGs2NLfO30oqRqWDImwPpeW0dSUCh3ls6H0&e=1777150929",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777129200.0,
+    "id": "Soccer.Dummy.us"
+  },
   "8690": {
     "name": "[21:15 WIB] [Football] Barcelona at Getafe (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/377qj1h2727.m3u8?st=aH3u3AEeffCRkrawstS8sJS-0OAnlcrCCKhdTMsNBBk&e=1777150317",
+    "url": "https://edge2caster.pro/hls/377qj1h2727.m3u8?st=2KtAefH4f1xuK_d8Pj_izcvoolFzcB2JcE1ItXNAT6I&e=1777150930",
     "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
     "timestamp": 1777122900.0,
     "id": "Soccer.Dummy.us"
   },
-  "8686": {
-    "name": "[21:00 WIB] [Football] Crystal Palace at Liverpool (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=xNq0J5scqIf4iH4IlLgqvD2YZYwTSd5zTjLDuI_vkl4&e=1777150318",
-    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-    "timestamp": 1777122000.0,
-    "id": "Soccer.Dummy.us"
-  },
-  "8687": {
-    "name": "[21:00 WIB] [Football] Everton at West Ham United (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=cjNpgsyktJ4vpu2xINjrjuAr_vAHZaAqj4_XV1xCKhg&e=1777150319",
-    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-    "timestamp": 1777122000.0,
-    "id": "Soccer.Dummy.us"
-  },
-  "8684": {
-    "name": "[21:00 WIB] [Football] Tottenham Hotspur at Wolverhampton Wanderers (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=wQc04Tudz3zAUlbi7NFJHgIJwj6VslvZs0lkvs_DNJg&e=1777150319",
-    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-    "timestamp": 1777122000.0,
-    "id": "Soccer.Dummy.us"
-  },
   "8681": {
     "name": "[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=II_eixcDcFiR5OUIntVX9ZxevFNgIBmSPJ1S9AzzAVQ&e=1777150320",
+    "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=rVRuZf5uFT93RDIFOy1JaG0Emev6XneH4J_8_9VkMzw&e=1777150931",
     "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
     "timestamp": 1777071600.0,
     "id": "Live.Event.us"

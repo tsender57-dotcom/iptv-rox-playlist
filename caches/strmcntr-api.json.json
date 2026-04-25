@@ -210,20 +210,6 @@
     "endPartie": "2026-04-26T18:00:00"
   },
   {
-    "id": 8710,
-    "category": null,
-    "categoryId": 9,
-    "name": "Strasbourg vs Lorient",
-    "description": "Strasbourg at Lorient - STR @ LOR",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-    "gameName": "Strasbourg at Lorient",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-    "videoUrl": "https://streams.center/embed/ch7.php<English",
-    "beginPartie": "2026-04-26T14:00:00",
-    "endPartie": "2026-04-26T17:00:00"
-  },
-  {
     "id": 8702,
     "category": null,
     "categoryId": 9,
@@ -234,6 +220,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
     "videoUrl": "https://streams.center/embed/ch9.php<Italien",
+    "beginPartie": "2026-04-26T14:00:00",
+    "endPartie": "2026-04-26T17:00:00"
+  },
+  {
+    "id": 8710,
+    "category": null,
+    "categoryId": 9,
+    "name": "Strasbourg vs Lorient",
+    "description": "Strasbourg at Lorient - STR @ LOR",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+    "gameName": "Strasbourg at Lorient",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+    "videoUrl": "https://streams.center/embed/ch7.php<English",
     "beginPartie": "2026-04-26T14:00:00",
     "endPartie": "2026-04-26T17:00:00"
   },
@@ -630,20 +630,6 @@
     "endPartie": "2026-04-25T21:00:00"
   },
   {
-    "id": 8685,
-    "category": null,
-    "categoryId": 9,
-    "name": "Newcastle United vs Arsenal",
-    "description": "Newcastle United at Arsenal - NEW @ ARS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-    "gameName": "Newcastle United at Arsenal",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-    "videoUrl": "https://streams.center/embed/ch1.php<English",
-    "beginPartie": "2026-04-25T17:30:00",
-    "endPartie": "2026-04-25T20:30:00"
-  },
-  {
     "id": 8691,
     "category": null,
     "categoryId": 9,
@@ -654,6 +640,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png",
     "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
+    "beginPartie": "2026-04-25T17:30:00",
+    "endPartie": "2026-04-25T20:30:00"
+  },
+  {
+    "id": 8685,
+    "category": null,
+    "categoryId": 9,
+    "name": "Newcastle United vs Arsenal",
+    "description": "Newcastle United at Arsenal - NEW @ ARS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+    "gameName": "Newcastle United at Arsenal",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+    "videoUrl": "https://streams.center/embed/ch1.php<English",
     "beginPartie": "2026-04-25T17:30:00",
     "endPartie": "2026-04-25T20:30:00"
   },
@@ -726,48 +726,6 @@
     "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
     "beginPartie": "2026-04-25T15:15:00",
     "endPartie": "2026-04-25T18:15:00"
-  },
-  {
-    "id": 8686,
-    "category": null,
-    "categoryId": 9,
-    "name": "Crystal Palace vs Liverpool",
-    "description": "Crystal Palace at Liverpool - CRY @ LIV",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-    "gameName": "Crystal Palace at Liverpool",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-    "videoUrl": "https://streams.center/embed/ch2.php<English",
-    "beginPartie": "2026-04-25T15:00:00",
-    "endPartie": "2026-04-25T18:00:00"
-  },
-  {
-    "id": 8687,
-    "category": null,
-    "categoryId": 9,
-    "name": "Everton vs West Ham United",
-    "description": "Everton at West Ham United - EVE @ WHU",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-    "gameName": "Everton at West Ham United",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-    "videoUrl": "https://streams.center/embed/ch3.php<English",
-    "beginPartie": "2026-04-25T15:00:00",
-    "endPartie": "2026-04-25T18:00:00"
-  },
-  {
-    "id": 8684,
-    "category": null,
-    "categoryId": 9,
-    "name": "Tottenham Hotspur vs Wolverhampton Wanderers",
-    "description": "Tottenham Hotspur at Wolverhampton Wanderers - TOT @ WOL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-    "gameName": "Tottenham Hotspur at Wolverhampton Wanderers",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-    "videoUrl": "https://streams.center/embed/ch1.php<English",
-    "beginPartie": "2026-04-25T15:00:00",
-    "endPartie": "2026-04-25T18:00:00"
   },
   {
     "id": 8681,
