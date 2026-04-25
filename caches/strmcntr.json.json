@@ -13,13 +13,6 @@
     "timestamp": 1777118400.0,
     "id": "Soccer.Dummy.us"
   },
-  "8689": {
-    "name": "[19:00 WIB] [Football] Mallorca at Alavés (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=qKkg1RKLZsiWulaKxly8ET-ARc42wkSqraEyJWgDAcE&e=1777108910",
-    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-    "timestamp": 1777114800.0,
-    "id": "Soccer.Dummy.us"
-  },
   "8715": {
     "name": "[20:30 WIB] [Football] Bayern Munich at Mainz (STRMCNTR)",
     "url": "https://mainstreams.pro/hls/ueyeztrazb4.m3u8?st=h85ybjPGrMjqX_VrPfVt8O3IWEp50KlcWhTi4-1u9aE&e=1777109495",
@@ -181,16 +174,30 @@
     "timestamp": 1777143900.0,
     "id": "MLB.Baseball.Dummy.us"
   },
+  "8682": {
+    "name": "[04:00 WIB] [Fight MMA] UFC Fight Night: Sterling vs. Zalal (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=9h6HDeO4VIG0GOhBC0j-GaOFAUw0Yhqi93sQ7Z2ntCc&e=1777136518",
+    "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+    "timestamp": 1777147200.0,
+    "id": "Live.Event.us"
+  },
+  "8689": {
+    "name": "[🔴 LIVE] [19:00 WIB] [Football] Mallorca at Alavés (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=srFuG1ySrPnd12VyFkebZ_BQHv40_j3CmRy07rfDqtw&e=1777136519",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777114800.0,
+    "id": "Soccer.Dummy.us"
+  },
   "8683": {
     "name": "[🔴 LIVE] [18:30 WIB] [Football] Aston Villa at Fulham (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=00Qe-nhJIsO1wjdwpOD6DJQPOZYF8EHS5h8xGhYvlho&e=1777135908",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=89iItlePKLdFfVvl_YSnJXs4VgQ4qxAq38M3n6RW7ME&e=1777136520",
     "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
     "timestamp": 1777113000.0,
     "id": "Soccer.Dummy.us"
   },
   "8681": {
     "name": "[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=j1ie0baP5X3HSKNsm4ZLyRhf0j0AQ6oBOiG0Ei3WH9Y&e=1777135909",
+    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=bcokGKuhzQ4OswQaJYztaDq4egK8m-VyaQiDdDluuTY&e=1777136520",
     "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
     "timestamp": 1777071600.0,
     "id": "Live.Event.us"
