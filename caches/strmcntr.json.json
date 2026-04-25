@@ -20,13 +20,6 @@
     "timestamp": 1777114800.0,
     "id": "Soccer.Dummy.us"
   },
-  "8683": {
-    "name": "[18:30 WIB] [Football] Aston Villa at Fulham (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=HR12LUxrxYaXSs4D61V00IA-sG1Vyri2uXPG9B4W9_4&e=1777108911",
-    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-    "timestamp": 1777113000.0,
-    "id": "Soccer.Dummy.us"
-  },
   "8715": {
     "name": "[20:30 WIB] [Football] Bayern Munich at Mainz (STRMCNTR)",
     "url": "https://mainstreams.pro/hls/ueyeztrazb4.m3u8?st=h85ybjPGrMjqX_VrPfVt8O3IWEp50KlcWhTi4-1u9aE&e=1777109495",
@@ -188,9 +181,16 @@
     "timestamp": 1777143900.0,
     "id": "MLB.Baseball.Dummy.us"
   },
+  "8683": {
+    "name": "[🔴 LIVE] [18:30 WIB] [Football] Aston Villa at Fulham (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=73wMZvACJc4EA9EcuErwEY7OhYN6exaGFEl6apVN4Vw&e=1777134722",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777113000.0,
+    "id": "Soccer.Dummy.us"
+  },
   "8681": {
     "name": "[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=dZs2nxrkr0GlYVCWLmVy_znqRykneqH9IbAIlCWlQfk&e=1777134112",
+    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=72cllRmOaIr2MLrLUerJUjfZJNAhPQFJFlo7twNLzgA&e=1777134723",
     "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
     "timestamp": 1777071600.0,
     "id": "Live.Event.us"
