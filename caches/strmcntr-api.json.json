@@ -630,20 +630,6 @@
     "endPartie": "2026-04-25T21:00:00"
   },
   {
-    "id": 8691,
-    "category": null,
-    "categoryId": 9,
-    "name": "Girona vs Valencia",
-    "description": "Girona at Valencia - GIR @ VAL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-    "gameName": "Girona at Valencia",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png",
-    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
-    "beginPartie": "2026-04-25T17:30:00",
-    "endPartie": "2026-04-25T20:30:00"
-  },
-  {
     "id": 8685,
     "category": null,
     "categoryId": 9,
@@ -654,6 +640,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
     "videoUrl": "https://streams.center/embed/ch1.php<English",
+    "beginPartie": "2026-04-25T17:30:00",
+    "endPartie": "2026-04-25T20:30:00"
+  },
+  {
+    "id": 8691,
+    "category": null,
+    "categoryId": 9,
+    "name": "Girona vs Valencia",
+    "description": "Girona at Valencia - GIR @ VAL",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+    "gameName": "Girona at Valencia",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png",
+    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
     "beginPartie": "2026-04-25T17:30:00",
     "endPartie": "2026-04-25T20:30:00"
   },
@@ -712,20 +712,6 @@
     "videoUrl": "https://streams.center/embed/ch30.php<English",
     "beginPartie": "2026-04-25T17:00:00",
     "endPartie": "2026-04-26T02:00:00"
-  },
-  {
-    "id": 8690,
-    "category": null,
-    "categoryId": 9,
-    "name": "Barcelona vs Getafe",
-    "description": "Barcelona at Getafe - BAR @ GET",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-    "gameName": "Barcelona at Getafe",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
-    "beginPartie": "2026-04-25T15:15:00",
-    "endPartie": "2026-04-25T18:15:00"
   },
   {
     "id": 8681,
