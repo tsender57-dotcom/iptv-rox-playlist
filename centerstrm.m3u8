@@ -19,8 +19,13 @@ https://mainstreams.pro/hls/dza5z8f69.m3u8?st=WtH2ThXmjugNgujasUcM3zH7oOO1q4uaER
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=edFb5fawIgjwQGLOikBM3QQhdT7oEjjmfx0SElxGUwI&e=1777194106
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[21:00 WIB] [Football] Leeds United at Chelsea (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[21:00 WIB] [Football] Leeds United at Chelsea (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=TXMsTNeWGjlhvygMjGOu393kYkuVyAJer_b-QqhhVn0&e=1777197094
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=8rsWSx9iMxpFeySolBBaGsBPd6o1Mjxl0R4LpC9kZ24&e=1777197700
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=958c2HlcQYl3o7iD3es9riw8Zd5s_Yw3rtTYVpoLyAA&e=1777197701
