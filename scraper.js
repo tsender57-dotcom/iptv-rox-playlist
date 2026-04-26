@@ -1,14 +1,13 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 
-// Logika Pro: Fungsi cerdas untuk membongkar JSON apa pun dan mencari data pertandingan
+// Logika Pro: Fungsi cerdas untuk membongkar JSON dan mencari data pertandingan
 function smartExtractMatches(json) {
     let matches = [];
     function searchNode(obj) {
         if (Array.isArray(obj)) {
             if (obj.length > 0 && typeof obj[0] === 'object' && obj[0] !== null) {
                 const sampleStr = JSON.stringify(obj[0]).toLowerCase();
-                // Jika objek dalam array ini punya kata 'home' dan 'away', ini pasti array pertandingan!
                 if (sampleStr.includes('home') && sampleStr.includes('away')) {
                     matches = matches.concat(obj);
                 }
@@ -20,6 +19,14 @@ function smartExtractMatches(json) {
     }
     searchNode(json);
     return matches;
+}
+
+// Logika Pro: Fungsi untuk mengekstrak nama tim dengan aman dari struktur Nested Object
+function extractTeamName(teamObj) {
+    if (!teamObj) return "Unknown Team";
+    if (typeof teamObj === 'string') return teamObj;
+    // Jika bentuknya objek, cari properti yang biasa dipakai untuk nama
+    return teamObj.name || teamObj.team_name || teamObj.teamName || teamObj.title || "Unknown Team";
 }
 
 (async () => {
@@ -47,17 +54,18 @@ function smartExtractMatches(json) {
         const apiJson = await apiResponse.json();
         const rawMatches = smartExtractMatches(apiJson);
 
-        // Membersihkan dan memetakan data API
         for (const m of rawMatches) {
-            // Ekstrak ID, Nama, dan Logo dengan logika fallback (anti-error)
             let id = m.id || m.matchId || m.match_id || m.sv_id || null;
             if (!id) continue;
 
-            // Logika pencarian properti nama tim yang dinamis
-            let homeName = m.homeTeamName || m.home_team || m.homeName || m.home || "Home Team";
-            let awayName = m.awayTeamName || m.away_team || m.awayName || m.away || "Away Team";
-            // Ambil logo jika ada, jika tidak pakai logo default OGI Bone
-            let logoUrl = m.homeLogo || m.home_logo || m.logo || "https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png";
+            // Perbaikan [object Object]: Memanggil fungsi ekstraksi nama tim yang aman
+            let homeName = extractTeamName(m.homeTeamName || m.home_team || m.homeName || m.home);
+            let awayName = extractTeamName(m.awayTeamName || m.away_team || m.awayName || m.away);
+            
+            let logoUrl = "https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png";
+            // Coba ambil logo asli jika ada dalam objek
+            if (m.home_team && m.home_team.logo) logoUrl = m.home_team.logo;
+            else if (m.homeLogo) logoUrl = m.homeLogo;
             
             matchesMap.set(String(id).toLowerCase(), {
                 title: `${homeName} VS ${awayName} [CAMEL LIVE]`,
@@ -73,40 +81,44 @@ function smartExtractMatches(json) {
     // FASE 2: PLAYWRIGHT NETWORK SNIFFER
     // ==========================================
     const browser = await chromium.launch({ headless: true });
+    
+    // PEMBARUAN KRUSIAL: Update Target dan Header Origin/Referer
+    const targetMainDomain = "https://www.camellive.top"; 
+    
     const context = await browser.newContext({
         userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
         viewport: { width: 1280, height: 720 },
         extraHTTPHeaders: {
-            'Origin': 'https://www.camel1.tv',
-            'Referer': 'https://www.camel1.tv/'
+            'Origin': targetMainDomain,
+            'Referer': targetMainDomain + '/'
         }
     });
 
-    const targetUrl = "https://www.camel1.tv/";
     let playlistContent = "#EXTM3U\n";
     let streamFoundCount = 0;
 
     try {
         const page = await context.newPage();
-        console.log(`[LOG] Membuka beranda ${targetUrl} untuk mencari link video...`);
-        await page.goto(targetUrl, { waitUntil: 'networkidle', timeout: 60000 });
-        await page.waitForTimeout(5000); // Tunggu render DOM
+        console.log(`[LOG] Membuka beranda ${targetMainDomain} untuk mencari link video...`);
+        await page.goto(targetMainDomain + '/', { waitUntil: 'networkidle', timeout: 60000 });
+        await page.waitForTimeout(5000); 
 
-        // Scrape semua link yang mengarah ke halaman live streaming
+        // Scrape link yang mengarah ke live, antisipasi variasi path (/football/ atau /live/)
         const liveLinks = await page.$$eval('a', as => {
-            return [...new Set(as.map(a => a.href).filter(href => href.includes('/live/')))];
+            return [...new Set(as.map(a => a.href).filter(href => href.includes('/live/') || href.includes('/football/')))];
         });
         
-        console.log(`[LOG] Menemukan ${liveLinks.length} tautan Live Streaming. Memulai intersepsi...`);
+        console.log(`[LOG] Menemukan ${liveLinks.length} tautan halaman pertandingan. Memulai intersepsi...`);
 
-        // Iterasi ke setiap link untuk menangkap m3u8
         for (const link of liveLinks) {
             try {
-                // Ambil ID dari URL (biasanya segmen terakhir dari link seperti .../live/4jwq2ghnn9onm0v)
+                // Ambil ID dari URL dengan asumsi ID selalu berada di segmen paling akhir
                 const urlParts = link.split('/');
-                const urlId = urlParts[urlParts.length - 1].toLowerCase();
+                let urlId = urlParts[urlParts.length - 1].toLowerCase();
+                
+                // Bersihkan query string jika ada (misal: id?param=1)
+                if(urlId.includes('?')) urlId = urlId.split('?')[0];
 
-                // Cocokkan dengan data API, jika tidak ada di API buat judul standar
                 const matchData = matchesMap.get(urlId) || {
                     title: `CAMEL LIVE EVENT ${streamFoundCount + 1}`,
                     logo: "https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png"
@@ -116,37 +128,36 @@ function smartExtractMatches(json) {
                 const streamPage = await context.newPage();
                 let capturedM3u8 = null;
 
-                // Pasang pendengar jaringan (Network Sniffer)
                 streamPage.on('response', async (response) => {
                     const resUrl = response.url();
-                    if (resUrl.includes('.m3u8')) {
+                    // Tangkap hanya m3u8 yang memiliki parameter rahasia dari server utama
+                    if (resUrl.includes('.m3u8') && (resUrl.includes('txSecret') || resUrl.includes('auth='))) {
                         capturedM3u8 = resUrl;
                     }
                 });
 
                 await streamPage.goto(link, { waitUntil: 'domcontentloaded', timeout: 30000 });
                 
-                // Pancing tombol play jika video belum otomatis terputar
                 const playBtn = streamPage.locator('[class*="play"], video').first();
                 if (await playBtn.isVisible()) {
                     await playBtn.click().catch(() => {});
                 }
 
-                // Tunggu maksimal 10 detik agar m3u8 ter-generate di Network
                 await streamPage.waitForTimeout(10000);
-                await streamPage.close(); // Tutup tab untuk hemat memori
+                await streamPage.close(); 
 
                 if (capturedM3u8) {
                     console.log(`[SUCCESS] M3U8 Ditangkap: ${capturedM3u8}`);
                     playlistContent += `#EXTINF:-1 tvg-logo="${matchData.logo}" group-title="CAMEL SPORTS", ${matchData.title}\n`;
-                    playlistContent += `#EXTVLCOPT:http-origin=https://www.camel1.tv\n`;
-                    playlistContent += `#EXTVLCOPT:http-referrer=https://www.camel1.tv/\n`;
+                    // Update Header VLC Output untuk player IPTV
+                    playlistContent += `#EXTVLCOPT:http-origin=${targetMainDomain}\n`;
+                    playlistContent += `#EXTVLCOPT:http-referrer=${targetMainDomain}/\n`;
                     playlistContent += `${capturedM3u8}\n`;
                     streamFoundCount++;
                 }
 
             } catch (err) {
-                console.log(`[SKIP] Gagal memproses link, lanjut ke link berikutnya...`);
+                console.log(`[SKIP] Waktu habis atau gagal memproses link.`);
             }
         }
 
@@ -158,7 +169,6 @@ function smartExtractMatches(json) {
             console.log(`[LOG] Selesai! Berhasil menyimpan ${streamFoundCount} stream ke playlist.m3u`);
         } else {
             console.log("[LOG] Tidak ada stream aktif yang ditemukan pada sesi ini.");
-            // Buat file kosong agar git tetap berjalan rapi
             fs.writeFileSync('playlist.m3u', "#EXTM3U\n#EXTINF:-1,Tidak Ada Siaran Langsung Saat Ini\nhttp://offline.local");
         }
 
