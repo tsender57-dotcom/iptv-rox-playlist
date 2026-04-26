@@ -4,13 +4,18 @@
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=jgCljAUeCDF9p-ZO2lLF4-GCQySbJ2JhtN-qiNuSiYU&e=1777185115
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[🔴 LIVE] [04:00 WIB] [Fight MMA] UFC Fight Night: Sterling vs. Zalal (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[🔴 LIVE] [04:00 WIB] [Fight MMA] UFC Fight Night: Sterling vs. Zalal (STRMCNTR)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[19:00 WIB] [Football] Real Sociedad at Rayo Vallecano (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[19:00 WIB] [Football] Real Sociedad at Rayo Vallecano (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/zeuryuegn48.m3u8?st=SphXUMYFWv4axQvTMkP4HouinT-MZDIhxguPRQRBAQI&e=1777189909
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)
+https://edgestreams.pro/hls/377qj1h2727.m3u8?st=UPnbSF1_YTeati6_Y09WMsIoPu5Mz3qFTi5dsKsRa8s&e=1777190493
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[04:00 WIB] [Fight MMA] UFC Fight Night: Sterling vs. Zalal (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[04:00 WIB] [Fight MMA] UFC Fight Night: Sterling vs. Zalal (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=RAT-msdjxB1clevHV5WW6IzbBVCssHwhWNcNJfgZHuY&e=1777189910
+https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=d_DWgyP5XSEuzqtBHtJbhmMusGjSFvjubxqsdLnAVx4&e=1777190494
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=VAbQUEn8UTvr7gmX8VdSFetwL6gaVTTY1RRymBAUto8&e=1777190495
