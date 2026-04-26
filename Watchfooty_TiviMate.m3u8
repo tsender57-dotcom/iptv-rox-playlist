@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-26 03:31 UTC
+# Last Updated: 2026-04-26 03:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Sterling vs. Zalal - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/S1zSYH6lQPg4UYSfVmhy0Q/pro/ufc-fight-night-sterling-vs-zalal/1/600058746/1777195897/playlist.m3u8
+https://lb4.wfty.wtf/playlist/rNQZpNZZT8TCoD3UWceARA/pro/ufc-fight-night-sterling-vs-zalal/1/600058746/1777196491/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] San Diego FC vs Portland Timbers - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Mexican Liga BBVA MX] América vs Atlas - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/lKrZxvNeYtWLeRZ2jAY-SA/easy/san-diego-fc-portland-timbers/1/4621585/1777195903/playlist.m3u8
+https://lb9.wfty.wtf/playlist/S1uPvhD4wIBgDSFU8w1zMg/easy/america-atlas/2/401840965/1777196495/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [USL Jägermeister Cup] Las Vegas Lights FC vs Boise - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [USL Jägermeister Cup] Sacramento Republic FC vs Spokane Velocity FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/hQJqjlnEPzxTQ9PZfbsUhQ/regular/las-vegas-lights-fc-boise/1/5201458/1777195907/playlist.m3u8
+https://lb5.wfty.wtf/playlist/0NfEknNif8WBZVmp3YE6Kw/regular/sacramento-republic-fc-spokane-velocity-fc/1/5201457/1777196501/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Minnesota Timberwolves vs Denver Nuggets - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Super Rugby Pacific] Highlanders vs Moana Pasifika - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/t8uW312tMYohya57gGQgiw/pro/minnesota-timberwolves-denver-nuggets/1/401869399/1777195910/playlist.m3u8
+https://lb5.wfty.wtf/playlist/btKPvzY6pjT14VCI1GY1DQ/easy/highlanders-moana-pasifika/2/603182/1777196505/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Costa Rican Primera Division] Club Sport Herediano vs Sporting San José - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.wtf/playlist/9t13xRfqXdCOLLjtHnBQEw/regular/club-sport-herediano-sporting-san-jose/1/4626902/1777196508/playlist.m3u8
 
