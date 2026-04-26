@@ -1,45 +1,63 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-26 17:11 UTC
+# Last Updated: 2026-04-26 17:21 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [HNL] Dinamo Zagreb vs NK Varazdin - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA] Osasuna vs Sevilla - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/mMne9uDdMd7i13vlvLGm4Q/regular/dinamo-zagreb-nk-varazdin/2/4814280/1777245073/playlist.m3u8
+https://lb10.wfty.wtf/playlist/WvKEQOYXhezq3ndMd6i5Mw/regular/osasuna-sevilla/3/4837423/1777245685/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie A] Torino vs Inter Milan - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/1siwRqrKNyFw8vkEZ6g1CA/easy/torino-internazionale/1/4445144/1777245077/playlist.m3u8
+https://lb9.wfty.wtf/playlist/2nFo5rH8u5P1pAKkl1iWRA/easy/torino-internazionale/1/4445144/1777245688/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] Borussia Dortmund vs SC Freiburg - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/playlist/7x5eyrnFb5tBIcAnEThC7Q/easy/borussia-dortmund-sc-freiburg/1/746991/1777245080/playlist.m3u8
+https://lb4.wfty.wtf/playlist/EjpaJCdMyGi5DXWzzwkjww/easy/borussia-dortmund-sc-freiburg/1/746991/1777245692/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [French Ligue 1] Paris FC vs Lille - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/clP3U3UxB1-W-jjUHe_INQ/easy/paris-fc-lille/1/4830734/1777245083/playlist.m3u8
+https://lb5.wfty.wtf/playlist/j4VT054LeM8JXOCwbb23zw/easy/paris-fc-lille/1/746688/1777245695/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Niké liga - Playoffs - Championship Round] Spartak Trnava vs Slovan Bratislava - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb9.wfty.wtf/playlist/3glj8CUKRbSlrVFNr8l04Q/elite/spartak-trnava-slovan-bratislava/1/4680503/1777245698/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Portuguese Primeira Liga] Estrela da Amadora vs FC Porto - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/WkJkR5JNVc2Ei0jLEYenAg/easy/estrela-fc-porto/1/4844436/1777245087/playlist.m3u8
+https://lb1.wfty.wtf/playlist/nbAVToLiojuOyo6QWQpxRg/easy/estrela-fc-porto/1/4844436/1777245702/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga Portugal 2] Benfica B vs Maritimo - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Portuguese Primeira Liga] Santa Clara vs SC Braga - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/gdbi_9zQz8VeDyg0mWsjmg/prime/benfica-b-maritimo/1/4475219/1777245090/playlist.m3u8
+https://lb3.wfty.wtf/playlist/GOVzJJYJYSLCMvPYCeHw2w/easy/santa-clara-braga/1/4474987/1777245706/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Turkish Super Lig] Galatasaray vs Fenerbahçe - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/playlist/oOWAhKTGq10xU4hjCq5oQQ/easy/galatasaray-fenerbahce/1/4842589/1777245094/playlist.m3u8
+https://lb9.wfty.wtf/playlist/BB2kC9elV8FLVONLSPT2rg/easy/galatasaray-fenerbahce/1/4842589/1777245709/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [1. Liga Championship Group] Spartak Trnava vs Slovan Bratislava - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/playlist/fK-u9YgWzQWKMcCkQ53-Zg/elite/spartak-trnava-slovan-bratislava/1/5208300/1777245713/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga Portugal 2] Benfica B vs Maritimo - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.wtf/playlist/KS1zxbZJNlo5D4BeJDdBNA/prime/benfica-b-maritimo/1/4475219/1777245716/playlist.m3u8
 
