@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-26 03:01 UTC
+# Last Updated: 2026-04-26 03:12 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Sterling vs. Zalal - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/s8P9t43q9nPGU_OD4p3nvw/pro/ufc-fight-night-sterling-vs-zalal/1/600058746/1777194098/playlist.m3u8
+https://lb6.wfty.wtf/playlist/HgS67JOQlAwcXDEorPmCbg/pro/ufc-fight-night-sterling-vs-zalal/1/600058746/1777194698/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] San Diego FC vs Portland Timbers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/7aV4Fwyfqg7gx3dcpAcQ9A/easy/san-diego-fc-portland-timbers/1/4621585/1777194104/playlist.m3u8
+https://lb2.wfty.wtf/playlist/9VTfsDyuodll1CZyvSIp7g/easy/san-diego-fc-portland-timbers/1/4621585/1777194708/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Super Rugby Pacific] Highlanders vs Moana Pasifika - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/playlist/s1tUDo_Reo4bmgKr7ShWPQ/easy/highlanders-moana-pasifika/2/603182/1777194108/playlist.m3u8
+https://lb9.wfty.wtf/playlist/eW8t-sSsBw82REbP5RnanQ/easy/highlanders-moana-pasifika/1/603182/1777194711/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Mexican Liga BBVA MX] Toluca vs Leon - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/CRLKr8dNXFMLBDDdVhGkhA/easy/toluca-leon/1/4632964/1777194114/playlist.m3u8
+https://lb5.wfty.wtf/playlist/wOlBIVnZp7OJwQLF_MEIRA/easy/toluca-leon/1/4632964/1777194718/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Minnesota Timberwolves vs Denver Nuggets - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/playlist/o6H5SXG8_rqArM8XH72wrQ/pro/minnesota-timberwolves-denver-nuggets/1/401869399/1777194722/playlist.m3u8
 
