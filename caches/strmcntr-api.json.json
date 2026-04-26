@@ -224,20 +224,6 @@
     "endPartie": "2026-04-26T23:00:00"
   },
   {
-    "id": 8714,
-    "category": null,
-    "categoryId": 9,
-    "name": "Nice vs Marseille",
-    "description": "Nice at Marseille - NICE @ OLM",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-    "gameName": "Nice at Marseille",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-    "videoUrl": "https://streams.center/embed/ch7.php<English",
-    "beginPartie": "2026-04-26T19:45:00",
-    "endPartie": "2026-04-26T22:45:00"
-  },
-  {
     "id": 8704,
     "category": null,
     "categoryId": 9,
@@ -248,6 +234,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
     "videoUrl": "https://streams.center/embed/ch9.php<Italien",
+    "beginPartie": "2026-04-26T19:45:00",
+    "endPartie": "2026-04-26T22:45:00"
+  },
+  {
+    "id": 8714,
+    "category": null,
+    "categoryId": 9,
+    "name": "Nice vs Marseille",
+    "description": "Nice at Marseille - NICE @ OLM",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+    "gameName": "Nice at Marseille",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+    "videoUrl": "https://streams.center/embed/ch7.php<English",
     "beginPartie": "2026-04-26T19:45:00",
     "endPartie": "2026-04-26T22:45:00"
   },
@@ -432,19 +432,5 @@
     "videoUrl": "https://streams.center/embed/ch65.php<English",
     "beginPartie": "2026-04-26T18:00:00",
     "endPartie": "2026-04-26T21:00:00"
-  },
-  {
-    "id": 8695,
-    "category": null,
-    "categoryId": 9,
-    "name": "Sevilla vs Osasuna",
-    "description": "Sevilla at Osasuna - SEV @ OSA",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-    "gameName": "Sevilla at Osasuna",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
-    "beginPartie": "2026-04-26T17:30:00",
-    "endPartie": "2026-04-26T20:30:00"
   }
 ]
