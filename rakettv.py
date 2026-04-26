@@ -87,7 +87,7 @@ def save_playlist(streams):
     for idx, m3u8_url in enumerate(streams, start=1):
         court_name = f"COURT {idx}"
         lines.extend([
-            f'#EXTINF:-1 tvg-logo="{BWF_LOGO}" tvg-id="Badminton.Live" group-title="R TV",LIVE BADMINTON - Bone TV ({court_name})',
+            f'#EXTINF:-1 tvg-logo="{BWF_LOGO}" tvg-id="Badminton.Live" group-title="BONE TV",LIVE BADMINTON - Bone TV ({court_name})',
             f'#EXTVLCOPT:http-referrer={IFRAME_ORIGIN}/',
             f'#EXTVLCOPT:http-origin={IFRAME_ORIGIN}',
             f'#EXTVLCOPT:http-user-agent={USER_AGENT}',
