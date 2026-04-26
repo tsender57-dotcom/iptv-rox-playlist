@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-26 23:21 UTC
+# Last Updated: 2026-04-26 23:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[00:00 WIB] [NBA] Cleveland Cavaliers vs Toronto Raptors - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -13,7 +13,7 @@ https://mp1.mpfiles.cfd/live/raptor/stream.m3u8?expires=1777231615&token=309758f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mll3.mpfiles.cfd/live/66/stream.m3u8?expires=1777232137&token=3e13a03965669caf683e3312ba2fbfcc87b9f45666533f258951ce23758b8dbd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[🔴 LIVE] [02:30 WIB] [NBA] San Antonio Spurs vs Portland Trail Blazers - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[02:30 WIB] [NBA] San Antonio Spurs vs Portland Trail Blazers - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36

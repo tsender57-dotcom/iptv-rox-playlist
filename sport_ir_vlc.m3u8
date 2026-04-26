@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[06:00 WIB] [NHL] Tampa Bay Lightning vs Montréal Canadiens (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[06:00 WIB] [NHL] Tampa Bay Lightning vs Montréal Canadiens (SPORTir)
+#EXTINF:-1 tvg-chno="1" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[06:00 WIB] [NBA] Boston Celtics vs Philadelphia 76ers (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[06:00 WIB] [NBA] Boston Celtics vs Philadelphia 76ers (SPORTir)
+#EXTVLCOPT:http-referrer=https://nba24all.ir
+#EXTVLCOPT:http-origin=https://nba24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://node-31fbddbb.streamtofu.com/69ef10f3.cd037e6di5f787bca.12092.44ff7285/free.live.sportsnet/master.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[06:00 WIB] [NHL] Tampa Bay Lightning vs Montréal Canadiens (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[06:00 WIB] [NHL] Tampa Bay Lightning vs Montréal Canadiens (SPORTir)
 #EXTVLCOPT:http-referrer=https://nhl24all.ir
 #EXTVLCOPT:http-origin=https://nhl24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-31fbddbb.streamtofu.com/69ef0eb0.c9e5b2a6ia3024c48.12091.d0c6257b/free.live.sportsnet/master.m3u8
+https://node-31fbddbb.streamtofu.com/69ef10f4.67448eb9i5f787bca.12091.b62ab8c0/free.live.sportsnet/master.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[03:30 WIB] [NHL] Colorado Avalanche vs Los Angeles Kings (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[03:30 WIB] [NHL] Colorado Avalanche vs Los Angeles Kings (SPORTir)
+#EXTVLCOPT:http-referrer=https://nhl24all.ir
+#EXTVLCOPT:http-origin=https://nhl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://node-582e4e77.streamtofu.com/69ef10f8.7f29218ei5f787bca.12090.286a9040/free.live.sportsnet/master.m3u8
