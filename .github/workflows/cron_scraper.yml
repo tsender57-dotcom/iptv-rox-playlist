@@ -1,0 +1,40 @@
+name: Scheduled M3U8 Scraper
+
+on:
+  schedule:
+    # Aturan Cron: Menjalankan eksekusi setiap 10 menit
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Memungkinkan eksekusi manual (tombol Run workflow) dari dashboard GitHub
+
+jobs:
+  scrape_and_update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: |
+          npm install playwright
+          npx playwright install chromium --with-deps
+
+      - name: Run Scraper Engine
+        run: node scraper.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          
+          # Logika Pro: Cek jika ada perubahan pada file playlist.m3u
+          if [ -f playlist.m3u ]; then
+            git add playlist.m3u
+            git commit -m "Automated Update: Captured M3U8 [$(date)]" || echo "No changes to commit"
+            git push
+          fi
+
