@@ -1,32 +1,4 @@
 {
-  "8726": {
-    "name": "[06:10 WIB] [Baseball] Los Angeles Angels at Kansas City Royals (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=u4GcYMYIoyjLeGSejhhBv75ZqBTgkGMSM6PZgkm2G4s&e=1777144295",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777155000.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8727": {
-    "name": "[06:10 WIB] [Baseball] New York Yankees at Houston Astros (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/kjhfzua25.m3u8?st=bIZH4CZEPAamIetxD7ricE07k8tKYQhe_GiIlVbwUXA&e=1777144297",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777155000.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8728": {
-    "name": "[06:10 WIB] [Baseball] Pittsburgh Pirates at Milwaukee Brewers (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=3JOpOM5vp53w1accDS5z6Ou8iRVT0V6u91qToFGJ0tE&e=1777144297",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777155000.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
-  "8725": {
-    "name": "[06:05 WIB] [Baseball] Athletics Athletics at Texas Rangers (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=nsHJ-0mkXBVt93d60uSfqBkBVBXT6VR1KSaM3NhpjB0&e=1777144298",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-    "timestamp": 1777154700.0,
-    "id": "MLB.Baseball.Dummy.us"
-  },
   "8729": {
     "name": "[06:15 WIB] [Baseball] Detroit Tigers at Cincinnati Reds (STRMCNTR)",
     "url": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?st=eOCfnFtsYE3T7vaHVXTMtgUpLS_3d7nAzlkXnrpTxPE&e=1777144930",
@@ -62,37 +34,65 @@
     "timestamp": 1777159800.0,
     "id": "NBA.Basketball.Dummy.us"
   },
+  "8726": {
+    "name": "[🔴 LIVE] [06:10 WIB] [Baseball] Los Angeles Angels at Kansas City Royals (STRMCNTR)",
+    "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?st=dCjCI1kN9TnQwPhfqx1FBhnk6eWlIJDxrExO5ASNGm0&e=1777176751",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "timestamp": 1777155000.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "8727": {
+    "name": "[🔴 LIVE] [06:10 WIB] [Baseball] New York Yankees at Houston Astros (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=dSp9T6VAVrLuaOF4t5hSDTk66VH86hweQMlYpVCwq0o&e=1777176753",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "timestamp": 1777155000.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "8728": {
+    "name": "[🔴 LIVE] [06:10 WIB] [Baseball] Pittsburgh Pirates at Milwaukee Brewers (STRMCNTR)",
+    "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=mcJY0UarLoKahxTxTZYABwXRDRr67Bm-7tz92B342Jo&e=1777176754",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "timestamp": 1777155000.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
+  "8725": {
+    "name": "[🔴 LIVE] [06:05 WIB] [Baseball] Athletics Athletics at Texas Rangers (STRMCNTR)",
+    "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=KSqwleaxdUgQ-ZX92U4TRHlIuJuvlXmm4PKEdBqO2H4&e=1777176755",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+    "timestamp": 1777154700.0,
+    "id": "MLB.Baseball.Dummy.us"
+  },
   "8724": {
-    "name": "[🔴 LIVE] [05:05 WIB] [Baseball] San Diego Padres at Arizona Diamondbacks (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=RLfmPawL_Gzjrp4tv5CaGZnWoqZo0KHvc-gQRZzhHFM&e=1777176151",
+    "name": "[05:05 WIB] [Baseball] San Diego Padres at Arizona Diamondbacks (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=0JKqCJcXUvcUo0WKmBJ2FUdDkXoalHzi8ofpabiHV5Y&e=1777176756",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
     "timestamp": 1777151100.0,
     "id": "MLB.Baseball.Dummy.us"
   },
   "8737": {
     "name": "[05:00 WIB] [Basketball] New York Knicks at Atlanta Hawks (STRMCNTR)",
-    "url": "https://edgestreams.pro/hls/hfsdqtaxvb67.m3u8?st=ZK-jGkSSKaUsbg3pqp3MVPpui82ePg-r7hjZLzfB59Y&e=1777176152",
+    "url": "https://edgestreams.pro/hls/hfsdqtaxvb67.m3u8?st=7FIJNQAAFRMGMb06KQW7sgAtUwH8a9JrRFe-B89vmWM&e=1777176757",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "timestamp": 1777150800.0,
     "id": "NBA.Basketball.Dummy.us"
   },
   "8733": {
     "name": "[04:30 WIB] [Hockey] Dallas Stars at Minnesota Wild (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/hjksgdfauzy51.m3u8?st=3ks_1dyVTDeQdqHCqRcc6ga9ZifVuQNYlm0CcvazisE&e=1777176153",
+    "url": "https://edge2caster.pro/hls/hjksgdfauzy51.m3u8?st=TOYuTQd7Vv8xu8y_zzkT5G57_lkM7cxZtLS1VqCmfko&e=1777176757",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
     "timestamp": 1777149000.0,
     "id": "NHL.Hockey.Dummy.us"
   },
   "8682": {
     "name": "[🔴 LIVE] [04:00 WIB] [Fight MMA] UFC Fight Night: Sterling vs. Zalal (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/zeuryuegn48.m3u8?st=-sotUe152UVTS2Ehk-EkBcq0GQY30trIkx26DP0_gbc&e=1777176154",
+    "url": "https://edgestreams.pro/hls/zeuryuegn48.m3u8?st=a8xpY2ESxXPuYS49WPFBDOVWJkxn0DxMADJDszNdHTo&e=1777176758",
     "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
     "timestamp": 1777147200.0,
     "id": "Live.Event.us"
   },
   "8681": {
     "name": "[🔴 LIVE] [07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)",
-    "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=P2Xu6JVHDJAXb4El8JB-V6DmQeQjGV_UBuU9bjLKExA&e=1777176155",
+    "url": "https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=Mk2eUgIBTud3cq-zOFo20QQkZwa1prAsNLIhmmCHnv8&e=1777176759",
     "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
     "timestamp": 1777071600.0,
     "id": "Live.Event.us"
