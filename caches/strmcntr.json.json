@@ -183,30 +183,23 @@
   },
   "8742": {
     "name": "[🔴 LIVE] [00:00 WIB] [Basketball] Cleveland Cavaliers at Toronto Raptors (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=O4sErPGfLPsuIEmQ0-1hT4yZkND4cu7HrdOcN6b7XJM&e=1777242102",
+    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=ExvEInN93cOR4BHoDJc-CDXZ-d3yHMoBwdIrttDxMQc&e=1777242737",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "timestamp": 1777219200.0,
     "id": "NBA.Basketball.Dummy.us"
   },
   "8695": {
-    "name": "[🔴 LIVE] [23:30 WIB] [Football] Sevilla at Osasuna (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=cObFWqk6MYWs9zOwTBuB7oqz3AWXuhz4RPfpMpQXlk8&e=1777242103",
+    "name": "[23:30 WIB] [Football] Sevilla at Osasuna (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=Ep17Aa_ZU2ZSuk0LzDwrEH98NxyH8zrqiLTYj477AyA&e=1777242739",
     "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
     "timestamp": 1777217400.0,
     "id": "Soccer.Dummy.us"
   },
   "8703": {
     "name": "[23:00 WIB] [Football] Internazionale at Torino (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=a2cbo6R9fWlP93VVjXB64l2z_m-8lwqvztYSTL_wpWs&e=1777242104",
+    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=pHfjRCBZnqvCCEAs_FcOCU2gILg5SYBNQKm0taC1Jmo&e=1777242740",
     "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
     "timestamp": 1777215600.0,
-    "id": "Soccer.Dummy.us"
-  },
-  "8716": {
-    "name": "[22:30 WIB] [Football] SC Freiburg at Borussia Dortmund (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/ueyeztrazb4.m3u8?st=5MXbpfDP3EPymAX4xfBFSd5ya3WDDOoSmyoR5N7bLqQ&e=1777242105",
-    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-    "timestamp": 1777213800.0,
     "id": "Soccer.Dummy.us"
   }
 }
