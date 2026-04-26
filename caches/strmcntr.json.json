@@ -1,11 +1,4 @@
 {
-  "8701": {
-    "name": "[17:30 WIB] [Football] Sassuolo at Fiorentina (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=jgCljAUeCDF9p-ZO2lLF4-GCQySbJ2JhtN-qiNuSiYU&e=1777185115",
-    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-    "timestamp": 1777195800.0,
-    "id": "Soccer.Dummy.us"
-  },
   "8693": {
     "name": "[19:00 WIB] [Football] Real Sociedad at Rayo Vallecano (STRMCNTR)",
     "url": "https://edgestreams.pro/hls/377qj1h2727.m3u8?st=UPnbSF1_YTeati6_Y09WMsIoPu5Mz3qFTi5dsKsRa8s&e=1777190493",
@@ -102,6 +95,13 @@
     "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=kPT6e_PgehDx5zfyuhbR1lwKylzdsR7gTr0dCDPvFE4&e=1777215715",
     "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
     "timestamp": 1777226400.0,
+    "id": "Soccer.Dummy.us"
+  },
+  "8701": {
+    "name": "[🔴 LIVE] [17:30 WIB] [Football] Sassuolo at Fiorentina (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=bjht9WzNtUAL_Rji2wIbNTJk-DYwUBEPFAuQisV9vNQ&e=1777218713",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777195800.0,
     "id": "Soccer.Dummy.us"
   }
 }
