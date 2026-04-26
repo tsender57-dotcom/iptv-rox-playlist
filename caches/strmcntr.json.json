@@ -41,11 +41,25 @@
     "timestamp": 1777209300.0,
     "id": "Soccer.Dummy.us"
   },
-  "8681": {
-    "name": "[07:00 WIB] [Motor Sport] MotoGP Spanish Grand Prix (STRMCNTR)",
-    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=ma2lQ9TMOCP-QpAw_m6kkXpICXUduyADwxpNs1ATWfg&e=1777200675",
-    "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-    "timestamp": 1777071600.0,
-    "id": "Live.Event.us"
+  "8711": {
+    "name": "[22:15 WIB] [Football] Lille at Paris FC (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/dza5z8f69.m3u8?st=S3_LH7qe9MWHOeU-JTAbGR2oQ9NkHqUZEoNMZRcE-ng&e=1777202487",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777212900.0,
+    "id": "Soccer.Dummy.us"
+  },
+  "8712": {
+    "name": "[22:15 WIB] [Football] Metz at Le Havre AC (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=ZY4UX83QxyMCCTW_ovInXjk3fNX5ux6kc_AjvjefG1k&e=1777202488",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777212900.0,
+    "id": "Soccer.Dummy.us"
+  },
+  "8713": {
+    "name": "[22:15 WIB] [Football] Nantes at Stade Rennais (STRMCNTR)",
+    "url": "https://mainstreams.pro/hls/griogoehvn2.m3u8?st=iGyZ3VQiwI5RC2xsPgr7Z_miwXMfpxarJMPU-OsjYXY&e=1777202489",
+    "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+    "timestamp": 1777212900.0,
+    "id": "Soccer.Dummy.us"
   }
 }
