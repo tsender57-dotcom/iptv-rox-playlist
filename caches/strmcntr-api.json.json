@@ -98,20 +98,6 @@
     "endPartie": "2026-04-27T03:20:00"
   },
   {
-    "id": 8748,
-    "category": null,
-    "categoryId": 16,
-    "name": "Tampa Bay Lightning vs Montreal Canadiens",
-    "description": "Tampa Bay Lightning at Montreal Canadiens - TB @ MTL",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png",
-    "gameName": "Tampa Bay Lightning at Montreal Canadiens",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png",
-    "videoUrl": "https://streams.center/embed/ch52.php<English",
-    "beginPartie": "2026-04-27T00:00:00",
-    "endPartie": "2026-04-27T03:00:00"
-  },
-  {
     "id": 8744,
     "category": null,
     "categoryId": 4,
@@ -122,6 +108,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
     "videoUrl": "https://streams.center/embed/ch67.php<English",
+    "beginPartie": "2026-04-27T00:00:00",
+    "endPartie": "2026-04-27T03:00:00"
+  },
+  {
+    "id": 8748,
+    "category": null,
+    "categoryId": 16,
+    "name": "Tampa Bay Lightning vs Montreal Canadiens",
+    "description": "Tampa Bay Lightning at Montreal Canadiens - TB @ MTL",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png",
+    "gameName": "Tampa Bay Lightning at Montreal Canadiens",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png",
+    "videoUrl": "https://streams.center/embed/ch52.php<English",
     "beginPartie": "2026-04-27T00:00:00",
     "endPartie": "2026-04-27T03:00:00"
   },
@@ -320,19 +320,5 @@
     "videoUrl": "https://streams.center/embed/ch23.php<English",
     "beginPartie": "2026-04-26T19:10:00",
     "endPartie": "2026-04-26T22:10:00"
-  },
-  {
-    "id": 8746,
-    "category": null,
-    "categoryId": 16,
-    "name": "Buffalo Sabres vs Boston Bruins",
-    "description": "Buffalo Sabres at Boston Bruins - BUF @ BOS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png",
-    "gameName": "Buffalo Sabres at Boston Bruins",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png",
-    "videoUrl": "https://streams.center/embed/ch50.php<English",
-    "beginPartie": "2026-04-26T19:00:00",
-    "endPartie": "2026-04-26T22:00:00"
   }
 ]
