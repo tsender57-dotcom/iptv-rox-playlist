@@ -1,10 +1,10 @@
-name: Scheduled M3U8 Scraper
+name: Scheduled M3U8 Scraper (Hybrid)
 
 on:
   schedule:
-    # Aturan Cron: Menjalankan eksekusi setiap 10 menit
+    # Eksekusi otomatis setiap 10 menit
     - cron: '*/10 * * * *'
-  workflow_dispatch: # Memungkinkan eksekusi manual (tombol Run workflow) dari dashboard GitHub
+  workflow_dispatch: 
 
 jobs:
   scrape_and_update:
@@ -13,12 +13,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Setup Node.js 20
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Install Dependencies
+      - name: Install Playwright & Dependencies
         run: |
           npm install playwright
           npx playwright install chromium --with-deps
@@ -26,15 +26,14 @@ jobs:
       - name: Run Scraper Engine
         run: node scraper.js
 
-      - name: Commit and Push Changes
+      - name: Commit and Push M3U Playlist
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           
-          # Logika Pro: Cek jika ada perubahan pada file playlist.m3u
           if [ -f playlist.m3u ]; then
             git add playlist.m3u
-            git commit -m "Automated Update: Captured M3U8 [$(date)]" || echo "No changes to commit"
+            git commit -m "Auto-Update: Camelscore M3U8 [$(date)]" || echo "No changes to commit"
             git push
           fi
-
+          
