@@ -1,0 +1,10 @@
+{
+  "name": "m3u8-auto-scraper",
+  "version": "1.0.0",
+  "description": "Automated M3U8 Network Sniffer",
+  "main": "scraper.js",
+  "dependencies": {
+    "playwright": "^1.42.1"
+  }
+}
+
