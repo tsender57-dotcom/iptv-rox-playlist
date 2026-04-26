@@ -1,0 +1,42 @@
+name: RaketTV Updater
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          playwright install --with-deps
+          playwright install chromium
+
+      - name: Run Scraper
+        run: python rakettv.py
+
+      - name: Commit & Push
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add rakettv.m3u8
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan."
+            exit 0
+          fi
+          git commit -m "Update RaketTV Playlist [skip ci]"
+          git push origin main
