@@ -98,20 +98,6 @@
     "endPartie": "2026-04-27T03:20:00"
   },
   {
-    "id": 8744,
-    "category": null,
-    "categoryId": 4,
-    "name": "Boston Celtics vs Philadelphia 76ers",
-    "description": "Boston Celtics at Philadelphia 76ers - BOS @ PHI",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-    "gameName": "Boston Celtics at Philadelphia 76ers",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-    "videoUrl": "https://streams.center/embed/ch67.php<English",
-    "beginPartie": "2026-04-27T00:00:00",
-    "endPartie": "2026-04-27T03:00:00"
-  },
-  {
     "id": 8748,
     "category": null,
     "categoryId": 16,
@@ -122,6 +108,20 @@
     "popularLive": false,
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png",
     "videoUrl": "https://streams.center/embed/ch52.php<English",
+    "beginPartie": "2026-04-27T00:00:00",
+    "endPartie": "2026-04-27T03:00:00"
+  },
+  {
+    "id": 8744,
+    "category": null,
+    "categoryId": 4,
+    "name": "Boston Celtics vs Philadelphia 76ers",
+    "description": "Boston Celtics at Philadelphia 76ers - BOS @ PHI",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+    "gameName": "Boston Celtics at Philadelphia 76ers",
+    "popularLive": false,
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+    "videoUrl": "https://streams.center/embed/ch67.php<English",
     "beginPartie": "2026-04-27T00:00:00",
     "endPartie": "2026-04-27T03:00:00"
   },
@@ -572,19 +572,5 @@
     "videoUrl": "https://streams.center/embed/ch9.php<Italien",
     "beginPartie": "2026-04-26T14:00:00",
     "endPartie": "2026-04-26T17:00:00"
-  },
-  {
-    "id": 8693,
-    "category": null,
-    "categoryId": 9,
-    "name": "Real Sociedad vs Rayo Vallecano",
-    "description": "Real Sociedad at Rayo Vallecano - RSO @ RAY",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-    "gameName": "Real Sociedad at Rayo Vallecano",
-    "popularLive": false,
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-    "videoUrl": "https://streams.center/embed/ch6.php<Spanish",
-    "beginPartie": "2026-04-26T13:00:00",
-    "endPartie": "2026-04-26T16:00:00"
   }
 ]
