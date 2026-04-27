@@ -2,7 +2,6 @@ name: Scheduled M3U8 Scraper (Hybrid)
 
 on:
   schedule:
-    # Eksekusi otomatis setiap 10 menit
     - cron: '*/10 * * * *'
   workflow_dispatch: 
 
@@ -13,7 +12,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Memastikan history git terbaca penuh untuk rebase
+          fetch-depth: 0
 
       - name: Setup Node.js 20
         uses: actions/setup-node@v4
@@ -21,8 +20,9 @@ jobs:
           node-version: '20'
 
       - name: Install Playwright & Dependencies
+        # Menambahkan --no-save agar meminimalisir pembuatan file sampah lock
         run: |
-          npm install playwright
+          npm install playwright --no-save
           npx playwright install chromium --with-deps
 
       - name: Run Scraper Engine
@@ -37,10 +37,11 @@ jobs:
             git add playlist.m3u
             git commit -m "Auto-Update: Camelscore M3U8 [$(date)]" || echo "No changes to commit"
             
-            # LOGIKA PRO: Tarik data terbaru dari server dan gabungkan secara paksa (rebase)
-            # Ini mencegah error "fetch first / rejected" jika ada perubahan manual saat script berjalan
-            git pull --rebase origin main
+            # LOGIKA PRO 100%: Bersihkan sisa file instalasi (seperti package-lock.json)
+            # agar area kerja bersih 100% sebelum melakukan rebase
+            git stash || true
             
+            git pull --rebase origin main
             git push
           fi
           
