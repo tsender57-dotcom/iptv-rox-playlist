@@ -2,15 +2,20 @@ name: RaketTV Updater
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
-  workflow_dispatch:
+    - cron: '*/20 * * * *' # Berjalan otomatis setiap 20 menit
+  workflow_dispatch: # Memungkinkan tombol 'Run workflow' manual
 
 permissions:
   contents: write
 
+env:
+  # Menghilangkan peringatan Node.js 20 deprecated di log GitHub
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -23,20 +28,36 @@ jobs:
       - name: Install dependencies
         run: |
           pip install playwright
-          playwright install --with-deps
-          playwright install chromium
+          # Menginstal browser Chromium beserta semua pustaka pendukung sistem Linux
+          python -m playwright install --with-deps chromium
 
       - name: Run Scraper
-        run: python rakettv.py
+        run: |
+          echo "Starting RaketTV scraper..."
+          python rakettv.py
 
-      - name: Commit & Push
+      - name: Commit & Push safely
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
+
+          # Menambahkan file playlist m3u8 hasil scraper
           git add rakettv.m3u8
+
           if git diff --cached --quiet; then
-            echo "Tidak ada perubahan."
+            echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Update RaketTV Playlist [skip ci]"
-          git push origin main
+
+          git commit -m "Update RaketTV playlist [skip ci]"
+
+          # Push dengan logika anti-konflik (rebase) jika ada workflow lain berjalan
+          if ! git push origin main; then
+            echo "Push rejected — rebasing safely..."
+            git stash
+            git pull --rebase origin main
+            git stash pop
+            git add rakettv.m3u8
+            git commit -m "Update RaketTV playlist (rebased) [skip ci]" || true
+            git push origin main
+          fi
