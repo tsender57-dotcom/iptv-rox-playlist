@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[08:30 WIB] [NBA] Los Angeles Lakers vs Houston Rockets (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[08:30 WIB] [NBA] Los Angeles Lakers vs Houston Rockets (SPORTir)
+https://node-31fbddbb.streamtofu.com/69ef2f5c.a43785f2i26a49a41.123b5.b6c09e97/free.live.sportsnet/master.m3u8|referer=https://nba24all.ir|origin=https://nba24all.ir|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F145.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[06:00 WIB] [NHL] Tampa Bay Lightning vs Montréal Canadiens (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[06:00 WIB] [NHL] Tampa Bay Lightning vs Montréal Canadiens (SPORTir)
+https://node-31fbddbb.streamtofu.com/69ef2f5c.739d8698i26a49a41.12091.999cf759/free.live.sportsnet/master.m3u8|referer=https://nhl24all.ir|origin=https://nhl24all.ir|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F145.0.0.0%20Safari%2F537.36
