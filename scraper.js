@@ -28,7 +28,7 @@ function extractTeamName(teamObj) {
 }
 
 (async () => {
-    console.log("[LOG] Memulai Operasi Hybrid (CLEAN URL MODE)...");
+    console.log("[LOG] Memulai Operasi (M3U OUTPUT + AUTH FIX MODE)...");
     const matchesMap = new Map();
 
     // ==========================================
@@ -39,7 +39,6 @@ function extractTeamName(teamObj) {
             headers: {
                 'Accept': 'application/json, text/plain, */*',
                 'Content-Type': 'application/json',
-                'Accept-Language': 'en',
                 'AppVersion': '20.0.0.0',
                 'Device': 'WEB',
                 'region': 'XM',
@@ -76,7 +75,7 @@ function extractTeamName(teamObj) {
     // FASE 2: EXECUTION ENGINE (PLAYWRIGHT)
     // ==========================================
     const targetMainDomain = "https://www.camellive.top"; 
-    const globalUserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, gecko) Chrome/122.0.0.0 Safari/537.36';
+    const globalUserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
 
     const browser = await chromium.launch({ headless: true });
     const context = await browser.newContext({
@@ -94,7 +93,7 @@ function extractTeamName(teamObj) {
     try {
         const page = await context.newPage();
         
-        // Resource Blocker untuk kecepatan maksimal
+        // Resource Blocker untuk kecepatan maksimal (Turbo Mode)
         await page.route('**/*', route => {
             const type = route.request().resourceType();
             if (['image', 'stylesheet', 'font'].includes(type)) {
@@ -130,7 +129,8 @@ function extractTeamName(teamObj) {
                 const m3u8Promise = new Promise((resolve) => {
                     streamPage.on('response', async (response) => {
                         const resUrl = response.url();
-                        if (resUrl.includes('.m3u8') && (resUrl.includes('txSecret') || resUrl.includes('auth='))) {
+                        // LOGIKA PRO 100%: Wajib mengandung .m3u8 DAN parameter auth=
+                        if (resUrl.includes('.m3u8') && resUrl.includes('auth=')) {
                             capturedM3u8 = resUrl;
                             resolve(true); 
                         }
@@ -145,15 +145,15 @@ function extractTeamName(teamObj) {
                     await playBtn.click().catch(() => {});
                 }
 
+                // Beri waktu tunggu sedikit lebih lama (12 detik) untuk memastikan auth= ter-generate
                 await Promise.race([
                     m3u8Promise,
-                    streamPage.waitForTimeout(8000)
+                    streamPage.waitForTimeout(12000)
                 ]);
 
                 await streamPage.close(); 
 
                 if (capturedM3u8) {
-                    // LOGIKA MURNI: Menggunakan baris EXTVLCOPT terpisah, URL tetap bersih
                     playlistContent += `#EXTINF:-1 tvg-logo="${matchData.logo}" group-title="CAMEL SPORTS", ${matchData.title}\n`;
                     playlistContent += `#EXTVLCOPT:http-origin=${targetMainDomain}\n`;
                     playlistContent += `#EXTVLCOPT:http-referrer=${targetMainDomain}/\n`;
@@ -169,7 +169,7 @@ function extractTeamName(teamObj) {
 
         if (streamFoundCount > 0) {
             fs.writeFileSync('playlist.m3u', playlistContent);
-            console.log(`[LOG] SUCCESS! ${streamFoundCount} stream murni tersimpan.`);
+            console.log(`[LOG] SUCCESS! ${streamFoundCount} stream murni dengan AUTH tersimpan.`);
         } else {
             console.log("[LOG] Tidak ada stream.");
             fs.writeFileSync('playlist.m3u', "#EXTM3U\n#EXTINF:-1,Tidak Ada Siaran Langsung\nhttp://offline.local");
