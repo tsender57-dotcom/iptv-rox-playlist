@@ -28,7 +28,7 @@ function extractTeamName(teamObj) {
 }
 
 (async () => {
-    console.log("[LOG] Memulai Operasi (M3U OUTPUT + AUTH FIX MODE)...");
+    console.log("[LOG] Memulai Operasi (SNIPER LIVE FILTER + AUTH FIX)...");
     const matchesMap = new Map();
 
     // ==========================================
@@ -106,11 +106,25 @@ function extractTeamName(teamObj) {
         await page.goto(targetMainDomain + '/', { waitUntil: 'domcontentloaded', timeout: 30000 });
         await page.waitForTimeout(3000); 
 
-        const liveLinks = await page.$$eval('a', as => {
-            return [...new Set(as.map(a => a.href).filter(href => href.includes('/live/') || href.includes('/football/')))];
+        // LOGIKA SNIPER: Hanya ambil href dari elemen <a> di dalam kotak yang berstatus "LIVE"
+        const liveLinks = await page.$$eval('.match-items', cards => {
+            let links = [];
+            for (const card of cards) {
+                // Konversi teks ke huruf besar untuk memastikan case-insensitive
+                const cardText = card.innerText.toUpperCase();
+                // Hanya targetkan kotak yang memiliki tulisan LIVE
+                if (cardText.includes('LIVE')) {
+                    // Cari elemen tautan spesifik yang Kapten temukan
+                    const aTag = card.querySelector('a.match-items-before');
+                    if (aTag && aTag.href) {
+                        links.push(aTag.href);
+                    }
+                }
+            }
+            return [...new Set(links)];
         });
         
-        console.log(`[LOG] Ditemukan ${liveLinks.length} tautan aktif.`);
+        console.log(`[LOG] Filter Sniper Aktif! Menemukan ${liveLinks.length} tautan yang PASTI LIVE.`);
 
         for (const link of liveLinks) {
             try {
@@ -129,7 +143,7 @@ function extractTeamName(teamObj) {
                 const m3u8Promise = new Promise((resolve) => {
                     streamPage.on('response', async (response) => {
                         const resUrl = response.url();
-                        // LOGIKA PRO 100%: Wajib mengandung .m3u8 DAN parameter auth=
+                        // Wajib .m3u8 DAN ada parameter auth= agar link tidak prematur
                         if (resUrl.includes('.m3u8') && resUrl.includes('auth=')) {
                             capturedM3u8 = resUrl;
                             resolve(true); 
@@ -137,7 +151,7 @@ function extractTeamName(teamObj) {
                     });
                 });
 
-                console.log(`[>>] Sniffing: ${matchData.title}`);
+                console.log(`[>>] Eksekusi: ${matchData.title}`);
                 await streamPage.goto(link, { waitUntil: 'domcontentloaded', timeout: 30000 });
                 
                 const playBtn = streamPage.locator('[class*="play"], video').first();
@@ -145,7 +159,7 @@ function extractTeamName(teamObj) {
                     await playBtn.click().catch(() => {});
                 }
 
-                // Beri waktu tunggu sedikit lebih lama (12 detik) untuk memastikan auth= ter-generate
+                // Waktu tunggu dimaksimalkan ke 12 detik karena hit-rate sudah pasti LIVE
                 await Promise.race([
                     m3u8Promise,
                     streamPage.waitForTimeout(12000)
@@ -163,15 +177,15 @@ function extractTeamName(teamObj) {
                 }
 
             } catch (err) {
-                console.log(`[SKIP] Timeout.`);
+                console.log(`[SKIP] Gagal memuat atau Timeout.`);
             }
         }
 
         if (streamFoundCount > 0) {
             fs.writeFileSync('playlist.m3u', playlistContent);
-            console.log(`[LOG] SUCCESS! ${streamFoundCount} stream murni dengan AUTH tersimpan.`);
+            console.log(`[LOG] SUCCESS! ${streamFoundCount} stream murni dengan AUTH tersimpan dalam waktu singkat.`);
         } else {
-            console.log("[LOG] Tidak ada stream.");
+            console.log("[LOG] Tidak ada stream yang sedang live.");
             fs.writeFileSync('playlist.m3u', "#EXTM3U\n#EXTINF:-1,Tidak Ada Siaran Langsung\nhttp://offline.local");
         }
 
