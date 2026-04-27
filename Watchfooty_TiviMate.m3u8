@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-27 21:11 UTC
+# Last Updated: 2026-04-27 21:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Portuguese Primeira Liga] Gil Vicente FC vs Casa Pia AC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/GArMjol-MaCVkTf98gR7iA/easy/gil-vicente-casa-pia/1/4474988/1777345890/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Challenger Pro League - Promotion Play-off] K. Beerschot V.A. vs Patro Eisden - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/playlist/ObQcfP8iMVyX0vcwuZcevw/regular/k-beerschot-v-a-patro-eisden/1/4703442/1777345893/playlist.m3u8
+https://lb5.wfty.wtf/playlist/mzf_EHEd9tMbYILD9rdrEA/easy/gil-vicente-casa-pia/1/4474988/1777346498/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Belgian Pro League] Beerschot vs Patro Eisden - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/playlist/TPpHYkQceieOLMwAAStWLQ/regular/k-beerschot-v-a-patro-eisden/1/1000010994/1777345897/playlist.m3u8
+https://lb5.wfty.wtf/playlist/EjV7BGcXXVQTZTyi-if35A/regular/k-beerschot-v-a-patro-eisden/1/1000010994/1777346501/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Challenger Pro League - Promotion Play-off] K. Beerschot V.A. vs Patro Eisden - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb9.wfty.wtf/playlist/Q5TCehlWGM7jab3i1M3mag/regular/k-beerschot-v-a-patro-eisden/1/4703442/1777346504/playlist.m3u8
 
