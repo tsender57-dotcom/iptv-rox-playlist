@@ -1,6 +1,7 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 
+// Logika Pro: Ekstraksi data API cerdas
 function smartExtractMatches(json) {
     let matches = [];
     function searchNode(obj) {
@@ -27,11 +28,11 @@ function extractTeamName(teamObj) {
 }
 
 (async () => {
-    console.log("[LOG] Memulai Operasi Hybrid (TURBO MODE)...");
+    console.log("[LOG] Memulai Operasi Hybrid (CLEAN URL MODE)...");
     const matchesMap = new Map();
 
     // ==========================================
-    // FASE 1: TARIK DATA DARI API (Sama & Cepat)
+    // FASE 1: DATA INTELLIGENCE (API)
     // ==========================================
     try {
         const apiResponse = await fetch('https://api.cameltv.live/camel-service/ee/sports_live/home?page=1&size=20', {
@@ -66,19 +67,20 @@ function extractTeamName(teamObj) {
                 logo: logoUrl
             });
         }
-        console.log(`[LOG] Memetakan ${matchesMap.size} jadwal pertandingan dari API.`);
+        console.log(`[LOG] Memetakan ${matchesMap.size} jadwal dari API.`);
     } catch (error) {
-        console.error(`[ERROR] API Data: ${error.message}`);
+        console.error(`[ERROR] API: ${error.message}`);
     }
 
     // ==========================================
-    // FASE 2: PLAYWRIGHT TURBO SNIFFER
+    // FASE 2: EXECUTION ENGINE (PLAYWRIGHT)
     // ==========================================
-    const browser = await chromium.launch({ headless: true });
     const targetMainDomain = "https://www.camellive.top"; 
-    
+    const globalUserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, gecko) Chrome/122.0.0.0 Safari/537.36';
+
+    const browser = await chromium.launch({ headless: true });
     const context = await browser.newContext({
-        userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        userAgent: globalUserAgent,
         viewport: { width: 1280, height: 720 },
         extraHTTPHeaders: {
             'Origin': targetMainDomain,
@@ -92,7 +94,7 @@ function extractTeamName(teamObj) {
     try {
         const page = await context.newPage();
         
-        // TRIK JENIUS 1: Blokir Gambar, CSS, dan Font di halaman utama agar render sangat cepat
+        // Resource Blocker untuk kecepatan maksimal
         await page.route('**/*', route => {
             const type = route.request().resourceType();
             if (['image', 'stylesheet', 'font'].includes(type)) {
@@ -102,15 +104,14 @@ function extractTeamName(teamObj) {
             }
         });
 
-        console.log(`[LOG] Membuka beranda tanpa beban desain...`);
         await page.goto(targetMainDomain + '/', { waitUntil: 'domcontentloaded', timeout: 30000 });
-        await page.waitForTimeout(3000); // Waktu tunggu dikurangi
+        await page.waitForTimeout(3000); 
 
         const liveLinks = await page.$$eval('a', as => {
             return [...new Set(as.map(a => a.href).filter(href => href.includes('/live/') || href.includes('/football/')))];
         });
         
-        console.log(`[LOG] Ditemukan ${liveLinks.length} tautan Live. Mengeksekusi secara cepat...`);
+        console.log(`[LOG] Ditemukan ${liveLinks.length} tautan aktif.`);
 
         for (const link of liveLinks) {
             try {
@@ -126,29 +127,17 @@ function extractTeamName(teamObj) {
                 const streamPage = await context.newPage();
                 let capturedM3u8 = null;
 
-                // Terapkan Resource Blocker juga ke halaman stream
-                await streamPage.route('**/*', route => {
-                    const type = route.request().resourceType();
-                    if (['image', 'stylesheet', 'font'].includes(type)) {
-                        route.abort();
-                    } else {
-                        route.continue();
-                    }
-                });
-
-                // TRIK JENIUS 2: Balapan Logika (Promise Race)
-                // Buat fungsi penyelesai yang langsung memberikan 'true' begitu M3U8 tertangkap
                 const m3u8Promise = new Promise((resolve) => {
                     streamPage.on('response', async (response) => {
                         const resUrl = response.url();
                         if (resUrl.includes('.m3u8') && (resUrl.includes('txSecret') || resUrl.includes('auth='))) {
                             capturedM3u8 = resUrl;
-                            resolve(true); // Langsung potong kompas, tidak perlu tunggu lagi!
+                            resolve(true); 
                         }
                     });
                 });
 
-                console.log(`[>>] Mengintip: ${matchData.title}`);
+                console.log(`[>>] Sniffing: ${matchData.title}`);
                 await streamPage.goto(link, { waitUntil: 'domcontentloaded', timeout: 30000 });
                 
                 const playBtn = streamPage.locator('[class*="play"], video').first();
@@ -156,7 +145,6 @@ function extractTeamName(teamObj) {
                     await playBtn.click().catch(() => {});
                 }
 
-                // Jalankan balapan: Mana yang lebih cepat antara menangkap M3U8 ATAU batas waktu 8 detik
                 await Promise.race([
                     m3u8Promise,
                     streamPage.waitForTimeout(8000)
@@ -165,28 +153,26 @@ function extractTeamName(teamObj) {
                 await streamPage.close(); 
 
                 if (capturedM3u8) {
-                    console.log(`[SUCCESS] Didapat: ${capturedM3u8}`);
+                    // LOGIKA MURNI: Menggunakan baris EXTVLCOPT terpisah, URL tetap bersih
                     playlistContent += `#EXTINF:-1 tvg-logo="${matchData.logo}" group-title="CAMEL SPORTS", ${matchData.title}\n`;
                     playlistContent += `#EXTVLCOPT:http-origin=${targetMainDomain}\n`;
                     playlistContent += `#EXTVLCOPT:http-referrer=${targetMainDomain}/\n`;
+                    playlistContent += `#EXTVLCOPT:http-user-agent=${globalUserAgent}\n`;
                     playlistContent += `${capturedM3u8}\n`;
                     streamFoundCount++;
                 }
 
             } catch (err) {
-                console.log(`[SKIP] Lewati karena Timeout.`);
+                console.log(`[SKIP] Timeout.`);
             }
         }
 
-        // ==========================================
-        // FASE 3: OUTPUT
-        // ==========================================
         if (streamFoundCount > 0) {
             fs.writeFileSync('playlist.m3u', playlistContent);
-            console.log(`[LOG] TOTAL STREAM: ${streamFoundCount} berhasi disimpan!`);
+            console.log(`[LOG] SUCCESS! ${streamFoundCount} stream murni tersimpan.`);
         } else {
-            console.log("[LOG] Tidak ada stream aktif.");
-            fs.writeFileSync('playlist.m3u', "#EXTM3U\n#EXTINF:-1,Tidak Ada Siaran Langsung Saat Ini\nhttp://offline.local");
+            console.log("[LOG] Tidak ada stream.");
+            fs.writeFileSync('playlist.m3u', "#EXTM3U\n#EXTINF:-1,Tidak Ada Siaran Langsung\nhttp://offline.local");
         }
 
     } catch (error) {
@@ -195,4 +181,3 @@ function extractTeamName(teamObj) {
         await browser.close();
     }
 })();
-                
