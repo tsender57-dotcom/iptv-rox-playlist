@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Memastikan history git terbaca penuh untuk rebase
 
       - name: Setup Node.js 20
         uses: actions/setup-node@v4
@@ -34,6 +36,11 @@ jobs:
           if [ -f playlist.m3u ]; then
             git add playlist.m3u
             git commit -m "Auto-Update: Camelscore M3U8 [$(date)]" || echo "No changes to commit"
+            
+            # LOGIKA PRO: Tarik data terbaru dari server dan gabungkan secara paksa (rebase)
+            # Ini mencegah error "fetch first / rejected" jika ada perubahan manual saat script berjalan
+            git pull --rebase origin main
+            
             git push
           fi
           
