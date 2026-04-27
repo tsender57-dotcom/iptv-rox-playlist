@@ -1,26 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:10 WIB] [Baseball] Tampa Bay Rays at Cleveland Guardians (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:10 WIB] [Baseball] Tampa Bay Rays at Cleveland Guardians (STRMCNTR)
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] St. Louis Cardinals at Pittsburgh Pirates (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] St. Louis Cardinals at Pittsburgh Pirates (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/dazhfiach15.m3u8?st=Ln6hDHKi2fSyMmuk6mP07gMOAlz5yw8T9Zifr6ftGIE&e=1777314707
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Brentford at Manchester United (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Brentford at Manchester United (STRMCNTR)
+https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=qOFvSwy9aZntciNplVjj11S-WWMRNJsk6TQUgbRLi94&e=1777315301
+#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:10 WIB] [Baseball] Tampa Bay Rays at Cleveland Guardians (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:10 WIB] [Baseball] Tampa Bay Rays at Cleveland Guardians (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=x2OWgWD5YojEaTkYMfN6chFviyDzwXMYZv0WYq-quVM&e=1777314709
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Levante at Espanyol (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Levante at Espanyol (STRMCNTR)
+https://mainstreams.pro/hls/dazhfiach15.m3u8?st=Ww2HCIBZbl62bEuI8Y-om_nM1SJvNNT9C6LPYYeJDdk&e=1777315302
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Brentford at Manchester United (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Brentford at Manchester United (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/377qj1h2727.m3u8?st=O4RJBOO1eFHYmXXltECJDAMcf9FwREE8bvHaFoka9nc&e=1777314710
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[01:45 WIB] [Football] Udinese at Lazio (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[01:45 WIB] [Football] Udinese at Lazio (STRMCNTR)
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=pHnVC1OY4tZi04tfPXtXsjQRZlkESOGhIXMQ2yErWYY&e=1777315303
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Levante at Espanyol (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Levante at Espanyol (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/syaLqucEne4k.m3u8?st=umGC2QSRyV1zT-OIkYW8BS_Wljak5L1VRYeXjJ1LjYQ&e=1777314711
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[23:30 WIB] [Football] Atalanta at Cagliari (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[23:30 WIB] [Football] Atalanta at Cagliari (STRMCNTR)
+https://edgestreams.pro/hls/377qj1h2727.m3u8?st=9uMeFWI4qQCAZstwvGYG0711N8gYrnudET1I1IAFQOg&e=1777315304
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[01:45 WIB] [Football] Udinese at Lazio (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[01:45 WIB] [Football] Udinese at Lazio (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/syaLqucEne4k.m3u8?st=3rvyXePfrwT8ti4sdzVZ2gwbVkqdLl9NaTtKBE-0SU4&e=1777314712
+https://edgestreams.pro/hls/syaLqucEne4k.m3u8?st=hPZkSs-9viRhnl8t2_jVV-crACWUEDJPW76T-vUsSTU&e=1777315305
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[23:30 WIB] [Football] Atalanta at Cagliari (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[23:30 WIB] [Football] Atalanta at Cagliari (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/syaLqucEne4k.m3u8?st=eiEJ0G_4bmUBdd9t507Vp9OxZbc4_c1VuB6luS2wbf8&e=1777315306
