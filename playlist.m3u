@@ -1,16 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="CAMEL SPORTS", CAMEL LIVE EVENT 1
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3679dc2a79876fe397c5a7e96c844e0e.png" group-title="CAMEL SPORTS", Manta FC VS CD Universidad Católica [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdL2VakaBNR4Pknb_md.m3u8?txSecret=7c9109e88755a7c810ef52cb91ec3983&txTime=69EFD6D2&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/99a341d00ad5eb1ace5cf21e080d7653.png" group-title="CAMEL SPORTS", AD Tarma VS Los Chankas [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MvVNKpnXibFJaM3p3.m3u8?txSecret=efcc6dd852afaa55e0de33455b1be973&txTime=69EFE4EF&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/977ca9376e75a4a0bcbee77288dbf939.png" group-title="CAMEL SPORTS", CA Talleres de Cordoba Women VS Racing Club Women [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvVd3dLN6MwSAHy6F.m3u8?txSecret=83984397db4dbc6a6b23917606615e12&txTime=69EFD6D6&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d9e242f676325649f1044c7ecb620ccb.png" group-title="CAMEL SPORTS", Venezuela Women U17 VS Ecuador U17 Women [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwdLRErD4xJxMiYYP.m3u8?txSecret=7c8cfc052c6523e600c9746f95e5c3fc&txTime=69EFE4F2&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png" group-title="CAMEL SPORTS", Velez Sarsfield VS Club Atlético Unión [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLRKGHoP4RTMEby.m3u8?txSecret=f81e64a782f8da04feb8dcf215dde939&txTime=69EFD6D8&lat=9000
+https://liveplay1.camel4.live/live/sd-6MvZ6LuWJcrW9MuuSf.m3u8?txSecret=bf1acd7c8d299c462db29c15197dd0ad&txTime=69EFE4F4&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ed16dd3c5970174b77eb04b0ea5b0960.png" group-title="CAMEL SPORTS", Athletic Club VS Nautico (PE) [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvVNc9zE5aPFEGo4s.m3u8?txSecret=3a3002590fa84785821cbbff3c376e35&txTime=69EFE4F7&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/614e71bf15778cadb40966799f270763.png" group-title="CAMEL SPORTS", Bogota FC VS Union Magdalena [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLN522eFAssKrz3.m3u8?txSecret=146d04900055d1c6d7b2026b0dfb62c1&txTime=69EFE4F9&lat=9000
