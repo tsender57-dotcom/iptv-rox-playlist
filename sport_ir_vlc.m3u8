@@ -3,10 +3,16 @@
 #EXTVLCOPT:http-referrer=https://nba24all.ir
 #EXTVLCOPT:http-origin=https://nba24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-31fbddbb.streamtofu.com/69ef2f5c.a43785f2i26a49a41.123b5.b6c09e97/free.live.sportsnet/master.m3u8
+https://node-31fbddbb.streamtofu.com/69ef31ae.c6643bb9i2beec482.123b5.5b8af596/free.live.sportsnet/master.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[06:00 WIB] [NHL] Tampa Bay Lightning vs Montréal Canadiens (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[06:00 WIB] [NHL] Tampa Bay Lightning vs Montréal Canadiens (SPORTir)
 #EXTVLCOPT:http-referrer=https://nhl24all.ir
 #EXTVLCOPT:http-origin=https://nhl24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-31fbddbb.streamtofu.com/69ef2f5c.739d8698i26a49a41.12091.999cf759/free.live.sportsnet/master.m3u8
+https://node-025d151e.streamtofu.com/69ef31ae.352fe33ei2beec482.12091.f3009cb6/free.live.sportsnet/master.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[08:30 WIB] [NHL] Edmonton Oilers vs Anaheim Ducks (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[08:30 WIB] [NHL] Edmonton Oilers vs Anaheim Ducks (SPORTir)
+#EXTVLCOPT:http-referrer=https://nhl24all.ir
+#EXTVLCOPT:http-origin=https://nhl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://node-582e4e77.streamtofu.com/69ef31ae.68f0832ei2beec482.123ad.1ef1db1d/free.live.sportsnet/master.m3u8
