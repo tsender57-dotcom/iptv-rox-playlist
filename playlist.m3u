@@ -1,36 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3de7fff92c61b2ac93b08814386cf85d.png" group-title="CAMEL SPORTS", CA Huracan VS Argentinos Juniors [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvZ6LuWoisYZpPjFD.m3u8?txSecret=8937b9de39c94570dbe219aa9f9b3d93&txTime=69F00CC2&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0b14a6dd8fab7b40bdcb96330a64cc5e.png" group-title="CAMEL SPORTS", Deportivo Garcilaso VS FBC Melgar [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvVd3dLN4ATZgU3wM.m3u8?txSecret=7c9f7027aa87da533568dde0611b6c69&txTime=69F00CC5&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7770d591cd0855fc12e5fbfe80f83221.png" group-title="CAMEL SPORTS", Sociedad Deportiva Aucas VS Delfin SC [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvVNKpnXgPmS6X8f9.m3u8?txSecret=44301ffee484e13a1e010549ca9bbd67&txTime=69F00CC7&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png" group-title="CAMEL SPORTS", Aurora VS San Antonio Bulo Bulo [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdakGems6bcFsVSP.m3u8?txSecret=ababc314416a6b3c628e996e4f18e5d5&txTime=69F00CC9&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/bd204b38f3037dcd4478b7782e08519c.png" group-title="CAMEL SPORTS", Mount Pleasant FA VS Waterhouse FC [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLRLkvrpsDDidRR.m3u8?txSecret=711a6de5eb292e8a3ef3606c0189ef9b&txTime=69F00CCC&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ea7aef1497ae50d0d773f116214689a8.png" group-title="CAMEL SPORTS", SV Deportivo Nacional VS SV Caravel [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdayHsRuQV1n6Zxs.m3u8?txSecret=5b83b93a1dfa20e4cc74b499accc7211&txTime=69F00CCF&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/fc2983212373493c10636dc641310eea.png" group-title="CAMEL SPORTS", International San Carlos VS Pitbulls [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdL8wrdiRus2JucB.m3u8?txSecret=791e03716825c855660e5d45d63ba657&txTime=69F00CD1&lat=9000
+#EXTINF:-1,Tidak Ada Siaran Langsung Saat Ini
+http://offline.local
