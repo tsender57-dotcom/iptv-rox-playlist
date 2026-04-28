@@ -1,27 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-28 01:02 UTC
+# Last Updated: 2026-04-28 01:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Toronto Blue Jays vs Boston Red Sox - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/64HTm8f36FiM5nCo7CTbKQ/easy/toronto-blue-jays-boston-red-sox/1/4555574/1777359714/playlist.m3u8
+https://lb1.wfty.wtf/playlist/jXEjy7-gmB-jHwMBggHgkQ/easy/toronto-blue-jays-boston-red-sox/1/4555574/1777360273/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Texas Rangers vs New York Yankees - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/j42EoAixYoH5zPzHvtvMNw/pro/texas-rangers-new-york-yankees/1/401815114/1777359717/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Argentine Liga Profesional de Fútbol] Huracan vs Argentinos Juniors - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/8VBUT9Ud7w44j7akPK0pwA/regular/huracan-argentinos-juniors/1/5102110/1777359724/playlist.m3u8
+https://lb6.wfty.wtf/playlist/RRNb1RTi-vAQDxz9_m_Wlg/easy/texas-rangers-new-york-yankees/1/401815114/1777360276/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Orlando Magic vs Detroit Pistons - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/playlist/mevAeUq1Ud_MKNicZm-6TQ/easy/orlando-magic-detroit-pistons/1/401869415/1777359727/playlist.m3u8
+https://lb7.wfty.wtf/playlist/mPSlj6zY_FDeNuaFsV_piw/easy/orlando-magic-detroit-pistons/1/401869415/1777360283/playlist.m3u8
 
