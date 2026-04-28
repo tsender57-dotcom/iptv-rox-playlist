@@ -1,16 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/95ef5a50677bb521f6fdff4168928c44.png" group-title="CAMEL SPORTS", Abahani Limited Dhaka VS PWD Sports Club [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvYqo24PNeL1Khtwy.m3u8?txSecret=f7b9e98c48ed8225797d21b98e7edbc9&txTime=69F0865D&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e1c7250ad281214eedbb361ba9e35021.png" group-title="CAMEL SPORTS", Samaleshwari SC VS Zinc Football Academy [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLJmozXUsYChWXH.m3u8?txSecret=5215f9239dee81c4793520adc8fdcd28&txTime=69F0865F&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/522d6e9f4f1887c6c1f661fed1278127.png" group-title="CAMEL SPORTS", Fakirerpool Young Mens Club VS Rahmatgonj MFS [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvYqo24PVEmcmBeQf.m3u8?txSecret=10d1d7ad118d27ae02b5575ffabee57a&txTime=69F08661&lat=9000
+#EXTINF:-1,Tidak Ada Siaran Langsung Saat Ini
+http://offline.local
