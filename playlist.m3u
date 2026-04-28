@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Tidak Ada Siaran Langsung Saat Ini
-http://offline.local
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d958128d05f103d06b25542bd932ff01.png" group-title="CAMEL SPORTS", Guangzhou Xingpai VS Guangzhou Huadu Red Treasure [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLJkMC4qn21H4Bq.m3u8?txSecret=8835ce399c73543b056a18555995955b&txTime=69F06469&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b5ff99432df36b5f50aab41f1fef1d66.png" group-title="CAMEL SPORTS", Guangdong Wuchuan Youth VS Wuhan Lianzhen [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLJkMC73FtV6yLj.m3u8?txSecret=cb60984e300525c2a5e929a072293d27&txTime=69F0646C&lat=9000
