@@ -2,7 +2,6 @@ name: RaketTV Updater
 
 on:
   schedule:
-    - cron: '*/20 * * * *' # Berjalan otomatis setiap 20 menit
   workflow_dispatch: # Memungkinkan tombol 'Run workflow' manual
 
 permissions:
