@@ -1,3 +1,51 @@
 #EXTM3U
-#EXTINF:-1,Tidak Ada Siaran Langsung Saat Ini
-http://offline.local
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3f0555f143e8fbb10c32c68bd7714638.png" group-title="CAMEL SPORTS", Melaka FC VS Johor Darul Ta'zim FC [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MuTN5vdE1mKBTnRGK.m3u8?txSecret=b71c952912b306b19eeada8d4406fb3b&txTime=69F0C54B&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d639bb3f26ed6f1600de1e55885fa4be.png" group-title="CAMEL SPORTS", FK Andijon VS Dinamo Samarqand [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvVdGYfUSVmax6oNo.m3u8?txSecret=c75b19a9c5922b0cb73d16d6288fd526&txTime=69F0C54E&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0eff3f54d4407ac2e90783bc6654e657.png" group-title="CAMEL SPORTS", Sogdiana Jizak VS Termez Surkhon [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvVdGYfU2KV1g1igw.m3u8?txSecret=9372d16b329ae5f60861cab8dbeb8e9e&txTime=69F0C550&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f81f7bb9cf129a0f1c66880d7fba5d7b.png" group-title="CAMEL SPORTS", Petrojet VS Ismaily SC [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6Mwcqbfo3kq1PrTeF1.m3u8?txSecret=3457e39c221a36be8e00d81d1b4695db&txTime=69F0C552&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="CAMEL SPORTS", East Bengal FC VS Odisha FC [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvVNYr1hH6Thq92pw.m3u8?txSecret=126acb303abe6da269619f6533c7a1d0&txTime=69F0C555&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2204e8ba30d8257e51c73945acb01dff.png" group-title="CAMEL SPORTS", Portimonense U23 VS Farense U23 [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvYqgT6x8GhGFLY1m.m3u8?txSecret=4febebc7046eec3ce19624d64becdcab&txTime=69F0C557&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a08754ab96c283bacbf148154a50c7fc.png" group-title="CAMEL SPORTS", ZED FC VS Pharco [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6Mwcqbfo3sRT1HwPhh.m3u8?txSecret=7c0a92378d0848b1321f0735e1cc4ad0&txTime=69F0C55B&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/32939cf38aa70bf3de1c06833da6bc50.png" group-title="CAMEL SPORTS", Estoril U23 VS Gil Vicente U23 [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvYqgT6x65DPmWcrs.m3u8?txSecret=21cfe7e7e182edd034af056438080320&txTime=69F0C55D&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0dcf33de2f32bb2d72fe50250c612c31.png" group-title="CAMEL SPORTS", Uniao Leiria U23 VS Rio Ave U23 [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvYqgT6x3sjXHghhy.m3u8?txSecret=9c0e6f4d68409adcc23c1834a158bcdf&txTime=69F0C55F&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1200b6dfbb0a5c057c0eb833fc675606.png" group-title="CAMEL SPORTS", Maritimo U23 VS Estrela FC U23 [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvYqgT6xAUB8jATAf.m3u8?txSecret=b45e5f54f53677864d130694f82cf687&txTime=69F0C561&lat=9000
