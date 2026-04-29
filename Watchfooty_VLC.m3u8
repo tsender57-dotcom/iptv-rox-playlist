@@ -1,33 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-29 23:31 UTC
+# Last Updated: 2026-04-29 23:41 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Boston Legacy FC (W) vs North Carolina Courage (W) - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [U.S. Open Cup] Red Bull New York vs New York City FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/playlist/6TScmIY5hQ9mttNIs6PMhQ/easy/boston-legacy-fc-north-carolina-courage/1/5161498/1777527097/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Washington Spirit (W) vs Racing Louisville (W) - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/GMEplSGyA7IX8cMXqDD9Kw/easy/washington-spirit-racing-louisville-fc/1/5161496/1777527100/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA - Pre-season] Chicago Sky vs Atlanta Dream - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/ULauZ9zYYQhov4n9sxZvnw/pro/chicago-sky-atlanta-dream/2/4698350/1777527104/playlist.m3u8
+https://lb10.wfty.wtf/playlist/8Bpd-6jOnJSNLnIxH0bzFw/easy/red-bull-new-york-new-york-city-fc/1/401869712/1777527688/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Detroit Pistons vs Orlando Magic - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/ddoUrxM5ZMfjLXJWD8srZg/easy/detroit-pistons-orlando-magic/1/401869416/1777527107/playlist.m3u8
+https://lb1.wfty.wtf/playlist/juwZEbgtQEj-FnB61U4yBw/easy/detroit-pistons-orlando-magic/1/401869416/1777527692/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Sudamericana] Caracas FC vs Racing Club - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA - Pre-season] Chicago Sky vs Atlanta Dream - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/Ea7ff2WdYxvD4ovvBf4aGA/easy/caracas-fc-racing-club/1/4690001/1777527111/playlist.m3u8
+https://lb6.wfty.wtf/playlist/Dhrvz9ftU50hKFinZWqJBQ/pro/chicago-sky-atlanta-dream/1/4698350/1777527695/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Boston Legacy FC (W) vs North Carolina Courage (W) - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/playlist/Oez0dMKu8p2WlsUSYh2ySQ/easy/boston-legacy-fc-north-carolina-courage/1/5161498/1777527698/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Washington Spirit (W) vs Racing Louisville (W) - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/playlist/iWzDzvoGmm0hyfssV9T9fQ/easy/washington-spirit-racing-louisville-fc/1/5161496/1777527702/playlist.m3u8
 
