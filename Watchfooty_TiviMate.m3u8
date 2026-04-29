@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-29 07:31 UTC
+# Last Updated: 2026-04-29 07:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Kashiwa Reysol vs FC Tokyo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/ibSzEdoSwNAUePTTkskBvg/sigma/kashiwa-reysol-fc-tokyo/1/5130290/1777469486/playlist.m3u8
+https://lb1.wfty.wtf/playlist/nKKfqOCuXDWfv5ALTMW9vw/sigma/kashiwa-reysol-fc-tokyo/1/5130290/1777470108/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Nagoya Grampus vs Fagiano Okayama - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/playlist/WmhuUyV7O8qbukJVZJAh7g/sigma/nagoya-grampus-fagiano-okayama/1/401859364/1777469489/playlist.m3u8
+https://lb2.wfty.wtf/playlist/xx9WLhHHrkBbl5tKI0MfTA/elite/nagoya-grampus-fagiano-okayama/1/401859364/1777470111/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Urawa Red Diamonds vs Kawasaki Frontale - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/playlist/rUBU7dlOA7HvZEk_ex1X4A/regular/urawa-red-diamonds-kawasaki-frontale/1/4662132/1777470114/playlist.m3u8
 
