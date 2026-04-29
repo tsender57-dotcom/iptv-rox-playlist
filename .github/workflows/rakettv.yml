@@ -1,7 +1,6 @@
 name: RaketTV Updater
 
 on:
-  schedule:
   workflow_dispatch: # Memungkinkan tombol 'Run workflow' manual
 
 permissions:
