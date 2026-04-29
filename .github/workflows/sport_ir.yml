@@ -1,7 +1,6 @@
 name: SPORTir Stream Updater
 
 on:
-  schedule:
   workflow_dispatch:
 
 permissions:
