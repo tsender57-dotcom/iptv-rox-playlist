@@ -1,51 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-29 03:02 UTC
+# Last Updated: 2026-04-29 03:12 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Dodgers vs Miami Marlins - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/3T0v1NUnTLAATngpDKgnCQ/easy/los-angeles-dodgers-miami-marlins/1/401815132/1777453315/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Texas Rangers vs New York Yankees - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/playlist/NkLI1akp2_vvZzK5NTaeag/easy/texas-rangers-new-york-yankees/1/401815128/1777453318/playlist.m3u8
+https://lb3.wfty.wtf/playlist/3ULmZ5KXpcPMNZXsnq4r0g/easy/los-angeles-dodgers-miami-marlins/1/401815132/1777453903/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Edmonton Oilers vs Anaheim Ducks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/_hN4K3Ly-ih_tuG-5e81oQ/easy/edmonton-oilers-anaheim-ducks/1/401869774/1777453325/playlist.m3u8
+https://lb5.wfty.wtf/playlist/zq3x2bnJLDjFeyF1rT9a0A/easy/edmonton-oilers-anaheim-ducks/1/401869774/1777453910/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] San Antonio Spurs vs Portland Trail Blazers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/playlist/He5ko9E6JimckbK2qpTHMg/easy/san-antonio-spurs-portland-trail-blazers/1/401869386/1777453329/playlist.m3u8
+https://lb6.wfty.wtf/playlist/LPJuGIx4BmtsGnPEYBnv-A/easy/san-antonio-spurs-portland-trail-blazers/1/401869386/1777453913/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [U.S. Open Cup] San Jose Earthquakes vs Minnesota United FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/dSHaqkPeLbWkc6tm-2etCA/regular/san-jose-earthquakes-minnesota-united-fc/3/401869713/1777453332/playlist.m3u8
+https://lb7.wfty.wtf/playlist/nv-_to5sizaCT0ednX3SIA/regular/san-jose-earthquakes-minnesota-united-fc/1/401869713/1777453917/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Libertadores] Deportes Tolima vs Coquimbo Unido - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/yUbDkjdNko0bk66C2VCaBw/regular/deportes-tolima-coquimbo-unido/3/4690137/1777453336/playlist.m3u8
+https://lb3.wfty.wtf/playlist/C8tUSUw1bv-nNpFUtVKW3g/regular/deportes-tolima-coquimbo-unido/3/4690137/1777453920/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Libertadores] Sporting Cristal vs Junior FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/ItTroHJGzCuBee9Br2vYzg/regular/sporting-cristal-atletico-junior/3/4690149/1777453339/playlist.m3u8
+https://lb1.wfty.wtf/playlist/Fxb5LHq545WqbIPiowkXfg/regular/sporting-cristal-atletico-junior/3/4690149/1777453923/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONCACAF Champions Cup] Nashville SC vs Tigres UANL - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/eExc8U4Sca5ThlafbyoHCg/easy/nashville-sc-tigres-uanl/1/401869807/1777453343/playlist.m3u8
+https://lb2.wfty.wtf/playlist/dLImn13iI98qyO-K-IZ3-Q/easy/nashville-sc-tigres-uanl/1/401869807/1777453927/playlist.m3u8
 
