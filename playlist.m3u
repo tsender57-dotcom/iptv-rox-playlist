@@ -1,71 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5c481f41c0a1d43dcb508650562d840f.png" group-title="CAMEL SPORTS", FC Astana VS Tobol Kostanai [CAMEL LIVE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="CAMEL SPORTS", CAMEL LIVE EVENT 1
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLRHp9xScn8mda7.m3u8?txSecret=3922950d5bf8cc88193278e1f519a7a5&txTime=69F2196B&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0851c8b7fadde83f3330e2b8164837a8.png" group-title="CAMEL SPORTS", Aizawl FC VS Namdhari FC [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLRLmS7dq7bW7qZ.m3u8?txSecret=8e06e4134e1765e0b9fc49c08026838d&txTime=69F2196F&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6180f46e56f1d95027323e9cf05c679f.png" group-title="CAMEL SPORTS", Chelyabinsk-2 VS Krylia Sovetov-2 [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdaX81acPV4cugW3.m3u8?txSecret=dc645c26dca17b648da4a7cade0e7f8c&txTime=69F21971&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/709463bd62119aff6f7da0b20b4e1034.png" group-title="CAMEL SPORTS", Qizilqum Zarafshon VS Xorazm Urganch [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvVdGYfU4Wxt9qdqq.m3u8?txSecret=c45ce254872a8a2517b139b5b1aba0d7&txTime=69F21974&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f414775655a79c5a471b2103a4164df4.png" group-title="CAMEL SPORTS", Neftchi Fergana VS FK Kokand 1912 [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvVdGYfUUhFTRviXh.m3u8?txSecret=a5a5e4b94589a4e76211153c92461ea4&txTime=69F21976&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/35e665fa4086e183fda582249d625c2b.png" group-title="CAMEL SPORTS", El Gounah VS Haras El Hodood [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwcqbfo3ucvsmmJrb.m3u8?txSecret=e5e6d5a197f7615877bcc9d06352b30b&txTime=69F21978&lat=9000
+https://liveplay1.camel4.live/live/27551_12568347_1l4rjnh9env0m7v.m3u8?txSecret=39875618c0e046a556679b852758bb97&txTime=69F230EF&lat=9000
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5de0e6bb1a634c4c97bffeeaa1265f70.png" group-title="CAMEL SPORTS", Zlin B VS Unicov [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwd5p6QNypwRLBhyq.m3u8?txSecret=3543dcba60297ee8ed5ee0dd5f9cd710&txTime=69F2197B&lat=9000
+https://liveplay1.camel4.live/live/sd-6Mwd5p6QNypwRLBhyq.m3u8?txSecret=32833fc0d40ad5b882ae5cd69eafbc50&txTime=69F230F1&lat=9000
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/8a4259a197f134145c22228ba6145060.png" group-title="CAMEL SPORTS", TJ Unie Hlubina VS Vitkovice [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwd5p6RDgBQopnL5u.m3u8?txSecret=b10fbfcb2b0534d327f783b989fa8d14&txTime=69F2197D&lat=9000
+https://liveplay1.camel4.live/live/sd-6Mwd5p6RDgBQopnL5u.m3u8?txSecret=bfbc4649ee8950ddee8790046108fc0f&txTime=69F230F3&lat=9000
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/37207b15305af8ce67bf38278a662bfb.png" group-title="CAMEL SPORTS", TJ Start Brno VS Frydek-Mistek [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwd5p6QP22RHp1d8j.m3u8?txSecret=ddeecaa25c231dafc3b316c814165694&txTime=69F21980&lat=9000
+https://liveplay1.camel4.live/live/sd-6Mwd5p6QP22RHp1d8j.m3u8?txSecret=7062ef5b73eca1da129cc42c5701e3d3&txTime=69F230F5&lat=9000
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2c43efad50b05bf483f63636700f0f8f.png" group-title="CAMEL SPORTS", Brno B VS Sigma Olomouc B [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwd5p6RDZayCPJadD.m3u8?txSecret=96d692ad5b31e5eb3c4f02ccea079313&txTime=69F21982&lat=9000
+https://liveplay1.camel4.live/live/sd-6Mwd5p6RDZayCPJadD.m3u8?txSecret=1093572b5ef57810173d35b99ecd3974&txTime=69F230F7&lat=9000
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3fe933b67d448ce3c172929ac9e3fac7.jpg" group-title="CAMEL SPORTS", MFK Karvina B VS Nove Mesto na Morave [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwd5p6RD7DCkdPanT.m3u8?txSecret=4bb29099b2b543aea34a1de8521c838d&txTime=69F21985&lat=9000
+https://liveplay1.camel4.live/live/sd-6Mwd5p6RD7DCkdPanT.m3u8?txSecret=853ef0f4e28a1a802c5255483689557c&txTime=69F230F9&lat=9000
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/32e20b15b8af724f6f74235d515e8503.png" group-title="CAMEL SPORTS", Slovacko II VS Blansko [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwd5p6QNuRygNXsg3.m3u8?txSecret=c8414d998f00653b1baa2fe8c494bc3a&txTime=69F21987&lat=9000
+https://liveplay1.camel4.live/live/sd-6Mwd5p6QNuRygNXsg3.m3u8?txSecret=61405f0563ddd53685a11db6dc473862&txTime=69F230FA&lat=9000
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/814cbcaf4f70499660e021e30be5036c.png" group-title="CAMEL SPORTS", Urartu VS Andranik [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLCELhM8SmshU4f.m3u8?txSecret=cea61749f4166c43808fd03857663484&txTime=69F21989&lat=9000
+https://liveplay1.camel4.live/live/sd-6MwdLCELhM8SmshU4f.m3u8?txSecret=87a380f400a74cea785d402d2f5c232a&txTime=69F230FC&lat=9000
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5ef6703cd46b664af49e25a398161d6a.png" group-title="CAMEL SPORTS", FC Noah VS Ararat-Armenia FC [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLCELgrZCTdxZ51.m3u8?txSecret=1b39d20082f5c6ad593c9c1447dd1c0c&txTime=69F2198C&lat=9000
+https://liveplay1.camel4.live/live/sd-6MwdLCELgrZCTdxZ51.m3u8?txSecret=32f47e47d38817a6901ac6c5ab90ee54&txTime=69F230FE&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/8ccc5aeecf7538661685e34dc7cde2f0.png" group-title="CAMEL SPORTS", Lietava Jonava VS Siauliai [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLRLmSC2nrZ9x9M.m3u8?txSecret=6ccaf6ba0960d4820b7be4b1d26debd5&txTime=69F23100&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6e8f68d93b3613b3d8229a1403dbb7e1.png" group-title="CAMEL SPORTS", Bunyodkor VS Navbahor Namangan [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvVdGYfUQJHiUGtDu.m3u8?txSecret=935509bc6648fc7a3293edc77787cf1a&txTime=69F23102&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1f0293c89e32800cf5132bd8ed169fec.png" group-title="CAMEL SPORTS", FUS Rabat VS CODM Meknes [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLRLmS5SMF7gCgf.m3u8?txSecret=ece0f0588b18146715971f06090ad84b&txTime=69F23104&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/403bd68b4370ee76b7bfb01aa793fd02.png" group-title="CAMEL SPORTS", Kaisar Kyzylorda VS FC Kairat Almaty [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLRHp9vF8uewiRD.m3u8?txSecret=61bcc4ae719febd5d7dd8fa1c50c65a8&txTime=69F23106&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png" group-title="CAMEL SPORTS", Shabab Al Ahli VS Khor Fakkan SSC [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdaQigJ4gVKFEFou.m3u8?txSecret=0cf6e24e840f24a170526d65a167a91c&txTime=69F23108&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/898fe8e20ed784971f120533baec32f2.png" group-title="CAMEL SPORTS", Safa Baku VS Simal FK [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6Mwd6CuQH3ooz94zYX.m3u8?txSecret=b0078ca1cc9f8a03000a4c1d2f3c7032&txTime=69F2310A&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7a6c769889e3a61cce015847fe4e1146.png" group-title="CAMEL SPORTS", Hapoel Kiryat Shmona VS Maccabi Netanya [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdL91a5TaZkRAvLw.m3u8?txSecret=39153fee5b4f6972b3a6ea365c17087e&txTime=69F2310B&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4e9422ab24a8dff2521be20e1c129f20.png" group-title="CAMEL SPORTS", Al-Muharraq VS Al-Budaiya [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLCF5rA5bRhUbdR.m3u8?txSecret=3a0bba3aa9bda4bf096f13235d1e1c35&txTime=69F2310D&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/88fe86c663ba883b0d3f8ebe84d9d1d5.png" group-title="CAMEL SPORTS", Hlucin VS Polanka [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6Mwd5p6RDdyvwLxQw1.m3u8?txSecret=46a7709042e0a72dd30d7a5fdb7db2dc&txTime=69F2310F&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3b19cae478679881554914e45d318742.png" group-title="CAMEL SPORTS", CSKA Sofia VS Ludogorets Razgrad [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6Mwd5p1FpHLaQAaEaT.m3u8?txSecret=5b1554ab20314ef254564bf5a62e71a0&txTime=69F23111&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png" group-title="CAMEL SPORTS", Al-Ahli(Manama) VS Al-Riffa [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLCF5rEUZAf8RwD.m3u8?txSecret=c5c91aff9e87733c3bcec58e37288b8b&txTime=69F23113&lat=9000
