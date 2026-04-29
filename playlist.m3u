@@ -1,91 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png" group-title="CAMEL SPORTS", Al Taawoun VS Al Ittihad [CAMEL LIVE]
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/390977b0421bce136c562057ea171ecf.png" group-title="CAMEL SPORTS", Atletico Madrid VS Arsenal [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/27551_12568347_1l4rjnh9env0m7v.m3u8?txSecret=b1ecf17117a96ea89f7578f25cd48b79&txTime=69F24713&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/aa2d8e24a68822387257f31d692c4297.png" group-title="CAMEL SPORTS", Al Riyadh VS Al Qadasiya [CAMEL LIVE]
+https://liveplay1.camel4.live/live/27551_12568347_965mkyhkwd9er1g_md.m3u8?txSecret=b5771f15b59b53bb4d9357a561f55afd&txTime=69F2600F&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png" group-title="CAMEL SPORTS", Al Nassr VS Al Ahli [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvXc76AxZpbDEbRUb.m3u8?txSecret=e04246bc1f5e0d5f591444cc7dd9ab22&txTime=69F24716&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7a6c769889e3a61cce015847fe4e1146.png" group-title="CAMEL SPORTS", Hapoel Kiryat Shmona VS Maccabi Netanya [CAMEL LIVE]
+https://liveplay1.camel4.live/live/27551_12568348_l5ergph4pdovr8k_md.m3u8?txSecret=ade738d2f2e8dfc2c19896e6b9a0bb51&txTime=69F26012&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png" group-title="CAMEL SPORTS", Sporting CP VS CD Tondela [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdL91a5TaZkRAvLw.m3u8?txSecret=318de846bb941ee32c8b9d80cd7141d4&txTime=69F2472F&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4e9422ab24a8dff2521be20e1c129f20.png" group-title="CAMEL SPORTS", Al-Muharraq VS Al-Budaiya [CAMEL LIVE]
+https://liveplay1.camel4.live/live/27551_12551407_318q66hx4o06qo9.m3u8?txSecret=20c8978bfcc867950f3b194131e7c5d1&txTime=69F26015&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4f5b576862995070934f920bd87fa1f7.png" group-title="CAMEL SPORTS", Glasgow City Women VS Celtic Women [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLCF5rA5bRhUbdR.m3u8?txSecret=075490926543fd9fb8131f4de70dcb21&txTime=69F24731&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/88fe86c663ba883b0d3f8ebe84d9d1d5.png" group-title="CAMEL SPORTS", Hlucin VS Polanka [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwcqKQH7ShjbmbLHd.m3u8?txSecret=f059480799de46a57101e39e116a4c10&txTime=69F26017&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b02204a3b6d1417648066a16ac321669.png" group-title="CAMEL SPORTS", Union Santa Fe Reserves VS Rosario Central Reserves [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwd5p6RDdyvwLxQw1.m3u8?txSecret=ff7f47d62be2fc113997b1272b5627a4&txTime=69F24734&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3b19cae478679881554914e45d318742.png" group-title="CAMEL SPORTS", CSKA Sofia VS Ludogorets Razgrad [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwdLRL27R2GJZ6oEo.m3u8?txSecret=a42060c5e7b8f811f72a7729900134ed&txTime=69F2601A&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ef2820e49a36de4c721b35975ed4a1c8.png" group-title="CAMEL SPORTS", Belgrano Reserves VS Independiente Rivadavia Reserves [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwd5p1FpHLaQAaEaT.m3u8?txSecret=299efd8fb9cbe16220da680c6c056409&txTime=69F24736&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7d6279804ab2245ce320cdd5e6101213.png" group-title="CAMEL SPORTS", Al-Ahli(Manama) VS Al-Riffa [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwdLRL27LdJZbSxw1.m3u8?txSecret=fca727ee9a2bd9d00ef0a87f15ef58b6&txTime=69F2601C&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/dce7eaa8186e85d556de98ae219c28b7.png" group-title="CAMEL SPORTS", Argentinos Jrs Reserves VS Velez Sarsfield Reserves [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLCF5rEUZAf8RwD.m3u8?txSecret=6546fbaf0d83ef98707381f9ca2d998a&txTime=69F24738&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/52bdcf4922c5875910e4271075b31ba5.png" group-title="CAMEL SPORTS", Hranice KUNZ VS FC Vsetin [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwdLRL2GhWzY6WKpT.m3u8?txSecret=140fe666ef6db3ee3b24b7aa8a466756&txTime=69F2601E&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0eb31150ef52b29724fdad15b7cb9005.png" group-title="CAMEL SPORTS", Lanus Reserves VS San Martin de San Juan Reserves [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6Mwd5p6QNwdTYrMnpw.m3u8?txSecret=a9b556c551d8512d90922c0bce0bdef8&txTime=69F2473B&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/c6f03c63a021892d8e0b1ef8b3bcfbbe.png" group-title="CAMEL SPORTS", Hapoel Haifa VS Ironi Tiberias [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwdLRL27JRph7d3n7.m3u8?txSecret=f0a293aa657feda1d2b4ec80c7f9b8c4&txTime=69F26020&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9fc1f6c4f76ce476663643841a5e9edf.png" group-title="CAMEL SPORTS", Gimnasia Mendoza Reserves VS Barracas Central Reserves [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdL91a5Lz88yhAtF.m3u8?txSecret=ea56a6967ef0310458bd64eb7b518b4b&txTime=69F2473D&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6a5db2a66428a695a9060d9accac6e6d.png" group-title="CAMEL SPORTS", Maccabi Bnei Reineh VS Hapoel Jerusalem [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwdLRL27VRE3WkdYb.m3u8?txSecret=a3a9d55aa73d0fec7b9b7e3c050441dc&txTime=69F26022&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d29164c8a90c597e5333f1bf14f289f2.png" group-title="CAMEL SPORTS", Real Sociedad B VS Borussia Dortmund II [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdL91a5RP5swM1C3.m3u8?txSecret=1627c7d3f60f4b8aac4d9b9916792641&txTime=69F2473F&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png" group-title="CAMEL SPORTS", Inter Turku VS HJK Helsinki [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwdLRL2733Tbkqdhq.m3u8?txSecret=eb10e9f3908d685ef79d2a9ed462ffc3&txTime=69F26025&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b7fabb9879b6213a626dcd42ff0c2c19.png" group-title="CAMEL SPORTS", Macclesfield Town VS Chester FC [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvZ6dBkZ3aTCmxirj.m3u8?txSecret=68a6839336dbb99f8bb3bb88b58ee32e&txTime=69F24742&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/8f9127a6f0af855876efc94663fb8f3b.png" group-title="CAMEL SPORTS", Kamboi Eagles VS Ports Authority FC [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwdLJi8uCv6swxfz7.m3u8?txSecret=c283bd14e0c04c39440f1182e02bb7da&txTime=69F26027&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6ee3932a93104f53f0f6100d1679ac94.png" group-title="CAMEL SPORTS", AC Juvenes VS SP Libertas [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLCC8u6eZk37zfq.m3u8?txSecret=dd3ca553afb0b238814c4dcc4cef0266&txTime=69F24744&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/aac881cf177c83c85e6e31181aaf12c6.png" group-title="CAMEL SPORTS", Hapoel Tel Aviv VS Maccabi Haifa [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MwdLJkMBcU1aFN4M5.m3u8?txSecret=cbcf00d8ae893067de6a98ad6d5f4882&txTime=69F26029&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/862f285e59ad2db1598c37346cccd5a3.png" group-title="CAMEL SPORTS", SP Cosmos VS S.S Pennarossa [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdL8zp5VuBGLtAqM.m3u8?txSecret=8e3de826bd64c76bf4f4865220b51a39&txTime=69F24746&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/79ffcdd49711effd18c9535fff5924a3.png" group-title="CAMEL SPORTS", Bullom Stars VS Wilberforce Strikers [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLCDcsWCEnSpd2o.m3u8?txSecret=da6167f52210cfaee6db9e5a179ee073&txTime=69F24749&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png" group-title="CAMEL SPORTS", FK Graficar Beograd VS Vojvodina Novi Sad [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLN52N1Pid2VANB.m3u8?txSecret=f3221b1311b59647f2ca0a19d02b6b24&txTime=69F2474B&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f66e9cdaa7994b2957e920ff04ce3152.png" group-title="CAMEL SPORTS", Ferro Carril Oeste Reserves VS Atletico Rafaela Reserves [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLREsDPaqQi9wcB.m3u8?txSecret=434ecb734858b836dd590a40e5ce98ec&txTime=69F2474D&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e7581fc6c38fb3a0ef7fda8456c48353.png" group-title="CAMEL SPORTS", Mighty Blackpool VS Luawa FC [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLCC8u4T5sZJ5Ww.m3u8?txSecret=e610bcec2e71264288cec5557388a428&txTime=69F24750&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/dad0eb8ef352b656351ef2c8285ad148.jpg" group-title="CAMEL SPORTS", Lokomotyvas Radviliskis VS FK Panevezys [CAMEL LIVE]
-#EXTVLCOPT:http-origin=https://www.camellive.top
-#EXTVLCOPT:http-referrer=https://www.camellive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLRLmGNmLSJBbR9.m3u8?txSecret=ed2ceda9cb1a70514f0db25f5912df6e&txTime=69F24752&lat=9000
+https://liveplay1.camel4.live/live/sd-6MwdLJkMBefVSjByVy.m3u8?txSecret=320f38a421a4571787c24197105d8fda&txTime=69F2602B&lat=9000
