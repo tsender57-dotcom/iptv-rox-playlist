@@ -1,15 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-29 09:21 UTC
+# Last Updated: 2026-04-29 09:41 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League 2] Ehime FC vs FC Imabari - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yomiuri Giants vs Hiroshima Toyo Carp - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/hl2pZgEzVL0rkjvF3nhsHw/regular/ehime-fc-fc-imabari/1/4662226/1777476113/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [J. League 2/3 100 Year Vision League West-A] Ehime FC vs FC Imabari - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/playlist/-Ckq_kjJTlmqWcsHNtPybg/regular/ehime-fc-fc-imabari/1/5130957/1777476116/playlist.m3u8
+https://lb8.wfty.wtf/playlist/fiWr2EWOp9wx4TkB_up6iQ/regular/yomiuri-giants-hiroshima-toyo-carp/1/4626402/1777477278/playlist.m3u8
 
