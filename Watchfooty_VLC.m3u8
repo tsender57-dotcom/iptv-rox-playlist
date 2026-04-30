@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-04-30 16:11 UTC
+# Last Updated: 2026-04-30 16:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [LPGA TOUR: Riviera Maya Open (Mexico)] LPGA TOUR: Riviera Maya Open (Mexico) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/93XKBYn6EB7dFmoJbFkmYA/prime/lpga-tour-riviera-maya-open-mexico/1/23_zwhdaUeo/1777587097/playlist.m3u8
+https://lb9.wfty.wtf/playlist/4Utczx4OU2BMRn6e0Iz0aw/prime/lpga-tour-riviera-maya-open-mexico/1/23_zwhdaUeo/1777587705/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [DP WORLD TOUR: Turkish Airlines Open (Turkey)] DP WORLD TOUR: Turkish Airlines Open (Turkey) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/dauFhZFn0J4oWmCvqSp39Q/prime/dp-world-tour-turkish-airlines-open-turkey/1/23_xSc6iOfo/1777587101/playlist.m3u8
+https://lb4.wfty.wtf/playlist/oMFCORmvUIRMyYMLJpDZ2g/prime/dp-world-tour-turkish-airlines-open-turkey/1/23_xSc6iOfo/1777587708/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liiga] Saipa vs Ilves - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/playlist/iIXZGq62i0n8joQiUkdXgw/regular/saipa-ilves/2/4708901/1777587712/playlist.m3u8
 
