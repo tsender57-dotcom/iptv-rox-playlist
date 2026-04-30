@@ -1,3 +1,46 @@
 #EXTM3U
-#EXTINF:-1,Tidak Ada Siaran Langsung Saat Ini
-http://offline.local
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png" group-title="CAMEL SPORTS", Bhayangkara Presisi Indonesia FC VS Persib Bandung [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/27551_12568363_318q66hx4y49qo9_md.m3u8?txSecret=b47a99c0976790a510d36b29e0c2fd11&txTime=69F35373&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/359d0b2402aac384dd4f406fc0d01811.png" group-title="CAMEL SPORTS", Jiangsu Changjin VS Shanghai Zetian [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLN2pQfQWi3dkAB.m3u8?txSecret=70bb3ea2aa8e6dad3b374bd21c95598c&txTime=69F35375&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2fa59a9c9801ee88b9049fa051fce162.png" group-title="CAMEL SPORTS", Lanzhou Longyuan Athletic VS Haimen Codion [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwcqG48Uaby5bRb5q.m3u8?txSecret=56a2ca5076d45b2912ea13380802d7a6&txTime=69F35377&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a1149c5d3991bc2f4fd716b7e95c4cb9.png" group-title="CAMEL SPORTS", Guangdong Mingtu VS Jiangxi Lushan [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwcqG48URp3bg7vUF.m3u8?txSecret=e3766d6dfc972fca595b8a283fb92a6c&txTime=69F3537A&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1bc138bc13d186569590f57f9d9127cd.png" group-title="CAMEL SPORTS", Albirex Niigata FC VS Tampines Rovers FC [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MvXbzXwfKCLMPpt3h.m3u8?txSecret=19654796cb008d8541fbe1118c48fb90&txTime=69F3537C&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/799207059c5ac7918c7f417097b49f97.png" group-title="CAMEL SPORTS", Anhui Wanmei VS Kunshan Zhangpu [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLN2pQYp56c9zhV.m3u8?txSecret=42dcd863afb676775f30364b01b8188b&txTime=69F3537F&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e4e62ec30cb5000a541421a36e94dcab.png" group-title="CAMEL SPORTS", FC Kattaqorgon VS Bukhara State University [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdakDgq1omexeKZZ.m3u8?txSecret=3a088bbb1b5232ad6849176d62201d27&txTime=69F35381&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/afd11580da1ff691b68dcb564d9d10e5.png" group-title="CAMEL SPORTS", Baku Sporting FK VS Difai Agsu FK [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6Mwd6CuQ7JwKJqkU87.m3u8?txSecret=5285945f9748930a20452898e9163b5f&txTime=69F35383&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0cbff83700a1dc79587793b1863b5e78.png" group-title="CAMEL SPORTS", Wenzhou Team VS Zhoushan Team [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6Mwdb2VCkZyS3SzJT1.m3u8?txSecret=0f204484fa23f08878736f828aa1f185&txTime=69F35386&lat=9000
