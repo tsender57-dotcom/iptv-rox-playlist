@@ -1,33 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-01 00:22 UTC
+# Last Updated: 2026-05-01 00:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Atlanta Hawks vs New York Knicks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/playlist/8ihQUrVLk7eQ_GW63qtfgA/easy/atlanta-hawks-new-york-knicks/1/401869393/1777616501/playlist.m3u8
+https://lb7.wfty.wtf/playlist/WDC7bFe_EVnAUmI100337w/easy/atlanta-hawks-new-york-knicks/2/401869393/1777617089/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Minnesota Twins vs Toronto Blue Jays - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/nfPHK6TI2qKxQcGctct2wQ/deluxe/minnesota-twins-toronto-blue-jays/1/4554987/1777616507/playlist.m3u8
+https://lb8.wfty.wtf/playlist/KaBCSGZN6uYB3321xpvD-w/regular/minnesota-twins-toronto-blue-jays/1/4554987/1777617096/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Sudamericana] Tigre vs América de Cali - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/playlist/_JkKFps2lzFSKl9mWY8OKQ/easy/tigre-america-de-cali/1/401865417/1777617099/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Libertadores] Corinthians vs Peñarol - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/playlist/widwf4YCU4zH1Fud7wvOSw/easy/corinthians-penarol/1/401865504/1777616511/playlist.m3u8
+https://lb3.wfty.wtf/playlist/RUXini-fI06Y1wbfBhLJ_w/easy/corinthians-penarol/1/401865504/1777617102/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Minnesota Wild vs Dallas Stars - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/JfF7lM7Qb7XrdG0NqjIUCA/easy/minnesota-wild-dallas-stars/1/401869787/1777616514/playlist.m3u8
+https://lb10.wfty.wtf/playlist/H7HyNzfg5aeOh69fmGHOJg/easy/minnesota-wild-dallas-stars/1/401869787/1777617106/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA - Pre-season] Indiana Fever vs Dallas Wings - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/playlist/-9ethzgfVVgvG_7juDPBUA/pro/indiana-fever-dallas-wings/1/4670356/1777616518/playlist.m3u8
+https://lb10.wfty.wtf/playlist/XCcgApmeZD3jdLsiMjNoHg/pro/indiana-fever-dallas-wings/1/4670356/1777617109/playlist.m3u8
 
