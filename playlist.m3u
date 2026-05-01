@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/680f427a2bc69ae676240a60d8aa2bdb.png" group-title="CAMEL SPORTS", Toluca Women VS Tigres Women [CAMEL LIVE]
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png" group-title="CAMEL SPORTS", Gangneung Citizen VS Gyeongju KHNP [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLJpmms6635Zeu5.m3u8?txSecret=56520e4541bd2402b51aa2613d1fbd29&txTime=69F429D4&lat=9000
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/8ca7ce17e1edd9f9e517060d10cb0680.png" group-title="CAMEL SPORTS", Club Jaiba Brava VS Cancun FC [CAMEL LIVE]
+https://liveplay1.camel4.live/live/sd-6MvVNc71SRLeHzyFdH.m3u8?txSecret=14997f07928935012e23b460c7a2f8c0&txTime=69F44DDA&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ea4ce3a397e17ff504fcb9a4b1c4f740.png" group-title="CAMEL SPORTS", Incheon Hyundai Steel Red Angels Women VS Sejong Sportstoto WFC [CAMEL LIVE]
 #EXTVLCOPT:http-origin=https://www.camellive.top
 #EXTVLCOPT:http-referrer=https://www.camellive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MwdLJkKX47dwpLyWf.m3u8?txSecret=12d03df91a6ea213829cd97433910349&txTime=69F429D6&lat=9000
+https://liveplay1.camel4.live/live/sd-6MwcqevnHwr53V7hrP.m3u8?txSecret=c5af7578f67627d260eefd0cdcaf80be&txTime=69F44DDE&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/8de91d390f36c35944456e8eb51346b3.png" group-title="CAMEL SPORTS", Suwon FC Women VS Gangjin Swans Women [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwcqevnJ4SWevbTK5.m3u8?txSecret=1799194d2555c41c442db0d424882085&txTime=69F44DE0&lat=9000
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/8edb66be061ca67ef8b1ee8d065dc763.png" group-title="CAMEL SPORTS", Fumin Village VS Chejiang 1 Village [CAMEL LIVE]
+#EXTVLCOPT:http-origin=https://www.camellive.top
+#EXTVLCOPT:http-referrer=https://www.camellive.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveplay1.camel4.live/live/sd-6MwdLFVKmeV6GHjLe3.m3u8?txSecret=49f9f9ed041f4b7630b53e9762f6b8e5&txTime=69F44DE2&lat=9000
