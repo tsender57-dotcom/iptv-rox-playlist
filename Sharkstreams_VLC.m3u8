@@ -1,141 +1,141 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-02 22:41 UTC
+# Last Updated: 2026-05-02 22:52 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTxHn47J/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Shark - WWE",[07:00 WIB] [WWE] WWE: Friday Night Smackdown - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh5.shfiles.cfd/live/smackdown/stream.m3u8?expires=1777761379&token=2a216a7df5d2771d3a274c3a61968b6da3c729cdeb3accd9378415d19a2881f7
+https://sh5.shfiles.cfd/live/smackdown/stream.m3u8?expires=1777763201&token=51b59c98ffd27b05da905577ac73b2b3ba49089e4deb4a658eeab31220cd1f33
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[12:35 WIB] [MLB] Baltimore Orioles vs New York Yankees - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb1.shfiles.cfd/live/1/stream.m3u8?expires=1777761297&token=ba8d5d29c290bbc826c789d694d8f067e38c14b47a7ec508e002591f0da608ad
+https://mb1.shfiles.cfd/live/1/stream.m3u8?expires=1777761641&token=cc366f739c432b946b0d62cb3b4b50081ac0bb52bce84af7f5c5d66cfbc70910
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[23:45 WIB] [Boxing] Conah Walker vs. Sam Eggington - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh5.shfiles.cfd/live/walker/stream.m3u8?expires=1777761380&token=0e5e42f6445772d7de03c78af4f1e681fcd9730775dd9b85432b0642869022a1
+https://sh5.shfiles.cfd/live/walker/stream.m3u8?expires=1777761841&token=a1f7c277c22bc877c8d518b0306ba1ae509502572cb25627139088aa9c4125e1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[01:10 WIB] [MLB] Toronto Blue Jays vs Minnesota Twins - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb1.shfiles.cfd/live/2/stream.m3u8?expires=1777761380&token=561464ed5c590e598aa242b05751cdb67050eaeaee274f8822437a3f70513548
+https://mb1.shfiles.cfd/live/2/stream.m3u8?expires=1777762050&token=07c8f6d242226be87094557c496a7653096975ee0c0f5d66a3921b976e13a454
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[01:20 WIB] [MLB] Arizona Diamondbacks vs Chicago Cubs - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb1.shfiles.cfd/live/3/stream.m3u8?expires=1777761217&token=3528b78585b78a8bbd4849173b9ebca2b8f59aeef836f824a75f611484c150d0
+https://mb1.shfiles.cfd/live/3/stream.m3u8?expires=1777761807&token=abf15049b4b371d8237ff5918f7c3aa0d0eb9202b6fb374d7b65da82926adbc1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Shark - Motorsports",[🔴 LIVE] [03:00 WIB] [MotorSports] Miami Grand Prix - Qualifying - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh4.shfiles.cfd/live/miami/stream.m3u8?expires=1777761380&token=c70da7956d951d4ca7cc46469586ca750638a02621b9bdea9da67072120edb2c
+https://sh4.shfiles.cfd/live/miami/stream.m3u8?expires=1777761964&token=0a371e96996a3bf4ba75afe7bf882b1c76de813280a0a21e4f3f6637fba4cfa6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[🔴 LIVE] [03:05 WIB] [MLB] Milwaukee Brewers vs Washington Nationals - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb2.shfiles.cfd/live/4/stream.m3u8?expires=1777761063&token=362f6cb2c42023ae5aa6bf09d70371642e5d5225b303b9b3a7ed2e604726f859
+https://mb2.shfiles.cfd/live/4/stream.m3u8?expires=1777761195&token=8f457e7cc734137847c5c7a571019ed36cc70d3341a4015b5efa72b7176259bb
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[🔴 LIVE] [03:05 WIB] [MLB] Cleveland Guardians vs Athletics - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb2.shfiles.cfd/live/5/stream.m3u8?expires=1777761080&token=20065fc13ac95cb4b23529cde7e38e2f17d7b5137dbff8e93e62146816019100
+https://mb2.shfiles.cfd/live/5/stream.m3u8?expires=1777761079&token=30160a60aa69fd917fc0b28e72b52c21f0a1593b26425449879e813cf157efd4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[🔴 LIVE] [03:05 WIB] [MLB] Cincinnati Reds vs Pittsburgh Pirates - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb2.shfiles.cfd/live/6/stream.m3u8?expires=1777761067&token=653945725f5aa5c5c84c3e0ca04a7001b6aa2bf1edc0e79f9e2bf1d90f9f5442
+https://mb2.shfiles.cfd/live/6/stream.m3u8?expires=1777763237&token=1412ccc80704cbc789ba753ae821eff2ae64e67d3526b11991ae9144895ad1b2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[🔴 LIVE] [03:10 WIB] [MLB] Philadelphia Phillies vs Miami Marlins - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb3.shfiles.cfd/live/7/stream.m3u8?expires=1777761117&token=9d15cdc73abec04bb2e38cc62785217c025fe5a42919b6cbfdd0e05f773a6f0e
+https://mb3.shfiles.cfd/live/7/stream.m3u8?expires=1777763237&token=f4e1f5011d01ef4ced11d7be8173d1ed062aa2dff243c5e9d1e8dc8407fa82ae
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[🔴 LIVE] [03:10 WIB] [MLB] Houston Astros vs Boston Red Sox - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb3.shfiles.cfd/live/8/stream.m3u8?expires=1777761079&token=b70903403dcf1cd1bc29065a6be436da49019f4938fc3fb2cabc26e792ea4867
+https://mb3.shfiles.cfd/live/8/stream.m3u8?expires=1777761200&token=5d6e8e8c3568499dde74020faad7f19418bf824bf11420badeb418f1e8ad3d37
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[🔴 LIVE] [04:30 WIB] [Boxing] David Benavidez vs Zurdo Ramirez - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh5.shfiles.cfd/live/ramirez/stream.m3u8?expires=1777761061&token=77d6d2ed7d48d2d988dcf73fdec08253341cd89f267c65b84ef7fed948461ff7
+https://sh5.shfiles.cfd/live/ramirez/stream.m3u8?expires=1777761064&token=dc5fbe84f13fbd0f78cf262ff0cceb797762a4a39229ca0c23e168723193e4be
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[🔴 LIVE] [05:10 WIB] [MLB] San Francisco Giants vs Tampa Bay Rays - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb3.shfiles.cfd/live/9/stream.m3u8?expires=1777761152&token=785745bbb42c9ce2db8e16ee31ea3ee864888611f2c92d546ebbf9d3632b4a9d
+https://mb3.shfiles.cfd/live/9/stream.m3u8?expires=1777761078&token=4119401badbf382b500a0ed4c9b2d7b9880e64a3eb7f143e27b4f1413885f651
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[06:00 WIB] [WNBA] Nigeria National Team vs Indiana Fever - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh5.shfiles.cfd/live/wnba/stream.m3u8?expires=1777761373&token=62ac84dd3055ff967947a310f628f3f2f94cb3fff49c1177394a5830007d663e
+https://sh5.shfiles.cfd/live/wnba/stream.m3u8?expires=1777761702&token=7a73d38bfd3fed9c83be187433f26e336cc52983ac28673a5a29bacc5e07581f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[06:00 WIB] [MMA] PFL Sioux Falls: Storley vs Zendeli - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh5.shfiles.cfd/live/pfl/stream.m3u8?expires=1777761189&token=5dfedd34fb223998e6478b5dc809b5d6c5e8f12986a4da8f8703eba0abaf9ba3
+https://sh5.shfiles.cfd/live/pfl/stream.m3u8?expires=1777761078&token=8789c4295938a42428305a3b16f50187ca994ca8316bdfff370807e20402b987
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[06:15 WIB] [MLB] Texas Rangers VS Detroit Tigers - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb4.shfiles.cfd/live/10/stream.m3u8?expires=1777761287&token=237dabc641d8f64383b32b73a6aaa9ef5e74aafe705399ab586f1d8c7997abe8
+https://mb4.shfiles.cfd/live/10/stream.m3u8?expires=1777761606&token=6660b13085fada6ea01b10fd19d26ba9a5afc5cc8bb53ff8f85dcdc90bf6d660
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[06:15 WIB] [MLB] Los Angeles Dodgers vs St. Louis Cardinals - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb4.shfiles.cfd/live/11/stream.m3u8?expires=1777761381&token=ff170671cf48dbcee249a9c9a4312d92680f4909fa17fb2515d35cc0dbcbfa0c
+https://mb4.shfiles.cfd/live/11/stream.m3u8?expires=1777763180&token=65d9f36b2b49a880e62d2a866b6100bcdbccd0790937ce3b3b73cf0c0de4ecd2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[06:30 WIB] [NBA] Philadelphia 76ers vs Boston Celtics - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh2.shfiles.cfd/live/boston/stream.m3u8?expires=1777761057&token=c3145e7ac8d244db4242efc594ad9bfdfd03c86e1457da260b0950d957f00c7e
+https://sh2.shfiles.cfd/live/boston/stream.m3u8?expires=1777761100&token=5ce542ec3dd4925371cb7be417069a09c581d8bc0f062eb82f8db9e6a21868bb
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[07:00 WIB] [NHL] Philadelphia Flyers vs Carolina Hurricanes - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh4.shfiles.cfd/live/abc/stream.m3u8?expires=1777761381&token=f3da2a13acfefea2e2a4bc3a561cfc2e9d92ab04e37f4c085cf4898d8e46d456
+https://sh4.shfiles.cfd/live/abc/stream.m3u8?expires=1777763238&token=a971730e3d175c49c6dea21d2f9f6727886d6797922ac283bdb48750f7d0db78
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[07:10 WIB] [MLB] Atlanta Braves vs Colorado Rockies - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb4.shfiles.cfd/live/12/stream.m3u8?expires=1777761100&token=550f37a2956e4d980631612d0af3fb7bf63812b73b783c11fb5b454f9bd986d9
+https://mb4.shfiles.cfd/live/12/stream.m3u8?expires=1777763238&token=c1eb1216f10b0c6843e0aa7552bbd55d28debcc18965a7cf42cae59a85e93050
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[07:40 WIB] [MLB] Chicago White Sox vs San Diego Padres - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb5.shfiles.cfd/live/13/stream.m3u8?expires=1777761382&token=65684ebdd7e403e6f822dcbad9e05abcf506e49dc67d86ca11e7a61891bddcf6
+https://mb5.shfiles.cfd/live/13/stream.m3u8?expires=1777763239&token=e3b4addc69a43ffa20101fa906dab73e270cf74ef47ec50f7335b9b63d71df0f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[08:38 WIB] [MLB] New York Mets vs Los Angeles Angels - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb5.shfiles.cfd/live/14/stream.m3u8?expires=1777761382&token=cb8dfbb472586080998373f62dc747320f90494b13ecb532eabc90ff62558854
+https://mb5.shfiles.cfd/live/14/stream.m3u8?expires=1777763239&token=b84e9c8f02d8b22f61a88e2cf85526639bcb1877ffd56cab32d57cbbd4ea77df
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[08:40 WIB] [MLB] Kansas City Royals vs Seattle Mariners - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb5.shfiles.cfd/live/15/stream.m3u8?expires=1777761382&token=a84a729f9bdd4c7f968f620d729be370468924aeb7cb5a7fa08413c132c18c9c
+https://mb5.shfiles.cfd/live/15/stream.m3u8?expires=1777763240&token=fcf2cb80d4c1302c98ebbe8ed31df603269c7dee2975d80e0a118e2ddbcb5bb9
 
