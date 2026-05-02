@@ -1,39 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-02 09:21 UTC
+# Last Updated: 2026-05-02 09:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Shark - UFC",[15:00 WIB] [UFC] UFC Fight Night: Della Maddalena v. Prates - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh1.shfiles.cfd/live/ufc/stream.m3u8?expires=1777711958&token=a2d063f88c516e9414ec1dd16d2940a9cc75a7b64391709a877cbea2bd9fcbb4
+https://sh1.shfiles.cfd/live/ufc/stream.m3u8?expires=1777715144&token=fe685f06343c968caffc1961cd26c8f4f28c018206fa5cf8e109d1e0e58005f2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[16:00 WIB] [Boxing] Naoya Inoue vs Junto Nakatani - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh5.shfiles.cfd/live/nakatani/stream.m3u8?expires=1777711991&token=821101782bf79ee3eb272c161b03d2eb94b7a3a7f6a6b5beeec20a5ff6a40a71
+https://sh5.shfiles.cfd/live/nakatani/stream.m3u8?expires=1777715176&token=0f7b5d15d1b0a660e36287d8e4d720e9238cb28acf0d8032a5fc6cf4470a250c
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTxHn47J/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Shark - WWE",[07:00 WIB] [WWE] WWE: Friday Night Smackdown - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh5.shfiles.cfd/live/smackdown/stream.m3u8?expires=1777712173&token=a3b2fe61fdaac5f9ede4766bfc66ba5201f4e9a60dbdb0c0272777305da83d1d
+https://sh5.shfiles.cfd/live/smackdown/stream.m3u8?expires=1777715185&token=616c0c55f83c5212603eb6722e8d70507f18f46fae9316d45542bce2a998f9dd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[04:30 WIB] [Boxing] David Benavidez vs Zurdo Ramirez - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://sh5.shfiles.cfd/live/ramirez/stream.m3u8?expires=1777715185&token=0dde36962ad8eafcbcd7157484b999a225a0cc7aae10c247a4217ce9ba79433a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[06:00 WIB] [WNBA] Nigeria National Team vs Indiana Fever - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh5.shfiles.cfd/live/wnba/stream.m3u8?expires=1777712173&token=4ac19f95564494cd257266c12de7aa90de084d34ade7edbae8bcb8c4a7e76ffd
+https://sh5.shfiles.cfd/live/wnba/stream.m3u8?expires=1777715185&token=7a3fb5c1fe6cd39d66759bf77a23611a91a690d746f4957a330ead0a9ff421a0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[06:30 WIB] [NBA] Philadelphia 76ers vs Boston Celtics - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh2.shfiles.cfd/live/boston/stream.m3u8?expires=1777712173&token=c559fa03753ce627023eecdbaea43b46a9bd9b79c11d9d86e0835c277fc4e49b
+https://sh2.shfiles.cfd/live/boston/stream.m3u8?expires=1777715185&token=97833d57fea4564522b5cacdf8ceaf33e7806d944f6632d035255c8175ecec37
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[07:00 WIB] [NHL] Philadelphia Flyers vs Carolina Hurricanes - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sh4.shfiles.cfd/live/abc/stream.m3u8?expires=1777712174&token=612be76503f70b9e8aed4aac7acc1d98b78a42e51d024b719d555fb6cd8381ed
+https://sh4.shfiles.cfd/live/abc/stream.m3u8?expires=1777715186&token=0c2e72e9a66942749d8b2696bfc5c9f823ccd2fc41dc99012887ee5651d36192
 
