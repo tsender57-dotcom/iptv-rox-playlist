@@ -1,51 +1,63 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-02 14:42 UTC
+# Last Updated: 2026-05-02 14:52 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Brentford vs West Ham United - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/playlist/ghqlqmSHdZi0Sf9DOHRaJw/easy/brentford-west-ham-united/1/740939/1777755109/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Newcastle United vs Brighton - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/73oCvOsfVHoWwyJe05y1HA/easy/newcastle-united-brighton-hove-albion/1/4452582/1777754502/playlist.m3u8
+https://lb10.wfty.wtf/playlist/1o6F-Tt4pECxH6hCIrUCbw/easy/newcastle-united-brighton-hove-albion/1/4452582/1777755112/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [WSL 2] Newcastle United vs Durham Women FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/playlist/1a5RjNeA5asTvchfJq3xvw/easy/newcastle-united-brighton-hove-albion/1/4893173/1777754508/playlist.m3u8
+https://lb7.wfty.wtf/playlist/2XIUcSt0NqpwbJVlomwOvQ/easy/newcastle-united-brighton-hove-albion/1/4893173/1777755119/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] Bayern Munich vs FC Heidenheim - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/playlist/PJopwq6vtNJEQqLmaP4Cyw/easy/bayern-munchen-1-fc-heidenheim-1846/1/4464640/1777754512/playlist.m3u8
+https://lb10.wfty.wtf/playlist/jJr5eV0GDl4UPG58Xsjg3g/easy/bayern-munchen-1-fc-heidenheim-1846/1/4464640/1777755122/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] Frankfurt vs Hamburger SV - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/LnYgdGjB7ptkHmpoD-IyNA/easy/eintracht-frankfurt-hamburg-sv/1/4829597/1777754515/playlist.m3u8
+https://lb2.wfty.wtf/playlist/7hnq7PCuK5g2mkz9Ey3C0Q/easy/eintracht-frankfurt-hamburg-sv/1/4829597/1777755126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [French Ligue 1] Nantes vs Marseille - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/playlist/VIj40SbJXNPwNUQKJ7oN5A/easy/nantes-marseille/1/746694/1777754519/playlist.m3u8
+https://lb6.wfty.wtf/playlist/X1aNwyJJy-3ZOCedkJ8ekQ/easy/nantes-marseille/1/746694/1777755129/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA Women's Champions League] OL Lyonnes vs Arsenal - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/4Y-MJ_bmCeVhm-EmLKcHkQ/easy/ol-lyonnes-arsenal/1/401842607/1777754522/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [3. Liga] Ulm vs Viktoria Köln 1904 - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/A7Q2iw9t-5AIAkJZzbA52A/easy/ssv-ulm-1846-viktoria-koln/1/4846999/1777754525/playlist.m3u8
+https://lb10.wfty.wtf/playlist/s5oH-RFmjofFtWKGrSyyFA/easy/ol-lyonnes-arsenal/1/401842607/1777755133/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Greek Super League] Panserraikos FC vs AE Larissa - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/kxamb_Zn0rxJzdlyjhp5Tg/easy/panserraikos-ae-larissa/1/5271316/1777754529/playlist.m3u8
+https://lb1.wfty.wtf/playlist/FdRJpUI3PV-6XEdkRyCTMg/easy/panserraikos-ae-larissa/1/5271316/1777755136/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [3. Liga] VfB Stuttgart II vs RW Essen - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/playlist/b5ZMeCfruw0GkWk-kt94dg/easy/stuttgart-ii-rot-weiss-essen/1/4846998/1777755140/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [3. Liga] Ulm vs Viktoria Köln 1904 - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/playlist/C5EoaECu_4CY6Clj8OGejQ/easy/ssv-ulm-1846-viktoria-koln/1/4846999/1777755143/playlist.m3u8
 
