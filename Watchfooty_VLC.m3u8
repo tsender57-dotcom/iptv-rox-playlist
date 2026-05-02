@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-02 06:51 UTC
+# Last Updated: 2026-05-02 07:02 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Yokohama F. Marinos vs Mito Hollyhock - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/playlist/YzcqtoBHhFoW6hvTlY-qPQ/regular/yokohama-f-marinos-mito-hollyhock/1/4662125/1777726913/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Gamba Osaka vs Vissel Kobe - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/w9A7Dda5mSnRd8zbdHkAVA/sigma/gamba-osaka-vissel-kobe/1/4662122/1777726306/playlist.m3u8
+https://lb9.wfty.wtf/playlist/saKCLIQ-RtUkSTRYegUdFw/sigma/gamba-osaka-vissel-kobe/1/4662122/1777726916/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Australian A-League Men] Auckland FC vs Melbourne City - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Australian A-League Men] Auckland FC vs Melbourne City FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/VBeYRsKYb6TWwBIB144o-Q/easy/auckland-fc-melbourne-city-fc/1/4707776/1777726309/playlist.m3u8
+https://lb7.wfty.wtf/playlist/JI0hBL9KgLCx3_UIQbSUlQ/easy/auckland-fc-melbourne-city-fc/1/401870488/1777726920/playlist.m3u8
 
