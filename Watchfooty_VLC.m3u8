@@ -1,33 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-03 13:51 UTC
+# Last Updated: 2026-05-03 14:01 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Women's Super League] Leicester City vs Chelsea - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/playlist/M2EO-PO7frNtwDx0qYJnWw/easy/leicester-city-chelsea/1/754420/1777838492/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [French Ligue 1] Lille vs Le Havre - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/playlist/fdJFDr9d3FkdfNWFiTh8cg/easy/lille-le-havre-ac/1/4463862/1777837882/playlist.m3u8
+https://lb7.wfty.wtf/playlist/j6AcHQYnG78bAlZCBifUhw/easy/lille-le-havre-ac/1/4463862/1777838496/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie A] Sassuolo vs AC Milan - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/vnerNXU6kUN6AgLcquYKOg/easy/sassuolo-ac-milan/1/4445834/1777837885/playlist.m3u8
+https://lb10.wfty.wtf/playlist/dSmvwRKYd6o8DfsS0rtZiw/easy/sassuolo-ac-milan/1/4445834/1777838499/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Dutch Eredivisie] Fortuna Sittard vs Feyenoord - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/DW3dMCHbs01BGoK3waKECw/prime/fortuna-sittard-feyenoord-rotterdam/2/4815520/1777837888/playlist.m3u8
+https://lb2.wfty.wtf/playlist/0Z3UcZfBx8AS3LVnGUVfgQ/prime/fortuna-sittard-feyenoord-rotterdam/2/4815520/1777838502/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] St. Pauli vs Mainz - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/cT1G0fq1Q8CwZnxILWnsAw/easy/st-pauli-mainz/1/747002/1777837892/playlist.m3u8
+https://lb6.wfty.wtf/playlist/qXB2tPHBFW483Ww6EQZXCg/easy/st-pauli-mainz/1/747002/1777838506/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] AFC Bournemouth vs Crystal Palace - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/gXPhWVsxmrEvngfoZX0Nfg/easy/afc-bournemouth-crystal-palace/2/740938/1777837895/playlist.m3u8
+https://lb8.wfty.wtf/playlist/iTCLpwOyEAfsNhHy7ylMVQ/easy/afc-bournemouth-crystal-palace/1/740938/1777838509/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [South African Premier Division] Mamelodi Sundowns FC vs Polokwane City - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/playlist/4YJIqcdz_Uw28sOz2wGjuQ/prime/mamelodi-sundowns-polokwane-city/1/4910150/1777838512/playlist.m3u8
 
