@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-04 23:31 UTC
+# Last Updated: 2026-05-04 23:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWHFvV0/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Soccer - [21:00 WIB] Chelsea vs Nottingham Forest
 https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/8b32d9b86828db9817f4a70da988ca84/manifest/video.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
@@ -16,10 +16,10 @@ https://601.shoncine.com/mlb3.m3u8|referer=https://roxiestreams.info/|user-agent
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [🔴 LIVE] [06:05 WIB] Baltimore Orioles vs New York Yankees
 https://601.shoncine.com/mlb5.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:40 WIB] Cincinnati Reds vs Chicago Cubs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [🔴 LIVE] [06:40 WIB] Cincinnati Reds vs Chicago Cubs
 https://601.shoncine.com/mlb6.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:40 WIB] Cleveland Guardians vs Kansas City Royals
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [🔴 LIVE] [06:40 WIB] Cleveland Guardians vs Kansas City Royals
 https://601.shoncine.com/mlb7.m3u8|referer=https://roxiestreams.info/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0%29%20Gecko%2F20100101%20Firefox%2F144.0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:45 WIB] Milwaukee Brewers vs St. Louis Cardinals
