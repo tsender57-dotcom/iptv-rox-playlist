@@ -3,10 +3,16 @@
 #EXTVLCOPT:http-referrer=https://nba24all.ir
 #EXTVLCOPT:http-origin=https://nba24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-8bba18be.streamtofu.com/69f85e27.6d7dd0a0i4ef77341.1334f.b662294d/free.live.sportsnet/master.m3u8
+https://node-8bba18be.streamtofu.com/69f860ab.b95d91a1i7492ae43.1334f.918cf46b/free.live.sportsnet/master.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[05:00 WIB] [NHL] Montréal Canadiens vs Tampa Bay Lightning (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[05:00 WIB] [NHL] Montréal Canadiens vs Tampa Bay Lightning (SPORTir)
+#EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[08:00 WIB] [NHL] Minnesota Wild vs Colorado Avalanche (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[08:00 WIB] [NHL] Minnesota Wild vs Colorado Avalanche (SPORTir)
 #EXTVLCOPT:http-referrer=https://nhl24all.ir
 #EXTVLCOPT:http-origin=https://nhl24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-31fbddbb.streamtofu.com/69f85e27.b917d4dfi4ef77341.1334c.c0cdb85d/free.live.sportsnet/master.m3u8
+https://node-025d151e.streamtofu.com/69f860ac.08b13ac7i7492ae43.13490.8eb0d239/free.live.sportsnet/master.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[05:00 WIB] [NHL] Montréal Canadiens vs Tampa Bay Lightning (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[05:00 WIB] [NHL] Montréal Canadiens vs Tampa Bay Lightning (SPORTir)
+#EXTVLCOPT:http-referrer=https://nhl24all.ir
+#EXTVLCOPT:http-origin=https://nhl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://node-31fbddbb.streamtofu.com/69f860ac.fdcf3ebbi7492ae43.1334c.55cfdc87/free.live.sportsnet/master.m3u8
