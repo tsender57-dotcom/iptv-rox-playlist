@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[06:30 WIB] [NBA] Toronto Raptors vs Cleveland Cavaliers (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[06:30 WIB] [NBA] Toronto Raptors vs Cleveland Cavaliers (SPORTir)
-#EXTVLCOPT:http-referrer=https://nba24all.ir
-#EXTVLCOPT:http-origin=https://nba24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-8bba18be.streamtofu.com/69f87ef4.e36c1ed4i832d7dca.1334f.7c4a51fe/free.live.sportsnet/master.m3u8
-
-#EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[05:00 WIB] [NHL] Montréal Canadiens vs Tampa Bay Lightning (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[05:00 WIB] [NHL] Montréal Canadiens vs Tampa Bay Lightning (SPORTir)
+#EXTINF:-1 tvg-chno="1" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[05:00 WIB] [NHL] Montréal Canadiens vs Tampa Bay Lightning (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[05:00 WIB] [NHL] Montréal Canadiens vs Tampa Bay Lightning (SPORTir)
 #EXTVLCOPT:http-referrer=https://nhl24all.ir
 #EXTVLCOPT:http-origin=https://nhl24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-5d763f4c.streamtofu.com/69f87ef5.0825c50fi832d7dca.1334c.24fcc46f/free.live.sportsnet/master.m3u8
+https://node-9b5feb01.streamtofu.com/69f8814f.d102a654i1346acca.1334c.aba90a68/free.live.sportsnet/master.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[08:00 WIB] [NHL] Minnesota Wild vs Colorado Avalanche (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[08:00 WIB] [NHL] Minnesota Wild vs Colorado Avalanche (SPORTir)
+#EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[08:00 WIB] [NHL] Minnesota Wild vs Colorado Avalanche (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[08:00 WIB] [NHL] Minnesota Wild vs Colorado Avalanche (SPORTir)
 #EXTVLCOPT:http-referrer=https://nhl24all.ir
 #EXTVLCOPT:http-origin=https://nhl24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-31fbddbb.streamtofu.com/69f87ef5.d0e55ac1i832d7dca.13490.ace75323/free.live.sportsnet/master.m3u8
+https://node-31fbddbb.streamtofu.com/69f88150.dd1b021ai1346acca.13490.f1157d8b/free.live.sportsnet/master.m3u8
