@@ -1,21 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-04 17:41 UTC
+# Last Updated: 2026-05-04 17:51 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie A] Cremonese vs Lazio - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/playlist/S8axDhju8WjreVZCu9ugIg/easy/cremonese-lazio/1/4803381/1777938687/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Swedish Allsvenskan] Djurgårdens IF vs IFK Göteborg - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/9IoLG-ZJb3rirXvfVfpqsg/regular/djurgarden-ifk-goteborg/1/4636140/1777938100/playlist.m3u8
+https://lb10.wfty.wtf/playlist/h6tI82gOBNc8SuGX-epLWw/regular/djurgarden-ifk-goteborg/1/4636140/1777938694/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Superliga - Championship Group] FC Midtjylland vs Viborg - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/jSo7SmqqYaPIfFrfdq3Ppw/easy/fc-midtjylland-viborg-ff/3/4683942/1777938107/playlist.m3u8
+https://lb2.wfty.wtf/playlist/xSPlyOEDVoAeDLTaXa4-Cw/easy/fc-midtjylland-viborg-ff/3/4683942/1777938697/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Danish Superliga] FC Midtjylland vs Viborg FF - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/playlist/nXSPUEYX2eh6Pu2ftyht5Q/easy/fc-midtjylland-viborg-ff/1/401863674/1777938110/playlist.m3u8
+https://lb10.wfty.wtf/playlist/YNBCckSDkcdKJrYoUGtKdQ/easy/fc-midtjylland-viborg-ff/3/401863674/1777938701/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Norwegian Eliteserien] Bodo Glimt vs Molde - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/playlist/lsFFFmG6b9YE-csVLO_0zA/regular/bodo-glimt-molde/1/4637366/1777938704/playlist.m3u8
 
