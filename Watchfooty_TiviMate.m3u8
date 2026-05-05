@@ -1,45 +1,51 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-05 02:42 UTC
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago Cubs vs Cincinnati Reds - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/playlist/7lWDBOswUxPKdJMyBAqpWQ/pro/chicago-cubs-cincinnati-reds/2/401815206/1777970491/playlist.m3u8
+# Last Updated: 2026-05-05 02:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Houston Astros vs Los Angeles Dodgers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/xb424egMxFxQtz2azQjiZQ/easy/houston-astros-los-angeles-dodgers/1/4555027/1777970495/playlist.m3u8
+https://lb10.wfty.wtf/playlist/YZzyBlw1Z_RaRPk1DWq8IQ/easy/houston-astros-los-angeles-dodgers/1/401815208/1777971084/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago Cubs vs Cincinnati Reds - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/playlist/0N058F2Fj6yt1c4466_NyQ/pro/chicago-cubs-cincinnati-reds/2/401815206/1777971087/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Seattle Mariners vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/playlist/ty0kNrGjIyCiyyP7ceL_Wg/easy/seattle-mariners-atlanta-braves/1/4555208/1777970498/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA - Conference Semi Finals] San Antonio Spurs vs Minnesota Timberwolves - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/8kJbZBEYVHvATNgrk0ZMqg/easy/san-antonio-spurs-minnesota-timberwolves/1/4709622/1777970501/playlist.m3u8
+https://lb5.wfty.wtf/playlist/I00Rz_Iy9lLvqCTdLRjckw/pro/seattle-mariners-atlanta-braves/2/401815211/1777971090/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] San Antonio Spurs vs Minnesota Timberwolves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/playlist/z76K-ZwOl98vj9na_Oh1PQ/easy/san-antonio-spurs-minnesota-timberwolves/1/401871152/1777970505/playlist.m3u8
+https://lb2.wfty.wtf/playlist/0a5lQkqCrpnacue1bWi3KA/easy/san-antonio-spurs-minnesota-timberwolves/1/401871152/1777971094/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA - Conference Semi Finals] San Antonio Spurs vs Minnesota Timberwolves - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/playlist/X-NAKCGvdK3p1dOVLDDiSg/easy/san-antonio-spurs-minnesota-timberwolves/1/4709622/1777971101/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Vegas Golden Knights vs Anaheim Ducks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/playlist/qcxAfkwBFJp7AHiKYPWGfA/regular/vegas-golden-knights-anaheim-ducks/1/401871423/1777970515/playlist.m3u8
+https://lb1.wfty.wtf/playlist/RNmEiwmr91h2DBvU4T5YDA/pro/vegas-golden-knights-anaheim-ducks/2/401871423/1777971104/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga de Ascenso - Semi Finals] Inter San Carlos vs Escorpiones Belén - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb9.wfty.wtf/playlist/PyySDkXs6GdjrP0O1bJiDA/regular/inter-san-carlos-escorpiones-belen/1/4708773/1777971107/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Events] WWE: Monday Night RAW - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/CPQRWhTCO3ex2Aja6EybBg/delta/live-event_monday-night-raw-live-stream/1/2e57fc27/1777970518/playlist.m3u8
+https://lb4.wfty.wtf/playlist/pyCK8eh-Ie-RL1FEZfLNcQ/delta/live-event_monday-night-raw-live-stream/1/2e57fc27/1777971111/playlist.m3u8
 
