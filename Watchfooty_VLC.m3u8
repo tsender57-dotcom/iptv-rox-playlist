@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-05 01:41 UTC
+# Last Updated: 2026-05-05 01:52 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Houston Astros vs Los Angeles Dodgers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/playlist/TlnHRasjrwVuo-GP_8ifZw/easy/houston-astros-los-angeles-dodgers/1/401815208/1777966886/playlist.m3u8
+https://lb2.wfty.wtf/playlist/A7jfESZSRjO4J2fW4tFKrQ/easy/houston-astros-los-angeles-dodgers/1/401815208/1777967499/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Yankees vs Baltimore Orioles - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/L6eFYooCal6sxCRZ56YaLg/easy/new-york-yankees-baltimore-orioles/2/401815202/1777966890/playlist.m3u8
+https://lb2.wfty.wtf/playlist/qxIe8YB4cjgdKBddYIM0PA/easy/new-york-yankees-baltimore-orioles/1/401815202/1777967503/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Argentine Liga Profesional de Fútbol] Estudiantes Río Cuarto vs Instituto AC Cordoba - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Seattle Mariners vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/43CA3VOIGiT6Mf4gzPPdtQ/regular/estudiantes-de-rio-cuarto-instituto-cordoba/1/4632146/1777966904/playlist.m3u8
+https://lb1.wfty.wtf/playlist/NxVWiXifkMNZhqs1Jh55uA/regular/seattle-mariners-atlanta-braves/1/4555208/1777967506/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Events] WWE: Monday Night RAW - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/playlist/t0OVX8A2qQ5Pm9J4f0jUuQ/delta/live-event_monday-night-raw-live-stream/1/2e57fc27/1777967523/playlist.m3u8
 
