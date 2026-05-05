@@ -1,39 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-05 02:02 UTC
+# Last Updated: 2026-05-05 02:12 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Houston Astros vs Los Angeles Dodgers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/playlist/2A0UhxaGg6I3Al-Mz5Vp8g/easy/houston-astros-los-angeles-dodgers/1/401815208/1777968094/playlist.m3u8
+https://lb1.wfty.wtf/playlist/Dj4Feb00_CGLwG8qneMc1A/easy/houston-astros-los-angeles-dodgers/1/401815208/1777968693/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Yankees vs Baltimore Orioles - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/playlist/ui8f5P1t6Fdda82t7xlHXA/easy/new-york-yankees-baltimore-orioles/1/401815202/1777968097/playlist.m3u8
+https://lb2.wfty.wtf/playlist/HIjtCeYLmrtZY_Fza782Ng/easy/new-york-yankees-baltimore-orioles/1/401815202/1777968700/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Seattle Mariners vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/rzF1SPF0dBbQ3F1o3f0-2w/easy/seattle-mariners-atlanta-braves/1/4555208/1777968100/playlist.m3u8
+https://lb5.wfty.wtf/playlist/dDNxKPQ1u1Bgbj1Y8MbcvQ/easy/seattle-mariners-atlanta-braves/1/4555208/1777968703/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] San Antonio Spurs vs Minnesota Timberwolves - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/playlist/8lhwLFDb9ojP-IV56tGkww/easy/san-antonio-spurs-minnesota-timberwolves/2/401871152/1777968707/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA - Conference Semi Finals] San Antonio Spurs vs Minnesota Timberwolves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/playlist/qdNfcxG2yr-BtzRUNi8PGQ/easy/san-antonio-spurs-minnesota-timberwolves/2/4709622/1777968104/playlist.m3u8
+https://lb1.wfty.wtf/playlist/uO2rcSOq5pAFBKqS7gOIIA/easy/san-antonio-spurs-minnesota-timberwolves/2/4709622/1777968714/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Vegas Golden Knights vs Anaheim Ducks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/playlist/dUns4f4hcO_2rIoVuR5FUQ/regular/vegas-golden-knights-anaheim-ducks/1/401871423/1777968118/playlist.m3u8
+https://lb10.wfty.wtf/playlist/79bEkj8wIhtZvjLLHIftlQ/regular/vegas-golden-knights-anaheim-ducks/1/401871423/1777968724/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Events] WWE: Monday Night RAW - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/playlist/buCEynGOtLnGaeVFrzYrjg/delta/live-event_monday-night-raw-live-stream/1/2e57fc27/1777968121/playlist.m3u8
+https://lb5.wfty.wtf/playlist/FfnrMD8u_yY0ojqnbWuxCA/delta/live-event_monday-night-raw-live-stream/1/2e57fc27/1777968727/playlist.m3u8
 
