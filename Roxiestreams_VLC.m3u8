@@ -1,11 +1,8 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-06 19:42 UTC
+# Last Updated: 2026-05-06 19:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [14:00 WIB] TSZYU VS DIAZ
 https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/7b2add8f6c990c9e43454caedce67487/manifest/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [🔴 LIVE] [02:00 WIB] UEFA Champions League SEMI
-https://customer-f711iyv4a9krfois.cloudflarestream.com/fa92548a9004adde6e6dd5d814bc1ac9/manifest/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [🔴 LIVE] [01:10 WIB] Los Angeles Dodgers vs Houston Astros
 https://601.denishdhakal.com.np/mlb3.m3u8
