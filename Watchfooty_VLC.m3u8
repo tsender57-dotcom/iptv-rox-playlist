@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-06 19:51 UTC
+# Last Updated: 2026-05-06 20:03 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA Champions League] Bayern Munich vs PSG - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/UpU4n3Cie7bVY_ndMV-2fw/easy/bayern-munich-psg/1/4702863/1778118686/playlist.m3u8
+https://lb1.wfty.wtf/secure/xau3ckWJVX289kg7fBNw2w/easy/bayern-munich-psg/1/4702863/1778119383/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Houston Astros vs Los Angeles Dodgers - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/OYRtWsOJUm7AsSh3OL2qDQ/pro/houston-astros-los-angeles-dodgers/2/401815237/1778119389/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [SuperLega - Final] Volley Perugia vs Lube Civitanova - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/GTQ9F0JzjGJ3awCIwdPy4Q/regular/volley-perugia-lube-civitanova/1/4703755/1778118690/playlist.m3u8
+https://lb7.wfty.wtf/secure/eoG2UweTZGkuLc4s1t8jVQ/regular/volley-perugia-lube-civitanova/1/4703755/1778119393/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [EuroLeague - Quarter Finals] Panathinaikos vs Valencia Basket - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/fFa-oEJzveu2i8Ab_pJlfQ/easy/panathinaikos-valencia-basket/1/4705010/1778118693/playlist.m3u8
+https://lb6.wfty.wtf/secure/xi6SR6PnpA_e73mGq9-v8Q/easy/panathinaikos-valencia-basket/1/4705010/1778119396/playlist.m3u8
 
