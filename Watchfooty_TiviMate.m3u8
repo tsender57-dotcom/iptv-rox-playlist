@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-06 08:31 UTC
+# Last Updated: 2026-05-06 08:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Kawasaki vs Tokyo Verdy - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/EFzCMz4UeFlrS7vIPlJKsw/sigma/kawasaki-frontale-tokyo-verdy/1/5130299/1778077896/playlist.m3u8
+https://lb10.wfty.wtf/secure/oKspznU1FsPjKBemy03yfw/sigma/kawasaki-frontale-tokyo-verdy/1/5130299/1778078506/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Kashima Antlers vs Mito Hollyhock - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/PBTpuLz3DQIEUeQn_U7tZw/sigma/kashima-antlers-mito-hollyhock/1/5130297/1778077899/playlist.m3u8
+https://lb3.wfty.wtf/secure/EkzLEkXN92c8IIyLDznEWg/sigma/kashima-antlers-mito-hollyhock/1/5130297/1778078509/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Machida Zelvia vs Yokohama F. Marinos - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/UIKWecoD_hvUqkhkKYRvdg/sigma/machida-zelvia-yokohama-f-marinos/1/4662117/1778077902/playlist.m3u8
+https://lb10.wfty.wtf/secure/B2szkA7VOZ6fisEiKHeXAQ/sigma/machida-zelvia-yokohama-f-marinos/1/4662117/1778078513/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [OFC Pro League] Auckland FC B vs South Melbourne - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/Vql3rzlbZpuPVqCB_GaQNg/regular/auckland-fc-b-south-melbourne/1/1000011010/1778078516/playlist.m3u8
 
