@@ -1,27 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-06 17:27 UTC
+# Last Updated: 2026-05-06 17:33 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Tampa Bay Rays vs Toronto Blue Jays - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/nF2cCgTGkbZqQ0lZpc6q6A/easy/tampa-bay-rays-toronto-blue-jays/1/401815234/1778110028/playlist.m3u8
+https://lb5.wfty.wtf/secure/lQfgcCuYDA0Fg4L63eik0A/easy/tampa-bay-rays-toronto-blue-jays/1/401815234/1778110371/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Club Friendlies] Latvia vs Norway - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/aQ4Ss4pa3qxY5EJRlyMdjQ/regular/latvia-norway/1/4702178/1778110031/playlist.m3u8
+https://lb3.wfty.wtf/secure/gr3N2PleDld-mbD2jxZvnQ/regular/latvia-norway/1/4702178/1778110374/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish Liga F] FC Barcelona (W) vs Levante (W) - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Russian Cup - Regions Path - Playoffs] Spartak Moscow vs CSKA Moscow - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/YGbKtwmkRY_D72N0yXYN9A/sigma/fc-barcelona-w-levante-w/1/4467593/1778110035/playlist.m3u8
+https://lb8.wfty.wtf/secure/aZhe1knxvszzd4qSez0f4A/regular/spartak-moscow-cska-moscow/1/4700362/1778110378/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Russian Cup] Spartak vs CSKA - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/KwuMdPlN9-0S00MaBVMmtA/regular/spartak-moscow-cska-moscow/1/5311023/1778110381/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Dutch Eredivisie Qualification] Almere City vs De Graafschap - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/E9PKMl8unh6KUQlHMjYe9Q/prime/almere-city-de-graafschap/1/4709903/1778110038/playlist.m3u8
+https://lb1.wfty.wtf/secure/9eO0BwvEtAQ_P--jYE4FQQ/prime/almere-city-de-graafschap/1/4709903/1778110385/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish Liga F] FC Barcelona (W) vs Levante (W) - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.wtf/secure/7FK79l-E8_K-dz_Oab3C5Q/sigma/fc-barcelona-w-levante-w/1/4467593/1778110388/playlist.m3u8
 
