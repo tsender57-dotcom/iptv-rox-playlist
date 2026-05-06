@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-06 08:01 UTC
+# Last Updated: 2026-05-06 08:11 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] FC Tokyo vs JEF United Chiba - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Kawasaki vs Tokyo Verdy - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/PTKBXx_JE6J_wShVcAO4dA/sigma/fc-tokyo-jef-united-chiba/1/4653251/1778076091/playlist.m3u8
+https://lb1.wfty.wtf/secure/DqNHus8ZT7OKUTLlqv_DBg/sigma/kawasaki-frontale-tokyo-verdy/1/5130299/1778076706/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Machida Zelvia vs Yokohama F. Marinos - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/gITAZPbRdln1MqRof7Pxtw/sigma/machida-zelvia-yokohama-f-marinos/1/4662117/1778076709/playlist.m3u8
 
