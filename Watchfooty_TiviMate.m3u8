@@ -1,33 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-07 20:22 UTC
+# Last Updated: 2026-05-07 20:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA Europa League] Aston Villa vs Nottingham Forest - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/gBmoon6KeF8eY6p4mDYtdg/easy/aston-villa-nottingham-forest/1/4703158/1778206912/playlist.m3u8
+https://lb1.wfty.wtf/secure/aBQjKk_LigBBOvTcpOsXYw/easy/aston-villa-nottingham-forest/1/4703158/1778207487/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA Europa League] Freiburg vs Braga - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/secure/hq8bviaPk4rdBzER9XMu2A/easy/freiburg-sc-braga/1/5206175/1778207490/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA Conference League] Strasbourg vs Rayo Vallecano - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/h5YETks00EXfKOWHj_1ilQ/easy/strasbourg-rayo-vallecano/1/5206270/1778206919/playlist.m3u8
+https://lb9.wfty.wtf/secure/FeCfCQh7PtX8cQY_c7XkYw/easy/strasbourg-rayo-vallecano/1/5206270/1778207494/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA Conference League] Crystal Palace vs Shakhtar Donetsk - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/dvdfgeRokyxyt3bxy1mRAg/easy/crystal-palace-shakhtar-donetsk/1/5206269/1778206922/playlist.m3u8
+https://lb4.wfty.wtf/secure/1tSqwiZS44Jt9SzCOoTPww/easy/crystal-palace-shakhtar-donetsk/1/5206269/1778207497/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Arizona Diamondbacks vs Pittsburgh Pirates - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/llnbLlDa5KdlmRnBIXgBhQ/easy/arizona-diamondbacks-pittsburgh-pirates/1/401815251/1778206926/playlist.m3u8
+https://lb5.wfty.wtf/secure/pUyVcGIiDnA1-HBlmOPo8Q/easy/arizona-diamondbacks-pittsburgh-pirates/1/401815251/1778207500/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Colorado Rockies vs New York Mets - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/kaF3x01bpZPAIrbTPVlLOA/delta/live_mlb_rockies-mets-live-streaming-1301135562/2/401871498/1778207504/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago Cubs vs Cincinnati Reds - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/IbnGuS7uuiJV9MOan_FgEA/easy/chicago-cubs-cincinnati-reds/1/401815249/1778206929/playlist.m3u8
+https://lb9.wfty.wtf/secure/i8DW7gXNPwPKkCaW14l0QA/easy/chicago-cubs-cincinnati-reds/1/401815249/1778207507/playlist.m3u8
 
