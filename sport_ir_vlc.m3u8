@@ -1,30 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[06:10 WIB] [MLB] Tampa Bay Rays vs Boston Red Sox (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[06:10 WIB] [MLB] Tampa Bay Rays vs Boston Red Sox (SPORTir)
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[09:10 WIB] [MLB] St. Louis Cardinals vs San Diego Padres (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[09:10 WIB] [MLB] St. Louis Cardinals vs San Diego Padres (SPORTir)
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-6a57c764.streamtofu.com/69fdb494.18549f14i434a6e43.139d2.1f219975/free.live.espn/master.m3u8
+https://node-59639d19.streamtofu.com/69fdb6d7.3e869910i81ed6641.13a72.b80668c7/free.live.espn/master.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[09:10 WIB] [MLB] St. Louis Cardinals vs San Diego Padres (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[09:10 WIB] [MLB] St. Louis Cardinals vs San Diego Padres (SPORTir)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-59639d19.streamtofu.com/69fdb494.168ed13ai434a6e43.13a72.41c09da2/free.live.espn/master.m3u8
-
-#EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [MLB] Athletics vs Philadelphia Phillies (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [MLB] Athletics vs Philadelphia Phillies (SPORTir)
-#EXTVLCOPT:http-referrer=https://mlb24all.ir
-#EXTVLCOPT:http-origin=https://mlb24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-59639d19.streamtofu.com/69fdb494.93bd110ai434a6e43.139c0.ff723fe9/free.live.espn/master.m3u8
-
-#EXTINF:-1 tvg-chno="4" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[08:30 WIB] [NBA] Los Angeles Lakers vs Oklahoma City Thunder (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[08:30 WIB] [NBA] Los Angeles Lakers vs Oklahoma City Thunder (SPORTir)
+#EXTINF:-1 tvg-chno="2" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[08:30 WIB] [NBA] Los Angeles Lakers vs Oklahoma City Thunder (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[08:30 WIB] [NBA] Los Angeles Lakers vs Oklahoma City Thunder (SPORTir)
 #EXTVLCOPT:http-referrer=https://nba24all.ir
 #EXTVLCOPT:http-origin=https://nba24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-9b5feb01.streamtofu.com/69fdb495.84a5c9fdi434a6e43.13c83.df179e5f/free.live.sportsnet/master.m3u8
+https://node-9b5feb01.streamtofu.com/69fdb6d8.0e2e43efi81ed6641.13c83.b747fa1d/free.live.sportsnet/master.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[07:00 WIB] [NHL] Carolina Hurricanes vs Philadelphia Flyers (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[07:00 WIB] [NHL] Carolina Hurricanes vs Philadelphia Flyers (SPORTir)
+#EXTINF:-1 tvg-chno="3" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[07:00 WIB] [NHL] Carolina Hurricanes vs Philadelphia Flyers (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[07:00 WIB] [NHL] Carolina Hurricanes vs Philadelphia Flyers (SPORTir)
 #EXTVLCOPT:http-referrer=https://nhl24all.ir
 #EXTVLCOPT:http-origin=https://nhl24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-31fbddbb.streamtofu.com/69fdb495.d7c151a0i434a6e43.13c77.42b371dd/free.live.sportsnet/master.m3u8
+https://node-31fbddbb.streamtofu.com/69fdb6d9.10eed86bi81ed6641.13c77.ab8495ed/free.live.sportsnet/master.m3u8
