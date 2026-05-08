@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-08 20:21 UTC
+# Last Updated: 2026-05-08 20:31 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [IndyCar NXT] Indianapolis Grand Prix Race 1 - INDY NXT - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/BiwcKOa0ie4CO9GC2TGG5w/prime/indianapolis-grand-prix-race-1/1/nascar6067/1778293896/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CHAMPIONS TOUR: Insperity Invitational (USA)] CHAMPIONS TOUR: Insperity Invitational (USA) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/hJDC9dEe6Of1xEtXx-U9ew/prime/champions-tour-insperity-invitational-usa/1/23_M5Qb61LH/1778293286/playlist.m3u8
+https://lb10.wfty.wtf/secure/TdOMdPtYQQwOsRs5IKwIIA/prime/champions-tour-insperity-invitational-usa/1/23_M5Qb61LH/1778293899/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [PGA TOUR: Truist Championship (USA)] PGA TOUR: Truist Championship (USA) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/loWJbKdZgHhH1F5GhhR-ig/prime/pga-tour-truist-championship-usa/1/23_QRdRsPkm/1778293289/playlist.m3u8
+https://lb2.wfty.wtf/secure/c24ZGEpxHhamsimbVzhCyg/prime/pga-tour-truist-championship-usa/1/23_QRdRsPkm/1778293903/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [French Ligue 1] Lens vs Nantes - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/RQbZBn13YCgcXmtX4vkOag/easy/lens-nantes/1/4830749/1778293292/playlist.m3u8
+https://lb4.wfty.wtf/secure/KpgbGvdvyRB7mFiNLkNvpw/easy/lens-nantes/1/4830749/1778293906/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] Dortmund vs Frankfurt - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA] Levante vs Osasuna - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/7LigwhRhfqHxuSoLVw-reg/easy/borussia-dortmund-eintracht-frankfurt/1/4829604/1778293295/playlist.m3u8
+https://lb9.wfty.wtf/secure/KHYb-8aVMYvzPYaAh645Wg/easy/levante-osasuna/1/4469206/1778293909/playlist.m3u8
 
