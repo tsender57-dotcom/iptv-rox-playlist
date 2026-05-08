@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-08 04:31 UTC
+# Last Updated: 2026-05-08 09:57 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Oklahoma City Thunder vs Los Angeles Lakers - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [PGA TOUR: Myrtle Beach Classic (USA)] PGA TOUR: Myrtle Beach Classic (USA) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/OrHTLVNgr96g9EkFScPucA/easy/oklahoma-city-thunder-los-angeles-lakers/1/401871327/1778236282/playlist.m3u8
+https://lb6.wfty.wtf/secure/GL_iOA2c7UWuvpyxfE4eiQ/prime/pga-tour-myrtle-beach-classic-usa/1/23_xAOst3Ka/1778255858/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Super Rugby Pacific] Queensland Reds vs Chiefs - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/6vxXT2Wib-3_E-TEgwA4Lw/easy/queensland-reds-chiefs/1/603190/1778255861/playlist.m3u8
 
