@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-08 03:21 UTC
+# Last Updated: 2026-05-08 03:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Oklahoma City Thunder vs Los Angeles Lakers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/Erh7cRZSJdW5fjg8Sv4yWQ/easy/oklahoma-city-thunder-los-angeles-lakers/1/401871327/1778232103/playlist.m3u8
+https://lb1.wfty.wtf/secure/dGGZ3_B3KkZGoQZ0IwcISg/easy/oklahoma-city-thunder-los-angeles-lakers/1/401871327/1778232684/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Libertadores] Junior FC vs Cerro Porteño - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/yVWkik_ikx2dkmi-GB5JuA/easy/junior-fc-cerro-porteno/1/4690180/1778232110/playlist.m3u8
+https://lb6.wfty.wtf/secure/XG5geCVJb2d-aW1wwi6HfA/easy/junior-fc-cerro-porteno/1/4690180/1778232690/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Guatemalan Liga Nacional] Comunicaciones FC vs Club Xelaju - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/abHyTrEQjOQCJRP-S8c6GQ/regular/comunicaciones-fc-club-xelaju/1/4710461/1778232693/playlist.m3u8
 
