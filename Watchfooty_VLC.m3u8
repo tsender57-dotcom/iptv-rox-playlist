@@ -1,33 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-09 03:51 UTC
+# Last Updated: 2026-05-09 04:02 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Dodgers vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/FBv0jaPAzxKi1MUsR_xcmg/easy/los-angeles-dodgers-atlanta-braves/1/401815264/1778320285/playlist.m3u8
+https://lb6.wfty.wtf/secure/SjBAv9eHWsjRY0ngy6dSbw/easy/los-angeles-dodgers-atlanta-braves/1/401815264/1778320913/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] San Francisco Giants vs Pittsburgh Pirates - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/OEr9jmb0-6bdByShVpKjLg/easy/san-francisco-giants-pittsburgh-pirates/2/401815266/1778320288/playlist.m3u8
+https://lb5.wfty.wtf/secure/a7mvtpwwkLI4lTzEwVwEkQ/easy/san-francisco-giants-pittsburgh-pirates/2/401815266/1778320916/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Arizona Diamondbacks vs New York Mets - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/uAzzJcXy5VGOH-x-7ZL7wQ/easy/arizona-diamondbacks-new-york-mets/2/4556023/1778320292/playlist.m3u8
+https://lb7.wfty.wtf/secure/P2VDwe5izLYNLNytDuXJMA/easy/arizona-diamondbacks-new-york-mets/2/4556023/1778320923/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Minnesota Timberwolves vs San Antonio Spurs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/MM8ubab-L3AmcQEjXB13vg/easy/minnesota-timberwolves-san-antonio-spurs/1/401871154/1778320296/playlist.m3u8
+https://lb9.wfty.wtf/secure/HVg38ZJm_vrhVlr8789Uwg/easy/minnesota-timberwolves-san-antonio-spurs/1/401871154/1778320927/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Seattle Storm vs Golden State Valkyries - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.wtf/secure/9ieiUa-JmXC1n-mOXEntUg/pro/seattle-storm-golden-state-valkyries/2/4659626/1778320930/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Anaheim Ducks vs Vegas Golden Knights - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/stKms6DAiNihfteB3lXJLg/easy/anaheim-ducks-vegas-golden-knights/1/401871425/1778320300/playlist.m3u8
+https://lb6.wfty.wtf/secure/fW9Y2eW-JwTZlRFFWQvuxA/easy/anaheim-ducks-vegas-golden-knights/1/401871425/1778320934/playlist.m3u8
 
