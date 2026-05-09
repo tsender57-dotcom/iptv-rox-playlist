@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-09 21:11 UTC
+# Last Updated: 2026-05-09 21:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [🔴 LIVE] [04:00 WIB] UFC 328: Chimaev vs Strickland
 https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/1719e2f2cf8b19a82dad1bdc46fedfa9/manifest/video.m3u8
@@ -39,6 +39,12 @@ https://601.denishdhakal.com.np/mlb14.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [08:10 WIB] Atlanta Braves vs Los Angeles Dodgers
 https://601.denishdhakal.com.np/mlb15.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Nba - [🔴 LIVE] [02:00 WIB] Detroit Pistons vs Cleveland Cavaliers
+https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/900d218ce71178c0be4ead5139cb3771/manifest/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c4GjMnH/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",Fighting - [00:30 WIB] WARDLEY vs DUBOIS
+https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/c447ccfe8c8664e48e6c439c6c331e3e/manifest/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [🔴 LIVE] [01:30 WIB] Indy NXT - Race
 https://601.denishdhakal.com.np/indy.m3u8
