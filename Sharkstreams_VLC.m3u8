@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-09 03:11 UTC
+# Last Updated: 2026-05-09 03:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[18:00 WIB] [MMA] ACA 203: Gaforov vs Akopyan :MMA Championship - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -55,7 +55,7 @@ https://bp2.bpfiles.cfd/live/6/stream.m3u8?expires=1778294199&token=1ccea825bfed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bp1.bpfiles.cfd/live/5/stream.m3u8?expires=1778294200&token=c180949e174353cf469ea30bba22ee06a5ca12f893193fffea1a71020414b389
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[🔴 LIVE] [06:15 WIB] [MLB] Minnesota Twins vs Cleveland Guardians - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[06:15 WIB] [MLB] Minnesota Twins vs Cleveland Guardians - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
