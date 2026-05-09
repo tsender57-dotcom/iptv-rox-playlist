@@ -1,51 +1,75 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-09 14:11 UTC
+# Last Updated: 2026-05-09 14:22 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Sunderland vs Manchester United - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb9.wfty.wtf/secure/nkQLr5y1jYgSDwQTEpspyg/prime/sunderland-manchester-united/1/4452835/1778358099/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Brighton vs Wolves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/iqaEIQf84hl7Hma1w9unaA/easy/brighton-wolves/1/4813725/1778357487/playlist.m3u8
+https://lb8.wfty.wtf/secure/7OMPbUhzpdAreE0ujSBy2A/easy/brighton-wolves/1/4813725/1778358102/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [HNL] Dinamo Zagreb vs Hajduk Split - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Fulham vs Bournemouth - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/VL7huCVWmOQvi5x6l7wwGg/regular/dinamo-zagreb-hnk-hajduk-split/1/4814290/1778357491/playlist.m3u8
+https://lb3.wfty.wtf/secure/lmYq_J086cWfNumv_c_XXw/prime/fulham-bournemouth/1/4813728/1778358106/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [HNL] Dinamo Zagreb vs HNK Hajduk Split - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/2saB3IQyfpS3GCVpUvjlRA/regular/dinamo-zagreb-hnk-hajduk-split/1/4452948/1778358109/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] VfB Stuttgart vs Leverkusen - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/MtpGXeZ6UrZ7H1NFs2SHfA/prime/stuttgart-bayer-leverkusen/4/4829610/1778357494/playlist.m3u8
+https://lb4.wfty.wtf/secure/SOzDsqLXvn6H-yhVG5iFCQ/easy/stuttgart-bayer-leverkusen/1/4829610/1778358113/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] RB Leipzig vs St. Pauli - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/t0V624-M7q9qn_l3Gme63A/easy/rb-leipzig-st-pauli/1/4829609/1778357497/playlist.m3u8
+https://lb2.wfty.wtf/secure/VymOT-vHfErfhoDWGyFjzQ/easy/rb-leipzig-st-pauli/1/4829609/1778358116/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership - Playoffs - Relegation Group] Dundee vs Livingston - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA 2] Burgos CF vs Almeria - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/pRww2X3rzXbq8dRR9IOrjA/easy/dundee-livingston/1/4699974/1778357501/playlist.m3u8
+https://lb7.wfty.wtf/secure/ocN1_EusKoVKD-faIqXsvw/easy/burgos-cf-almeria/1/4468096/1778358120/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership] Falkirk vs Hibernian - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English League One] Stevenage vs Stockport County - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/tZ2Y3PJ4u36awXzJz7kbKg/easy/falkirk-hibernian/1/5309624/1778357504/playlist.m3u8
+https://lb7.wfty.wtf/secure/t3H_W7UTEDvhjhmPLi4ztw/easy/stevenage-stockport/1/5428145/1778358123/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership] Dundee FC vs Livingston - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership - Playoffs - Relegation Group] Aberdeen vs Dundee United - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/MSzVDendxsIy1NcCgOQCZg/easy/dundee-livingston/1/5309640/1778357507/playlist.m3u8
+https://lb3.wfty.wtf/secure/N9o80gBxb92JYEIBV9jn0w/easy/aberdeen-dundee-united/1/4699976/1778358126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership - Playoffs - Championship Group] Falkirk vs Hibernian - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/Z_1TrmYwqdrrwjJeA-2rog/easy/falkirk-hibernian/1/4699978/1778357514/playlist.m3u8
+https://lb4.wfty.wtf/secure/KoJT1h_cm0hX5dHneyQ8Ng/easy/falkirk-hibernian/1/4699978/1778358130/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Indian Super League] Jamshedpur vs Bengaluru FC - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/secure/eWceV0oBlK108HhuhyfGzg/regular/jamshedpur-bengaluru-fc/1/4669587/1778358133/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [League One - Promotion Playoffs - Semi Finals] Stevenage vs Stockport - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.wtf/secure/xs79OmFTCs8GvhHyT-5hQw/easy/stevenage-stockport/1/4709954/1778358140/playlist.m3u8
 
