@@ -1,39 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-10 00:11 UTC
+# Last Updated: 2026-05-10 00:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC 328: Chimaev vs. Strickland - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/gdudUOxqFKFjuiHJQz31ug/pro/ufc-328-chimaev-vs-strickland/2/600058947/1778393483/playlist.m3u8
+https://lb1.wfty.wtf/secure/2ORAekA5z5IsOqoEpfl4eA/pro/ufc-328-chimaev-vs-strickland/2/600058947/1778394085/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Charlotte FC vs FC Cincinnati - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/ci8Mxd7bbIu1X7US7tQuOg/easy/charlotte-fc-fc-cincinnati/1/4621565/1778394088/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Atlanta United vs LA Galaxy - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/C37s54qDJmWVCDZ6y7zxxg/easy/atlanta-united-los-angeles-galaxy/1/5071151/1778393486/playlist.m3u8
+https://lb6.wfty.wtf/secure/cRU86y-XZIwCSwqxnwLm5A/easy/atlanta-united-los-angeles-galaxy/1/5071151/1778394092/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Texas Rangers vs Chicago Cubs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/fkCZYUmZCLxT0JxeBSaIDQ/easy/texas-rangers-chicago-cubs/1/401815275/1778393493/playlist.m3u8
+https://lb10.wfty.wtf/secure/gSgjtw-nAuTBM_8N1RTqXQ/easy/texas-rangers-chicago-cubs/1/401815275/1778394098/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Milwaukee Brewers vs New York Yankees - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/CR1yvv10PySuKidCfrh5mg/easy/milwaukee-brewers-new-york-yankees/1/401815277/1778393496/playlist.m3u8
+https://lb3.wfty.wtf/secure/w-5w2-Ht-hgrsdo4Q7_ZUQ/easy/milwaukee-brewers-new-york-yankees/1/401815277/1778394102/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Arizona Diamondbacks vs New York Mets - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Minnesota Lynx vs Atlanta Dream - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/mbwTGrtVcfTrB3sq4WU7dQ/easy/arizona-diamondbacks-new-york-mets/1/4556049/1778393499/playlist.m3u8
+https://lb8.wfty.wtf/secure/v4FzwA7bGKGp9egvGRImuA/delta/live_wnba_lynx-atlanta-live-streaming-1210309479/1/4659633/1778394112/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Bahia vs Cruzeiro - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/Mfm-lM0nAEA52-a-bsjS9A/echo/bahia-vs-cruzeiro-football-1492251/2/4632798/1778393513/playlist.m3u8
+https://lb7.wfty.wtf/secure/hiV9o4OMjaC32Mv07mOVeQ/echo/bahia-vs-cruzeiro-football-1492251/2/4632798/1778394115/playlist.m3u8
 
