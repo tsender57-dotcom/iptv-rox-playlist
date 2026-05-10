@@ -1,63 +1,81 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-10 03:02 UTC
+# Last Updated: 2026-05-10 03:12 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC 328: Chimaev vs. Strickland - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/ONajv-4X8R9_ZynjMm5rfg/pro/ufc-328-chimaev-vs-strickland/2/600058947/1778403704/playlist.m3u8
+https://lb7.wfty.wtf/secure/MxHIn-Hxl52N5AAZzr4zLA/pro/ufc-328-chimaev-vs-strickland/2/600058947/1778404281/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Dodgers vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/HLiRwqFZdNgnJvJPx34Fyg/easy/los-angeles-dodgers-atlanta-braves/1/4555656/1778403707/playlist.m3u8
+https://lb6.wfty.wtf/secure/ncUp17IsyO0DCjrkiKiPSQ/easy/los-angeles-dodgers-atlanta-braves/1/4555656/1778404284/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] San Francisco Giants vs Pittsburgh Pirates - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/ppqw7lOWBD8z0Wngh0Pokw/easy/san-francisco-giants-pittsburgh-pirates/1/4555224/1778403711/playlist.m3u8
+https://lb1.wfty.wtf/secure/NsNvZ4TqGXJhwuYJ4CZEjg/easy/san-francisco-giants-pittsburgh-pirates/1/4555224/1778404287/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Los Angeles Lakers vs Oklahoma City Thunder - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] San Jose Earthquakes vs Vancouver Whitecaps - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/NSGHtlELi3vFjmsoPsFCqg/easy/los-angeles-lakers-oklahoma-city-thunder/1/401871328/1778403714/playlist.m3u8
+https://lb6.wfty.wtf/secure/rjz97wHjTqb1JJ6VLuaifg/easy/san-jose-earthquakes-vancouver-whitecaps/1/4621557/1778404290/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Australian A-League Women] Wellington Phoenix vs Brisbane Roar FC - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Portland Timbers vs Sporting KC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/rECKMNlMzKYRgRldax-fsg/sigma/wellington-phoenix-brisbane-roar-fc/1/5406486/1778403717/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Seattle Sounders vs San Diego FC - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/VRSXt37LEBMSiInrOWhAWw/easy/seattle-sounders-san-diego-fc/1/4621556/1778403721/playlist.m3u8
+https://lb1.wfty.wtf/secure/91kQASljQ69Py9ufYMjASw/easy/portland-timbers-sporting-kc/1/4621558/1778404294/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Nashville SC vs DC United - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/NgQO65o1ryMO1XMuqjVDBg/pro/nashville-sc-dc-united/2/4621560/1778403724/playlist.m3u8
+https://lb3.wfty.wtf/secure/0Y0WhhOogEawwxdwZp862A/pro/nashville-sc-dc-united/2/4621560/1778404297/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Australian A-League Women] Wellington Phoenix vs Brisbane Roar FC - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/GhcyozfjIbECNMMtN46SRQ/sigma/wellington-phoenix-brisbane-roar-fc/1/5406486/1778404301/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NCAA D1 National Championship - Semi Finals] Hawaii vs Long Beach St. - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/TUyZjsgJiAL8P4CkCEr0iw/regular/hawaii-long-beach-st/1/4710084/1778403731/playlist.m3u8
+https://lb9.wfty.wtf/secure/lTHx9CFyvUXFqYzTTJGBtA/regular/hawaii-long-beach-st/1/4710084/1778404304/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Colombian Primera A] America de Cali vs Santa Fe - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.wtf/secure/7qX1GPGwc7CZdyaEYt-deQ/easy/america-de-cali-independiente-santa-fe/1/5467515/1778404307/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga BetPlay - Quarter Finals] America de Cali vs Independiente Santa Fe - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/LLY5oFZj6C3tfNPKXvJTQg/easy/america-de-cali-independiente-santa-fe/1/4711066/1778403734/playlist.m3u8
+https://lb9.wfty.wtf/secure/QusGAIDQZAngAmFMYc96qA/easy/america-de-cali-independiente-santa-fe/1/4711066/1778404311/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Argentine Liga Profesional de Fútbol] Argentinos Juniors vs Lanus - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/secure/LumkCGRlkuAr257u6pjIyg/regular/argentinos-juniors-lanus/1/5449139/1778404314/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga Profesional - Round of 16] Argentinos Juniors vs Lanus - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/_bsRKHURvr-7Qi7UXob_hg/regular/argentinos-juniors-lanus/1/4710402/1778403738/playlist.m3u8
+https://lb8.wfty.wtf/secure/NYBHOxspkLx_Dqc_BilRig/easy/argentinos-juniors-lanus/2/4710402/1778404317/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Mexican Liga BBVA MX] Chivas vs Tigres UANL - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/13sBRn527glTwlWLhQAl7g/easy/chivas-tigres-uanl/2/4708036/1778404321/playlist.m3u8
 
