@@ -1,63 +1,75 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-10 13:42 UTC
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Nottingham Forest vs Newcastle United - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/lbKefSainR66KlRZalzEBg/easy/nottingham-forest-newcastle-united/1/4452576/1778442111/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Burnley vs Aston Villa - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/nQaXHx3fDpD5ey7QzSedGA/easy/burnley-aston-villa/1/4813726/1778442115/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Crystal Palace vs Everton - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/WFltYQZhbTNQj4lqsw3k7Q/easy/crystal-palace-everton/1/4813727/1778442118/playlist.m3u8
+# Last Updated: 2026-05-10 13:52 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie A] Fiorentina vs Genoa - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/VLtuVuSZZTGqSEzyMofypQ/easy/fiorentina-genoa/1/4803391/1778442121/playlist.m3u8
+https://lb9.wfty.wtf/secure/7qoPlsAsZO4cLfIRDwzzYg/easy/fiorentina-genoa/1/4803391/1778442693/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie A] Cremonese vs Pisa - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/BrNjYJIaiJkgeEQgNWq8DA/easy/cremonese-pisa/1/4803390/1778442125/playlist.m3u8
+https://lb2.wfty.wtf/secure/pW4TtrtRTIBNbFba9AQyfw/easy/cremonese-pisa/1/4803390/1778442697/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Nottingham Forest vs Newcastle United - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/S_GkIws5rzUnrQj_yT7ejQ/easy/nottingham-forest-newcastle-united/1/4452576/1778442700/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Burnley vs Aston Villa - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/gDx4pLtfJXURhRaFX6z-vA/easy/burnley-aston-villa/1/4813726/1778442703/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Crystal Palace vs Everton - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/qmumO1TLAjkMpgs3glhPCQ/easy/crystal-palace-everton/1/4813727/1778442707/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA] Mallorca vs Villarreal - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/rD5NMni-nHVYl1494bWv0A/easy/mallorca-villarreal/2/4837454/1778442128/playlist.m3u8
+https://lb9.wfty.wtf/secure/EElkNxeSzndJyNRr9BYPGQ/easy/mallorca-villarreal/2/4837454/1778442710/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Bundesliga] Hamburger SV vs Freiburg - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb9.wfty.wtf/secure/nzU4cnOVbO0hYeJQ-PDsYw/sigma/hamburger-sv-freiburg/1/4464622/1778442713/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ekstraklasa] Wisla Plock vs Motor Lublin - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/FMkHzYUbaS6TsMDYQkCpkQ/easy/wisla-plock-motor-lublin/1/4447070/1778442135/playlist.m3u8
+https://lb10.wfty.wtf/secure/cCGFoOKIijG6d7TZuFRCcQ/easy/wisla-plock-motor-lublin/1/4447070/1778442717/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Superliga - Championship Group] FC Nordsjælland vs FC Midtjylland - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA 2] Andorra CF vs Las Palmas - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/sEBi3JWsaG89_W5cSBj5kQ/easy/fc-nordsj-lland-fc-midtjylland/2/4683944/1778442138/playlist.m3u8
+https://lb5.wfty.wtf/secure/3qnLHnrd0w0zUvlUnUWb7g/easy/andorra-cf-las-palmas/2/4470368/1778442720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Danish Superliga] Nordsjælland vs FC Midtjylland - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/jNYJ3VuZMrLZMAbXustc6w/easy/fc-nordsj-lland-fc-midtjylland/2/5222375/1778442142/playlist.m3u8
+https://lb4.wfty.wtf/secure/8l1dMqUNz6_e63j40zFNLg/easy/fc-nordsj-lland-fc-midtjylland/2/5222375/1778442723/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Superliga - Championship Group] FC Nordsjælland vs FC Midtjylland - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/ZpaKdzJgP5lWs-E-WtD67Q/easy/fc-nordsj-lland-fc-midtjylland/2/4683944/1778442727/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Rome] Mertens E./Zhang S. vs Hsieh S-W./Wang Xin. - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/tHjXWCmVokF3xglQCpBrSg/easy/mertens-e-zhang-s-hsieh-s-w-wang-xin/2/4712299/1778442145/playlist.m3u8
+https://lb10.wfty.wtf/secure/5fjN14htIpfkIVsTSPBYQw/easy/mertens-e-zhang-s-hsieh-s-w-wang-xin/2/4712299/1778442730/playlist.m3u8
 
