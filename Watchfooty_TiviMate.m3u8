@@ -1,39 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-10 22:12 UTC
+# Last Updated: 2026-05-10 22:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Dodgers vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/K6xX6buEap-UBQ9fi7Kjsg/easy/los-angeles-dodgers-atlanta-braves/1/4555149/1778472690/playlist.m3u8
+https://lb3.wfty.wtf/secure/fyMbjbGQYa9Zf2LW-yLR4w/easy/los-angeles-dodgers-atlanta-braves/1/4555149/1778473291/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] San Francisco Giants vs Pittsburgh Pirates - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/OTF_EoMgTXojEDq9lZrpJQ/easy/san-francisco-giants-pittsburgh-pirates/1/401815296/1778472693/playlist.m3u8
+https://lb8.wfty.wtf/secure/QCkYZX-OlOjXZR7lSlicCQ/easy/san-francisco-giants-pittsburgh-pirates/1/401815296/1778473294/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Canadian Championship] Vancouver FC vs Langley United - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/AlJISp3i7uOTjvXoSSrVRQ/easy/vancouver-fc-langley-united/1/5175775/1778473297/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Santos FC vs Red Bull Bragantino - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/VuWMohjgTTY2_B0T_mu4jA/easy/santos-rb-bragantino/1/5103506/1778472703/playlist.m3u8
+https://lb10.wfty.wtf/secure/MeNeWSeH3W9pbx4vVwUewA/easy/santos-rb-bragantino/1/5103506/1778473301/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Corinthians vs São Paulo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/24fL7r6leOIL5K2F2GoTHg/easy/corinthians-sao-paulo/1/4632803/1778472707/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Bolivian Primera Division] The Strongest vs Real Potosi - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/pgm4AkSZdK9o5wS1WHm0sA/regular/the-strongest-real-potosi/1/1000010852/1778472710/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] New York City FC vs Columbus Crew - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/9p-UHD-_x2e88cAcZ-I9Qg/easy/new-york-city-fc-columbus-crew/1/4621555/1778472713/playlist.m3u8
+https://lb7.wfty.wtf/secure/hNkdwfaEOnRXMCg6Dqlvtg/easy/corinthians-sao-paulo/1/4632803/1778473304/playlist.m3u8
 
