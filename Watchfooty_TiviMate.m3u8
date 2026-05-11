@@ -1,39 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-11 02:11 UTC
+# Last Updated: 2026-05-11 02:22 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] LAFC vs Houston - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/HdY97-TDEed-L6ncDrW15A/easy/los-angeles-fc-houston-dynamo/1/5071165/1778487082/playlist.m3u8
+https://lb4.wfty.wtf/secure/PfWMSydtsGMLvVbryFA_Mg/easy/los-angeles-fc-houston-dynamo/1/5071165/1778487700/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Minnesota Timberwolves vs San Antonio Spurs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/sEXRmtlLrg2eX_acLTnU7Q/easy/minnesota-timberwolves-san-antonio-spurs/1/401871155/1778487085/playlist.m3u8
+https://lb1.wfty.wtf/secure/naYoFI1Krxxf1eNLYfPntg/easy/minnesota-timberwolves-san-antonio-spurs/1/401871155/1778487703/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Anaheim Ducks vs Vegas Golden Knights - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/V8q5nt9f5DHtVNaWeEom0A/regular/anaheim-ducks-vegas-golden-knights/1/401871426/1778487091/playlist.m3u8
+https://lb4.wfty.wtf/secure/em55a4qAgecQqe5ZzvDumw/easy/anaheim-ducks-vegas-golden-knights/2/4710051/1778487706/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Mexican Liga BBVA MX] Pumas UNAM vs Club América - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/U16t1nYQCsCjPp6iW8eXmQ/easy/pumas-unam-club-america/1/4708038/1778487095/playlist.m3u8
+https://lb6.wfty.wtf/secure/PoeSXIldW84Nddpw5S8PcA/easy/pumas-unam-club-america/1/4708038/1778487710/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Guatemalan Liga Nacional] Club Xelaju vs Comunicaciones FC - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/qnupJNkWRtl90IBjXTILCw/regular/club-xelaju-comunicaciones-fc/1/4710458/1778487713/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Golden State Valkyries vs Phoenix Mercury - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/0AABZZshohyb22WiHfJYcw/pro/golden-state-valkyries-phoenix-mercury/2/4659634/1778487098/playlist.m3u8
+https://lb3.wfty.wtf/secure/93Vk1BlHTjmILw899V-BCg/pro/golden-state-valkyries-phoenix-mercury/2/4659634/1778487717/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Kansas City Royals vs Detroit Tigers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/9CKctABeRAYVM46-G-QLHA/easy/kansas-city-royals-detroit-tigers/1/4555359/1778487101/playlist.m3u8
+https://lb10.wfty.wtf/secure/etCGWhNzGt1rM8EO59GMAA/easy/kansas-city-royals-detroit-tigers/1/4555359/1778487720/playlist.m3u8
 
