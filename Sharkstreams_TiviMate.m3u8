@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-11 05:21 UTC
+# Last Updated: 2026-05-11 05:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[23:30 WIB] [MLB] Washington Nationals vs Miami Marlins - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -145,7 +145,7 @@ https://bo1.bofiles.cfd/live/timber/stream.m3u8?expires=1778457329&token=159ce6e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://nb4.bpfiles.cfd/live/valky/stream.m3u8?expires=1778457375&token=a9d2ec5e4c5a91a15f6807959e98e5f02ac8e1c845fa2637b068c82e490f16b6
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[🔴 LIVE] [08:30 WIB] [NHL] Vegas Golden Knights vs Anaheim Ducks - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[08:30 WIB] [NHL] Vegas Golden Knights vs Anaheim Ducks - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
