@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-12 03:51 UTC
+# Last Updated: 2026-05-12 04:01 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[05:10 WIB] [MLB] Los Angeles Angels vs Cleveland Guardians - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -19,19 +19,19 @@ https://bp1.bpfiles.cfd/live/2/stream.m3u8?expires=1778554889&token=b103e60f0dc9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bp1.bpfiles.cfd/live/3/stream.m3u8?expires=1778555170&token=69273a4e6e8b6df798f9c72f064987d2f19875bba6bfd59c0050c5a6837ac46e
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTxHn47J/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Shark - WWE",[🔴 LIVE] [07:00 WIB] [WWE] WWE: Monday Night RAW - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTxHn47J/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Shark - WWE",[07:00 WIB] [WWE] WWE: Monday Night RAW - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://nb9.bpfiles.cfd/live/raw/stream.m3u8?expires=1778554765&token=0ba6c46598bddb5034c84fba92ec7e5ed54c4d1af5578eea309fd7fb2b675663
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[🔴 LIVE] [07:00 WIB] [NBA] Detroit Pistons vs Cleveland Cavaliers - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[07:00 WIB] [NBA] Detroit Pistons vs Cleveland Cavaliers - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://nb6.bpfiles.cfd/live/pistons/stream.m3u8?expires=1778554643&token=9868b808f229f33ed7ea0677d8dd8dca431d6ae7e8d134ce7d7fc6d465ba4b40
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[🔴 LIVE] [07:00 WIB] [NHL] Colorado Avalanche vs Minnesota Wild - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[07:00 WIB] [NHL] Colorado Avalanche vs Minnesota Wild - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
