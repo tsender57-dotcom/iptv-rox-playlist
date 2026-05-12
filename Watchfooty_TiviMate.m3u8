@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-12 19:11 UTC
+# Last Updated: 2026-05-12 19:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English League Championship] Southampton vs Middlesbrough - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/hqHPVwBYzvT_8U4XCnF3qQ/easy/southampton-middlesbrough/1/5427703/1778634682/playlist.m3u8
+https://lb1.wfty.wtf/secure/PRr8RRkhBWdr5tCh9iwQIg/easy/southampton-middlesbrough/1/5427703/1778635282/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Championship - Promotion Playoffs - Semifinals] Southampton vs Middlesbrough - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/Pdbi856Bmqrl4DoTpXKBmg/easy/southampton-middlesbrough/1/4709931/1778634685/playlist.m3u8
+https://lb6.wfty.wtf/secure/QgpECrT3qqXxwTwnawDjiQ/easy/southampton-middlesbrough/1/4709931/1778635285/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA] Real Betis vs Elche - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/FL-RG4abnEMtsKbzB3hZpg/easy/real-betis-elche/2/4469210/1778634692/playlist.m3u8
+https://lb1.wfty.wtf/secure/UGLIxjntZY_62P1XNk5KfA/easy/real-betis-elche/2/4469210/1778635292/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Israeli Premier League] Beitar Jerusalem vs Hapoel Beer Sheva - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/dkVqN6rxErldileby6l7nQ/prime/beitar-jerusalem-hapoel-beer-sheva/1/4702040/1778635295/playlist.m3u8
 
