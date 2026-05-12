@@ -1,13 +1,7 @@
 #EXTM3U
-# Last Updated: 2026-05-12 02:15 WIB
+# Last Updated: 2026-05-12 02:30 WIB
 
 #EXTINF:-1 tvg-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" tvg-id="Badminton.Live" group-title="BONE TV",LIVE BADMINTON - Bone TV (COURT 1)
-#EXTVLCOPT:http-referrer=https://styleanecdotes.blogspot.com/
-#EXTVLCOPT:http-origin=https://styleanecdotes.blogspot.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" tvg-id="Badminton.Live" group-title="BONE TV",LIVE BADMINTON - Bone TV (COURT 2)
 #EXTVLCOPT:http-referrer=https://styleanecdotes.blogspot.com/
 #EXTVLCOPT:http-origin=https://styleanecdotes.blogspot.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
