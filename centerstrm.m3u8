@@ -1,51 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[02:30 WIB] [Football] Barcelona at Alavés (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:30 WIB] [Football] Barcelona at Alavés (STRMCNTR)
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:45 WIB] [Baseball] Philadelphia Phillies at Boston Red Sox (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:45 WIB] [Baseball] Philadelphia Phillies at Boston Red Sox (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/377qj1h2727.m3u8?st=6nKbpCJBxBRr5Oqqc9EVHQHPZah2J8_pggKLb4OShIA&e=1778697505
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[02:30 WIB] [Football] Mallorca at Getafe (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:30 WIB] [Football] Mallorca at Getafe (STRMCNTR)
+https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=3_6xAVadW-9I8f45d8F2SgD75w-F0d9RfcK6Iqwhsfw&e=1778698704
+#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] Colorado Rockies at Pittsburgh Pirates (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] Colorado Rockies at Pittsburgh Pirates (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/griogoehvn2.m3u8?st=k0Znag2I_CpBLH21t_7DTWMjXY37WYiHs14oMzmBkdk&e=1778697506
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Crystal Palace at Manchester City (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Crystal Palace at Manchester City (STRMCNTR)
+https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=MNTX6Dx89fPtv8lpCJUJu9dIj4408O4bSTDqJpHEaug&e=1778698705
+#EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] Washington Nationals at Cincinnati Reds (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] Washington Nationals at Cincinnati Reds (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=BUPHLJnTLkRh5kLFIZhHpULGNz3L3y0gn5tjmR1lZYA&e=1778697506
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Paris Saint-Germain at Lens (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Paris Saint-Germain at Lens (STRMCNTR)
+https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=BdjifuawozPe_V_P8ct1-vQKRpVJLVoUxqKMzhRCJgU&e=1778698705
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[02:30 WIB] [Football] Barcelona at Alavés (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:30 WIB] [Football] Barcelona at Alavés (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/dza5z8f69.m3u8?st=mF6zBp17deCPuggEwvK5WjDLmoUktXPGTMPtexA9F8Y&e=1778697507
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Internazionale at Lazio (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Internazionale at Lazio (STRMCNTR)
+https://mainstreams.pro/hls/377qj1h2727.m3u8?st=jZ1_1DkAAOzbDQ3iCvXs8YX9JXZpZcRfgHJo0pzjIX0&e=1778698706
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[02:30 WIB] [Football] Mallorca at Getafe (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:30 WIB] [Football] Mallorca at Getafe (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=-SbI6Z_l_Gnyn3yFwetIr5q2Oeh-2DupErvlbsN7lfk&e=1778697508
-#EXTINF:-1 tvg-chno="6" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[00:10 WIB] [Baseball] Los Angeles Angels at Cleveland Guardians (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[00:10 WIB] [Baseball] Los Angeles Angels at Cleveland Guardians (STRMCNTR)
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=W014nTGXli4cvlnYZZurkap_FJzQ7_A8Ewxb1qnHink&e=1778698707
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Crystal Palace at Manchester City (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Crystal Palace at Manchester City (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=8hV5fKSJuRfWWx4wh5jkFINr4lyxoQS7J9h1FoaTz_U&e=1778697509
-#EXTINF:-1 tvg-chno="7" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[00:05 WIB] [Baseball] New York Yankees at Baltimore Orioles (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[00:05 WIB] [Baseball] New York Yankees at Baltimore Orioles (STRMCNTR)
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=bxBz1KogOKIxJRohFRRL1WvXlzi6R7b69uWrXZBqg2c&e=1778698708
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Paris Saint-Germain at Lens (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Paris Saint-Germain at Lens (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/dazhfiach15.m3u8?st=uqC5kYPszGg6MhTsG9GOPFxL-Y62EES4JzMAzk16VPs&e=1778697509
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[00:00 WIB] [Football] Strasbourg at Brest (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[00:00 WIB] [Football] Strasbourg at Brest (STRMCNTR)
+https://mainstreams.pro/hls/dza5z8f69.m3u8?st=6TPHVAO9aNDDUL_kb9FZL7AWh6RiE2AIhptlI3hyb6E&e=1778698709
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Internazionale at Lazio (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Internazionale at Lazio (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/dza5z8f69.m3u8?st=xrfJvcuGZsZZ5WwnitHsSE_o9e-UYkoalNMRzZ2TQ80&e=1778697510
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[00:00 WIB] [Football] Athletic Club at Espanyol (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[00:00 WIB] [Football] Athletic Club at Espanyol (STRMCNTR)
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=8SqeysRiqkedPiH12VNUUVbZE7ss_b7L2saqumQ8qmg&e=1778698710
+#EXTINF:-1 tvg-chno="9" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[00:10 WIB] [Baseball] Los Angeles Angels at Cleveland Guardians (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[00:10 WIB] [Baseball] Los Angeles Angels at Cleveland Guardians (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/griogoehvn2.m3u8?st=kjog9Dg5_kpN31a5bedqV9-MaQMV0kt-xuE9qYE7Lz0&e=1778697511
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[00:00 WIB] [Football] Sevilla at Villarreal (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[00:00 WIB] [Football] Sevilla at Villarreal (STRMCNTR)
+https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=tofldNzM7OMtHksCUHd_FeUdfa1swEtGhKGMnXcBtkc&e=1778698710
+#EXTINF:-1 tvg-chno="10" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[00:05 WIB] [Baseball] New York Yankees at Baltimore Orioles (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[00:05 WIB] [Baseball] New York Yankees at Baltimore Orioles (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/377qj1h2727.m3u8?st=JXQTw-6VQ5BHtkoloPXhR_RcoMBclo3VSQkFISJHCRg&e=1778697511
+https://mainstreams.pro/hls/dazhfiach15.m3u8?st=z7OOXllPslVa1iNpST0OS2v0GQBPRT3uOm-I2M9qdBE&e=1778698711
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[00:00 WIB] [Football] Strasbourg at Brest (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[00:00 WIB] [Football] Strasbourg at Brest (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/dza5z8f69.m3u8?st=1cO2QJF6HSILNQW-y6Mslj71jPseYxcurJn_ZgnopOY&e=1778698712
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[00:00 WIB] [Football] Athletic Club at Espanyol (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[00:00 WIB] [Football] Athletic Club at Espanyol (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=xjjN3fuftLa-LhNErUOpGhw3eZlhqLmSaFJz9MYRo7w&e=1778698713
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.Dummy.us" tvg-name="[00:00 WIB] [Football] Sevilla at Villarreal (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[00:00 WIB] [Football] Sevilla at Villarreal (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/377qj1h2727.m3u8?st=EXEE9OoZ-lp34jLEqQPXmiEMR6yX8XATzizT5DeTFE8&e=1778698714
