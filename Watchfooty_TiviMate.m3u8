@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-13 12:02 UTC
+# Last Updated: 2026-05-13 12:31 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Machida Zelvia vs Tokyo Verdy - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [ASEAN Club Championship] Buriram United vs Johor Darul Ta'zim - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/zpqQmz7u18bI6a1lkX_jEg/regular/machida-zelvia-tokyo-verdy/1/4653242/1778695358/playlist.m3u8
+https://lb1.wfty.wtf/secure/xtaponBH9NBgcwqDY6ujLQ/regular/buriram-united-johor-darul-ta-zim/1/1000009130/1778697094/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [ASEAN Club Championship - Semi Finals] Buriram United vs Johor Darul Ta’zim - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.wtf/secure/k9-gy1T-Lb1SZ2ICscPNrQ/regular/buriram-united-johor-darul-ta-zim/1/4666858/1778697097/playlist.m3u8
 
