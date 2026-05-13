@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-13 04:01 UTC
+# Last Updated: 2026-05-13 04:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Dodgers vs San Francisco Giants - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/uFFC8UZxkTca-leK3wwmBg/easy/los-angeles-dodgers-san-francisco-giants/1/401815317/1778666493/playlist.m3u8
+https://lb2.wfty.wtf/secure/nJUl6HQnng-u1WREvKzchw/easy/los-angeles-dodgers-san-francisco-giants/1/401815317/1778667095/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga Nacional - Semi Finals] CD Olimpia vs Real CD Espana - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/4VuHIGVdhutQob5UHne88g/regular/cd-olimpia-real-cd-espana/1/4709747/1778667098/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Phoenix Mercury vs Minnesota Lynx - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/qYQyhDZ-f5z_C9KQ2EUjAg/pro/phoenix-mercury-minnesota-lynx/2/4659636/1778666496/playlist.m3u8
+https://lb4.wfty.wtf/secure/AX1h3_ufnqaMgD0Ih5ljIQ/pro/phoenix-mercury-minnesota-lynx/2/4659636/1778667105/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Portland Fire vs New York Liberty - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/Dh6cBVlxzvF1yZxFMnIuGg/pro/portland-fire-new-york-liberty/2/4659639/1778666500/playlist.m3u8
+https://lb4.wfty.wtf/secure/Jy9YCOJEcO9DMRGt3yGA-w/pro/portland-fire-new-york-liberty/2/4659639/1778667108/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Vegas Golden Knights vs Anaheim Ducks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/thMc9D6Qa60t7IJLiTSEYQ/pro/vegas-golden-knights-anaheim-ducks/2/401871427/1778666503/playlist.m3u8
+https://lb4.wfty.wtf/secure/6JR4gspjsbK-4ZAa-EVeNg/pro/vegas-golden-knights-anaheim-ducks/2/401871427/1778667112/playlist.m3u8
 
