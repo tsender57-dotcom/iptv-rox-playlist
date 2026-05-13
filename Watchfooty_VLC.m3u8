@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-13 12:41 UTC
+# Last Updated: 2026-05-13 13:07 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [ASEAN Club Championship] Buriram United vs Johor Darul Ta'zim - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ukrainian Premier League] Dynamo Kyiv vs Kolos Kovalivka - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/Ii1XY7aRbZBTnEF8r9qQYQ/regular/buriram-united-johor-darul-ta-zim/1/1000009130/1778697683/playlist.m3u8
+https://lb3.wfty.wtf/secure/mHrfI1MLRzVqc9EdkJu6CA/regular/dynamo-kyiv-kolos-kovalivka/1/4468958/1778699267/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [ASEAN Club Championship - Semi Finals] Buriram United vs Johor Darul Ta’zim - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/gHq56wmfj6gXp99EtC3K_g/regular/buriram-united-johor-darul-ta-zim/1/4666858/1778697686/playlist.m3u8
+https://lb9.wfty.wtf/secure/rABiUTMhTQQiIDOZqA-p9A/regular/buriram-united-johor-darul-ta-zim/1/4666858/1778699270/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [ASEAN Club Championship] Buriram United vs Johor Darul Ta'zim - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/6jB6e514ipCBl46gxLOiPQ/regular/buriram-united-johor-darul-ta-zim/1/1000009130/1778699273/playlist.m3u8
 
