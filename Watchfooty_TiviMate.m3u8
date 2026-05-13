@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-13 16:09 UTC
+# Last Updated: 2026-05-13 16:34 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Croatia Cup] Dinamo Zagreb vs HNK Rijeka - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/secure/Is64h8zFhhCJFqL8NBRy3A/regular/dinamo-zagreb-hnk-rijeka/1/4701474/1778711631/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ekstraklasa] Arka Gdynia vs Gornik Zabrze - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/309WCGMPzwQUWs7mAB4tHw/prime/arka-gdynia-gornik-zabrze/1/4445449/1778710147/playlist.m3u8
+https://lb10.wfty.wtf/secure/SKELMGymkQcN_7wtWeF8ww/regular/arka-gdynia-gornik-zabrze/1/4445449/1778711634/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Canadian Premier League] Forge FC vs Supra du Québec - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/kfHYPQZF8J3i8mzJisZ4yw/regular/forge-fc-supra-du-quebec/1/4665226/1778710150/playlist.m3u8
+https://lb4.wfty.wtf/secure/dVAmx4qUPSVzZAkVWNM__w/regular/forge-fc-supra-du-quebec/1/4665226/1778711637/playlist.m3u8
 
