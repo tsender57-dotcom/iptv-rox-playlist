@@ -1,69 +1,81 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-13 19:36 UTC
+# Last Updated: 2026-05-13 19:43 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Coppa Italia] Lazio vs Inter - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/Gjja3rDplQ9jfNLA1ug4yg/easy/lazio-inter-milan/1/4935324/1778722524/playlist.m3u8
+https://lb2.wfty.wtf/secure/p39B69P8cFJruhCi7GcSQQ/easy/lazio-inter-milan/1/4935324/1778722942/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA] Deportivo Alaves vs Barcelona - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/iX4KS-XAZtXHEDOKaeek1A/easy/alaves-fc-barcelona/1/4837460/1778722945/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Baltimore Orioles vs New York Yankees - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/XVezN8URs_tpcFS22gblMA/easy/baltimore-orioles-new-york-yankees/1/4555131/1778722528/playlist.m3u8
+https://lb3.wfty.wtf/secure/8g2opV8hSsIAo2bb7vLdsA/easy/baltimore-orioles-new-york-yankees/1/4555131/1778722948/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership - Playoffs - Championship Group] Hearts vs Falkirk - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/DxCYHWSRPeKLlQaZoXloRg/easy/hearts-falkirk/1/4699964/1778722531/playlist.m3u8
+https://lb6.wfty.wtf/secure/_sW3n4mydx2BrGs53S6DMw/easy/hearts-falkirk/1/4699964/1778722952/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership - Playoffs - Championship Group] Motherwell vs Celtic - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/yXtJa158Qp6PhFt8Ni9-3A/easy/motherwell-celtic/1/4699965/1778722534/playlist.m3u8
+https://lb8.wfty.wtf/secure/V_gQ0193Tp5iwQHt1ENlhw/easy/motherwell-celtic/1/4699965/1778722955/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [League One - Promotion Playoffs - Semi Finals] Stockport vs Stevenage - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.wtf/secure/KvrebjvFkQhfCvCHoxRhIg/easy/stockport-stevenage/1/4709955/1778722958/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership] Hearts vs Falkirk - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/9UEwKubtfSVhwEMrNgGtRQ/easy/hearts-falkirk/1/5309627/1778722538/playlist.m3u8
+https://lb7.wfty.wtf/secure/9FiStP2-xL-cdn0bJj1WBQ/easy/hearts-falkirk/1/5309627/1778722962/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership] Motherwell vs Celtic - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/BA4OZWMdewV_yhePJNa2WA/easy/motherwell-celtic/1/5309628/1778722541/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English League One] Stockport County vs Stevenage - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/2kCMVGAQ6Ks4q8ODwZm4xA/easy/stockport-stevenage/1/5428146/1778722544/playlist.m3u8
+https://lb7.wfty.wtf/secure/jll36KXM2gHgIf77cumV7w/easy/motherwell-celtic/1/5309628/1778722965/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ekstraklasa] Rakow Czestochowa vs Jagiellonia - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/inVps50Y-NKrtU-At1iT9g/easy/rakow-czestochowa-jagiellonia/1/4445442/1778722548/playlist.m3u8
+https://lb9.wfty.wtf/secure/U9Oy8I7WzbrimxtUlzmkYw/easy/rakow-czestochowa-jagiellonia/1/4445442/1778722969/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Women's Super League] Arsenal (W) vs Everton (W) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/IO5cdlfHwP3F_QdG9wlvEQ/easy/arsenal-w-everton-w/1/4505367/1778722551/playlist.m3u8
+https://lb5.wfty.wtf/secure/nfCcEq1biZlLgmnCqg9rmg/easy/arsenal-w-everton-w/1/4505367/1778722972/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Cup] Universitatea Cluj vs Universitatea Craiova - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/giudynh4WFzBaU4U4mKgsg/prime/universitatea-cluj-cs-universitatea-craiova/1/5388638/1778722976/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Cupa Romaniei - Final] Universitatea Cluj vs CS Universitatea Craiova - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/Wxgti8Dxv8zDnfthM2FdGQ/prime/universitatea-cluj-cs-universitatea-craiova/1/4705470/1778722555/playlist.m3u8
+https://lb3.wfty.wtf/secure/wIrSXBdVFF5NFwFsKVXMsQ/prime/universitatea-cluj-cs-universitatea-craiova/1/4705470/1778722979/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [EuroLeague - Quarter Finals] Valencia Basket vs Panathinaikos - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/1sxJFemEyOQOfi1lIvlaSw/easy/valencia-basket-panathinaikos/1/4705056/1778722558/playlist.m3u8
+https://lb10.wfty.wtf/secure/n7X4TX8iN8_1IGHUjQT18g/easy/valencia-basket-panathinaikos/1/4705056/1778722983/playlist.m3u8
 
