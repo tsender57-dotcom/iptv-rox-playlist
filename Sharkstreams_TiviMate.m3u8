@@ -1,15 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-13 21:14 UTC
+# Last Updated: 2026-05-13 21:24 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[🔴 LIVE] [01:00 WIB] [NBA] NBA Draft Combine - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://nb7.bpfiles.cfd/live/espnu/stream.m3u8?expires=1778637977&token=115cc56a6a2438b2d27a45f12599492a91bcd9bc0706f089f07a5c6d30415d6a
+https://nb7.bpfiles.cfd/live/espnu/stream.m3u8?expires=1778708354&token=f932b822b53515588c3e7dd78d12e8eab1247d1cb0f613a1100907e88cdf4889
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[06:00 WIB] [WNBA] Seattle Storm vs Toronto Tempo - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://nb8.bpfiles.cfd/live/tempo/stream.m3u8?expires=1778708355&token=932d15f390d7898083a791d9e0e28d3b425a4015d0a1f94698664717cee64125
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[07:00 WIB] [NBA] Cleveland Cavaliers vs Detroit Pistons - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://nb7.bpfiles.cfd/live/espn/stream.m3u8?expires=1778637977&token=f9bc257619190bcd8417470199708e81fbc1b74eb99ddf9fa6fc55f031c53cbe
+https://nb7.bpfiles.cfd/live/espn/stream.m3u8?expires=1778708225&token=c6949bcfdb747d9d41484b5c866567e06c8a6c24b9da9b6dd0dd4e5b4460da06
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[07:00 WIB] [NHL] Minnesota Wild vs Colorado Avalanche - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://nb5.bpfiles.cfd/live/tnt/stream.m3u8?expires=1778708355&token=d23cfcf2fab228eed757ed663e753fc3ca00deecaeeb54852c625aeefc1ed79e
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[07:00 WIB] [WNBA] Las Vegas Aces vs Connecticut Sun - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://nb8.bpfiles.cfd/live/aces/stream.m3u8?expires=1778708355&token=fc5626219140d00d87f23b25ec0e1c016a8cd9e48f4bb19b5f1f2f10ff743c42
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[09:00 WIB] [WNBA] Chicago Sky vs Golden State Valkyries - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://nb8.bpfiles.cfd/live/sky/stream.m3u8?expires=1778708355&token=e2f9cc5f5bc266fc80f946b96925835384ca28c52821a4e6f36fd13087baf66a
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[09:00 WIB] [WNBA] Indiana Fever vs Los Angeles Sparks - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://nb8.bpfiles.cfd/live/spark/stream.m3u8?expires=1778708356&token=4df57aaf9974091220f0e8a8465431104209af9ebc9cf904687c455d7ae227f8
 
