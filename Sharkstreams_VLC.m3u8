@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-14 03:11 UTC
+# Last Updated: 2026-05-14 03:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[01:00 WIB] [NBA] NBA Draft Combine - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -43,7 +43,7 @@ https://bp1.bpfiles.cfd/live/4/stream.m3u8?expires=1778726806&token=7d75d9f1534f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bp1.bpfiles.cfd/live/5/stream.m3u8?expires=1778725459&token=6882588d7a84e8c97b370e21dc1606b934ecc4bcc551e3a7c4e2a164dfcda1fe
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[🔴 LIVE] [06:15 WIB] [MLB] Chicago Cubs vs Atlanta Braves - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[06:15 WIB] [MLB] Chicago Cubs vs Atlanta Braves - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
