@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[23:35 WIB] [MLB] Colorado Rockies vs Pittsburgh Pirates (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[23:35 WIB] [MLB] Colorado Rockies vs Pittsburgh Pirates (SPORTir)
+#EXTVLCOPT:http-referrer=https://mlb24all.ir
+#EXTVLCOPT:http-origin=https://mlb24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://node-6a57c764.streamtofu.com/6a065bae.28d80799i82231a43.14712.7bc21005/free.live.espn/master.m3u8
