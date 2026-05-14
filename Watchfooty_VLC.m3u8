@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-14 11:31 UTC
+# Last Updated: 2026-05-14 11:42 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [PGA TOUR: PGA Championship (USA)] PGA TOUR: PGA Championship (USA) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/H6h_ta7O_YWxsXRMfUy9lg/prime/pga-tour-pga-championship-usa/7/23_bPCjvskC/1778779886/playlist.m3u8
+https://lb8.wfty.wtf/secure/eLLsmc4mTAwelN7AlNZXsw/prime/pga-tour-pga-championship-usa/7/23_bPCjvskC/1778780520/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Chiba Lotte Marines vs Nippon Ham Fighters - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [LPGA TOUR: Kroger Queen City Championship (USA)] LPGA TOUR: Kroger Queen City Championship (USA) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/QIMJmq4sRdepotMOEqnCIw/sigma/chiba-lotte-marines-nippon-ham-fighters/1/4626716/1778779889/playlist.m3u8
+https://lb8.wfty.wtf/secure/WdrsExuc3cVVEtnMQp8izQ/prime/pga-tour-pga-championship-usa/1/23_S4xHnOqh/1778780523/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yokohama Baystars vs Chunichi Dragons - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/IeyG-8_CTrPqYpFCpinsCQ/sigma/yokohama-baystars-chunichi-dragons/1/4626626/1778780526/playlist.m3u8
 
