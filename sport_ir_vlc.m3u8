@@ -1,18 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:45 WIB] [MLB] Philadelphia Phillies vs Boston Red Sox (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:45 WIB] [MLB] Philadelphia Phillies vs Boston Red Sox (SPORTir)
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[02:05 WIB] [MLB] St. Louis Cardinals vs Athletics (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[02:05 WIB] [MLB] St. Louis Cardinals vs Athletics (SPORTir)
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-59639d19.streamtofu.com/6a06bb72.88975f25i32736d03.14767.57bdd378/free.live.espn/master.m3u8
+https://node-6a57c764.streamtofu.com/6a06bddb.28cdc532ibd8d7dca.14745.088009de/free.live.espn/master.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[02:05 WIB] [MLB] St. Louis Cardinals vs Athletics (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[02:05 WIB] [MLB] St. Louis Cardinals vs Athletics (SPORTir)
+#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:45 WIB] [MLB] Philadelphia Phillies vs Boston Red Sox (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:45 WIB] [MLB] Philadelphia Phillies vs Boston Red Sox (SPORTir)
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-6a57c764.streamtofu.com/6a06bb72.e9a5bf9bi32736d03.14745.bd31c41c/free.live.espn/master.m3u8
+https://node-59639d19.streamtofu.com/6a06bddb.4402bd87ibd8d7dca.14767.536be8cf/free.live.espn/master.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[06:15 WIB] [MLB] Chicago Cubs vs Atlanta Braves (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[06:15 WIB] [MLB] Chicago Cubs vs Atlanta Braves (SPORTir)
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-59639d19.streamtofu.com/6a06bb72.5efeb1f8i32736d03.14784.9bcb267c/free.live.espn/master.m3u8
+https://node-59639d19.streamtofu.com/6a06bddc.2890c518ibd8d7dca.14784.c56f226c/free.live.espn/master.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[06:00 WIB] [NHL] Montréal Canadiens vs Buffalo Sabres (SPORTir)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[06:00 WIB] [NHL] Montréal Canadiens vs Buffalo Sabres (SPORTir)
+#EXTVLCOPT:http-referrer=https://nhl24all.ir
+#EXTVLCOPT:http-origin=https://nhl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://node-9b5feb01.streamtofu.com/6a06bdde.05823661ibd8d7dca.14832.be938e1a/free.live.sportsnet/master.m3u8
