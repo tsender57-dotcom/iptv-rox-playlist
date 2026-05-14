@@ -1,45 +1,63 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-14 01:52 UTC
+# Last Updated: 2026-05-14 02:03 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] St. Louis City vs LAFC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/EpI5ZPayEr4vthbN-ujCKw/easy/st-louis-city-sc-los-angeles-fc/1/5071179/1778745087/playlist.m3u8
+https://lb5.wfty.wtf/secure/iOiCZVoh9aYHAb1x6QTUzA/easy/st-louis-city-sc-los-angeles-fc/1/5071179/1778745756/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] FC Dallas vs Vancouver Whitecaps - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/9JFHNLHhJQRCbbCKcQz0XA/easy/fc-dallas-vancouver-whitecaps/1/4621545/1778745090/playlist.m3u8
+https://lb5.wfty.wtf/secure/iOiCZVoh9aYHAb1x6QTUzA/easy/st-louis-city-sc-los-angeles-fc/1/5071179/1778745756/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Seattle Sounders vs San Jose Earthquakes - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/eANQm2ZMcv-5cCpdaMYIeg/delta/live_mls_seattle-san-jose-live-streaming-1241799957/1/4621539/1778745093/playlist.m3u8
+https://lb6.wfty.wtf/secure/bvJ9cbmFVV0hdmonnVpgnw/pro/seattle-sounders-san-jose-earthquakes/2/4621539/1778745762/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Sporting KC vs LA Galaxy - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.wtf/secure/Xko2bUdMdBrpCtIAuIbvRw/easy/sporting-kc-los-angeles-galaxy/1/5071174/1778745766/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] San Diego FC vs Austin FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/CR-ejk7XCNVp4UHsvRFoCA/delta/live_mls_san-diego-fc-austin-live-streaming-1241798958/1/5071177/1778745103/playlist.m3u8
+https://lb8.wfty.wtf/secure/qo71H0M_3O5qr7ngHIqwXQ/pro/san-diego-fc-austin-fc/2/5071177/1778745773/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Salt Lake vs Houston - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/K8uHXq31tDaNPQ1rQeRuPg/easy/real-salt-lake-houston-dynamo/1/5071176/1778745776/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Toronto Blue Jays vs Tampa Bay Rays - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/K7M86I1PpJRfaykbgY0G1w/easy/toronto-blue-jays-tampa-bay-rays/1/4555591/1778745779/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Colombian Primera A] Junior FC vs Once Caldas - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/qAB0-d4KQgPcdWvoOGbaBg/easy/junior-fc-once-caldas/1/5467520/1778745110/playlist.m3u8
+https://lb8.wfty.wtf/secure/HnyJxPuC6D36m_rbMFXBKQ/easy/junior-fc-once-caldas/1/5467520/1778745785/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga BetPlay - Quarter Finals] Junior FC vs Once Caldas - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/-dMedhDJIssR6OJC-vmt1w/easy/junior-fc-once-caldas/1/4711065/1778745113/playlist.m3u8
+https://lb1.wfty.wtf/secure/Mxx1Aic_Wg8RiLefep2GIQ/easy/junior-fc-once-caldas/1/4711065/1778745788/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Argentine Liga Profesional de Fútbol] River Plate vs Gimnasia La Plata - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/9LaluHUk4gMPIjyAm7v01Q/easy/river-plate-gimnasia-la-plata/1/4712861/1778745117/playlist.m3u8
+https://lb4.wfty.wtf/secure/HKGCt_rFo4AikofuanExxQ/easy/river-plate-gimnasia-la-plata/1/4712861/1778745791/playlist.m3u8
 
