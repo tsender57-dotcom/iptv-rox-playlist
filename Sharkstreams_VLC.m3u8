@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-15 10:32 UTC
+# Last Updated: 2026-05-15 10:50 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[23:35 WIB] [MLB] Colorado Rockies vs Pittsburgh Pirates - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -95,7 +95,7 @@ https://bp4.bpfiles.cfd/live/11/stream.m3u8?expires=1778824834&token=e0be69437ac
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://nb6.bpfiles.cfd/live/detroit/stream.m3u8?expires=1778807101&token=3b25d29567c8cf852811e98314df1387cf123f367b5a366630d41d37c8026a30
+https://nb6.bpfiles.cfd/live/detroit/stream.m3u8?expires=1778825620&token=576ddb0023f96fe438dbef6eac0902b1fb608558a7f6e9bb62742d4bc7c5040e
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[08:30 WIB] [NBA] San Antonio Spurs vs Minnesota Timberwolves - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
