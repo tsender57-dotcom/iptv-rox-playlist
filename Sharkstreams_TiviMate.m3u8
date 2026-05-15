@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-15 22:51 UTC
+# Last Updated: 2026-05-15 23:01 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[00:00 WIB] [Boxing] Karen Chukhadzhian vs Paddy Donovan - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -31,7 +31,7 @@ https://mb1.bofiles.cfd/live/2/stream.m3u8?expires=1778876331&token=c322ffcb7b10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://mb1.bofiles.cfd/live/3/stream.m3u8?expires=1778876328&token=0662c65d8a53ce8d8b6714b11c0ecf3310c31bff73743ff4bf4be0c3fb4f861c
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[06:00 WIB] [NBA] Cleveland Cavaliers vs Detroit Pistons - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[🔴 LIVE] [06:00 WIB] [NBA] Cleveland Cavaliers vs Detroit Pistons - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -131,7 +131,7 @@ https://mb3.bofiles.cfd/live/14/stream.m3u8?expires=1778878612&token=aa484f711c1
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb3.bofiles.cfd/live/15/stream.m3u8?expires=1778886377&token=b66a8623ec48c90be8cf9a6e50ec7d2e9fcebba27b74fda780cb33c632aa221c
+https://mb3.bofiles.cfd/live/15/stream.m3u8?expires=1778878612&token=1cc31beddcd50d15cb49c56fcb117bf5587b35a1390baf1e6d93bfb3ef5f5c10
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[09:00 WIB] [WNBA] Toronto Tempo vs Los Angeles Sparks - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
