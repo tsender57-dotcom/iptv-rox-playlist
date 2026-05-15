@@ -1,45 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-15 02:21 UTC
+# Last Updated: 2026-05-15 02:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Dodgers vs San Francisco Giants - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/FVvRNynmaAsbBvdXqtiA4Q/easy/los-angeles-dodgers-san-francisco-giants/1/4556198/1778833280/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [PGA TOUR: PGA Championship (USA)] PGA TOUR: PGA Championship (USA) - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/2ASMywUfN0x1mQaOh9KGbQ/prime/pga-tour-pga-championship-usa/7/23_bPCjvskC/1778833283/playlist.m3u8
+https://lb1.wfty.wtf/secure/D_OHUf3DLa-5mErfCNks7g/easy/los-angeles-dodgers-san-francisco-giants/1/4556198/1778833888/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Portland Fire vs New York Liberty - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/cufk1C3Hs-bwKrlsty-Mvg/delta/live_wnba_fire-liberty-live-streaming-1210331457/1/4659643/1778833286/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Anaheim Ducks vs Vegas Golden Knights - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/JK_8Ckz_D8M362PIY8vlDA/easy/anaheim-ducks-vegas-golden-knights/1/401871428/1778833290/playlist.m3u8
+https://lb8.wfty.wtf/secure/ax1WCg_OFYPLfbcsQsFz3w/delta/live_wnba_fire-liberty-live-streaming-1210331457/1/4659643/1778833891/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Mexican Liga BBVA MX] Pachuca vs Pumas UNAM - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/oyJmBX5S0y3ZyFUnEm8msQ/easy/pachuca-pumas-unam/1/4712869/1778833293/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Copa do Brasil - 5th Stage] Vitoria vs Flamengo - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/9IO3PB6TLi7cpHu1bVQyuQ/sigma/vitoria-flamengo/1/4691821/1778833296/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Copa do Brasil] Vitoria vs Flamengo - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/JuibBwJH2xd1DEEJNYQAsA/sigma/vitoria-flamengo/1/1000010269/1778833300/playlist.m3u8
+https://lb6.wfty.wtf/secure/RCOoOUnh2N20LzgnpCfvAg/easy/pachuca-pumas-unam/1/4712869/1778833894/playlist.m3u8
 
