@@ -1,63 +1,87 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-15 19:31 UTC
+# Last Updated: 2026-05-15 19:42 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English Premier League] Aston Villa vs Liverpool - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/XsxwELAV4ukrbxgjGDz-KQ/easy/aston-villa-liverpool/1/4813737/1778895694/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [PGA TOUR: PGA Championship (USA)] PGA TOUR: PGA Championship (USA) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/pKQixCn7fBYm9FWZOxMoFQ/prime/pga-tour-pga-championship-usa/3/23_bPCjvskC/1778895078/playlist.m3u8
+https://lb10.wfty.wtf/secure/wbOowRwouGvwBIlEJwHJfw/prime/pga-tour-pga-championship-usa/3/23_bPCjvskC/1778895697/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [IIHF World Championship - IIHF WC - Group A] Switzerland vs USA - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/EfDzK_Fc_geySS2mif-bYA/easy/switzerland-usa/1/4671041/1778895081/playlist.m3u8
+https://lb10.wfty.wtf/secure/Z1MPWTdXyu3Ef3jNMTsAWg/easy/switzerland-usa/1/4671041/1778895701/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA 2] Cordoba vs Albacete - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/FsueqTjW6z21hq6bFl6ijA/easy/cordoba-albacete/1/4468084/1778895085/playlist.m3u8
+https://lb3.wfty.wtf/secure/e10CjiczZ8nRfCtN2dsfvw/easy/cordoba-albacete/1/4468084/1778895704/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Irish Premier Division] Dundalk vs Shamrock Rovers - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/vW5mq1HLRvSVIB84s6nB1A/regular/dundalk-shamrock/3/5100889/1778895707/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Irish Premier Division] St. Patricks vs Shelbourne - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/3T83cqEbENAY15HoA16C9A/regular/st-patricks-shelbourne/2/4633913/1778895711/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English League Two] Notts County vs Chesterfield - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/06duJoFu3AWKTB0w5JgQsg/easy/notts-county-chesterfield/1/5428152/1778895095/playlist.m3u8
+https://lb7.wfty.wtf/secure/Xm4B5WD-7wValg_wzlo0Ew/easy/notts-county-chesterfield/1/5428152/1778895714/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [League Two - Promotion Playoffs - Semi Finals] Notts County vs Chesterfield - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/KbEL9p4cGdOI69R46NtUjg/easy/notts-county-chesterfield/1/4709957/1778895098/playlist.m3u8
+https://lb10.wfty.wtf/secure/dIwUfTp9ZgSVOo8k6kx-6g/easy/notts-county-chesterfield/1/4709957/1778895718/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Gallagher Prem] Northampton Saints vs Bristol Rugby - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/jEgNJtlNuagv5hzuL7n_ow/easy/northampton-saints-bristol-rugby/1/603057/1778895102/playlist.m3u8
+https://lb6.wfty.wtf/secure/JRqE4SpuAZZHznhaHg9kvA/easy/northampton-saints-bristol-rugby/2/603057/1778895721/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ekstraklasa] Korona Kielce vs Widzew Lodz - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [United Rugby Championship] Cardiff Blues vs Stormers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/wB8mB8UhXXZjxwlzhTfv5g/easy/korona-kielce-widzew-lodz/1/4445428/1778895105/playlist.m3u8
+https://lb9.wfty.wtf/secure/7_fDvNOc8oa8JNVIbPTxgQ/regular/cardiff-blues-stormers/1/602664/1778895725/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ligue 1 - Relegation/Promotion] Saint-Étienne vs Rodez - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [United Rugby Championship] Ulster vs Glasgow Warriors - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/u1sNj605PAzE2ICmxfTgCQ/easy/saint-etienne-rodez/1/4714552/1778895108/playlist.m3u8
+https://lb1.wfty.wtf/secure/puIRr9Ict6eDi3fEmsWl3w/regular/ulster-glasgow-warriors/1/602665/1778895728/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ligue 2 - Semi Finals] Saint-Étienne vs Rodez - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/jR0hGbamM5LMaioxZzL-AA/easy/saint-etienne-rodez/1/4713914/1778895112/playlist.m3u8
+https://lb10.wfty.wtf/secure/XsvzdEQLUL2yXLE32ZN2Vg/easy/saint-etienne-rodez/1/4713914/1778895732/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ligue 1 Qualification] Saint-Etienne vs Rodez - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ekstraklasa] Korona Kielce vs Widzew Lodz - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/8CWmV9aBCH0sZ8u4XBwcYw/easy/saint-etienne-rodez/1/5529917/1778895115/playlist.m3u8
+https://lb10.wfty.wtf/secure/Jso58ILY-6SFUdWNgen_YQ/easy/korona-kielce-widzew-lodz/1/4445428/1778895735/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ligue 1 - Relegation/Promotion] Saint-Étienne vs Rodez - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/-gLCi8EK5peQzj7j3rupgw/easy/saint-etienne-rodez/1/4714552/1778895738/playlist.m3u8
 
