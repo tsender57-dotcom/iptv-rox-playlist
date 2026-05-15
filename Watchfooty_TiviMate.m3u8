@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-15 11:21 UTC
+# Last Updated: 2026-05-15 11:32 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [PGA TOUR: PGA Championship (USA)] PGA TOUR: PGA Championship (USA) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/m6pBklOghUv2IWpP-Gn9Rw/prime/pga-tour-pga-championship-usa/1/23_bPCjvskC/1778865696/playlist.m3u8
+https://lb3.wfty.wtf/secure/izjS0HfiQdxMFJ-UpX2n6A/prime/pga-tour-pga-championship-usa/1/23_bPCjvskC/1778866320/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yomiuri Giants vs Yokohama Baystars - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/857JLwafPIPPpCwxT13vyg/sigma/yomiuri-giants-yokohama-baystars/1/4626649/1778865703/playlist.m3u8
+https://lb1.wfty.wtf/secure/VFiXF1J_cM7uihYEeCqxUw/sigma/yomiuri-giants-yokohama-baystars/1/4626649/1778866327/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Chiba Lotte Marines vs Orix Buffaloes - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/FBrqNNsMYhI6nRkhQQga6A/sigma/chiba-lotte-marines-orix-buffaloes/1/4626709/1778865706/playlist.m3u8
+https://lb1.wfty.wtf/secure/O-9LM4DUviMeBJFcDEbfmQ/sigma/chiba-lotte-marines-orix-buffaloes/1/4626709/1778866330/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Hanshin Tigers vs Hiroshima Toyo Carp - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/u9QjxuLKZaezqlsU3CF-jQ/sigma/hanshin-tigers-hiroshima-toyo-carp/1/4626692/1778866334/playlist.m3u8
 
