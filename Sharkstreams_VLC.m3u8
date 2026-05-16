@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-16 10:01 UTC
+# Last Updated: 2026-05-16 10:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[00:00 WIB] [Boxing] Karen Chukhadzhian vs Paddy Donovan - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -35,7 +35,7 @@ https://mb1.bofiles.cfd/live/3/stream.m3u8?expires=1778917568&token=8229b0c70caa
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo1.bofiles.cfd/live/detroit/stream.m3u8?expires=1778901050&token=b53bfb90973313f4b8e0177a68f8e1bf71043089824a22b3cb109935e2439ab7
+https://bo1.bofiles.cfd/live/detroit/stream.m3u8?expires=1778897270&token=ead4fc5c5518c9e2bae5b37bc87dda10cefd8046e39165683888fa535d5f1bb1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[06:10 WIB] [MLB] Miami Marlins vs Tampa Bay Rays - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
