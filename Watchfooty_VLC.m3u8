@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-16 23:01 UTC
+# Last Updated: 2026-05-16 23:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Allen vs. Costa - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/ZhHlkRLKctLtoi9XB3SONw/pro/ufc-fight-night-allen-vs-costa/2/600058948/1778994099/playlist.m3u8
+https://lb3.wfty.wtf/secure/RrDWHf5lLxtzL5w7OsGLXg/pro/ufc-fight-night-allen-vs-costa/2/600058948/1778994681/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs Cincinnati Reds - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Internacional vs Vasco da Gama - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/ntjcPoopymmuIE1IlkaWpA/deluxe/cleveland-guardians-cincinnati-reds/1/401815362/1778994103/playlist.m3u8
+https://lb3.wfty.wtf/secure/hrQdOxpPFuV8HAgVUSkn9Q/easy/internacional-vasco-da-gama/2/4632790/1778994684/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Atlético Mineiro vs Mirassol - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb9.wfty.wtf/secure/yGkYTSEoPfAwqvjR0MLbCg/easy/atletico-mineiro-mirassol/2/4632791/1778994688/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Argentine Liga Profesional de Fútbol] River Plate vs Rosario Central - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/Yix8ehNPX_8BarMuzscXZg/prime/river-plate-rosario-central/2/4714386/1778994106/playlist.m3u8
+https://lb6.wfty.wtf/secure/92vSM3L_-9aG_oVYdj0LCA/prime/river-plate-rosario-central/2/4714386/1778994691/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Fluminense vs Sao Paulo - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs Cincinnati Reds - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/CYWqIFzVIfH2Xz8UYixTdg/regular/fluminense-sao-paulo/1/5103514/1778994109/playlist.m3u8
+https://lb6.wfty.wtf/secure/R-5pSEiGGTWIR--IF1osnA/deluxe/cleveland-guardians-cincinnati-reds/1/401815362/1778994695/playlist.m3u8
 
