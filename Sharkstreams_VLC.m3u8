@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-16 11:01 UTC
+# Last Updated: 2026-05-16 11:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[00:00 WIB] [Boxing] Karen Chukhadzhian vs Paddy Donovan - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -131,7 +131,7 @@ https://mb3.bofiles.cfd/live/14/stream.m3u8?expires=1778897788&token=f5448fd14cb
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb3.bofiles.cfd/live/15/stream.m3u8?expires=1778905999&token=86413d6963bf791771638ef88f4c31107c13240349054a47b733b430853a2f06
+https://mb3.bofiles.cfd/live/15/stream.m3u8?expires=1778897358&token=0849e376ad3c7f89c2c13a5bae9eba5613edcd99562590a6dae0a900afa30f49
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[09:00 WIB] [WNBA] Toronto Tempo vs Los Angeles Sparks - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
