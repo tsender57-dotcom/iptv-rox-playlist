@@ -1,27 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-16 07:51 UTC
+# Last Updated: 2026-05-16 08:01 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [K League 2] Seoul E-Land FC vs Yongin - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [K League 1] Daejeon Citizen vs FC Seoul - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/dvUSHHuKHOF5dZ4_g2LKpA/regular/seoul-e-land-fc-yongin/1/4660693/1778939484/playlist.m3u8
+https://lb1.wfty.wtf/secure/lJWNfGUttGe7x9I5-vIYGw/regular/daejeon-citizen-fc-seoul/3/4652677/1778940099/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Urawa Red Diamonds vs FC Tokyo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/3SN-97rNbfb39l7EbtZCZw/sigma/urawa-red-diamonds-fc-tokyo/1/4653261/1778939487/playlist.m3u8
+https://lb10.wfty.wtf/secure/hbrcKnc9WjyLNNtfIpVqMA/sigma/urawa-red-diamonds-fc-tokyo/1/4653261/1778940103/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Australian A-League Women] Melbourne City FC vs Wellington Phoenix - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/X056pq4EyP1CNRUojDQRMg/regular/melbourne-city-fc-wellington-phoenix/2/1000011147/1778939490/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Chunichi Dragons vs Yakult Swallows - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/BVbklgkvK288Wd0EFzroCA/sigma/chunichi-dragons-yakult-swallows/1/4626700/1778939494/playlist.m3u8
+https://lb5.wfty.wtf/secure/KE-TRR_fCx1C2cET4QVCfA/regular/melbourne-city-fc-wellington-phoenix/2/1000011147/1778940106/playlist.m3u8
 
