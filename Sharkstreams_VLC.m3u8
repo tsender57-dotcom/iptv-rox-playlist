@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-16 14:41 UTC
+# Last Updated: 2026-05-16 14:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[23:00 WIB] [MMA] OKTAGON 88: Holzer vs Taha - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -59,7 +59,7 @@ https://mb2.bofiles.cfd/live/6/stream.m3u8?expires=1778943376&token=c5b8d4d04a11
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo1.bofiles.cfd/live/ufc/stream.m3u8?expires=1778943377&token=84f17e15a08740debaa73092cd943de5cbfaac6bb81dc39139d3400227f034fb
+https://bo1.bofiles.cfd/live/ufc/stream.m3u8?expires=1778943978&token=18b7de134d30d443db3594dce9d77bc9518d316590aadb6527a0024475c3368b
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[05:00 WIB] [Boxing] Keyshawn Davis vs Nahir Albright II - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
