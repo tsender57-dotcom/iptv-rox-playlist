@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-16 01:11 UTC
+# Last Updated: 2026-05-16 01:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Mets vs New York Yankees - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/jkVgW5Xd-PHp3iYKFVNtWQ/easy/new-york-mets-new-york-yankees/1/401815349/1778915488/playlist.m3u8
+https://lb8.wfty.wtf/secure/AW48GA1UHjxajQz3dktm5A/easy/new-york-mets-new-york-yankees/1/401815349/1778916082/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Detroit Tigers vs Toronto Blue Jays - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/kCIzahfASjpiYApvh_cing/easy/detroit-tigers-toronto-blue-jays/1/401815351/1778916085/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago White Sox vs Chicago Cubs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/d6tOLRvnWoYqA4J-WpSQ4g/pro/chicago-white-sox-chicago-cubs/2/4555731/1778915495/playlist.m3u8
+https://lb2.wfty.wtf/secure/kCIzahfASjpiYApvh_cing/easy/detroit-tigers-toronto-blue-jays/1/401815351/1778916085/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] St. Louis Cardinals vs Kansas City Royals - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/mArq7aYTAGN4Nm_xZer3fQ/pro/st-louis-cardinals-kansas-city-royals/1/4555759/1778915498/playlist.m3u8
+https://lb5.wfty.wtf/secure/jzbcEP-B0ividkmtnBfgpA/easy/st-louis-cardinals-kansas-city-royals/1/4555759/1778916092/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Kansas City Current vs Houston Dash - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/Xmkn6xFzctEWgQtccH20VQ/regular/kansas-city-current-houston-dash/2/4653849/1778915505/playlist.m3u8
+https://lb3.wfty.wtf/secure/1cRS3pito38L6ANcwJb0Eg/easy/kansas-city-current-houston-dash/1/4653849/1778916099/playlist.m3u8
 
