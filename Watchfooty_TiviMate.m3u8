@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-16 04:11 UTC
+# Last Updated: 2026-05-16 04:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Angels vs Los Angeles Dodgers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/-sRmrWGWVyC_Dk2FxF6B_g/echo/los-angeles-angels-vs-los-angeles-dodgers-baseball-178675/1/401815357/1778926278/playlist.m3u8
+https://lb5.wfty.wtf/secure/Ux3D9j9eYtLn-D2DUKeKUQ/echo/los-angeles-angels-vs-los-angeles-dodgers-baseball-178675/1/401815357/1778926872/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Minnesota Timberwolves vs San Antonio Spurs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/hILMxXAWAkwPiN6FmW1rdw/prime/minnesota-timberwolves-san-antonio-spurs/2/401871157/1778926281/playlist.m3u8
+https://lb6.wfty.wtf/secure/8b9iXhqm4BNoSp1hdmZ8Yg/prime/minnesota-timberwolves-san-antonio-spurs/2/401871157/1778926875/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Phoenix Mercury vs Chicago Sky - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.wtf/secure/2pXkIMh9cUCCRwT2_6bDgw/pro/phoenix-mercury-chicago-sky/2/4659646/1778926878/playlist.m3u8
 
