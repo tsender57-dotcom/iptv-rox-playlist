@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-16 06:41 UTC
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Mito Hollyhock vs Tokyo Verdy - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/1RjHPICEoYrynxsWa5v3rg/sigma/mito-hollyhock-tokyo-verdy/1/4662112/1778935278/playlist.m3u8
+# Last Updated: 2026-05-16 06:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Chunichi Dragons vs Yakult Swallows - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/QxrYtu-iSLs9y1UO8HqrLw/sigma/chunichi-dragons-yakult-swallows/1/4626700/1778935282/playlist.m3u8
+https://lb5.wfty.wtf/secure/JNpjpp1ZZOwvZLH7DDfc7Q/sigma/chunichi-dragons-yakult-swallows/1/4626700/1778935874/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Rakuten Gold Eagles vs Fukuoka Hawks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/G_8F_5n7M-nvI1SeldV44A/sigma/rakuten-gold-eagles-fukuoka-hawks/1/4626740/1778935285/playlist.m3u8
+https://lb10.wfty.wtf/secure/CKLix2c9rPPiU3GMdvBn7w/sigma/rakuten-gold-eagles-fukuoka-hawks/1/4626740/1778935877/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Mito Hollyhock vs Tokyo Verdy - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/iWnqIlMlE317W9Ov78rWpA/sigma/mito-hollyhock-tokyo-verdy/1/4662112/1778935880/playlist.m3u8
 
