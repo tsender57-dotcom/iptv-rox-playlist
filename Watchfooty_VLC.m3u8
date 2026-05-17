@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-17 05:01 UTC
+# Last Updated: 2026-05-17 05:11 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] V-Varen Nagasaki vs Vissel Kobe - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/C9b4HkCnCF8vvZQ61L1klA/sigma/v-varen-nagasaki-vissel-kobe/1/4662110/1779016269/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [AIHL] Canberra Brave vs Newcastle North Stars - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/jCVjKUZs1Fvs-op84wmjCA/regular/canberra-brave-newcastle-north-stars/1/4710071/1779015675/playlist.m3u8
+https://lb1.wfty.wtf/secure/12J_oczW_O81RKGlcwWJkg/regular/canberra-brave-newcastle-north-stars/1/4710071/1779016272/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [AIHL] Melbourne Ice vs Sydney Ice Dogs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/T6EwhuWrtcBrxuaxPg_y2g/regular/melbourne-ice-sydney-ice-dogs/1/4710070/1779015678/playlist.m3u8
+https://lb4.wfty.wtf/secure/0gQTJHCHYnulG4OjBiZL_Q/regular/melbourne-ice-sydney-ice-dogs/1/4710070/1779016275/playlist.m3u8
 
