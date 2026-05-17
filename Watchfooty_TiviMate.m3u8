@@ -1,33 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-17 23:31 UTC
+# Last Updated: 2026-05-17 23:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Inter Miami CF vs Portland - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/ukydQygnI8b6qcv6yZ82ZA/easy/inter-miami-portland-timbers/1/5071189/1779082287/playlist.m3u8
+https://lb1.wfty.wtf/secure/HCm_dcZYfyGinm8GrdZeeg/easy/inter-miami-portland-timbers/1/5071189/1779082868/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Indiana Fever vs Seattle Storm - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/Ri9ET3Yg_-jHcdB4I-eT-w/pro/indiana-fever-seattle-storm/2/4659648/1779082293/playlist.m3u8
+https://lb5.wfty.wtf/secure/XUPzb05zac3eRHqtRBh2cg/pro/indiana-fever-seattle-storm/2/4659648/1779082875/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Los Angeles Sparks vs Toronto Tempo - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/SlIth7jx20_JaYTVTYaUAg/pro/los-angeles-sparks-toronto-tempo/1/4659654/1779082878/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Athletico Paranaense vs Flamengo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/SsQOBR0x-1BrXUQg_gB7dg/prime/athletico-paranaense-flamengo/4/5103521/1779082297/playlist.m3u8
+https://lb9.wfty.wtf/secure/oKDYyVjb7aoFtAtJkyhyvw/easy/athletico-paranaense-flamengo/1/5103521/1779082882/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Red Bull Bragantino vs Vitoria - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/v7l-8z-Nk0UuYN09CJUySg/easy/rb-bragantino-vitoria/1/5103518/1779082300/playlist.m3u8
+https://lb5.wfty.wtf/secure/C8ejC8nx8ATnDhc1dpbAvA/easy/rb-bragantino-vitoria/1/5103518/1779082885/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Portland Thorns vs Angel City - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/6QGIEjsrqP94VeDI3pR6pA/easy/portland-thorns-angel-city/1/4653853/1779082303/playlist.m3u8
+https://lb10.wfty.wtf/secure/R6cIyKgnfOrluSBx_aS6qw/easy/portland-thorns-angel-city/1/4653853/1779082888/playlist.m3u8
 
