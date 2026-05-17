@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-17 06:41 UTC
+# Last Updated: 2026-05-17 06:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] JEF United Chiba vs Kashima Antlers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/BBn2Yt7nsALfpOECqccMjQ/sigma/jef-united-chiba-kashima-antlers/1/5130309/1779021695/playlist.m3u8
+https://lb8.wfty.wtf/secure/Cw-lKBW1SLLJs43JLdS5Bg/sigma/jef-united-chiba-kashima-antlers/2/4662109/1779022293/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Okayama vs Shimizu S-Pulse - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/aWoxk6DHUvwkhPVOzcJKcw/sigma/okayama-shimizu-s-pulse/1/4653262/1779021698/playlist.m3u8
+https://lb8.wfty.wtf/secure/CRJfOxfSLF6ST5_WOzg2mw/sigma/okayama-shimizu-s-pulse/2/4653262/1779022296/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Cerezo Osaka vs Nagoya Grampus - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/wJoorZ9iNdf8mVCYXpRqNQ/sigma/cerezo-osaka-nagoya-grampus/1/4653264/1779022300/playlist.m3u8
 
