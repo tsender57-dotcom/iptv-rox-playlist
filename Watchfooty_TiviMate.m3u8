@@ -1,51 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-17 00:31 UTC
+# Last Updated: 2026-05-17 00:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Allen vs. Costa - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/wzyBiJseD9Faq-g4iFAIRA/pro/ufc-fight-night-allen-vs-costa/2/600058948/1778999472/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Mets vs New York Yankees - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/abF08B5Gp-N5qzK13o_YZA/easy/new-york-mets-new-york-yankees/1/401815364/1778999475/playlist.m3u8
+https://lb2.wfty.wtf/secure/IrEz2fpReeoCJztIogqqlw/pro/ufc-fight-night-allen-vs-costa/2/600058948/1779000069/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago White Sox vs Chicago Cubs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/SXVUgftpk1SPTMIlmHKNPw/deluxe/chicago-white-sox-chicago-cubs/1/401815367/1778999478/playlist.m3u8
+https://lb2.wfty.wtf/secure/J003E0X3uLJghvmd9EGg7g/deluxe/chicago-white-sox-chicago-cubs/1/401815367/1779000073/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Palmeiras vs Cruzeiro - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Watchfooty - NHL",[🔴 LIVE] [NHL] Montreal Canadiens vs Buffalo Sabres - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/wT96VyE_NMD-vSfZdziVzQ/regular/palmeiras-cruzeiro/1/4632793/1778999485/playlist.m3u8
+https://lb2.wfty.wtf/secure/J003E0X3uLJghvmd9EGg7g/deluxe/chicago-white-sox-chicago-cubs/1/401815367/1779000073/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Events] AEW: Saturday Night Collision - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/tNLomLuT2yXK8JwKuHvpCA/easy/aew-saturday-night-collision/1/4ac8501a/1778999488/playlist.m3u8
+https://lb5.wfty.wtf/secure/8wENV85xcocrmDftXO9MHA/easy/aew-saturday-night-collision/1/4ac8501a/1779000080/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] New York Red Bulls vs New York City FC - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Palmeiras vs Cruzeiro - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/uW1bYiVjSnhQPdjR0A0kBg/easy/new-york-red-bulls-new-york-city-fc/1/4621534/1778999491/playlist.m3u8
+https://lb1.wfty.wtf/secure/IzTdt45ovWusm8k73fzEaQ/regular/palmeiras-cruzeiro/2/4632793/1779000083/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] DC United vs St. Louis City SC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/DMbeS58iILtJJ5fBavdjrw/easy/dc-united-st-louis-city-sc/1/4621537/1778999495/playlist.m3u8
+https://lb7.wfty.wtf/secure/g3_UK_EjchTwi-8U08v-ZA/easy/dc-united-st-louis-city-sc/1/4621537/1779000086/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] New England Revolution vs Minnesota United - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/s2vXx8NDWj_qw2mEMVWc5A/easy/new-england-revolution-minnesota-united/1/4621535/1778999508/playlist.m3u8
+https://lb5.wfty.wtf/secure/Te66IRoR1uY_FwGGiFsdrQ/easy/new-england-revolution-minnesota-united/1/4621535/1779000090/playlist.m3u8
 
