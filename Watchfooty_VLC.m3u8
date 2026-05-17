@@ -1,27 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-17 22:11 UTC
+# Last Updated: 2026-05-17 22:21 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Inter Miami CF vs Portland - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/qlqq3JpBlRRMaRPF2SY3Kg/delta/live_mls_inter-miami-portland-live-streaming-1242147609/1/5071189/1779078072/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Angels vs Los Angeles Dodgers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/xMq9ji00GZt6hfpSmoXrUw/pro/los-angeles-angels-los-angeles-dodgers/2/401815387/1779077483/playlist.m3u8
+https://lb5.wfty.wtf/secure/v6_f2yBlzVWLbPXhey2U7A/pro/los-angeles-angels-los-angeles-dodgers/2/401815387/1779078076/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Athletics vs San Francisco Giants - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/l_wrysZNQ32HrojtHs_H0Q/pro/athletics-san-francisco-giants/2/4555410/1779077486/playlist.m3u8
+https://lb10.wfty.wtf/secure/hH7LlTln-xh2EzifZqzaKg/deluxe/athletics-san-francisco-giants/1/4555410/1779078079/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Portland Thorns vs Angel City - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/TMJqLQOHkI1GuSmy4rEQhw/easy/portland-thorns-angel-city/1/4653853/1779077490/playlist.m3u8
+https://lb2.wfty.wtf/secure/9zbH2QlUg7rN8yZ721Av6Q/easy/portland-thorns-angel-city/1/4653853/1779078082/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Indiana Fever vs Seattle Storm - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/secure/J6nr9bUX_2XDaGt9Lxkj0w/delta/live_wnba_fever-storm-live-streaming-1210438350/1/4659648/1779078086/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Red Bull Bragantino vs Vitoria - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/7GLOTJoSs_h3H2g99EW9jA/regular/rb-bragantino-vitoria/1/5103518/1779078089/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Canadian Premier League] Pacific vs Inter Toronto FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/2hnMBICanz5gt7RkJXwNWQ/easy/pacific-inter-toronto-fc/1/4664892/1779077493/playlist.m3u8
+https://lb9.wfty.wtf/secure/kribNgoMvYdNG0fyobT2ZA/easy/pacific-inter-toronto-fc/1/4664892/1779078093/playlist.m3u8
 
