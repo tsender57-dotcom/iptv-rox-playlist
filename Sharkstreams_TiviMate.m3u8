@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-17 09:51 UTC
+# Last Updated: 2026-05-17 10:01 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[23:15 WIB] [MLB] Miami Marlins vs Tampa Bay Rays - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -35,7 +35,7 @@ https://mb1.bofiles.cfd/live/4/stream.m3u8?expires=1779011779&token=b288940ba786
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb1.bofiles.cfd/live/5/stream.m3u8?expires=1779012378&token=3d16f8cdad7ba2d3148e3e14ff291041f028b782d7a47288c03abffefae08fac
+https://mb1.bofiles.cfd/live/5/stream.m3u8?expires=1779011779&token=b95095643430151909c1ffe3d683c14ebd54a5c57ec53559e41336658bc62158
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[00:40 WIB] [MLB] Toronto Blue Jays vs Detroit Tigers - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
