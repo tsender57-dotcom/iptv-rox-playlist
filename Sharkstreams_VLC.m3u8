@@ -1,11 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-18 16:51 UTC
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[23:15 WIB] [MLB] Miami Marlins vs Tampa Bay Rays - SHRK
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-#EXTVLCOPT:http-origin=https://sharkstreams.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb1.bofiles.cfd/live/1/stream.m3u8?expires=1779099380&token=130a5ec165da5936ed8fc9ff5000676c222b626b224a7baa2dde18bed03bff9b
+# Last Updated: 2026-05-18 17:01 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[00:30 WIB] [WNBA] Las Vegas Aces vs Atlanta Dream - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
