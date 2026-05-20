@@ -1,15 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-20 21:21 UTC
+# Last Updated: 2026-05-20 21:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Seattle Mariners vs Chicago White Sox - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/BqKi_UVuwPYey4vrYakZOg/echo/seattle-mariners-vs-chicago-white-sox-baseball-178745/1/401815431/1779333677/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Arizona Diamondbacks vs San Francisco Giants - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/-mEW5e44lnXoJ_Xiy1ywCQ/easy/arizona-diamondbacks-san-francisco-giants/1/4555318/1779333680/playlist.m3u8
+https://lb5.wfty.wtf/secure/rn9VhEsSuF5OTIhL2sIg5A/regular/seattle-mariners-chicago-white-sox/1/401815431/1779334270/playlist.m3u8
 
