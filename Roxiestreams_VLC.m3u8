@@ -1,8 +1,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-20 23:31 UTC
+# Last Updated: 2026-05-20 23:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [07:00 WIB] NHL West Finals
 https://customer-mxuu8vycy79bvede.cloudflarestream.com/42be3462ddedbf653c74a3b0628b429c/manifest/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsWHFvV0/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Soccer - [07:30 WIB] River Plate vs Bragantino
+https://customer-mxuu8vycy79bvede.cloudflarestream.com/0b4c75784ecaed409da311fd55ecb09c/manifest/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [00:40 WIB] Houston Astros vs Minnesota Twins
 https://601.heritagebd.shop/mlb3.m3u8
@@ -10,7 +13,7 @@ https://601.heritagebd.shop/mlb3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [02:40 WIB] San Francisco Giants vs Arizona Diamondbacks
 https://601.heritagebd.shop/mlb5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [🔴 LIVE] [03:10 WIB] Chicago White Sox vs Seattle Mariners
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [03:10 WIB] Chicago White Sox vs Seattle Mariners
 https://601.heritagebd.shop/mlb6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [🔴 LIVE] [05:40 WIB] Cleveland Guardians vs Detroit Tigers
@@ -25,10 +28,10 @@ https://601.heritagebd.shop/mlb9.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [🔴 LIVE] [06:05 WIB] Toronto Blue Jays vs New York Yankees
 https://601.heritagebd.shop/mlb10.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:40 WIB] Boston Red Sox vs Kansas City Royals
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [🔴 LIVE] [06:40 WIB] Boston Red Sox vs Kansas City Royals
 https://601.heritagebd.shop/mlb11.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:40 WIB] Milwaukee Brewers vs Chicago Cubs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [🔴 LIVE] [06:40 WIB] Milwaukee Brewers vs Chicago Cubs
 https://601.heritagebd.shop/mlb12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:45 WIB] Pittsburgh Pirates vs St. Louis Cardinals
