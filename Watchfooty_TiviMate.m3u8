@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-21 21:21 UTC
+# Last Updated: 2026-05-21 21:31 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [WORLD: Premier League - Night 16] Humphries L. vs Bunting S. - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/NBbcE2Rbb_QfBuTtH-Aujw/easy/humphries-l-bunting-s/1/6549be30234/1779420684/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Washington Nationals vs New York Mets - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/A2LFjaRK2ff-MHFIyTB1_Q/easy/washington-nationals-new-york-mets/1/401815436/1779420074/playlist.m3u8
+https://lb2.wfty.wtf/secure/8sF0O9SKJ9f3gChNwHnyTg/easy/washington-nationals-new-york-mets/1/401815436/1779420687/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Division Intermedia] Benjamín Aceval vs Sportivo Carapeguá - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/845CAzSQj_t9RBko45nWug/regular/benjamin-aceval-sportivo-carapegua/1/4712434/1779420077/playlist.m3u8
+https://lb4.wfty.wtf/secure/EFHo9sMcc6ivIHxTl8O5xw/regular/benjamin-aceval-sportivo-carapegua/1/4712434/1779420690/playlist.m3u8
 
