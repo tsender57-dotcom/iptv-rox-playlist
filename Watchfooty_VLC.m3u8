@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-21 14:41 UTC
+# Last Updated: 2026-05-21 14:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [DP WORLD TOUR: Soudal Open (Belgium)] DP WORLD TOUR: Soudal Open (Belgium) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/k1HIFYzSdpPhj1YzIkUNpQ/echo/soudal-open-dp-world-tour-atp1000/1/23_YDsp9rYQ/1779396091/playlist.m3u8
+https://lb10.wfty.wtf/secure/VnL31uB_o9dUQRlIRLjosw/echo/soudal-open-dp-world-tour-atp1000/1/23_YDsp9rYQ/1779396689/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [IIHF World Championship - IIHF WC - Group A] Finland vs Latvia - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/gemHXJ9bNkRi0H1M4udXow/easy/finland-latvia/1/4667968/1779396693/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Indian Super League] Inter Kashi vs East Bengal - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/N7p9ikqcRgdSurKAsGCU8A/regular/inter-kashi-east-bengal/2/4671669/1779396095/playlist.m3u8
+https://lb10.wfty.wtf/secure/K74SV8zh_5G0MbPW0GzcMg/regular/inter-kashi-east-bengal/1/4671669/1779396696/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Indian Super League] Mohun Bagan vs SC Delhi - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/uVAPetWKId2NaMoBa5LG3Q/regular/mohun-bagan-sc-delhi/2/4671675/1779396098/playlist.m3u8
+https://lb1.wfty.wtf/secure/-vASj9NsrG_0ijvbdimJvA/regular/mohun-bagan-sc-delhi/2/4671675/1779396700/playlist.m3u8
 
