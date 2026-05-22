@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-22 10:11 UTC
+# Last Updated: 2026-05-22 10:21 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Super Rugby Pacific] New South Wales Waratahs vs Brumbies - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.wtf/secure/FN7JACKV79lPUQ5iuMkKuA/easy/new-south-wales-waratahs-brumbies/1/603199/1779466896/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Fukuoka Hawks vs Nippon Ham Fighters - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/dsI6OctU84f9H479cUI4lA/sigma/fukuoka-hawks-nippon-ham-fighters/2/4627149/1779466294/playlist.m3u8
+https://lb10.wfty.wtf/secure/6XT63ivP-1rXP-vtBfMs1Q/sigma/fukuoka-hawks-nippon-ham-fighters/2/4627149/1779466899/playlist.m3u8
 
