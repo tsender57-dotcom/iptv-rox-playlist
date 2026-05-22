@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-22 21:01 UTC
+# Last Updated: 2026-05-22 21:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago Cubs vs Houston Astros - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/pQZEA1l8FrKvqFC4Y59STA/easy/chicago-cubs-houston-astros/1/401815449/1779505286/playlist.m3u8
+https://lb6.wfty.wtf/secure/x1cYwb2uPfZJ1VYgW8LLSg/easy/chicago-cubs-houston-astros/1/401815449/1779505898/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Coupe de France] Lens vs OGC Nice - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Peruvian Liga 1] Juan Pablo II College vs FBC Melgar - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/B1d-Yj1NGUntni35kSAsDQ/easy/lens-ogc-nice/1/4705173/1779505290/playlist.m3u8
+https://lb8.wfty.wtf/secure/6GFXRsN_NR5fnoCk3y9Ulw/regular/juan-pablo-ii-college-fbc-melgar/1/4657862/1779505902/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Besta deildin] Stjarnan vs Fram Reykjavik - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb9.wfty.wtf/secure/EuQwKs9aTXOSyv-4Or4aSA/regular/stjarnan-fram-reykjavik/1/4653730/1779505905/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Besta deildin] Vikingur vs FH Hafnarfjordur - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/jrfxsLA55L2sNaqEl-U42A/regular/vikingur-fh-hafnarfjordur/1/4653729/1779505293/playlist.m3u8
+https://lb10.wfty.wtf/secure/RWvJlGOMpn-rts4zTRedsA/regular/vikingur-fh-hafnarfjordur/1/4653729/1779505909/playlist.m3u8
 
