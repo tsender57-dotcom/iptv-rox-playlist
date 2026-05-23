@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-23 18:31 UTC
+# Last Updated: 2026-05-23 18:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago Cubs vs Houston Astros - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/I55VFiV6lvX0t-DV29QVFg/easy/chicago-cubs-houston-astros/1/4556048/1779582679/playlist.m3u8
+https://lb2.wfty.wtf/secure/snPDnLElV2e00_n_vwlleQ/easy/chicago-cubs-houston-astros/1/401815464/1779583276/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cincinnati Reds vs St. Louis Cardinals - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/gdD41-QnYtKCmrlxNojz7A/deluxe/cincinnati-reds-st-louis-cardinals/1/401873647/1779583279/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [DFB-Pokal - Final] Bayern Munich vs Stuttgart - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/HH-V6XqCb_6BeQOrYu58Og/easy/bayern-munich-stuttgart/1/4705473/1779582682/playlist.m3u8
+https://lb2.wfty.wtf/secure/RpIggORTB3ecvrNzELd5OA/easy/bayern-munich-stuttgart/1/4705473/1779583283/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Cup] Bayern München vs VfB Stuttgart - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/kzYf1vehEO1cwSyysVhEPw/easy/bayern-munich-stuttgart/1/5197845/1779582685/playlist.m3u8
+https://lb8.wfty.wtf/secure/irbulH1I40vL-JgnfgO9_A/easy/bayern-munich-stuttgart/1/5197845/1779583286/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Chicago Sky vs Minnesota Lynx - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/NE9bqw5bIevhCr7oO2H71Q/delta/live_wnba_chicago-lynx-live-streaming-1210547241/1/4659664/1779582688/playlist.m3u8
+https://lb7.wfty.wtf/secure/foO2kZmfQY8KiUPfUhoVUw/delta/live_wnba_chicago-lynx-live-streaming-1210547241/1/4659664/1779583289/playlist.m3u8
 
