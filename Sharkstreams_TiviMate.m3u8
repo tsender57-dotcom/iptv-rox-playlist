@@ -1,39 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-23 14:51 UTC
+# Last Updated: 2026-05-23 15:01 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[22:00 WIB] [Boxing] Oleksandr Usyk vs. Rico Verhoeven - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[🔴 LIVE] [22:00 WIB] [Boxing] Oleksandr Usyk vs. Rico Verhoeven - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo1.bofiles.cfd/live/usyk/stream.m3u8?expires=1779548572&token=688a3ac925eb779046b91fb9c37a5de3b839bc95d45dc811ac9f75fda3fa9f17
+https://bo1.bofiles.cfd/live/usyk/stream.m3u8?expires=1779548619&token=598d57a831c4b786901eb392408f4aa905ab4208ae8dc05c107a1bc7539fb201
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[00:00 WIB] [WNBA] Minnesota Lynx vs Chicago Sky - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo4.bofiles.cfd/live/sky/stream.m3u8?expires=1779548738&token=919d9b9dd966c95b70e29ea80b7ba9d885a535021f7fdfe4b03033b1861c905f
+https://bo4.bofiles.cfd/live/sky/stream.m3u8?expires=1779549383&token=2b44463650a61347a2f73991eb73be8d2a3442cc33cf0305dac5735525a35cf6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[05:00 WIB] [WNBA] Portland Fire vs Toronto Tempo - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo4.bofiles.cfd/live/tempo/stream.m3u8?expires=1779548735&token=eeb7876b228c3a3373674f1a60bd75226f4ba294b6dc41e9879d95333694419a
+https://bo4.bofiles.cfd/live/tempo/stream.m3u8?expires=1779549384&token=37ea9ba6b3655ee555f1fd00bd3bbbd54efaf5daef749511768c11092557f550
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[06:00 WIB] [NHL] Montreal Canadiens vs Carolina Hurricanes - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo3.bofiles.cfd/live/carolina/stream.m3u8?expires=1779548736&token=3bd4e0e6b54fec8ffa7a38b4cc3688559de1eb785ca3980aa9f9e01dc58b7d9e
+https://bo3.bofiles.cfd/live/carolina/stream.m3u8?expires=1779549384&token=243a95e6e196a09bb047ca035920db2c0ec02b705267ef1d400d2027f3e0a3e8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[07:00 WIB] [WNBA] Los Angeles Sparks vs Las Vegas Aces - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo4.bofiles.cfd/live/aces/stream.m3u8?expires=1779548738&token=9a52bdc6891c90f2841e9e34cd45ab558e2495df752de52db6bba18ae4298628
+https://bo4.bofiles.cfd/live/aces/stream.m3u8?expires=1779549384&token=77b17742d8c385806bbc0f610e1fd1c3f61f4732f026472026c018c0b8f8a4c4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[07:30 WIB] [NBA] New York Knicks vs Cleveland Cavaliers - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo5.bofiles.cfd/live/kincks/stream.m3u8?expires=1779548775&token=f20315842c4a0370336bf78577896803a74926bef806f4bf8243044a249e922d
+https://bo5.bofiles.cfd/live/kincks/stream.m3u8?expires=1779549385&token=9008525383f8c841e6330bc80322f3d265520442baa72af15f01e6a9c36038d2
 
