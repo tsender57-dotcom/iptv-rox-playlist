@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-23 09:31 UTC
+# Last Updated: 2026-05-23 09:41 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Indonesian Super League] Borneo FC vs Malut United - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/fHDPIKj1hA8LDkBleye2-Q/regular/borneo-fc-malut-united/1/4488530/1779550873/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Indonesian Super League] Persib Bandung vs Persijap Jepara - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/mPSssnsjBCZL5yWTJhC-ng/regular/persib-bandung-persijap-jepara/1/4488529/1779550877/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Kashima Antlers vs FC Tokyo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/in2Bk0hGbzkICy66HpGQpg/sigma/kashima-antlers-fc-tokyo/1/5130312/1779550280/playlist.m3u8
+https://lb8.wfty.wtf/secure/VaV4o5zBox-r-7jkfrAm2g/sigma/kashima-antlers-fc-tokyo/1/5130312/1779550880/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Kashiwa Reysol vs JEF United Chiba - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/kQUKAZXczU2nzY6ulkTpmw/sigma/kashiwa-reysol-jef-united-chiba/1/4662104/1779550283/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yomiuri Giants vs Hanshin Tigers - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/eDY7uKOD7azl5Y7GuypwNA/sigma/yomiuri-giants-hanshin-tigers/1/4626431/1779550286/playlist.m3u8
+https://lb10.wfty.wtf/secure/_xOLrYHFiL10feUVL4PlzA/sigma/kashiwa-reysol-jef-united-chiba/1/4662104/1779550883/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Australian A-League Men] Auckland FC vs Sydney FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/BCXwNyF1VLAIBdTWkZJknA/easy/auckland-fc-sydney-fc/1/4715470/1779550290/playlist.m3u8
+https://lb2.wfty.wtf/secure/2VAs_9F7gDDHO31tW5dojA/easy/auckland-fc-sydney-fc/1/4715470/1779550887/playlist.m3u8
 
