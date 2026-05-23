@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-23 09:21 UTC
+# Last Updated: 2026-05-23 09:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Kashima Antlers vs FC Tokyo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/2blm86yZdItIL0n4EaCG-A/sigma/kashima-antlers-fc-tokyo/1/5130312/1779549686/playlist.m3u8
+https://lb7.wfty.wtf/secure/in2Bk0hGbzkICy66HpGQpg/sigma/kashima-antlers-fc-tokyo/1/5130312/1779550280/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Kashiwa Reysol vs JEF United Chiba - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/K2VZ6gs-VlqjcPwWE9_nGQ/sigma/kashiwa-reysol-jef-united-chiba/1/4662104/1779549690/playlist.m3u8
+https://lb3.wfty.wtf/secure/kQUKAZXczU2nzY6ulkTpmw/sigma/kashiwa-reysol-jef-united-chiba/1/4662104/1779550283/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yomiuri Giants vs Hanshin Tigers - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/eDY7uKOD7azl5Y7GuypwNA/sigma/yomiuri-giants-hanshin-tigers/1/4626431/1779550286/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Australian A-League Men] Auckland FC vs Sydney FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/krX2fHlSX-1MVVB2eg2PRw/easy/auckland-fc-sydney-fc/1/4715470/1779549693/playlist.m3u8
+https://lb10.wfty.wtf/secure/BCXwNyF1VLAIBdTWkZJknA/easy/auckland-fc-sydney-fc/1/4715470/1779550290/playlist.m3u8
 
