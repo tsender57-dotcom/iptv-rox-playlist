@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-23 06:01 UTC
+# Last Updated: 2026-05-23 06:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Sanfrecce vs Nagoya Grampus - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/aFuoxlnzF1-zd4d0dykR0w/regular/hiroshima-sanfrecce-nagoya-grampus/1/5130461/1779537694/playlist.m3u8
+https://lb10.wfty.wtf/secure/shy95dofIA3HgpKCqQqRYA/sigma/hiroshima-sanfrecce-nagoya-grampus/1/5130461/1779538303/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Fukuoka vs Vissel Kobe - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/Of2BeuUHaQYPFD8ajpTUcQ/regular/fukuoka-vissel-kobe/1/4662105/1779537697/playlist.m3u8
+https://lb1.wfty.wtf/secure/ztijA-t1eoiwyApLp9Z6YQ/sigma/fukuoka-vissel-kobe/1/4662105/1779538306/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Fukuoka Hawks vs Nippon Ham Fighters - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/GF01r6Si6T2x3_vEtXiu8Q/sigma/fukuoka-hawks-nippon-ham-fighters/1/4626754/1779538310/playlist.m3u8
 
