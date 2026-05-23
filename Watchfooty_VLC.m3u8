@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-23 18:21 UTC
+# Last Updated: 2026-05-23 18:31 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago Cubs vs Houston Astros - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/I55VFiV6lvX0t-DV29QVFg/easy/chicago-cubs-houston-astros/1/4556048/1779582679/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [DFB-Pokal - Final] Bayern Munich vs Stuttgart - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/14xk2iYtqNcSnstvqQ9yYQ/easy/bayern-munich-stuttgart/1/4705473/1779582098/playlist.m3u8
+https://lb3.wfty.wtf/secure/HH-V6XqCb_6BeQOrYu58Og/easy/bayern-munich-stuttgart/1/4705473/1779582682/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [German Cup] Bayern München vs VfB Stuttgart - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/SqHDZYf9Elb2KKtaBWN6OA/easy/bayern-munich-stuttgart/1/5197845/1779582101/playlist.m3u8
+https://lb7.wfty.wtf/secure/kzYf1vehEO1cwSyysVhEPw/easy/bayern-munich-stuttgart/1/5197845/1779582685/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Chicago Sky vs Minnesota Lynx - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/vs8NOJP8hF69jWTaWD91oA/delta/live_wnba_chicago-lynx-live-streaming-1210547241/1/4659664/1779582104/playlist.m3u8
+https://lb2.wfty.wtf/secure/NE9bqw5bIevhCr7oO2H71Q/delta/live_wnba_chicago-lynx-live-streaming-1210547241/1/4659664/1779582688/playlist.m3u8
 
