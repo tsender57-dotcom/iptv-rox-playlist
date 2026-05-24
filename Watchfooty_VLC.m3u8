@@ -1,45 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-24 21:41 UTC
+# Last Updated: 2026-05-24 21:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] San Francisco Giants vs Chicago White Sox - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/oL8rP7Jo5FXpRMLsNep6Ww/pro/san-francisco-giants-chicago-white-sox/2/401815483/1779680481/playlist.m3u8
+https://lb2.wfty.wtf/secure/l1ICRmnVXzRuP7WHoSXDww/pro/san-francisco-giants-chicago-white-sox/2/401815483/1779681081/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Atlanta Braves vs Washington Nationals - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/tvNaRJtb1Tk_ppnyjhwvFg/pro/atlanta-braves-washington-nationals/2/4555992/1779680484/playlist.m3u8
+https://lb2.wfty.wtf/secure/BDXruYQJmbkv0TexJYZIZA/pro/atlanta-braves-washington-nationals/2/401815478/1779681084/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie A] Torino vs Juventus - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Corinthians vs Atlético Mineiro - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/eENUZijr7oNoCxonbUv-YQ/easy/torino-juventus/1/4445112/1779680487/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Bay FC (W) vs Chicago Stars (W) - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/-n4TZAxIhfETEboyAPnP_Q/easy/bay-fc-chicago-stars-fc/1/5161534/1779680491/playlist.m3u8
+https://lb4.wfty.wtf/secure/iMxJla_2r9TbRHzNUrWDmA/easy/corinthians-atletico-mineiro/1/4662730/1779681087/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Columbus Crew vs Atlanta United - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/U6qBN6DkMB7l0-MCNvB9Ng/easy/columbus-crew-atlanta-united/1/4621511/1779680494/playlist.m3u8
+https://lb2.wfty.wtf/secure/lLe3Leu2rp9t-FnFis8L2Q/easy/columbus-crew-atlanta-united/1/4621511/1779681091/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Canadian Premier League] Cavalry vs Pacific - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/E9utgHOs_4vTQZxa5tf-DQ/easy/cavalry-pacific/1/4664889/1779680497/playlist.m3u8
+https://lb4.wfty.wtf/secure/AM-QN3uylmaTmDVF3BPneg/easy/cavalry-pacific/1/4664889/1779681094/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 1st Round] Lorenzo Sonego vs Pierre-Hugues Herbert - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/Y8JD0VrsqiBfQeEc-IhzxA/easy/lorenzo-sonego-pierre-hugues-herbert/1/4726239/1779680501/playlist.m3u8
+https://lb9.wfty.wtf/secure/fSQjbg5xEcZ8gXYfMsvVrg/easy/lorenzo-sonego-pierre-hugues-herbert/1/4726239/1779681097/playlist.m3u8
 
