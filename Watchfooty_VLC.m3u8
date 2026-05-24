@@ -1,51 +1,63 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-24 01:51 UTC
+# Last Updated: 2026-05-24 02:02 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Cleveland Cavaliers vs New York Knicks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/s9aL6SfNYjv1Q0nyB9NuwA/easy/cleveland-cavaliers-new-york-knicks/1/4715905/1779609084/playlist.m3u8
+https://lb5.wfty.wtf/secure/_el6-wx3tvI9Qyva_Br20Q/easy/cleveland-cavaliers-new-york-knicks/1/4715905/1779609732/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Milwaukee Brewers vs Los Angeles Dodgers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/aMfgR0N8Ivt1TY9tOhwvug/easy/milwaukee-brewers-los-angeles-dodgers/1/401815465/1779609087/playlist.m3u8
+https://lb9.wfty.wtf/secure/wWECPzM9jko5fOT2RH_G3g/easy/milwaukee-brewers-los-angeles-dodgers/1/401815465/1779609735/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Colombian Primera A] Junior FC vs Santa Fe - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/UD9oBelW3NtgRhzDna7KBg/easy/junior-fc-independiente-santa-fe/1/5595309/1779609094/playlist.m3u8
+https://lb9.wfty.wtf/secure/38GX9fFNTcoW99kLe7OhSA/easy/junior-fc-independiente-santa-fe/1/5595309/1779609742/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga BetPlay - Semi Finals] Junior FC vs Independiente Santa Fe - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/TB5AQEC26nnwCwzp4WPSXQ/easy/junior-fc-independiente-santa-fe/1/4714390/1779609097/playlist.m3u8
+https://lb9.wfty.wtf/secure/yoPr47G4zjgGORl57z8KMw/easy/junior-fc-independiente-santa-fe/1/4714390/1779609746/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Houston Dash vs Angel City - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] San Diego FC vs Vancouver Whitecaps - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/DrXbygsytwWfYgSp75L4Fg/easy/houston-dash-angel-city/1/4653859/1779609101/playlist.m3u8
+https://lb3.wfty.wtf/secure/WCggu17yDRYtL9QikS9nqg/easy/san-diego-fc-vancouver-whitecaps/1/4621513/1779609749/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Sporting KC vs NY Red Bulls - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/1hR6v33DgTIT7Lj_9ddJhw/easy/sporting-kc-new-york-red-bulls/1/5071201/1779609104/playlist.m3u8
+https://lb1.wfty.wtf/secure/8nXK3-s8yBx-6P2d3DgSGw/easy/sporting-kc-new-york-red-bulls/1/5071201/1779609752/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Nashville SC vs NYCFC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/Zr06mg0_TlGc1i4OFGrplw/easy/nashville-sc-new-york-city-fc/1/5071204/1779609107/playlist.m3u8
+https://lb6.wfty.wtf/secure/SzNL9-mFl05YzwxmDcF90A/easy/nashville-sc-new-york-city-fc/1/5071204/1779609756/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Chicago Fire vs Toronto FC - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Concacaf W Champions Cup] CF America vs Washington Spirit - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/ktj4L31dSTnIKh8QiFYVxg/easy/chicago-fire-toronto-fc/1/4621519/1779609111/playlist.m3u8
+https://lb8.wfty.wtf/secure/RUGOnOG00hDV031N7aK12Q/regular/club-america-w-washington-spirit/1/1000011256/1779609759/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONCACAF (W) Champions Cup - Final] Club America (W) vs Washington Spirit - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/secure/_tE1f7UsO6C9o3GX9e-3nA/regular/club-america-w-washington-spirit/1/4722535/1779609763/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Houston Dash vs Angel City - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/Cb0GQHk-cgOkey3q_tKi5w/easy/houston-dash-angel-city/1/4653859/1779609766/playlist.m3u8
 
