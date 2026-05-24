@@ -1,33 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-24 18:12 UTC
+# Last Updated: 2026-05-24 18:22 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Toronto Blue Jays vs Pittsburgh Pirates - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/ZGT5-GHdgycZirTuH3spSA/easy/toronto-blue-jays-pittsburgh-pirates/1/401815475/1779667908/playlist.m3u8
+https://lb1.wfty.wtf/secure/dXe_uX7W86hCDRSWDzxsuA/easy/toronto-blue-jays-pittsburgh-pirates/1/401815475/1779668478/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Yankees vs Tampa Bay Rays - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/1MguxMhvN9CORGzQx-lPrw/easy/new-york-yankees-tampa-bay-rays/1/401815477/1779667911/playlist.m3u8
+https://lb10.wfty.wtf/secure/V8GXhJ2VUStCVrd9_6QQ7w/easy/new-york-yankees-tampa-bay-rays/1/401815477/1779668481/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Milwaukee Brewers vs Los Angeles Dodgers - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/XOoAedpYE9QRsVysUpenHQ/easy/milwaukee-brewers-los-angeles-dodgers/1/4555402/1779668484/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Miami Marlins vs New York Mets - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/HjPbX7pz3VKkq_vjbkGr5g/deluxe/miami-marlins-new-york-mets/1/4555616/1779668491/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs Minnesota Twins - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/nVjm-J111PC7gEzlpgVAyw/easy/boston-red-sox-minnesota-twins/1/401815473/1779667915/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Baltimore Orioles vs Detroit Tigers - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/9fGPp4xiBNtNKBAFyIUluw/easy/baltimore-orioles-detroit-tigers/1/4555021/1779667919/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Belgian Pro League] STVV vs KV Mechelen - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/9DgMmILUF1lFjO3LwOHDLQ/sigma/stvv-kv-mechelen/1/4691858/1779667922/playlist.m3u8
+https://lb5.wfty.wtf/secure/pz26Cj4aBLcL-NPydyxeEw/easy/boston-red-sox-minnesota-twins/1/401815473/1779668494/playlist.m3u8
 
