@@ -1,33 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-24 12:11 UTC
+# Last Updated: 2026-05-24 12:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Eredivisie - Conference League Playoffs - Final] Ajax vs Utrecht - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/sqyBnnyPXqzdlg80fLfS2A/easy/ajax-utrecht/1/4722843/1779646280/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Eredivisie ECL Playoff] Ajax vs FC Utrecht - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/pVA6CEjLh2Dr5m_SQBugaw/easy/ajax-utrecht/1/5642632/1779646283/playlist.m3u8
+https://lb10.wfty.wtf/secure/0r9aPWNHYRTlBPzew1w3cg/easy/ajax-utrecht/1/4722843/1779646889/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [English League One] Bolton vs Stockport - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/c7-aNT8I_V-eXXuaO8GjPQ/easy/bolton-stockport/1/4714775/1779646286/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 1st Round] Anna Blinkova vs Yulia Starodubtsewa - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/2Gc0oyZiNw0OULUsdvcI-g/easy/anna-blinkova-yulia-starodubtsewa/1/4726177/1779646290/playlist.m3u8
+https://lb6.wfty.wtf/secure/-tpbFevKMsKf6vBkjo3f-Q/easy/bolton-stockport/1/4714775/1779646892/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 1st Round] Pablo Llamas Ruiz vs Thiago Agustin Tirante - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/aqho7RPGVEYxKFKXDs8z1w/easy/pablo-llamas-ruiz-thiago-agustin-tirante/1/4726244/1779646293/playlist.m3u8
+https://lb9.wfty.wtf/secure/D3z4UeeThGo8cXkDGaQhig/easy/pablo-llamas-ruiz-thiago-agustin-tirante/1/4726244/1779646899/playlist.m3u8
 
