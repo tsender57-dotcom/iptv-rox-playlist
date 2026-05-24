@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-24 14:41 UTC
+# Last Updated: 2026-05-24 14:52 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie A] Parma vs Sassuolo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/sqCRA_rlcUJ-pTgDwbIYCQ/easy/parma-sassuolo/1/4445828/1779655303/playlist.m3u8
+https://lb10.wfty.wtf/secure/2vO0WwMj5Cox6glCK0SV-w/easy/parma-sassuolo/1/4445828/1779655923/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 1st Round] Hailey Baptiste vs Barbora Krejcikova - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/ozzt7J1qe39PquFj3IV8dA/easy/hailey-baptiste-barbora-krejcikova/2/4726186/1779655306/playlist.m3u8
+https://lb8.wfty.wtf/secure/5lVqaNUS1t5D5o7OJ_3MJQ/easy/hailey-baptiste-barbora-krejcikova/2/4726186/1779655926/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 1st Round] Tereza Valentova vs Magda Linette - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/OGgZwlWDNA1ejxtxh247Vg/easy/tereza-valentova-magda-linette/4/4726178/1779655933/playlist.m3u8
 
