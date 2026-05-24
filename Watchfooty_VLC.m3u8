@@ -1,27 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-24 23:41 UTC
+# Last Updated: 2026-05-24 23:52 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Atlanta Braves vs Washington Nationals - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/RhHkeX3Uy_IGgZ6U0_bVsA/pro/atlanta-braves-washington-nationals/2/401815478/1779688310/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Baltimore Orioles vs Detroit Tigers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/5bruYse3Xkcmv_1v07gAsQ/easy/baltimore-orioles-detroit-tigers/1/401873649/1779687691/playlist.m3u8
+https://lb5.wfty.wtf/secure/Um9dMns2JW73NFn47TBSuA/easy/baltimore-orioles-detroit-tigers/1/401873649/1779688313/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Vasco da Gama vs Red Bull Bragantino - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/phDpUTnFkzMS2-HsEgvIgA/prime/vasco-da-gama-rb-bragantino/1/5103525/1779688317/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] San Diego Wave vs Orlando Pride - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/tOuKz_xjZgIO0TV0GvHMAw/easy/san-diego-wave-orlando-pride/1/4653861/1779687694/playlist.m3u8
+https://lb3.wfty.wtf/secure/G8XJxitUQxd0SE8uPFW76g/easy/san-diego-wave-orlando-pride/1/4653861/1779688320/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Seattle Storm vs Washington Mystics - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/s8zowk6mJb-piX_WjNl4gQ/pro/seattle-storm-washington-mystics/2/4659669/1779687698/playlist.m3u8
+https://lb10.wfty.wtf/secure/uP3x-srYJhapcIiLXgGFlg/pro/seattle-storm-washington-mystics/2/4659669/1779688324/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NASCAR] Coca-Cola 600 - NASCAR - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/fnMdi2CXIIpS_AZQed1aFQ/diamond/coca-cola-600/1/nascar6101/1779687701/playlist.m3u8
+https://lb1.wfty.wtf/secure/1eQcZqbkqHEL9vkj-fetYQ/diamond/coca-cola-600/1/nascar6101/1779688327/playlist.m3u8
 
