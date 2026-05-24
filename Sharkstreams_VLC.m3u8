@@ -1,11 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-24 16:52 UTC
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[23:30 WIB] [MMA] PFL Brussels: Habirora vs Henderson - SHRK
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-#EXTVLCOPT:http-origin=https://sharkstreams.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo5.bofiles.cfd/live/pfl/stream.m3u8?expires=1779642426&token=bbcef38e9e1b9e5699bc2d8a6098def4feadf646c291812413ac7a1f3069bd55
+# Last Updated: 2026-05-24 17:02 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[00:00 WIB] [WNBA] Minnesota Lynx vs Chicago Sky - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -17,7 +11,7 @@ https://bo4.bofiles.cfd/live/sky/stream.m3u8?expires=1779642428&token=3b8cbb25cf
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb1.bofiles.cfd/live/2/stream.m3u8?expires=1779556296&token=d9f7c50622fcfb14eee39230521924bc54cd858f79c4eb66e88e0ba29a6d0b17
+https://mb1.bofiles.cfd/live/2/stream.m3u8?expires=1779643053&token=d32a5783bed43a86c896a5f99076227bb4f9ea79f01db950dd0e212e1ed39b51
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[05:00 WIB] [WNBA] Portland Fire vs Toronto Tempo - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -35,5 +29,5 @@ https://bo3.bofiles.cfd/live/carolina/stream.m3u8?expires=1779642428&token=43d5c
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo4.bofiles.cfd/live/aces/stream.m3u8?expires=1779556298&token=06c2ff3c71345e168b6580a3f5bc81fa7f09667fe4519d3f6c459273d820240b
+https://bo4.bofiles.cfd/live/aces/stream.m3u8?expires=1779643054&token=ab89e488bc1ba053fc3cc1b672e3b062d6770eb0073f89c6aebc55f0be727ac4
 
