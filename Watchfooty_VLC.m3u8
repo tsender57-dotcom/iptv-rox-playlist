@@ -1,33 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-24 03:22 UTC
+# Last Updated: 2026-05-24 03:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] San Diego FC vs Vancouver Whitecaps - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/8ub_CuyYe1BgoV4w9OXNdg/easy/san-diego-fc-vancouver-whitecaps/1/4621513/1779614532/playlist.m3u8
+https://lb4.wfty.wtf/secure/75sz8GzAhjOtLQrqgF4-Qw/easy/san-diego-fc-vancouver-whitecaps/1/4621513/1779615079/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] Portland Timbers vs San Jose Earthquakes - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/8znHAibODVpUNqhXTI5WLg/easy/portland-timbers-san-jose-earthquakes/1/4621514/1779614535/playlist.m3u8
+https://lb9.wfty.wtf/secure/jxxcbV0-D87Hz7QOR2vU5g/easy/portland-timbers-san-jose-earthquakes/1/4621514/1779615082/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS] LA Galaxy vs Houston - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/PBy2SSF6qSf3ssHRvV9FKA/regular/los-angeles-galaxy-houston-dynamo/1/5071202/1779614538/playlist.m3u8
+https://lb8.wfty.wtf/secure/Br0FZk06K5n_RWLWbtxTQg/easy/los-angeles-galaxy-houston-dynamo/1/5071202/1779615085/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Angels vs Texas Rangers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/bsCk9FI1lJ9w2ZOh6WqUaQ/easy/los-angeles-angels-texas-rangers/1/401815470/1779614545/playlist.m3u8
+https://lb10.wfty.wtf/secure/QTkMKe01PgqA5d3COALgRA/easy/los-angeles-angels-texas-rangers/1/401815470/1779615092/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Colombian Primera A] Junior FC vs Santa Fe - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/W9YkhPn6BzR-GCsgPp4yTQ/easy/junior-fc-independiente-santa-fe/1/5595309/1779614558/playlist.m3u8
+https://lb9.wfty.wtf/secure/JtDIfk8EtG9afTZ-E5nSSQ/easy/junior-fc-independiente-santa-fe/1/5595309/1779615099/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga BetPlay - Semi Finals] Junior FC vs Independiente Santa Fe - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/r4tYYR503lJAEY5335nthA/easy/junior-fc-independiente-santa-fe/1/4714390/1779615102/playlist.m3u8
 
