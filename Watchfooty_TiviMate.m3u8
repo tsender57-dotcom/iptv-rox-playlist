@@ -1,27 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-24 10:21 UTC
+# Last Updated: 2026-05-24 10:31 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 1st Round] Lilli Tagger vs Xin-Yu Wang - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Eredivisie ECL Playoff] Ajax vs FC Utrecht - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/N-pOguGHO_X2jXYI-NHv7g/easy/lilli-tagger-xin-yu-wang/1/4726174/1779639699/playlist.m3u8
+https://lb10.wfty.wtf/secure/IdToLPLOYxTdfYc1YGmEYA/easy/ajax-utrecht/1/5642632/1779640290/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 1st Round] Ajla Tomljanovic vs Catherine Mcnally - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Eredivisie - Conference League Playoffs - Final] Ajax vs Utrecht - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/JIh0DGNxQZ1_H18Eu94Mvw/easy/ajla-tomljanovic-catherine-mcnally/1/4726176/1779639707/playlist.m3u8
+https://lb3.wfty.wtf/secure/A5ndC7EkduQpWDc1KhJF8A/easy/ajax-utrecht/1/4722843/1779640293/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ukrainian Premier League] Dynamo Kyiv vs Kudrivka - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/B_20ftSu5Szf8pPQrdWk9A/regular/dynamo-kyiv-kudrivka/1/4471037/1779640297/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 1st Round] Sinja Kraus vs Belinda Bencic - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb9.wfty.wtf/secure/DaSWu47sIvnWzLrW40rdRg/easy/sinja-kraus-belinda-bencic/1/4726183/1779640300/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 1st Round] Marta Kostyuk vs Oksana Selekhmeteva - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/PwI_6jrzok97vSvjWY7Nnw/easy/marta-kostyuk-oksana-selekhmeteva/1/4726182/1779639711/playlist.m3u8
+https://lb6.wfty.wtf/secure/xhp7-0Y82ZCWtrj26-Mi5w/easy/marta-kostyuk-oksana-selekhmeteva/1/4726182/1779640303/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Chinese Super League] Qingdao Hainiu vs Chongqing Tongliangloong - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/AK8T3WFPWTwT9Oh06hjr-Q/regular/qingdao-hainiu-chongqing-tongliangloong/1/4677158/1779639714/playlist.m3u8
+https://lb2.wfty.wtf/secure/ix6tarcD10S1GhOVysyMzw/regular/qingdao-hainiu-chongqing-tongliangloong/1/4677158/1779640307/playlist.m3u8
 
