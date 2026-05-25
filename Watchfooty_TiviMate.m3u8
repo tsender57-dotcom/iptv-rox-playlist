@@ -1,45 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-25 20:41 UTC
+# Last Updated: 2026-05-25 20:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Mets vs Cincinnati Reds - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/IjDN9K1MfzwWZH-qrFQQsg/easy/new-york-mets-cincinnati-reds/1/401815487/1779763282/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Milwaukee Brewers vs St. Louis Cardinals - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/IoZze9H77y5jMWWU7EgYCw/easy/milwaukee-brewers-st-louis-cardinals/1/401815494/1779763285/playlist.m3u8
+https://lb9.wfty.wtf/secure/gLtLY_6IXOIlx-b4xXmmlQ/easy/new-york-mets-cincinnati-reds/1/401815487/1779763878/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Kansas City Royals vs New York Yankees - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/BIOZ_wx32WHmiZvR9Oz_wA/easy/kansas-city-royals-new-york-yankees/1/401815493/1779763288/playlist.m3u8
+https://lb5.wfty.wtf/secure/2btZIIZ6nLO8JA2-pqZAUA/easy/kansas-city-royals-new-york-yankees/1/401815493/1779763881/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [IIHF World Championship - IIHF WC - Group B] Slovenia vs Italy - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Serie B] Independiente Juniors vs 9 De Octubre - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/Mpvkwqy1H29ImGaHSM0ZQA/easy/slovenia-italy/1/4648093/1779763292/playlist.m3u8
+https://lb2.wfty.wtf/secure/QHOBtT7x3LucQbQb02HJTw/regular/independiente-juniors-9-de-octubre/1/4677444/1779763885/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Irish Premier Division] Bohemians vs Shamrock - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/tM3h_apENS61ZSpSe_ZasQ/regular/bohemians-shamrock/2/4633905/1779763295/playlist.m3u8
+https://lb2.wfty.wtf/secure/tsqBH_U_xxdUOzb714qkkQ/regular/bohemians-shamrock/2/4633905/1779763888/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Scottish Premiership] St. Mirren vs Partick Thistle - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/F_9mHyH7zaSU-eQTllZG1Q/easy/st-mirren-partick/1/5627369/1779763298/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 1st Round] Hanyu Guo vs Mccartney Kessler - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/cJTgCotzemdX34Gzlt-Gww/easy/hanyu-guo-mccartney-kessler/1/4726169/1779763302/playlist.m3u8
+https://lb9.wfty.wtf/secure/Pqgqnd8guC-dwfvdKkvX4g/easy/st-mirren-partick/1/5627369/1779763891/playlist.m3u8
 
