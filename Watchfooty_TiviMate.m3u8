@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-25 15:21 UTC
+# Last Updated: 2026-05-25 15:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [IIHF World Championship - IIHF WC - Group A] USA vs Hungary - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/SVvzc5Fn7KVCuTY6wWxWxg/easy/usa-hungary/1/4637477/1779744071/playlist.m3u8
+https://lb1.wfty.wtf/secure/HXH9fbVmMBwB7TygTZUSMA/easy/usa-hungary/1/4637477/1779744682/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [IIHF World Championship - IIHF WC - Group B] Czechia vs Norway - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/SVvzc5Fn7KVCuTY6wWxWxg/easy/usa-hungary/1/4637477/1779744071/playlist.m3u8
+https://lb10.wfty.wtf/secure/0_ItH0TbwDB1_p0_F_pjrQ/easy/czechia-norway/1/4686338/1779744685/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 1st Round] Casper Ruud vs Roman Safiullin - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/rKHrtPY8-TgXbwpJzbaH6w/easy/casper-ruud-roman-safiullin/1/4726436/1779744078/playlist.m3u8
+https://lb6.wfty.wtf/secure/8puVqf1CjG-9wbBtMS88Ng/easy/casper-ruud-roman-safiullin/1/4726436/1779744688/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Norwegian Eliteserien] KFUM Oslo vs Rosenborg - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Norwegian Eliteserien] Tromso vs Aalesund - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/sw6SieHw2KtkKdE-8UrHag/regular/kfum-oslo-rosenborg/1/4637354/1779744081/playlist.m3u8
+https://lb8.wfty.wtf/secure/B1B4G_Zmef3eC5nEBrdU2A/regular/tromso-aalesund/1/4638328/1779744692/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Norwegian Eliteserien] Sarpsborg 08 vs Molde - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/2u8HrBg7MU1BgWUhHvqD0g/regular/sarpsborg-08-molde/1/4637351/1779744695/playlist.m3u8
 
