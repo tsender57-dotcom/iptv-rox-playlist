@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-26 09:21 UTC
+# Last Updated: 2026-05-26 09:31 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Doubles (M) - Round of 64] Chidekh C./Royer V. vs Bellucci M./Marozsan F. - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/secure/sldsHplYZf5zCqrKzLxCLA/easy/chidekh-c-royer-v-bellucci-m-marozsan-f/1/4726622/1779809497/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Hanshin Tigers vs Nippon Ham Fighters - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/ZlA0HUt2KpraiWtBGtAxxw/sigma/hanshin-tigers-nippon-ham-fighters/1/4626664/1779808876/playlist.m3u8
+https://lb4.wfty.wtf/secure/N3wM5_rsvzh72AKdyhRppg/sigma/hanshin-tigers-nippon-ham-fighters/1/4626664/1779809500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yokohama Baystars vs Orix Buffaloes - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/c5Geqiv1sbhZ1FO7GI6iiA/sigma/yokohama-baystars-orix-buffaloes/1/4626427/1779808879/playlist.m3u8
+https://lb5.wfty.wtf/secure/RR9OB0Yb21ezfd7YkckggQ/sigma/yokohama-baystars-orix-buffaloes/1/4626427/1779809503/playlist.m3u8
 
