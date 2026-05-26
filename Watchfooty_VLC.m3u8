@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-26 01:31 UTC
+# Last Updated: 2026-05-26 01:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Texas Rangers vs Houston Astros - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/VUDd_Eepzq5_mZMByzmOsA/easy/texas-rangers-houston-astros/1/4556124/1779780696/playlist.m3u8
+https://lb9.wfty.wtf/secure/IAUcC7sng5G9qaX_Gat1zQ/easy/texas-rangers-houston-astros/1/4556124/1779781301/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Toronto Blue Jays vs Miami Marlins - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/0Fq8fL0a0rcyHJi2bnInZA/easy/toronto-blue-jays-miami-marlins/1/4555408/1779780700/playlist.m3u8
+https://lb9.wfty.wtf/secure/nvT8o21A-CZuHrNbvHSmOQ/easy/toronto-blue-jays-miami-marlins/1/4555408/1779781304/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Cleveland Cavaliers vs New York Knicks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/g3fQz2oIAH2M6DQBPV-nCg/easy/cleveland-cavaliers-new-york-knicks/1/401873344/1779780706/playlist.m3u8
+https://lb6.wfty.wtf/secure/zExtF7c-K3B4poz-dlriww/easy/cleveland-cavaliers-new-york-knicks/1/401873344/1779781311/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] New York Liberty vs Portland Fire - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/5OLzhkHVD2m2zk9MPHEpEQ/delta/live_wnba_liberty-fire-live-streaming-1210597191/1/4659670/1779781314/playlist.m3u8
 
