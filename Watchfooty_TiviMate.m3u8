@@ -1,21 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-26 23:02 UTC
+# Last Updated: 2026-05-26 23:12 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs Atlanta Braves - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/W5PZT8w0HqK8SuPlj_JcGg/regular/boston-red-sox-atlanta-braves/4/4556369/1779858699/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Pittsburgh Pirates vs Chicago Cubs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/tyWb6WMFzGhZxSVG7i6vbg/easy/pittsburgh-pirates-chicago-cubs/1/401815501/1779858109/playlist.m3u8
+https://lb1.wfty.wtf/secure/Zt0GEBPbLj_tcrt4pAkvbQ/easy/pittsburgh-pirates-chicago-cubs/1/401815501/1779858702/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Baltimore Orioles vs Tampa Bay Rays - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/XfHX9xh8c6w-FZrQqMVLwg/easy/baltimore-orioles-tampa-bay-rays/1/4555392/1779858112/playlist.m3u8
+https://lb3.wfty.wtf/secure/8PnLOPpBcrqn3U46UYHWlQ/easy/baltimore-orioles-tampa-bay-rays/1/4555392/1779858706/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Libertadores] Lanus vs Mirassol - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/exrFGrH--4w4kCLz45HImg/regular/lanus-mirassol/2/4690223/1779858713/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Sudamericana] São Paulo vs Boston River - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/DNL6Jk4NQqK78fpdjdECIg/regular/sao-paulo-boston-river/2/4690177/1779858716/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Sudamericana] Millonarios vs O'Higgins - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/bfpQsVMvGCa7loxV7yH7Yg/regular/millonarios-o-higgins/2/4690179/1779858119/playlist.m3u8
+https://lb10.wfty.wtf/secure/nRa_zpVH4iBEOPjuubCQQw/regular/millonarios-o-higgins/2/4690179/1779858720/playlist.m3u8
 
