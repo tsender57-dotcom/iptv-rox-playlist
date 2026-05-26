@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-26 17:21 UTC
+# Last Updated: 2026-05-26 17:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga Revelacao U23] Gil Vicente U23 vs Santa Clara U23 - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/OarhJgmH5KaA-MrofwOAOQ/regular/gil-vicente-u23-santa-clara-u23/1/4727327/1779837691/playlist.m3u8
+https://lb8.wfty.wtf/secure/AYm1-5m-VyNZZyTxXfU7lw/regular/gil-vicente-u23-santa-clara-u23/1/4727327/1779838294/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Doubles (M) - Round of 64] Barrientos / Behar vs Droguet T./Gaston H. - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/secure/w9j4NIuA3cWVBukNQGX23g/easy/barrientos-behar-droguet-t-gaston-h/1/4727242/1779838297/playlist.m3u8
 
