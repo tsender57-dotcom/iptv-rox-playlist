@@ -1,33 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-27 17:32 UTC
+# Last Updated: 2026-05-27 17:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Toronto Blue Jays vs Miami Marlins - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/LCJM62K_H0m3U4-iablp9A/easy/toronto-blue-jays-miami-marlins/1/401815518/1779924708/playlist.m3u8
+https://lb1.wfty.wtf/secure/9dldIPDxTuaJpa9NFOkcOw/easy/toronto-blue-jays-miami-marlins/1/401815518/1779925277/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs Washington Nationals - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/zF55f2qMgF6nr9azOhm6sw/easy/cleveland-guardians-washington-nationals/1/401815520/1779925281/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Chance Liga - Relegation/Promotion] Artis Brno vs Slovacko - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/HmCd_1ugEaVgS0RRyrtynQ/regular/artis-brno-slovacko/1/4727204/1779924714/playlist.m3u8
+https://lb2.wfty.wtf/secure/oYdtO8Ydh13HIaEUqZlWKQ/regular/artis-brno-slovacko/1/4727204/1779925287/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [1. Liga Qualification] Artis Brno vs Slovacko - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Doubles (M) - Round of 64] Buse I./Kiger M. vs Ho R./Jebens H. - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/J-emRR7BHT4nNWwKKGhUug/regular/artis-brno-slovacko/1/5667147/1779924718/playlist.m3u8
+https://lb8.wfty.wtf/secure/0Rg05NyzwKLnWnfmG0fuOQ/easy/buse-i-kiger-m-ho-r-jebens-h/1/4727150/1779925291/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 2nd Round] Eva Lys vs Sorana Cirstea - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/sOru273WArOBdJ63nW15aQ/easy/eva-lys-sorana-cirstea/1/4727119/1779924724/playlist.m3u8
+https://lb10.wfty.wtf/secure/sQ8Yj8kme5hAMIAAFbxGkA/easy/eva-lys-sorana-cirstea/1/4727119/1779925294/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 2nd Round] Jasmine Paolini vs Solana Sierra - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/wWrzFN38tEaIP6FRDBQpNw/easy/jasmine-paolini-solana-sierra/1/4727156/1779924728/playlist.m3u8
+https://lb10.wfty.wtf/secure/h_q0iemQe0lqgoPMBFP24g/easy/jasmine-paolini-solana-sierra/1/4727156/1779925297/playlist.m3u8
 
