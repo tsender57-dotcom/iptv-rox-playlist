@@ -1,45 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-27 01:21 UTC
+# Last Updated: 2026-05-27 01:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Kansas City Royals vs New York Yankees - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/w34fA3L3gXFOBY6pwtRCMA/easy/kansas-city-royals-new-york-yankees/1/401815508/1779866491/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Toronto Blue Jays vs Miami Marlins - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/wCATa1VDixnw_gl1hAGiGA/regular/toronto-blue-jays-miami-marlins/2/401815503/1779866494/playlist.m3u8
+https://lb7.wfty.wtf/secure/2l1yHt9OvagDvyzg0ihq5w/easy/kansas-city-royals-new-york-yankees/1/401815508/1779867076/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/ERH6t6Ets2fgzvlbJKD1sg/easy/boston-red-sox-atlanta-braves/1/401815500/1779866497/playlist.m3u8
+https://lb10.wfty.wtf/secure/CmFBwiNK27_4dnBAJ5dAIA/easy/boston-red-sox-atlanta-braves/1/401815500/1779867080/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] Oklahoma City Thunder vs San Antonio Spurs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/x-hV3Q_eLqnKyFMtkgHWCA/easy/oklahoma-city-thunder-san-antonio-spurs/1/401873201/1779866501/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Sudamericana] San Lorenzo vs Deportivo Recoleta - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/sWEmmAB7PG9V0wdcbW1GIw/easy/santos-deportivo-cuenca/1/4690183/1779866508/playlist.m3u8
+https://lb8.wfty.wtf/secure/nGbDFlH-3C6V_gG8r8wIxw/easy/oklahoma-city-thunder-san-antonio-spurs/1/401873201/1779867083/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Libertadores] Flamengo vs Cusco FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/Ky_dzrFcEaRUEg3vIfR92g/easy/flamengo-cusco-fc/1/4690197/1779866511/playlist.m3u8
+https://lb8.wfty.wtf/secure/Yzj2X4rWmbCT_Tu9gIPzHQ/easy/flamengo-cusco-fc/1/4690197/1779867090/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Libertadores] Universitario de Deportes vs Tolima - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Sudamericana] San Lorenzo vs Deportivo Recoleta - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/rZsTWUrh_t4Isy397Xx44g/easy/universitario-deportes-tolima/1/5261474/1779866515/playlist.m3u8
+https://lb7.wfty.wtf/secure/aL1NMmmyT5YjM1pBJ2Ld-w/easy/santos-deportivo-cuenca/1/4690183/1779867093/playlist.m3u8
 
