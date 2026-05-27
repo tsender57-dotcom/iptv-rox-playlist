@@ -1,33 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-27 00:31 UTC
+# Last Updated: 2026-05-27 00:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Kansas City Royals vs New York Yankees - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/l0Cz8E6tLWCtgN-sa3G6YQ/easy/kansas-city-royals-new-york-yankees/1/401815508/1779863479/playlist.m3u8
+https://lb6.wfty.wtf/secure/TqE-STl9D9Iavl1uJPtVcg/delta/live_mlb_royals-yankees-live-streaming-1308389301/1/401815508/1779864080/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs Washington Nationals - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/zX-dIjj1XDSkfl9Lb4YlRw/delta/live_mlb_guardians-nationals-live-streaming-1308381309/1/401815505/1779863482/playlist.m3u8
+https://lb3.wfty.wtf/secure/JKN77BMS2WwC0azED5_dIw/delta/live_mlb_guardians-nationals-live-streaming-1308381309/1/401815505/1779864083/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Mets vs Cincinnati Reds - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/5P78Bvy1YDVAvrolXmxXtQ/delta/live_mlb_mets-reds-live-streaming-1308387303/1/401815502/1779864086/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/gT5ptzI9IT231Hz11MA9Mg/easy/boston-red-sox-atlanta-braves/1/401815500/1779863485/playlist.m3u8
+https://lb4.wfty.wtf/secure/E50-nNB22jT39ej0xn-ZWQ/easy/boston-red-sox-atlanta-braves/1/401815500/1779864090/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Pittsburgh Pirates vs Chicago Cubs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/J46-QddgZ8JA2d_-a7cXpA/easy/pittsburgh-pirates-chicago-cubs/1/401815501/1779863489/playlist.m3u8
+https://lb4.wfty.wtf/secure/syjqe1Gf_zTN5_pTDlYPoA/easy/pittsburgh-pirates-chicago-cubs/1/401815501/1779864093/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Argentine Primera B] Ituzaingó vs Deportivo Laferrere - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Libertadores] Flamengo vs Cusco FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb7.wfty.wtf/secure/_TwrWy_OTK3AUyZPeGOTRw/regular/ituzaingo-deportivo-laferrere/1/4639380/1779863492/playlist.m3u8
+https://lb10.wfty.wtf/secure/SSVio9Ow_YM315QcKPLUTQ/prime/flamengo-cusco-fc/2/4690197/1779864096/playlist.m3u8
 
