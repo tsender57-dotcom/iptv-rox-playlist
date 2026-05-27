@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-27 19:03 UTC
+# Last Updated: 2026-05-27 19:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Toronto Blue Jays vs Miami Marlins - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/1NAtQyqKotu90CE6dn9JDA/easy/toronto-blue-jays-miami-marlins/1/4555701/1779930163/playlist.m3u8
+https://lb8.wfty.wtf/secure/r6WLk4OAY5lVd5Xf7OyAzQ/easy/toronto-blue-jays-miami-marlins/1/401815518/1779930687/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Milwaukee Brewers vs St. Louis Cardinals - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/aKdN0w-fuQyqe85OX-Y4dg/easy/milwaukee-brewers-st-louis-cardinals/1/4555016/1779930166/playlist.m3u8
+https://lb5.wfty.wtf/secure/iYcu1ojrQbRPZ3NlYr37hQ/easy/milwaukee-brewers-st-louis-cardinals/1/4555016/1779930690/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs Washington Nationals - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA Conference League] Crystal Palace vs Rayo Vallecano - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/U-b4wbgQDlfMfywAAtd4yw/easy/cleveland-guardians-washington-nationals/1/401815520/1779930169/playlist.m3u8
+https://lb6.wfty.wtf/secure/ERRjxptdr3T3sth7qBxmqA/easy/crystal-palace-rayo-vallecano/1/4712055/1779930697/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Italian Serie C] Union Brescia vs Salernitana - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/fzDZSFF_FsYc3hoxhcqclQ/regular/union-brescia-salernitana/1/4721428/1779930179/playlist.m3u8
+https://lb6.wfty.wtf/secure/VV7q_PwScglLVgi7ee5_Dg/prime/union-brescia-salernitana/1/4721428/1779930700/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 2nd Round] Kamilla Rakhimova vs Karolina Muchova - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/qDny5JQfSrchJBM4fHv64Q/easy/kamilla-rakhimova-karolina-muchova/1/4727159/1779930703/playlist.m3u8
 
