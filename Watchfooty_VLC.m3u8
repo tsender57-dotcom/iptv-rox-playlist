@@ -1,9 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-28 21:11 UTC
+# Last Updated: 2026-05-28 21:21 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [WORLD: Premier League - Playoffs] Littler L. vs Humphries L. - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/LPsNskX4QXmazAv-g0Lr8w/easy/littler-l-humphries-l/1/fd0b8eb1897/1780024300/playlist.m3u8
+https://lb8.wfty.wtf/secure/TpBUBTtSFnCwHQNMoFOHQQ/easy/boston-red-sox-atlanta-braves/1/401815530/1780024903/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 2nd Round] Matteo Arnaldi vs Stefanos Tsitsipas - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.wtf/secure/QecJlCkVxRrP6oBWGm_hlw/easy/matteo-arnaldi-stefanos-tsitsipas/1/4727465/1780024906/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Copa do Brasil Women - 3rd Round] Ferroviária (W) vs UDA (W) - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.wtf/secure/JRhYacL-80j2vNBPpwryMA/regular/ferroviaria-w-uda-w/1/4726201/1780024909/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Copa do Brasil Women - 3rd Round] Clube Atlético Piauiense (W) vs Santos (W) - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.wtf/secure/hYPpJnRh4xlgq5pq6U_kHA/regular/clube-atletico-piauiense-w-santos-w/1/4715244/1780024913/playlist.m3u8
 
