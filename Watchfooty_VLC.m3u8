@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-28 10:11 UTC
+# Last Updated: 2026-05-28 10:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Hanshin Tigers vs Nippon Ham Fighters - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/u7mjC7JzGWNa7poJBLOdjQ/sigma/hanshin-tigers-nippon-ham-fighters/2/4626729/1779984684/playlist.m3u8
+https://lb2.wfty.wtf/secure/FP9IWbmXihxt4hyLBDdSEw/sigma/hanshin-tigers-nippon-ham-fighters/2/4626729/1779985290/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 2nd Round] Facundo Diaz Acosta vs Learner Tien - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.wtf/secure/GLB-CV9AnmEkIINlri3PxA/easy/facundo-diaz-acosta-learner-tien/1/4727462/1779985298/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 2nd Round] Donna Vekic vs Naomi Osaka - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/2OiVkbPkglYmjbbZ2Lt02A/easy/donna-vekic-naomi-osaka/1/4727309/1779984687/playlist.m3u8
+https://lb7.wfty.wtf/secure/pkn_Ye0GzcBkJ79BCaBmoQ/easy/donna-vekic-naomi-osaka/1/4727309/1779985302/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 2nd Round] Iva Jovic vs Emma Navarro - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/D_CAP35b0VapQ1cFgXHwhw/easy/iva-jovic-emma-navarro/1/4727225/1779984690/playlist.m3u8
+https://lb9.wfty.wtf/secure/fFL874BBJokDejKpJaM48A/easy/iva-jovic-emma-navarro/1/4727225/1779985305/playlist.m3u8
 
