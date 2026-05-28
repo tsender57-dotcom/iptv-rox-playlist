@@ -1,27 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-28 17:12 UTC
+# Last Updated: 2026-05-28 17:21 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Detroit Tigers vs Los Angeles Angels - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb9.wfty.wtf/secure/ewQ701bsFwJn3yhUmPmVDg/easy/detroit-tigers-los-angeles-angels/1/4556138/1780010490/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Regionalliga] Lokomotive Leipzig vs Würzburger Kickers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/UAlmJu_VHoTzHyoBsnj97A/regular/lokomotive-leipzig-wurzburger-kickers/1/4715472/1780009908/playlist.m3u8
+https://lb7.wfty.wtf/secure/zRxZyvQfPjRHtzvucE4kuw/regular/lokomotive-leipzig-wurzburger-kickers/1/4715472/1780010494/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Erovnuli Liga] Torpedo Kutaisi vs Gagra Tbilisi - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/TWSkOp4YSTW5equInxFF6Q/regular/torpedo-kutaisi-gagra-tbilisi/1/4655574/1780010497/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 2nd Round] Felix Auger Aliassime vs Roman Andres Burruchaga - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/xUX8LbfpCAmInUxcD9oYXQ/easy/felix-auger-aliassime-roman-andres-burruchaga/1/4727463/1780009916/playlist.m3u8
+https://lb2.wfty.wtf/secure/lPsUIONXGQ1_dRDd9Ub2gQ/easy/felix-auger-aliassime-roman-andres-burruchaga/1/4727463/1780010500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 2nd Round] Francisco Comesana vs Luciano Darderi - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/0oJ2pqkO5Wsd_EqinCn9tQ/easy/francisco-comesana-luciano-darderi/1/4727464/1780009919/playlist.m3u8
+https://lb9.wfty.wtf/secure/zbg-Caj90uxu29AkisVlcQ/easy/francisco-comesana-luciano-darderi/1/4727464/1780010504/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 2nd Round] Aryna Sabalenka vs Elsa Jacquemot - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/Tt_ewc22NzgNJo31gjegkg/easy/aryna-sabalenka-elsa-jacquemot/1/4727326/1780009922/playlist.m3u8
+https://lb9.wfty.wtf/secure/n693NWt26RSexI1OmtRnyw/easy/aryna-sabalenka-elsa-jacquemot/1/4727326/1780010507/playlist.m3u8
 
