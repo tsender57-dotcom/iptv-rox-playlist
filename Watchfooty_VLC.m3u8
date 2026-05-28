@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-28 11:41 UTC
+# Last Updated: 2026-05-28 11:51 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yomiuri Giants vs Fukuoka Hawks - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 2nd Round] Facundo Diaz Acosta vs Learner Tien - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/3udfw5SW76lBSISM-7drZA/sigma/yomiuri-giants-fukuoka-hawks/1/4626760/1779990088/playlist.m3u8
+https://lb7.wfty.wtf/secure/PvK8ETTi40YV9a4lnmnxqQ/easy/facundo-diaz-acosta-learner-tien/1/4727462/1779990688/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Hanshin Tigers vs Nippon Ham Fighters - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/EP5wTct9BBKr1qqdoarMsA/sigma/hanshin-tigers-nippon-ham-fighters/1/4626729/1779990092/playlist.m3u8
+https://lb10.wfty.wtf/secure/TdvjFB4rgJRdjsLeGUfMwA/sigma/hanshin-tigers-nippon-ham-fighters/1/4626729/1779990691/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yakult Swallows vs Seibu Lions - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/GdM1kFCz0_OdVojqse_sVg/sigma/yakult-swallows-seibu-lions/1/4626775/1779990095/playlist.m3u8
+https://lb7.wfty.wtf/secure/xngJUY43YPU90hSMYwSgjw/sigma/yakult-swallows-seibu-lions/1/4626775/1779990694/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yomiuri Giants vs Fukuoka Hawks - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/cqdqTa8x-QT4ill_t_99wQ/sigma/yomiuri-giants-fukuoka-hawks/1/4626760/1779990698/playlist.m3u8
 
