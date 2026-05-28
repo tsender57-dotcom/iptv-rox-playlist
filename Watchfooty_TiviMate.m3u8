@@ -1,21 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-28 22:31 UTC
+# Last Updated: 2026-05-28 22:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs Atlanta Braves - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/zfFP9dNLfs0AtYVyqmOCxg/easy/boston-red-sox-atlanta-braves/1/401815530/1780029078/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [LIV GOLF: LIV Golf Korea - Individual (South Korea)] LIV GOLF: LIV Golf Korea - Individual (South Korea) - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/ue80QqXWJJNPc3p9VGtp8w/sigma/liv-golf-liv-golf-korea-individual-south-korea/1/23_OvUSBiN8/1780029081/playlist.m3u8
+https://lb4.wfty.wtf/secure/KRrU17OR8M7RhnxJ3hLI7g/easy/boston-red-sox-atlanta-braves/1/401815530/1780029676/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CONMEBOL Libertadores] Palmeiras vs Junior FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/ASJmmmqQ0UOQGvhRvZqT-g/easy/palmeiras-junior-fc/1/4690218/1780029084/playlist.m3u8
+https://lb6.wfty.wtf/secure/gBJ5jHEOXM6AK8BMSIByLQ/easy/palmeiras-junior-fc/1/4690218/1780029679/playlist.m3u8
 
