@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-29 19:41 UTC
+# Last Updated: 2026-05-29 19:51 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [French Première Ligue] OL Lyonnes (W) vs Paris FC (W) - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Club Friendlies] Mamelodi Sundowns FC vs RB Leipzig - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/Z37KL6AXyJHjBwgoVG_xbA/regular/lyon-w-paris-fc-w/1/5629370/1780105272/playlist.m3u8
+https://lb10.wfty.wtf/secure/5IsgQzDgzjmcNdQULRrMCQ/regular/mamelodi-sundowns-rb-leipzig/1/5449686/1780105883/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Division 1 Feminine - Final] Lyon (W) vs Paris FC (W) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/Nz295B3uQd6gQx-kfedwng/regular/lyon-w-paris-fc-w/1/4715520/1780105275/playlist.m3u8
+https://lb6.wfty.wtf/secure/cmHhacMcMbtoQCSOhK1zRg/regular/lyon-w-paris-fc-w/1/4715520/1780105886/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Gallagher Prem] Bristol Rugby vs Bath Rugby - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Irish Premier Division] Shelbourne vs Galway United - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/Lk8K2gPt1LCr-ODftLqfNw/easy/bristol-rugby-bath-rugby/1/603060/1780105279/playlist.m3u8
+https://lb5.wfty.wtf/secure/r1URNxexw8zUlvDOgCsHcA/regular/shelbourne-galway-united/1/4633900/1780105890/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Irish Premier Division] Sligo Rovers vs Bohemians - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/j4GJmxYoGZVv7UOtrYM-Xg/regular/sligo-rovers-bohemians/3/4633901/1780105893/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA International Friendly] Bosnia & Herzegovina vs North Macedonia - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/svbYA_NdO8287GTh7_MT0w/easy/bosnia-herzegovina-north-macedonia/1/4712152/1780105282/playlist.m3u8
+https://lb9.wfty.wtf/secure/SFnaFeE33YnxdrqPB1cgjQ/easy/bosnia-herzegovina-north-macedonia/1/4712152/1780105897/playlist.m3u8
 
