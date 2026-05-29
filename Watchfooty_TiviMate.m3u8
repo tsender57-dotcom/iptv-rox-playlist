@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-29 12:11 UTC
+# Last Updated: 2026-05-29 12:22 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Chinese Super League] Liaoning Tieren vs Shanghai Port - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/0QZG7plTPrKRhIQ1Tv3b1Q/regular/liaoning-tieren-shanghai-port/1/4673667/1780078284/playlist.m3u8
+https://lb5.wfty.wtf/secure/Bkj5vrO2ObG-w4TyPNa4Ag/regular/liaoning-tieren-shanghai-port/1/4673667/1780078925/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [China League One] Ningbo FC vs Nantong Zhiyun - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/V7os0ezaKnSWqpP4Ab63aQ/regular/ningbo-fc-nantong-zhiyun/1/4680139/1780078928/playlist.m3u8
 
