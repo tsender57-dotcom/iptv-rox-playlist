@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-30 21:22 UTC
+# Last Updated: 2026-05-30 21:32 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[🔴 LIVE] [03:00 WIB] [Boxing] MVPW Han vs Holm 2 - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -55,7 +55,7 @@ https://ho2.hocloud.cfd/live/6/stream.m3u8?expires=1780176604&token=f141617583e2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ho1.hocloud.cfd/live/5/stream.m3u8?expires=1780176719&token=3345478ac6862133ace928b1eebdfeb47bf38637b0d0d569f0aa5485c98fea7d
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[04:30 WIB] [MMA] BKFC90: Tierney vs. Franco - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[🔴 LIVE] [04:30 WIB] [MMA] BKFC90: Tierney vs. Franco - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
