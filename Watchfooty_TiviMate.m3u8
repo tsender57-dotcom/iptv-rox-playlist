@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-30 13:41 UTC
+# Last Updated: 2026-05-30 13:52 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Song vs. Figueiredo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/EkWGjbEnZYQuYV-sbN9O4A/delta/live-event_ufc-fight-night-song-vs-figueiredo-live-stream/1/600058517/1780170074/playlist.m3u8
+https://lb7.wfty.wtf/secure/dKyD5pz0XkNe3v9powDNeg/delta/live-event_ufc-fight-night-song-vs-figueiredo-live-stream/1/600058517/1780170708/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [IIHF World Championship] Switzerland vs Norway - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/QZ1evKGvTXORsSVAEzyJyw/regular/switzerland-norway/1/4727934/1780170077/playlist.m3u8
+https://lb5.wfty.wtf/secure/Tt1fgkailQNFwgUsRxtwAA/easy/switzerland-norway/1/4727934/1780170711/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 3rd Round] Matteo Berrettini vs Francisco Comesana - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/_rBRuTSDd7z5lclTc3glRw/easy/matteo-berrettini-francisco-comesana/1/4727974/1780170080/playlist.m3u8
+https://lb6.wfty.wtf/secure/_ZMmM16ifwZcx-nJeSOKhw/easy/matteo-berrettini-francisco-comesana/1/4727974/1780170715/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA International Friendly] Zimbabwe vs India - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/CU1uVcjllaxMky_RupabZQ/regular/zimbabwe-india/1/4728298/1780170084/playlist.m3u8
+https://lb6.wfty.wtf/secure/8mP2STVbjUvtx4A_GCdrkQ/regular/zimbabwe-india/1/4728298/1780170718/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Swedish Allsvenskan] AIK vs Sirius - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/bEzbO17ovFxGS1Bg2dMESw/regular/aik-solna-sirius/1/5107509/1780170721/playlist.m3u8
 
