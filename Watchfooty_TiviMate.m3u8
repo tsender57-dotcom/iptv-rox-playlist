@@ -1,39 +1,51 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-30 20:51 UTC
+# Last Updated: 2026-05-30 21:01 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Friendly International] Italy vs Belgium - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/MbLCu2jOsdEiUrMfLAz5_Q/regular/italy-belgium/1/4727892/1780195876/playlist.m3u8
+https://lb9.wfty.wtf/secure/Y1km8NbCcalWYtCzYex3NA/regular/italy-belgium/1/4727892/1780196488/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Baltimore Orioles vs Toronto Blue Jays - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/UuRUUcai5Ult9M9zSARgrw/easy/baltimore-orioles-toronto-blue-jays/1/4556206/1780195879/playlist.m3u8
+https://lb4.wfty.wtf/secure/wSBq3bfmP_Dw-PkDhDm7XA/easy/baltimore-orioles-toronto-blue-jays/1/4556206/1780196491/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs Boston Red Sox - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Texas Rangers vs Kansas City Royals - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/rupeW13b6rIv1pRsn2_ZFQ/easy/cleveland-guardians-boston-red-sox/1/4555419/1780195882/playlist.m3u8
+https://lb4.wfty.wtf/secure/psTR7vUYOTyWKC_v5HQOtA/easy/texas-rangers-kansas-city-royals/1/401815559/1780196494/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Bahia vs Botafogo - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Houston Astros vs Milwaukee Brewers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/kb7yTokar-PWlO2xlYv7Og/easy/bahia-botafogo/1/4632774/1780195886/playlist.m3u8
+https://lb5.wfty.wtf/secure/mAz128VhIJNAOgnlBhU-XQ/easy/houston-astros-milwaukee-brewers/1/401815560/1780196498/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Tampa Bay Rays vs Los Angeles Angels - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/ghq_jv7If2fmHJEqRt4rSQ/easy/tampa-bay-rays-los-angeles-angels/1/401815550/1780196501/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Gremio vs Corinthians - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/RbpQ70jrDoRAheWny3k7mw/easy/gremio-corinthians/1/4632776/1780195889/playlist.m3u8
+https://lb9.wfty.wtf/secure/3N0b0fuSZHIjPHwg0xaeFg/easy/gremio-corinthians/1/4632776/1780196504/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie A] Bahia vs Botafogo - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb8.wfty.wtf/secure/nFkZgnAm1iCtPts2EOLerg/easy/bahia-botafogo/1/4632774/1780196508/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Portland Thorns (W) vs Utah Royals (W) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/Ryrkh_pS0CenrARGhlYH1w/easy/portland-thorns-utah-royals/1/5161539/1780195893/playlist.m3u8
+https://lb6.wfty.wtf/secure/TzCkhxOrtaFl2zpW9KbSuA/easy/portland-thorns-utah-royals/1/5161539/1780196511/playlist.m3u8
 
