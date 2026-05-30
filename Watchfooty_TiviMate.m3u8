@@ -1,21 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-30 18:51 UTC
+# Last Updated: 2026-05-30 19:01 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA International Friendly] Jamaica vs Nigeria - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/i2lqA0GWC6nEAjP3Fx2KZw/regular/nigeria-jamaica/1/4728328/1780188698/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Boxing] Dmitry Bivol vs. Michael Eifert - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/wr6mjZ-FnkhkNkeDzQSwmg/delta/live-event_dmitry-bivol-vs-michael-eifert-live-stream/1/EVP5377337/1780188702/playlist.m3u8
+https://lb2.wfty.wtf/secure/UxA8CQy3YirF1QEJgE8q4w/regular/jamaica-nigeria/1/4728328/1780189290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NWSL] Kansas City Current (W) vs Boston Legacy FC (W) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb9.wfty.wtf/secure/2c7oLA9pYw6hpuse3cKDxg/regular/kansas-city-current-boston-legacy-fc/1/5161538/1780188705/playlist.m3u8
+https://lb10.wfty.wtf/secure/rNg12FkMIjMZGbKGXZcbow/echo/kansas-city-w-vs-boston-legacy-w-football-1508443/2/5161538/1780189294/playlist.m3u8
 
