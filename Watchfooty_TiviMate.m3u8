@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-30 09:31 UTC
+# Last Updated: 2026-05-30 09:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Song vs. Figueiredo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/Q3RCvxTITV7yyVTcCdGiow/pro/ufc-fight-night-song-vs-figueiredo/2/600058517/1780155084/playlist.m3u8
+https://lb1.wfty.wtf/secure/8VPxeUSO66heS7sDsThtAA/pro/ufc-fight-night-song-vs-figueiredo/2/600058517/1780155695/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Men - 3rd Round] Francisco Cerundolo vs Zachary Svajda - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb7.wfty.wtf/secure/YqUCJ7pZkVNqaOraR90NDg/easy/francisco-cerundolo-zachary-svajda/1/4727976/1780155698/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 3rd Round] Iva Jovic vs Naomi Osaka - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/Hgk40plPjSIQKfxInV-JOA/easy/iva-jovic-naomi-osaka/1/4727983/1780155088/playlist.m3u8
+https://lb1.wfty.wtf/secure/cX3YTzPjKr-JpEUDcvqRnA/easy/iva-jovic-naomi-osaka/1/4727983/1780155702/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [K League 2] Busan I'Park vs Paju Frontier - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros - Women - 3rd Round] Maria Sakkari vs Maja Chwalinska - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/Nhp-4EwBNBgE7aIg-ShCrw/regular/busan-i-park-paju-frontier/1/5155809/1780155091/playlist.m3u8
+https://lb3.wfty.wtf/secure/3S2bi_rrerlVK2wAJBqOVQ/easy/maria-sakkari-maja-chwalinska/1/4727969/1780155705/playlist.m3u8
 
