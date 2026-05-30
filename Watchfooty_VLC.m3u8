@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-30 06:42 UTC
+# Last Updated: 2026-05-30 06:51 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [J. League 100 Year Vision League Placement Matches] Sanfrecce vs Kawasaki - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb10.wfty.wtf/secure/EXNebaSUNgFWzJayCyOEWQ/regular/hiroshima-sanfrecce-kawasaki-frontale/1/5667111/1780145471/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Fukuoka Hawks vs Hiroshima Toyo Carp - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/F3xoDWAW_-an9KDUf5O5bQ/sigma/fukuoka-hawks-hiroshima-toyo-carp/1/4626721/1780144911/playlist.m3u8
+https://lb7.wfty.wtf/secure/Y_cwRSGInI_MSxiAZRIDMw/sigma/fukuoka-hawks-hiroshima-toyo-carp/1/4626721/1780145474/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Nippon Ham Fighters vs Yomiuri Giants - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/xkXq4CFFmVY68De2zC3w8Q/regular/nippon-ham-fighters-yomiuri-giants/1/4626783/1780144914/playlist.m3u8
+https://lb2.wfty.wtf/secure/5yzBnZ4iyVI6qQE8MUymuA/regular/nippon-ham-fighters-yomiuri-giants/1/4626783/1780145477/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [J1 League - Placement Playoffs] Hiroshima Sanfrecce vs Kawasaki Frontale - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/S5xLi3CqVLSMm6YHlT072A/regular/hiroshima-sanfrecce-kawasaki-frontale/1/4726695/1780144920/playlist.m3u8
+https://lb3.wfty.wtf/secure/GiKYWLt_XqPcnUdkhK1Cpg/regular/hiroshima-sanfrecce-kawasaki-frontale/1/4726695/1780145480/playlist.m3u8
 
