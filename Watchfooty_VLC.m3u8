@@ -1,33 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-05-31 18:32 UTC
+# Last Updated: 2026-05-31 18:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [IIHF World Championship] Switzerland vs Finland - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/LroZ2cnR3MSmjPHko16fdA/easy/switzerland-finland/1/4728395/1780273897/playlist.m3u8
+https://lb7.wfty.wtf/secure/LBPn80M2o8WXRPxTOaUeJQ/easy/switzerland-finland/1/4728395/1780274478/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Baltimore Orioles vs Toronto Blue Jays - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/uASPajNerJa1wGsQ2ZHAoQ/easy/baltimore-orioles-toronto-blue-jays/1/401815571/1780273900/playlist.m3u8
+https://lb8.wfty.wtf/secure/fKYH4JprB0_pW2a5hP1OSw/easy/baltimore-orioles-toronto-blue-jays/1/401815571/1780274481/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs Boston Red Sox - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/zBaQZBfCDQlo9B3Xyb1xXg/easy/cleveland-guardians-boston-red-sox/1/4556036/1780273907/playlist.m3u8
+https://lb3.wfty.wtf/secure/9eBM6HJ27-UP8FidilqgPg/easy/cleveland-guardians-boston-red-sox/1/4556036/1780274485/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Mets vs Miami Marlins - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/JkXWqDdqNC1hQ4muUT1N5A/easy/new-york-mets-miami-marlins/1/401815568/1780273911/playlist.m3u8
+https://lb6.wfty.wtf/secure/isyMM3-eiTVd_5VSOsf8UA/easy/new-york-mets-miami-marlins/1/401815568/1780274488/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros (Men)] Jakub Mensik vs Andrey Rublev - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb10.wfty.wtf/secure/QME30FkxyNUUtpHXi0ZQsg/easy/jakub-mensik-andrey-rublev/1/4728244/1780273914/playlist.m3u8
+https://lb6.wfty.wtf/secure/5ZAmrO43dtLJEo6AtSCdfw/easy/jakub-mensik-andrey-rublev/1/4728244/1780274492/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros (Men)] Casper Ruud vs João Fonseca - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/P4yY63-wHhmxxW55EsFKmw/easy/casper-ruud-joao-fonseca/1/4728224/1780274496/playlist.m3u8
 
