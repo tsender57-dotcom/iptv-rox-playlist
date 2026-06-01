@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-01 23:01 UTC
+# Last Updated: 2026-06-01 23:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Tampa Bay Rays vs Detroit Tigers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/Lju9J22biOUfkoJA31CUtA/easy/tampa-bay-rays-detroit-tigers/1/401815580/1780376483/playlist.m3u8
+https://lb10.wfty.wtf/secure/XYC1ah-KW6oaFjWKm-vyLQ/easy/tampa-bay-rays-detroit-tigers/1/401815580/1780377070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Washington Nationals vs Miami Marlins - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb8.wfty.wtf/secure/Nstq2AuRQHI2bTwpNr9RTg/regular/washington-nationals-miami-marlins/1/4556057/1780376486/playlist.m3u8
+https://lb10.wfty.wtf/secure/5_K5C5hGOUpdoEDww5hBFQ/easy/washington-nationals-miami-marlins/1/4556057/1780377073/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [LigaPro Ecuador] Leones vs Macará - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.wtf/secure/_GHMjE9BLwjBu9WTuPpBig/regular/leones-macara/1/401859711/1780377077/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros (Men)] Frances Tiafoe vs Matteo Arnaldi - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/CL_j4ybHcXLcsfyEac29MA/easy/frances-tiafoe-matteo-arnaldi/1/4728434/1780376489/playlist.m3u8
+https://lb4.wfty.wtf/secure/v55jagPrZd9gDiFgeAWhrQ/easy/frances-tiafoe-matteo-arnaldi/1/4728434/1780377080/playlist.m3u8
 
