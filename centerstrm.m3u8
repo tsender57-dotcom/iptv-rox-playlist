@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[01:45 WIB] [Football] Ghana at Wales (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[01:45 WIB] [Football] Ghana at Wales (STRMCNTR)
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] Detroit Tigers at Tampa Bay Rays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] Detroit Tigers at Tampa Bay Rays (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=E5ImRdo9xxt9Pu6QNggPjCvoh0jTor_FKF24KQlP1K0&e=1780425109
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[23:00 WIB] [Football] Belgium at Croatia (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[23:00 WIB] [Football] Belgium at Croatia (STRMCNTR)
+https://edgestreams.pro/hls/dazhfiach15.m3u8?st=ATqiL54-wjy7E0YhU1hQp-QjUhS3ASzEPWE4c8GO-Zs&e=1780425701
+#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] San Diego Padres at Philadelphia Phillies (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] San Diego Padres at Philadelphia Phillies (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=3pp88ZMJadwI87vlB54FfbRuOQ-RcjDZ029QcRyyCRA&e=1780425110
+https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?st=v9BhTKPDuyDurDkhwKFqXOwr219J4o8WRX_o5or5QBc&e=1780425702
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[01:45 WIB] [Football] Ghana at Wales (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[01:45 WIB] [Football] Ghana at Wales (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=f4xr4o4E6swNrUyGU2RbD-3oYuplEjr_Zw6Va40ONeo&e=1780425703
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[23:00 WIB] [Football] Belgium at Croatia (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[23:00 WIB] [Football] Belgium at Croatia (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=D52feisDEfNZr-bnA2Y_2WObfhvM5p6rB8-zPZzsLnA&e=1780425704
