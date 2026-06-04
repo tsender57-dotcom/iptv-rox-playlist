@@ -1,45 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-04 01:02 UTC
+# Last Updated: 2026-06-04 01:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] San Antonio Spurs vs New York Knicks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/t5UPqCpq3_O8hFk4uDTmvw/easy/san-antonio-spurs-new-york-knicks/1/401859963/1780556501/playlist.m3u8
+https://lb6.wfty.wtf/secure/94TH9mnyzJP1anDUi73c-w/easy/san-antonio-spurs-new-york-knicks/1/401859963/1780557095/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Yankees vs Cleveland Guardians - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/vX454M1h2N-Km0w9sKPbDg/easy/new-york-yankees-cleveland-guardians/1/401815605/1780556504/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs Baltimore Orioles - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/GKM4zGDjsHjDmL-oZZfsLA/easy/boston-red-sox-baltimore-orioles/1/401815604/1780556507/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Atlanta Braves vs Toronto Blue Jays - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/F9gn18_MYjUZZvT_kuvzag/easy/atlanta-braves-toronto-blue-jays/1/401815610/1780556511/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Houston Astros vs Pittsburgh Pirates - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/VOpYNmPp3ygfZGrOX9_SjA/regular/houston-astros-pittsburgh-pirates/1/4556218/1780556514/playlist.m3u8
+https://lb4.wfty.wtf/secure/N7rnSGeirV7VivSJHVPoBw/easy/new-york-yankees-cleveland-guardians/1/401815605/1780557098/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago Cubs vs Athletics - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/_D5fxu_xe5pYOejwenIY_A/regular/chicago-cubs-athletics/1/401815611/1780556518/playlist.m3u8
+https://lb2.wfty.wtf/secure/JL-95M-ufFF5ibk6SG0xpA/easy/chicago-cubs-athletics/1/401815611/1780557102/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA International Friendly] Panama vs Dominican Republic - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Boston Red Sox vs Baltimore Orioles - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/7XmdaAwQ6ya3wKtIhIKI-g/easy/panama-dominican-republic/1/4712128/1780556524/playlist.m3u8
+https://lb1.wfty.wtf/secure/M9s0ZE7oY8KJT3KWhfn49w/easy/boston-red-sox-baltimore-orioles/1/401815604/1780557105/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Atlanta Braves vs Toronto Blue Jays - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.wtf/secure/ICLEzajIlFLmtwuyXPXw5Q/easy/atlanta-braves-toronto-blue-jays/1/401815610/1780557108/playlist.m3u8
 
