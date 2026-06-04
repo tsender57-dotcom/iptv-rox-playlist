@@ -1,21 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-04 03:21 UTC
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] San Antonio Spurs vs New York Knicks - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/TK9qgw-v-6ofwHLVI1TPfQ/easy/san-antonio-spurs-new-york-knicks/1/401859963/1780564877/playlist.m3u8
+# Last Updated: 2026-06-04 03:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Arizona Diamondbacks vs Los Angeles Dodgers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.wtf/secure/uEePxeFqr84vncx6RGMQ-w/easy/arizona-diamondbacks-los-angeles-dodgers/1/401815617/1780564880/playlist.m3u8
+https://lb5.wfty.wtf/secure/HEHJJDw9sT_bKwmdRXOPSQ/easy/arizona-diamondbacks-los-angeles-dodgers/1/401815617/1780565480/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Houston Astros vs Pittsburgh Pirates - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [LMB] Saraperos de Saltillo vs Sultanes de Monterrey - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/MHjeO1mINyKT4qomoEWchw/easy/houston-astros-pittsburgh-pirates/1/4556218/1780564886/playlist.m3u8
+https://lb1.wfty.wtf/secure/HdeX_NbUAhoNZ3k0v6bshg/regular/saraperos-de-saltillo-sultanes-de-monterrey/1/4729046/1780565486/playlist.m3u8
 
