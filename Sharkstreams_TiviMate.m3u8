@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-06 15:41 UTC
+# Last Updated: 2026-06-06 15:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[07:30 WIB] [NBA] New York Knicks vs San Antonio Spurs - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba1.lefiles.cfd/live/spurs/stream.m3u8?expires=1780707509&token=fc5a8dc876eac2f76f65b43132217f6ea34b3e5cc9d0ce9b1d71147987669207
+https://lba1.lefiles.cfd/live/spurs/stream.m3u8?expires=1780707510&token=a171d6254c46bb55f7d68805e603f9516cddba80832b14831b9b2fe8e276d109
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Shark - Random Events",[08:00 WIB] [CFL] Winnipeg Blue Bombers vs Calgary Stampeders - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee1.lefiles.cfd/live/cfl/stream.m3u8?expires=1780707768&token=2448c6194299c84182fc16d47c84030c5903fe257562dee7b833b11503c073ea
+https://lee1.lefiles.cfd/live/cfl/stream.m3u8?expires=1780707823&token=c8b9a701980bd0ef9379b95b0381d2df4294d471a4aacfe3f9ca0c961e251167
 
