@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-06 17:41 UTC
+# Last Updated: 2026-06-06 17:52 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [European League (M)] Luxembourg vs Netherlands - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/avRL_sxCcUQBAMnQ5BhQ4g/regular/luxembourg-netherlands/1/4731261/1780789911/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Detroit Tigers vs Seattle Mariners - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/XJuuZ2b8-Hqgk_uwchj85g/easy/detroit-tigers-seattle-mariners/1/4555085/1780789305/playlist.m3u8
+https://lb5.wfty.wtf/secure/dpcjYAQbXX6vfnGcgyn3ag/easy/detroit-tigers-seattle-mariners/1/4555085/1780789914/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [DENMARK: Nordic Darts Masters] van Gerwen M. vs Tingstrom V. - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/nIc4A0GxQQrJxcPXnaTHuw/easy/van-gerwen-m-tingstrom-v/1/49d94931d30/1780789308/playlist.m3u8
+https://lb4.wfty.wtf/secure/WJIUDf9_9tzBVjvkITVmrw/easy/van-gerwen-m-tingstrom-v/1/49d94931d30/1780789917/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [United Rugby Championship] Leinster vs Stormers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/cjieJ0V7muoHbFo8XLUfhg/regular/leinster-stormers/1/602677/1780789312/playlist.m3u8
+https://lb5.wfty.wtf/secure/fm9fbkx0t0p1KBAyMFIYIg/regular/leinster-stormers/1/602677/1780789921/playlist.m3u8
 
