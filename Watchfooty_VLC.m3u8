@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-06 06:41 UTC
+# Last Updated: 2026-06-06 06:53 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] Kashima Antlers vs Vissel Kobe - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/ftW-eC-SMte4O4Vd3CYIuw/regular/kashima-antlers-vissel-kobe/1/401873694/1780749677/playlist.m3u8
+https://lb3.wfty.wtf/secure/thxnwsRb_gRhCEtJdH6ZWQ/regular/kashima-antlers-vissel-kobe/1/401873694/1780750413/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Japanese J.League] JEF United Ichihara-Chiba vs Avispa Fukuoka - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/yLy0OWpjrpueB6JJvXAHLA/regular/jef-united-ichihara-chiba-avispa-fukuoka/1/401873673/1780749680/playlist.m3u8
+https://lb4.wfty.wtf/secure/iSMJroDgu9KxIEGXRK3VrQ/regular/jef-united-ichihara-chiba-avispa-fukuoka/1/401873673/1780750416/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [J. League 100 Year Vision League Placement Matches] JEF United Chiba vs Avispa Fukuoka - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/JzKNzFN_k8JBVouhXapm-A/regular/jef-united-ichihara-chiba-avispa-fukuoka/1/5667134/1780749683/playlist.m3u8
+https://lb5.wfty.wtf/secure/sfjgwsFOYQhpXysqJrnd2Q/regular/jef-united-ichihara-chiba-avispa-fukuoka/1/5667134/1780750420/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [J. League 100 Year Vision League Playoff] Kashima Antlers vs Vissel Kobe - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.wtf/secure/mCeWD7lWjhhZ5GmyaN8Ghg/regular/kashima-antlers-vissel-kobe/1/5667104/1780750423/playlist.m3u8
 
