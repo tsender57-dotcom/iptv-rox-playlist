@@ -1,51 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-06 02:02 UTC
+# Last Updated: 2026-06-06 02:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] San Antonio Spurs vs New York Knicks - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/dLBKhXcu0HKYTX6hASE_Fg/easy/san-antonio-spurs-new-york-knicks/2/401859964/1780732907/playlist.m3u8
+https://lb2.wfty.wtf/secure/QoeD-YAZWg9QiF7ydxs-xQ/easy/san-antonio-spurs-new-york-knicks/1/401859964/1780733484/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Texas Rangers vs Cleveland Guardians - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/zw6KQL52hL3RDzXfRPH5EQ/easy/texas-rangers-cleveland-guardians/1/401815636/1780732910/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Toronto Blue Jays vs Baltimore Orioles - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/F0N5sPfHxzEd6plYSKVAkw/easy/toronto-blue-jays-baltimore-orioles/1/401815628/1780732917/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Houston Astros vs Athletics - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/R6l5jYreyO3PSbd0xBdy1g/easy/houston-astros-athletics/1/401815634/1780732921/playlist.m3u8
+https://lb5.wfty.wtf/secure/Ku5w59MbNMlzMIy4muivyg/easy/texas-rangers-cleveland-guardians/1/401815636/1780733490/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] St. Louis Cardinals vs Cincinnati Reds - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/8FXvWDh3HJF_ODnAiPCSJg/easy/st-louis-cardinals-cincinnati-reds/1/401815635/1780732924/playlist.m3u8
+https://lb2.wfty.wtf/secure/ty1PnZ9L5LVvZvr-0KvFYw/easy/st-louis-cardinals-cincinnati-reds/1/401815635/1780733494/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Arizona Diamondbacks vs Washington Nationals - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Houston Astros vs Athletics - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/4mIE-PPDFXvNYkH6sYn-TQ/regular/arizona-diamondbacks-washington-nationals/1/401815642/1780732928/playlist.m3u8
+https://lb3.wfty.wtf/secure/faOSOm3tVAikiOr8EnYkWQ/easy/houston-astros-athletics/1/401815634/1780733497/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS NEXT Pro] Vancouver Whitecaps II vs Portland Timbers II - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Volleyball Nations League (W)] France (W) vs USA (W) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/RVOmwVB4TraGu-fePxQX_Q/regular/vancouver-whitecaps-ii-portland-timbers-ii/1/4659265/1780732931/playlist.m3u8
+https://lb6.wfty.wtf/secure/rmoSS0ykhUCep_G2dWJ9mw/regular/france-w-usa-w/2/4668216/1780733501/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA International Friendly] Haiti vs Peru - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Events] WWE: Friday Night Smackdown - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/7F6N90jW_7Kg64js_Sn6Sg/easy/haiti-peru/1/4714665/1780732938/playlist.m3u8
+https://lb4.wfty.wtf/secure/aGJhkb8dUm-nA9f-b3U9zg/easy/wwe-friday-night-smackdown/1/85f84c50/1780733504/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA International Friendly] Puerto Rico vs Saudi Arabia - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.wtf/secure/Rc-Pg08ZPORMbCcpKnoNqQ/prime/puerto-rico-saudi-arabia/1/401873680/1780733507/playlist.m3u8
 
