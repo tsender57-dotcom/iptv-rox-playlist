@@ -1,33 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-06 14:01 UTC
+# Last Updated: 2026-06-06 14:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA International Friendly] Belgium vs Tunisia - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/zNIiwna6mWVrLZrL8A5N3w/easy/belgium-tunisia/1/5154126/1780776091/playlist.m3u8
+https://lb3.wfty.wtf/secure/9jt3k3_AsLRSwoMs39Pgxg/easy/belgium-tunisia/1/5154126/1780776685/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA International Friendly] Lithuania vs Latvia - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.wtf/secure/8XC9jBWf0cHDjCHiphQR8w/regular/lithuania-latvia/1/5418301/1780776094/playlist.m3u8
+https://lb6.wfty.wtf/secure/n3bfh5ilP01EBoOO9rWi3w/regular/lithuania-latvia/1/5418301/1780776688/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [United Rugby Championship] Glasgow Warriors vs Bulls - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/ALQlaiHNWx8isS8P_71UoQ/regular/glasgow-warriors-bulls/1/602676/1780776097/playlist.m3u8
+https://lb3.wfty.wtf/secure/-EeuZZOQQ0lMdWc0JOn_dA/regular/glasgow-warriors-bulls/1/602676/1780776692/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros (Women)] Maja Chwalinska vs Mirra Andreeva - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Ettan Soedra] Jönköping S. vs Trollhättan FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.wtf/secure/8BHj_uo5o-Ufoeuh4toCbg/easy/maja-chwalinska-mirra-andreeva/1/4731305/1780776101/playlist.m3u8
+https://lb3.wfty.wtf/secure/XlDU93oz-EIV06cQUI3AmA/regular/jonkoping-s-trollhattan-fc/1/5127841/1780776696/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Baltic Cup - Semi Finals] Lithuania vs Latvia - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/aRiS11-qujgUAc7pVgvKJA/regular/lithuania-latvia/1/4685977/1780776104/playlist.m3u8
+https://lb6.wfty.wtf/secure/qENBeCe3HiFWytSjVru6DQ/regular/lithuania-latvia/1/4685977/1780776699/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Roland Garros (Women)] Maja Chwalinska vs Mirra Andreeva - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.wtf/secure/Tjq9PQm2461A8p6G7Cr-MQ/easy/maja-chwalinska-mirra-andreeva/1/4731305/1780776702/playlist.m3u8
 
