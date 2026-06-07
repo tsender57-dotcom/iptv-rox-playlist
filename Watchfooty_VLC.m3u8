@@ -1,21 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-07 05:41 UTC
+# Last Updated: 2026-06-07 05:51 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Yakult Swallows vs Nippon Ham Fighters - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.wtf/secure/RRd70JXM0oTjJgYkSTmjmg/regular/yakult-swallows-nippon-ham-fighters/1/4626790/1780833096/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Chunichi Dragons vs Seibu Lions - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.wtf/secure/8N1ziGqzKoGzLswvaCSdww/regular/chunichi-dragons-seibu-lions/1/4626435/1780832480/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [J2 League - Placement Playoffs] Zweigen Kanazawa vs Thespa Gunma - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.wtf/secure/cL_c4FZbCaMmBKe3owLkwA/regular/zweigen-kanazawa-thespa-gunma/1/4728743/1780832483/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [J. League 2/3 100 Year Vision League Placement Matches] Zweigen Kanazawa vs Thespa Gunma - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.wtf/secure/ljTBtPJBopQ_Zv4cwuTHRA/regular/zweigen-kanazawa-thespa-gunma/1/5729890/1780832487/playlist.m3u8
+https://lb6.wfty.wtf/secure/c1aHhOE1fcDTWSMa9FXDGg/regular/chunichi-dragons-seibu-lions/1/4626435/1780833100/playlist.m3u8
 
