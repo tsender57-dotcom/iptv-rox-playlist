@@ -1,26 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] Boston Red Sox at Tampa Bay Rays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] Boston Red Sox at Tampa Bay Rays (STRMCNTR)
+#EXTINF:-1 tvg-chno="1" tvg-id="WNBA.dummy.us" tvg-name="[06:00 WIB] [Basketball] New York Liberty at Connecticut Sun (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[06:00 WIB] [Basketball] New York Liberty at Connecticut Sun (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?st=y5NE1nbAZz3TrXhxqixwSze3TNVsESjFuPhkupIsg68&e=1780944702
-#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] New York Yankees at Cleveland Guardians (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] New York Yankees at Cleveland Guardians (STRMCNTR)
+https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=Fspoqh5ZyeJASqu8ED4zYAZdr6M1Ar29Nybl9w4d0RY&e=1780945295
+#EXTINF:-1 tvg-chno="2" tvg-id="WNBA.dummy.us" tvg-name="[06:00 WIB] [Basketball] Indiana Fever at Washington Mystics (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[06:00 WIB] [Basketball] Indiana Fever at Washington Mystics (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=n30lR7qBazzGDzLbmvcGDRrTM0U60Y66lps0Uuam9_M&e=1780944704
-#EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:35 WIB] [Baseball] Seattle Mariners at Baltimore Orioles (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:35 WIB] [Baseball] Seattle Mariners at Baltimore Orioles (STRMCNTR)
+https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=gCrDQ4KWgNpoNfAbczKcfflYxBFhOKag72F2cAb1JW0&e=1780945296
+#EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] Boston Red Sox at Tampa Bay Rays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] Boston Red Sox at Tampa Bay Rays (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/dazhfiach15.m3u8?st=ZJYeVuBQQEGIQTxjJTXp9BVRRlZRgNE6ywVfncMzbpU&e=1780944704
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[02:10 WIB] [Football] Northern Ireland at France (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:10 WIB] [Football] Northern Ireland at France (STRMCNTR)
+https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=_ZIy1kcvvLY_O39gqnUVzN8TW1aQn1n0Or-ShtR9OB8&e=1780945297
+#EXTINF:-1 tvg-chno="4" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] New York Yankees at Cleveland Guardians (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] New York Yankees at Cleveland Guardians (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=2p_kLB0aYiIe_gZ3XBhDXSmL4wcy91AokqRA46pnuqg&e=1780944705
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[01:45 WIB] [Football] Uzbekistan at Netherlands (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[01:45 WIB] [Football] Uzbekistan at Netherlands (STRMCNTR)
+https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=X9_QPSQ6ENBH72_2dESEa7C9UzxsQ1pGQPBc19W0adA&e=1780945298
+#EXTINF:-1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:35 WIB] [Baseball] Seattle Mariners at Baltimore Orioles (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:35 WIB] [Baseball] Seattle Mariners at Baltimore Orioles (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=hKCs8ymfAGVI-g2te9GVNmBMNOLMzc3Mt7w6WWY_nJY&e=1780944706
+https://edge2caster.pro/hls/dazhfiach15.m3u8?st=6kp4rX0rmp7QgwuCUa2cbbycithxwSwrEuspZA7T3tI&e=1780945298
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[02:10 WIB] [Football] Northern Ireland at France (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:10 WIB] [Football] Northern Ireland at France (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=EpMV4DHuBRslRLAb1p2DVDEIGgs8kQGue0q5gg6pQoI&e=1780945299
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[01:45 WIB] [Football] Uzbekistan at Netherlands (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[01:45 WIB] [Football] Uzbekistan at Netherlands (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=zsZfmluBPLjS_Fp1-E7HOZkYuDW43kvpnC3Dzqij1w4&e=1780945300
