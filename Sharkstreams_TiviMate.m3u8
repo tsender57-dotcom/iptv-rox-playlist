@@ -1,15 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-08 01:21 UTC
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Shark - UFC",[04:00 WIB] [UFC] UFC Fight Night: Muhammad v. Bonfim - SHRK
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-#EXTVLCOPT:http-origin=https://sharkstreams.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba3.lefiles.cfd/live/ufc/stream.m3u8?expires=1780797644&token=85d39515200e47a477363b99555d974fbfb5e481a6a168cd4ee4cb1836004213
+# Last Updated: 2026-06-08 01:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[07:00 WIB] [NHL] Carolina Hurricanes vs Vegas Golden Knights - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba4.lefiles.cfd/live/carolina/stream.m3u8?expires=1780797654&token=e88bb2943943b801f5bd8774b3bbcb2e0e76df9a9ff3ce65f037e175ef156f9e
+https://lba4.lefiles.cfd/live/carolina/stream.m3u8?expires=1780797664&token=b86ca7c51d117c3e37b75d25ac6112c172694b518844c8beb415f0da45b30126
 
