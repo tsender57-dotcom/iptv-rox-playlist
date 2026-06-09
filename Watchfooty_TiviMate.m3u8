@@ -1,27 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-09 01:31 UTC
+# Last Updated: 2026-06-09 01:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [NBA] New York Knicks vs San Antonio Spurs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/oYw2N9gkUq5jwtUZsEV8oA/pro/new-york-knicks-san-antonio-spurs/2/401859965/1780990301/playlist.m3u8
+https://lb5.wfty.st/secure/wXS6mgpRLyUOqf2upPdfUw/pro/new-york-knicks-san-antonio-spurs/2/401859965/1780990880/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs New York Yankees - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/hvkOTaucW4MdOL982nBkbA/easy/cleveland-guardians-new-york-yankees/1/401815674/1780990308/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Connecticut Sun vs New York Liberty - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/rPaBqrsHaBzEUox_RVvMwg/delta/live_wnba_connecticut-liberty-live-streaming-1210858929/1/4659707/1780990312/playlist.m3u8
+https://lb3.wfty.st/secure/O5e9xMlZryHNzH1nYOZdKg/easy/cleveland-guardians-new-york-yankees/1/401815674/1780990887/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Washington Mystics vs Indiana Fever - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/3p10VQjLnpnW88r_diVoEA/pro/washington-mystics-indiana-fever/2/4659706/1780990315/playlist.m3u8
+https://lb6.wfty.st/secure/4VzNetYSBnDRVnZLrT71-g/pro/washington-mystics-indiana-fever/2/4659706/1780990890/playlist.m3u8
 
