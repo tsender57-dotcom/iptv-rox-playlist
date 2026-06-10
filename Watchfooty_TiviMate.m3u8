@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-10 13:41 UTC
+# Last Updated: 2026-06-10 14:01 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [South African Premiership Promotion/Relegation Playoffs] Cape Town City FC vs Magesi FC - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/2VjRFrSlkP27AYy90vgUEA/regular/cape-town-city-fc-magesi-fc/1/401873242/1781120482/playlist.m3u8
+https://lb1.wfty.st/secure/LUY2-igDYjdnZjnuiwFT-g/regular/cape-town-city-fc-magesi-fc/1/401873242/1781121689/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [South African Premier Division] Cape Town City FC vs Magesi FC - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.st/secure/yRYBcXpL9urJAJh7LHUAZw/regular/cape-town-city-fc-magesi-fc/1/5666790/1781121693/playlist.m3u8
 
