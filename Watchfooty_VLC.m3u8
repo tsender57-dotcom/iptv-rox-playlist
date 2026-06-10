@@ -1,21 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-10 19:32 UTC
+# Last Updated: 2026-06-10 19:41 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Volleyball Nations League] Serbia vs Argentina - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/1ZXAkE6QkT4KEbZgH0QXQw/regular/serbia-argentina/1/4668174/1781142087/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Tampa Bay Rays vs Boston Red Sox - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/LNMtTA3bZW_35LiN56a0rw/regular/tampa-bay-rays-boston-red-sox/1/401815697/1781142090/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs New York Yankees - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/xpnoOIZe6xl0n2NS6YGMDA/pro/cleveland-guardians-new-york-yankees/2/401815700/1781141514/playlist.m3u8
+https://lb3.wfty.st/secure/GXT0QdvkOCjUIjgDgT7TaA/regular/cleveland-guardians-new-york-yankees/1/401815700/1781142093/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [2. Deild] Haukar vs Kormákur/Hvöt - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/whCJFClmNvQM92BFfH0F5A/regular/haukar-kormakur-hvot/1/5225901/1781142097/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Spanish LALIGA 2] Malaga vs Las Palmas - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/O2qfUbRkzWY9q5EvqJSpNg/easy/malaga-las-palmas/2/4728748/1781141518/playlist.m3u8
+https://lb6.wfty.st/secure/MHqXwtVkHetsT30_8NYclQ/easy/malaga-las-palmas/2/4728748/1781142100/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga Profesional - Reserva - Apertura] Argentinos Juniors Res. vs Barracas Central Res. - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.st/secure/ZZ8AcbL82jEHoBU5NyBxVw/regular/argentinos-juniors-res-barracas-central-res/1/4658384/1781141521/playlist.m3u8
+https://lb6.wfty.st/secure/AFvEqyFyKZVIct1bVNwCqw/regular/argentinos-juniors-res-barracas-central-res/1/4658384/1781142103/playlist.m3u8
 
