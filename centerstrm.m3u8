@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Bosnia-Herzegovina at Canada (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Bosnia-Herzegovina at Canada (STRMCNTR)
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] Miami Marlins at Pittsburgh Pirates (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] Miami Marlins at Pittsburgh Pirates (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=HMzbHR8BFb3z7i6vHOCRKCeR54ESx7pBPl0Oo4l7Df8&e=1781289098
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[🔴 LIVE] [22:00 WIB] [Motor Sport] Barcelona-Catalunya Grand Prix  Practice 2 (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[🔴 LIVE] [22:00 WIB] [Motor Sport] Barcelona-Catalunya Grand Prix  Practice 2 (STRMCNTR)
+https://mainstreams.pro/hls/dazhfiach15.m3u8?st=Lx_iLGp98HhsvphNZnUOQAUbrHkdAzt2rth-_3_Does&e=1781289718
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Bosnia-Herzegovina at Canada (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Bosnia-Herzegovina at Canada (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=pBFfir1Y3Y-NSs6Ayv75SzUGXsEPB2opiyKf_qVtLTQ&e=1781289099
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=UKRyOE8Hg7HW9Mwa5fg8idCklSzl0G_dRASsHzhYbgw&e=1781289720
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[🔴 LIVE] [22:00 WIB] [Motor Sport] Barcelona-Catalunya Grand Prix  Practice 2 (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[🔴 LIVE] [22:00 WIB] [Motor Sport] Barcelona-Catalunya Grand Prix  Practice 2 (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=uEKVa7qeALrNc8P6Ju_U6_XGB0Bq2cZMyqCcc7-Edhw&e=1781289720
