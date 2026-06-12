@@ -1,31 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="WNBA.dummy.us" tvg-name="[🔴 LIVE] [09:00 WIB] [Basketball] Las Vegas Aces at Portland Fire (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[🔴 LIVE] [09:00 WIB] [Basketball] Las Vegas Aces at Portland Fire (STRMCNTR)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[🔴 LIVE] [09:00 WIB] [Football] Czechia at South Korea (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[🔴 LIVE] [09:00 WIB] [Football] Czechia at South Korea (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=5C5XhyKc9DOjSu-pbaYXBG7KPUBmhdAUgSDqR0tTOgw&e=1781245290
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[🔴 LIVE] [09:00 WIB] [Football] Czechia at South Korea (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[🔴 LIVE] [09:00 WIB] [Football] Czechia at South Korea (STRMCNTR)
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=zaTIlpz3WJA5d93YK0H60TCV7I7Adqthccg_wtSb-qA&e=1781245879
+#EXTINF:-1 tvg-chno="2" tvg-id="WNBA.dummy.us" tvg-name="[🔴 LIVE] [09:00 WIB] [Basketball] Las Vegas Aces at Portland Fire (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[🔴 LIVE] [09:00 WIB] [Basketball] Las Vegas Aces at Portland Fire (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=XxbvPbYsPeUrQipRNJon9nbHm0gAj5eRz8Ale_hvGUc&e=1781245291
+https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=aa62ihFpbmCo3u-k6MhrYX1Krb6pblNKJYcdyB3Uk_o&e=1781245880
 #EXTINF:-1 tvg-chno="3" tvg-id="WNBA.dummy.us" tvg-name="[🔴 LIVE] [08:00 WIB] [Basketball] Phoenix Mercury at Dallas Wings (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[🔴 LIVE] [08:00 WIB] [Basketball] Phoenix Mercury at Dallas Wings (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?st=FBKmxLwvGQDIuzU4CUcaHiSzNQsKrnzRYsZx0YLCxdI&e=1781245292
+https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?st=iBc4OFLMl05KHD6INRFAdCQ6CTEJAZ57k1TlWdfQV14&e=1781245881
 #EXTINF:-1 tvg-chno="4" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[07:00 WIB] [Hockey] Vegas Golden Knights at Carolina Hurricanes (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[07:00 WIB] [Hockey] Vegas Golden Knights at Carolina Hurricanes (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/uyopzarf50.m3u8?st=5S8q2TcG6vnuv6yR9UClH5U82cA5N8j4Wn7xiv9npxA&e=1781245293
+https://edgestreams.pro/hls/uyopzarf50.m3u8?st=03PX48iiatSt2YLDfdm-lqZJ8NdUQ9tPRSIwTZnYUFQ&e=1781245881
 #EXTINF:-1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[06:40 WIB] [Baseball] Atlanta Braves at Chicago White Sox (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[06:40 WIB] [Baseball] Atlanta Braves at Chicago White Sox (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/fskjanach24.m3u8?st=HC59Y137DFpDfBgBw2mXwNOPY7kZFeyjcJVJtQtq8eA&e=1781245294
-#EXTINF:-1 tvg-chno="6" tvg-id="WNBA.dummy.us" tvg-name="[06:30 WIB] [Basketball] New York Liberty at Atlanta Dream (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[06:30 WIB] [Basketball] New York Liberty at Atlanta Dream (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=NJHfqcVLH19w80ZxeGVToqO7sYd6CBB_xH2PEKQ3pHY&e=1781245295
+https://mainstreams.pro/hls/fskjanach24.m3u8?st=CaksmrmuSLmWofQO67JM0iHre8EkdaB8F7BjYvBCkp4&e=1781245882
