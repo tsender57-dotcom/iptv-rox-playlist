@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-12 15:21 UTC
+# Last Updated: 2026-06-12 15:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Formula 1] MSC Cruises Barcelona-Catalunya Grand Prix - FP2 - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/sZACoTdSN-u8g56BcRZwQw/easy/msc-cruises-barcelona-catalunya-grand-prix/1/401839069/1781299287/playlist.m3u8
+https://lb6.wfty.st/secure/43cAT07AigBzbhL10MiF_A/easy/msc-cruises-barcelona-catalunya-grand-prix/1/401839069/1781299890/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Virsliga] FK Tukums 2000 vs BFC Daugavpils - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/2GAmmC0xSatkVWhFBD5bwg/regular/fk-tukums-2000-bfc-daugavpils/1/4663522/1781299893/playlist.m3u8
 
