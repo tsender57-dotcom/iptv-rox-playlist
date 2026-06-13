@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-13 15:21 UTC
+# Last Updated: 2026-06-13 15:32 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Formula 1] MSC Cruises Barcelona-Catalunya Grand Prix - Qual - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/NNmymiiBf3VYdDKef1yhqA/easy/msc-cruises-barcelona-catalunya-grand-prix/1/401839071/1781385681/playlist.m3u8
+https://lb2.wfty.st/secure/6Aql053bm5O8qDU0SfkIrA/easy/msc-cruises-barcelona-catalunya-grand-prix/1/401839071/1781386311/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Veikkausliiga] FF Jaro vs HJK Helsinki - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/g5xu47Pp38GK2FYz9DsTBQ/regular/ff-jaro-hjk-helsinki/1/4636754/1781385684/playlist.m3u8
+https://lb6.wfty.st/secure/Nk6gkm8DCheWdDVoaBmVGQ/regular/ff-jaro-hjk-helsinki/1/4636754/1781386315/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Gallagher Prem] Bath Rugby vs Exeter Chiefs - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.st/secure/YC7GQm5KCOddJlqSXueHjQ/easy/bath-rugby-exeter-chiefs/2/603071/1781385688/playlist.m3u8
+https://lb4.wfty.st/secure/XnZVZ6SltBZ5rbT8Nx2mrg/easy/bath-rugby-exeter-chiefs/1/603071/1781386318/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Toppserien] Vålerenga (W) vs Brann (W) - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/IZXClhUKZqVAUVL4ihLeLw/regular/valerenga-w-brann-w/1/5105383/1781386322/playlist.m3u8
 
