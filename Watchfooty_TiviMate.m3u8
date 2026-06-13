@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-13 12:01 UTC
+# Last Updated: 2026-06-13 12:21 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [WORLD: World Cup (Teams) - Playoffs] Ireland vs Poland - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Kazakhstan Premier League] Tobol Kostanay vs FC Kyzylzhar Petropavlovsk - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/w_52i5fd8q97yTPOetDw9g/easy/ireland-poland/1/ec2c46625ee/1781373708/playlist.m3u8
+https://lb6.wfty.st/secure/ikUjD_O6s2aSpYRj_OYDEA/regular/tobol-kostanay-fc-qyzyljar/1/5204141/1781374886/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Maurice Revello Tournament] Ivory Coast U23 vs Congo DR U20 - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/6IfSLgUYNhUR5mKajMUfNQ/regular/ivory-coast-u23-congo-dr-u20/1/401877067/1781374889/playlist.m3u8
 
