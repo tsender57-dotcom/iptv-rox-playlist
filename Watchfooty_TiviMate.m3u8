@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-13 16:31 UTC
+# Last Updated: 2026-06-13 16:41 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [European League (M)] Sweden vs Norway - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [European League (M)] Spain vs Azerbaijan - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/MU05-mrOz54g5iCQ8E38xQ/regular/sweden-norway/3/4731673/1781389891/playlist.m3u8
+https://lb4.wfty.st/secure/zbJy-GMKRPUsJILlwv5Kvw/regular/spain-azerbaijan/3/4731662/1781390492/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Belarusian Premier League] Dinamo Minsk vs Gomel - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/lQej8ZjIlkm9Y1myCCEcYw/regular/dinamo-minsk-gomel/1/5215431/1781390495/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Erovnuli Liga] Rustavi vs FC Mesakhte Tkibuli - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.st/secure/dPLpC9Ue90kWwj9RhOpxpA/regular/rustavi-fc-mesakhte-tkibuli/1/4661178/1781389894/playlist.m3u8
+https://lb6.wfty.st/secure/j7JvIb7yNRs3oPqzXzPRaQ/regular/rustavi-fc-mesakhte-tkibuli/1/4661178/1781390498/playlist.m3u8
 
