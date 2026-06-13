@@ -1,76 +1,86 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[05:00 WIB] [Football] Morocco at Brazil (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[05:00 WIB] [Football] Morocco at Brazil (STRMCNTR)
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[06:10 WIB] [Baseball] Houston Astros at Kansas City Royals (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[06:10 WIB] [Baseball] Houston Astros at Kansas City Royals (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=Z8jboIwy7DfbvhVMyZHjugTTaK9VacRUEMYswI5efvo&e=1781377314
-#EXTINF:-1 tvg-chno="2" tvg-id="WNBA.dummy.us" tvg-name="[05:00 WIB] [Basketball] Indiana Fever at Connecticut Sun (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[05:00 WIB] [Basketball] Indiana Fever at Connecticut Sun (STRMCNTR)
+https://mainstreams.pro/hls/kjhfzua25.m3u8?st=OQW332PXd0cgL4KI_UDRf_OvcDAJZfM9Y-suaN7UtRI&e=1781377876
+#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[06:10 WIB] [Baseball] Philadelphia Phillies at Milwaukee Brewers (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[06:10 WIB] [Baseball] Philadelphia Phillies at Milwaukee Brewers (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?st=pSOc7gdu-o0fsa5fIr7hEZ7PHYrr6ENacWqxIEnObsA&e=1781377315
-#EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Arizona Diamondbacks at Cincinnati Reds (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Arizona Diamondbacks at Cincinnati Reds (STRMCNTR)
+https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?st=fHOGk91XF3mcJq5FvH-lAm39clBODiuldVlUaDdupxg&e=1781377877
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[05:00 WIB] [Football] Morocco at Brazil (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[05:00 WIB] [Football] Morocco at Brazil (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/jkzahzadach20.m3u8?st=SMxS8x4GoYp4slKZoF01oHLkFY2DgHmP88z6QuR596s&e=1781377316
-#EXTINF:-1 tvg-chno="4" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Atlanta Braves at New York Mets (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Atlanta Braves at New York Mets (STRMCNTR)
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=C7fnCd127QTgh4Mwk9FvyNb4QuODk170GecvQ_TYkNs&e=1781377878
+#EXTINF:-1 tvg-chno="4" tvg-id="WNBA.dummy.us" tvg-name="[05:00 WIB] [Basketball] Indiana Fever at Connecticut Sun (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[05:00 WIB] [Basketball] Indiana Fever at Connecticut Sun (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=-OXbEdxzxRrgw4rYYsKota35z2lxvCjEvSHLqOr_Pfg&e=1781377317
-#EXTINF:-1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Detroit Tigers at Cleveland Guardians (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Detroit Tigers at Cleveland Guardians (STRMCNTR)
+https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=W3Gqhpi-uDFDSiYWunCbyHffPuGQE_uzbXtrxg_WgtE&e=1781377878
+#EXTINF:-1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Arizona Diamondbacks at Cincinnati Reds (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Arizona Diamondbacks at Cincinnati Reds (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=P5tOOAUSEifQPmhpyX-p6CizLtWSTilpjCZvWcsyLWQ&e=1781377318
-#EXTINF:-1 tvg-chno="6" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Texas Rangers at Boston Red Sox (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Texas Rangers at Boston Red Sox (STRMCNTR)
+https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=ghozM8pWTQa5rWoZFzpTXeRHgSs1LHZAwKqqeA54las&e=1781377879
+#EXTINF:-1 tvg-chno="6" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Atlanta Braves at New York Mets (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Atlanta Braves at New York Mets (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=rZN-ih05XnTz6Ios77sBkOPlCutb9OfiSws40s1Ckos&e=1781377319
-#EXTINF:-1 tvg-chno="7" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Los Angeles Dodgers at Chicago White Sox (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Los Angeles Dodgers at Chicago White Sox (STRMCNTR)
+https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=z9rMcNww5ZrvoSZg4FrpcPZE8w5OEqq5qQk6S9c-Mj8&e=1781377880
+#EXTINF:-1 tvg-chno="7" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Detroit Tigers at Cleveland Guardians (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Detroit Tigers at Cleveland Guardians (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/fskjanach24.m3u8?st=vWAKjF3IV7RGXxeIY_Ar6y5wsbQEtUXccMZR17SLC9Y&e=1781377320
-#EXTINF:-1 tvg-chno="8" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:05 WIB] [Baseball] Miami Marlins at Pittsburgh Pirates (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:05 WIB] [Baseball] Miami Marlins at Pittsburgh Pirates (STRMCNTR)
+https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=xUGYO86aevYT0C4XXuwPFWkiGInqMczRTCIvn10TONM&e=1781377881
+#EXTINF:-1 tvg-chno="8" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Texas Rangers at Boston Red Sox (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Texas Rangers at Boston Red Sox (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=PfcjRIL8ktcCF3b1mZPtl-i5oyIuayAmyyJD0hOqzSY&e=1781377320
-#EXTINF:-1 tvg-chno="9" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:05 WIB] [Baseball] San Diego Padres at Baltimore Orioles (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:05 WIB] [Baseball] San Diego Padres at Baltimore Orioles (STRMCNTR)
+https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=xAQekQlSTgKr89Ed6X2GRYEfYiZk59YcodevFGLwCJA&e=1781377881
+#EXTINF:-1 tvg-chno="9" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:10 WIB] [Baseball] Los Angeles Dodgers at Chicago White Sox (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:10 WIB] [Baseball] Los Angeles Dodgers at Chicago White Sox (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=52Lgyf9BOs_iXp6go6jzN1QbLEQCnmwVudsnQGiPD-I&e=1781377321
-#EXTINF:-1 tvg-chno="10" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:05 WIB] [Baseball] Seattle Mariners at Washington Nationals (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:05 WIB] [Baseball] Seattle Mariners at Washington Nationals (STRMCNTR)
+https://edge2caster.pro/hls/fskjanach24.m3u8?st=9OagJQpF_IkyUM83_AESeKiuEmQ63pIEKTosNj5894U&e=1781377882
+#EXTINF:-1 tvg-chno="10" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:05 WIB] [Baseball] Miami Marlins at Pittsburgh Pirates (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:05 WIB] [Baseball] Miami Marlins at Pittsburgh Pirates (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=GLQs-sOyHRx1OEpswfpSz5QC3IxnX0AUVygvijuMbx4&e=1781377322
-#EXTINF:-1 tvg-chno="11" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[02:07 WIB] [Baseball] New York Yankees at Toronto Blue Jays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[02:07 WIB] [Baseball] New York Yankees at Toronto Blue Jays (STRMCNTR)
+https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?st=J1Tjak-ULBvHbPHCzmcadW9KNDhv46wnmmu2_txk97Q&e=1781377883
+#EXTINF:-1 tvg-chno="11" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:05 WIB] [Baseball] San Diego Padres at Baltimore Orioles (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:05 WIB] [Baseball] San Diego Padres at Baltimore Orioles (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=l-yyclhaem9U37PcPUHvMNEsm6FrkU_8q8-iwlyjo0A&e=1781377323
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Switzerland at Qatar (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Switzerland at Qatar (STRMCNTR)
+https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=bTVvZg-TsL88HbxWRceCykRXeTfRN0xtPh2zf1Yh6c8&e=1781377883
+#EXTINF:-1 tvg-chno="12" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[03:05 WIB] [Baseball] Seattle Mariners at Washington Nationals (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[03:05 WIB] [Baseball] Seattle Mariners at Washington Nationals (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=H7OU8JKzDcSqYgRxUkmmZGkfKsN9olvnuAID4FzMQYg&e=1781377324
-#EXTINF:-1 tvg-chno="13" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[01:10 WIB] [Baseball] St. Louis Cardinals at Minnesota Twins (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[01:10 WIB] [Baseball] St. Louis Cardinals at Minnesota Twins (STRMCNTR)
+https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=4kdPLj6krb8hhN-eHlZym5B-GH1P1fy46PaAy_zjzDw&e=1781377884
+#EXTINF:-1 tvg-chno="13" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[02:07 WIB] [Baseball] New York Yankees at Toronto Blue Jays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[02:07 WIB] [Baseball] New York Yankees at Toronto Blue Jays (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/dazhfiach15.m3u8?st=0DFJtErMU27SoBFu9KdDc0Xdv5beoeVoadO-W-kSzQE&e=1781377325
-#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[00:00 WIB] [Boxing] Tommy Fury vs. Eddie Hall (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[00:00 WIB] [Boxing] Tommy Fury vs. Eddie Hall (STRMCNTR)
+https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=JLhrKE1jgWdVyMudsxWdeJjALt9ek6_NloFBN_k9apw&e=1781377885
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Switzerland at Qatar (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Switzerland at Qatar (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/oeenzgezcz47.m3u8?st=ihl38SmezN_GU7Bv8qStCsJFqYf2aiNEwymy1BI1-20&e=1781377326
-#EXTINF:-1 tvg-chno="15" tvg-id="Live.Event.us" tvg-name="[21:00 WIB] [Motor Sport] MSC Cruises Barcelona-Catalunya Grand Prix (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[21:00 WIB] [Motor Sport] MSC Cruises Barcelona-Catalunya Grand Prix (STRMCNTR)
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=WwG5Sm1qeKuV71XqlzVLA6Z5d1_5TbyWk8YXAB4Eb0c&e=1781377886
+#EXTINF:-1 tvg-chno="15" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[01:10 WIB] [Baseball] St. Louis Cardinals at Minnesota Twins (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[01:10 WIB] [Baseball] St. Louis Cardinals at Minnesota Twins (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=yzy2HRZkNSomKjFWJ00hYAq6zkLqxIbheLyGL4U6P9o&e=1781377327
+https://edge2caster.pro/hls/dazhfiach15.m3u8?st=HLShdFnMGt9Scwy_2yU2JX5StjvC8mCwIwRLJWqLtbs&e=1781377886
+#EXTINF:-1 tvg-chno="16" tvg-id="Live.Event.us" tvg-name="[00:00 WIB] [Boxing] Tommy Fury vs. Eddie Hall (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[00:00 WIB] [Boxing] Tommy Fury vs. Eddie Hall (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/oeenzgezcz47.m3u8?st=cCqo73yL8ZKd2Q8S8qvgMlI9k_VYzL0OoFbtOeRLfMQ&e=1781377887
+#EXTINF:-1 tvg-chno="17" tvg-id="Live.Event.us" tvg-name="[21:00 WIB] [Motor Sport] MSC Cruises Barcelona-Catalunya Grand Prix (STRMCNTR)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[21:00 WIB] [Motor Sport] MSC Cruises Barcelona-Catalunya Grand Prix (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=8jMGuizykFLS1UvzFamzEmu6gS7YBE2c47m0kaO46dI&e=1781377888
