@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-14 14:41 UTC
+# Last Updated: 2026-06-14 14:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Formula 1] MSC Cruises Barcelona-Catalunya Grand Prix - Race - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/5_GsC4kdbkaLoFK9TVDqdg/easy/msc-cruises-barcelona-catalunya-grand-prix/1/401839072/1781469694/playlist.m3u8
+https://lb6.wfty.st/secure/XhDA6nfhQIIlCIkPZT9Prg/easy/msc-cruises-barcelona-catalunya-grand-prix/1/401839072/1781470294/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [European League (M)] Netherlands vs Slovakia - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/QJqF9-iCuywZBJJpmNlUQg/regular/netherlands-slovakia/1/4731660/1781469697/playlist.m3u8
+https://lb1.wfty.st/secure/lb2tmAPKIwV9O8MI5ierFA/regular/netherlands-slovakia/1/4731660/1781470297/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [WORLD: World Cup (Teams) - Playoffs] Netherlands vs Germany - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/AWCFuRskLI0lamL0xd_XMg/easy/netherlands-germany/2/256b1b70aab/1781469700/playlist.m3u8
+https://lb2.wfty.st/secure/HJWy2JZtmufhpDuJuOXEyA/easy/netherlands-germany/1/256b1b70aab/1781470301/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Volleyball Nations League] Belgium vs Iran - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.st/secure/A6bceUy50nGKg6rfpqRnGQ/regular/belgium-iran/1/4668109/1781470304/playlist.m3u8
 
