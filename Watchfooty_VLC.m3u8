@@ -1,21 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-14 13:41 UTC
+# Last Updated: 2026-06-14 13:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Formula 1] MSC Cruises Barcelona-Catalunya Grand Prix - Race - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/o7A-ScQzjEFhc0pUT6-Ckg/easy/msc-cruises-barcelona-catalunya-grand-prix/1/401839072/1781466095/playlist.m3u8
+https://lb6.wfty.st/secure/Np9QVlBYJVMWF2--ROwBaQ/easy/msc-cruises-barcelona-catalunya-grand-prix/1/401839072/1781466695/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Volleyball Nations League] Slovenia vs Japan - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/UtezZfRfzzwgCtJ2XD7cDA/regular/slovenia-japan/2/4668097/1781466098/playlist.m3u8
+https://lb5.wfty.st/secure/Ovzz6hz815Tbz_XnVuj0uQ/regular/slovenia-japan/2/4668097/1781466698/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Stuttgart - Final] Ben Shelton vs Taylor Fritz - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/qJdhVmwR6cIroZvjmOXuKA/sigma/ben-shelton-taylor-fritz/2/4736746/1781466701/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FA Cup] Tusker FC vs Police - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/Ba2M-fwO3Jz1BN4R-9bglw/regular/tusker-fc-police/1/4715585/1781466705/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [WORLD: World Cup (Teams) - Playoffs] Northern Ireland vs Latvia - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/VKrTZTDrSQRQ8-c664Qm6w/easy/northern-ireland-latvia/1/989df2830b6/1781466102/playlist.m3u8
+https://lb3.wfty.st/secure/s3T9A3Ok1pnXXdOrArrDLw/easy/northern-ireland-latvia/1/989df2830b6/1781466708/playlist.m3u8
 
