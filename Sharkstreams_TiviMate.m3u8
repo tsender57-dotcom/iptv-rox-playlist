@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-15 00:01 UTC
+# Last Updated: 2026-06-15 00:11 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" tvg-id="NHL.Hockey.Dummy.us" group-title="Shark - NHL",[🔴 LIVE] [07:00 WIB] [NHL] Carolina Hurricanes vs Vegas Golden Knights - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba4.lefiles.cfd/live/nhl/stream.m3u8?expires=1781482609&token=2becbfdb62024bdfbb69cbc3f634e542d6fd4b4dad4a55e87b1781e6a63208e9
+https://lba4.lefiles.cfd/live/nhl/stream.m3u8?expires=1781483104&token=591cbd3050fddd11e82495f191c68c8fbb0dd0b6686777ac932d5f6a04903e98
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Shark - UFC",[🔴 LIVE] [07:00 WIB] [UFC] UFC Freedom 250: Topuria v. Gaethje - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lba2.lefiles.cfd/live/ufc/stream.m3u8?expires=1781482992&token=a4bd58bc0fbdf972ac54b31d7a0576f28d6306853660afc02e89a9509f9223ea
 
