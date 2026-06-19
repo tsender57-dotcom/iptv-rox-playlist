@@ -1,21 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-19 18:21 UTC
+# Last Updated: 2026-06-19 18:31 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Liga Elite] Las Tunas vs Holguin - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago Cubs vs Toronto Blue Jays - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/Ff-QiAY2aKtTTmsqm3d1Hg/regular/las-tunas-holguin/1/4738002/1781914880/playlist.m3u8
+https://lb6.wfty.st/secure/l_IAovLdg0_wXhiC3i2ZTQ/easy/chicago-cubs-toronto-blue-jays/1/401815820/1781915479/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Faroe Islands Premier League] Vikingur Gota vs KÍ Klaksvík - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.st/secure/uyHkXQI1D4N4bzP1JYt7bw/regular/vikingur-gota-ki-klaksvik/1/4652490/1781914883/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [OBOS-ligaen] Ranheim vs Lyn Oslo - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/z0h7z0qh5IERPPdu2PIfIw/regular/ranheim-lyn-oslo/1/4637120/1781914887/playlist.m3u8
+https://lb5.wfty.st/secure/8hdlx-BvAFDaHnljkJ1rWw/regular/vikingur-gota-ki-klaksvik/1/4652490/1781915482/playlist.m3u8
 
