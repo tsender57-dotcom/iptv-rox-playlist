@@ -1,21 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-20 23:31 UTC
+# Last Updated: 2026-06-20 23:42 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Kape vs. Horiguchi 2 - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/dMxWqkfwG-vtVNn59k-2_A/platinum/ufc-fight-night-kape-vs-horiguchi-2/1/600059467/1782019877/playlist.m3u8
+https://lb1.wfty.st/secure/BBpCqcawx9YUSxEjYAWp1Q/pro/ufc-fight-night-kape-vs-horiguchi-2/2/600059467/1782020541/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NASCAR Xfinity] United Rentals Driven to Serve 250 - NASCAR - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/56rRST30rPPcKCs8rcmXYA/diamond/united-rentals-driven-to-serve-250/1/nascar6128/1782019880/playlist.m3u8
+https://lb2.wfty.st/secure/Dqx2WUM9e7j14lbIlYCzyA/diamond/united-rentals-driven-to-serve-250/1/nascar6128/1782020544/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [USL Jägermeister Cup] Hartford vs Pittsburgh Riverhounds - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/eTfEkpVrug5pyx2e9OvMaw/regular/hartford-athletic-pittsburgh-riverhounds/1/4634221/1782020548/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie B] Vila Nova vs Náutico - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/KvjcWAZRQo-8Duj-65JBSw/regular/vila-nova-nautico/1/401873974/1782019887/playlist.m3u8
+https://lb3.wfty.st/secure/0ablJve78Eso3XNqhBB_6A/regular/vila-nova-nautico/1/4669793/1782020551/playlist.m3u8
 
