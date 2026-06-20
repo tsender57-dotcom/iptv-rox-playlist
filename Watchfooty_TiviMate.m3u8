@@ -1,21 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-20 22:22 UTC
+# Last Updated: 2026-06-20 22:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Kape vs. Horiguchi 2 - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/0NyPfGdopuyVNuAfF-2n6Q/pro/ufc-fight-night-kape-vs-horiguchi-2/2/600059467/1782015709/playlist.m3u8
+https://lb1.wfty.st/secure/OXRkuO1xr9NouWF_tIfGcQ/pro/ufc-fight-night-kape-vs-horiguchi-2/2/600059467/1782016293/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NASCAR Xfinity] United Rentals Driven to Serve 250 - NASCAR - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/oJzQI86fvSAKMFQXsMfN4A/diamond/united-rentals-driven-to-serve-250/1/nascar6128/1782015712/playlist.m3u8
+https://lb2.wfty.st/secure/HjKPT8_xl4xDTRbfWJeOlA/diamond/united-rentals-driven-to-serve-250/1/nascar6128/1782016296/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Atlanta Braves vs Milwaukee Brewers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/wy4BCLVOEIiuAbNdX2bpiw/easy/atlanta-braves-milwaukee-brewers/1/401815827/1782015716/playlist.m3u8
+https://lb3.wfty.st/secure/Ze6oPrxn7HNtNlFwpg7JoQ/easy/atlanta-braves-milwaukee-brewers/1/401815827/1782016300/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie B] Ceara vs Botafogo SP - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/Q6Wz6x1TFt3DPCj7N9tooA/regular/ceara-botafogo-sp/1/5190573/1782016307/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Copa Chile] Deportes Recoleta vs Colo Colo - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/mkVoYkGYwyqqP3MgoZfzLQ/regular/deportes-recoleta-colo-colo/1/401871820/1782016310/playlist.m3u8
 
