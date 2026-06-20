@@ -1,33 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-20 18:41 UTC
+# Last Updated: 2026-06-20 18:51 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Chicago Cubs vs Toronto Blue Jays - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/-4oohW2iexJb8eYvZ0MfHA/easy/chicago-cubs-toronto-blue-jays/1/401815833/1782003103/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Yankees vs Cincinnati Reds - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/a63T9FwsWdMTusoVhaSdCQ/easy/new-york-yankees-cincinnati-reds/1/401815826/1782002496/playlist.m3u8
+https://lb5.wfty.st/secure/bxuLUiS8dRtT7uSd9TkMIw/easy/new-york-yankees-cincinnati-reds/1/401815826/1782003106/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Detroit Tigers vs Chicago White Sox - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/ulgJfVX0iVFZoqNNCvH2gw/easy/detroit-tigers-chicago-white-sox/1/401815825/1782002499/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA World Cup] Netherlands vs Sweden - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/GG3PA5bW_TaToYgmqG9YXw/easy/netherlands-sweden/1/760447/1782002503/playlist.m3u8
+https://lb1.wfty.st/secure/iczDE-fzR2GwCZvhQs3VUQ/easy/detroit-tigers-chicago-white-sox/1/401815825/1782003109/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Atlanta Dream vs Indiana Fever - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/KSX_mKbYOoDOCtp_dyayqQ/pro/atlanta-dream-indiana-fever/2/4659740/1782002506/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Volleyball Nations League (W)] Turkiye (W) vs Germany (W) - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/_u2-DZpyN8y6m0PaV2Gntg/regular/turkiye-w-germany-w/1/4668239/1782002510/playlist.m3u8
+https://lb6.wfty.st/secure/Xu8kQsxD-3-qEXPUCfhN7g/pro/atlanta-dream-indiana-fever/2/4659740/1782003116/playlist.m3u8
 
