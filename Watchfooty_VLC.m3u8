@@ -1,27 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-20 17:12 UTC
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA World Cup] Netherlands vs Sweden - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/PcFA9MUqR8-KMTyzSHxF7g/easy/netherlands-sweden/1/760447/1781997112/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [European League (M)] Switzerland vs Latvia - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/_VW9zFC6M7OmEibf0HVsZw/regular/netherlands-croatia/1/4731705/1781997114/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Atlanta Dream vs Indiana Fever - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/pLOxQdxmXcPHdIl6_P7vcA/delta/live_wnba_atlanta-fever-live-streaming-1211112675/1/4659740/1781997118/playlist.m3u8
+# Last Updated: 2026-06-20 17:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Volleyball Nations League (W)] Turkiye (W) vs Germany (W) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/T585O5NTPZIOnc_bq_RHzg/regular/turkiye-w-germany-w/1/4668239/1781997121/playlist.m3u8
+https://lb6.wfty.st/secure/M4sDC_6H-4ks1pIGdr_FeA/regular/turkiye-w-germany-w/1/4668239/1781997703/playlist.m3u8
 
