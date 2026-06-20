@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-20 23:11 UTC
+# Last Updated: 2026-06-20 23:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Watchfooty - UFC",[🔴 LIVE] [UFC] UFC Fight Night: Kape vs. Horiguchi 2 - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/ptah6PdEG7rjhDsR7PJPbg/pro/ufc-fight-night-kape-vs-horiguchi-2/2/600059467/1782018671/playlist.m3u8
+https://lb3.wfty.st/secure/clMczKcU5K7o_XsF1FtP5A/pro/ufc-fight-night-kape-vs-horiguchi-2/2/600059467/1782019271/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NASCAR Xfinity] United Rentals Driven to Serve 250 - NASCAR - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/z_1lR9FDB6HSVYbcHMTElA/diamond/united-rentals-driven-to-serve-250/1/nascar6128/1782018675/playlist.m3u8
+https://lb3.wfty.st/secure/6G2BbH02kzrXsHO0y9BreQ/diamond/united-rentals-driven-to-serve-250/1/nascar6128/1782019274/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Brazilian Serie B] Vila Nova vs Nautico - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.st/secure/i9x9g7fZZa0Xwf4txULFkw/regular/vila-nova-nautico/1/5190578/1782019281/playlist.m3u8
 
