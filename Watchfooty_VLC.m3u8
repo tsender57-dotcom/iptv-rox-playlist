@@ -1,45 +1,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-20 01:12 UTC
+# Last Updated: 2026-06-20 01:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [FIFA World Cup] Brazil vs Haiti - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/-L7-TAo1AXFbBw5CWlB-LQ/easy/brazil-haiti/1/760444/1781939502/playlist.m3u8
+https://lb1.wfty.st/secure/8FlaN90IjzBdHU4VwQD-dA/easy/brazil-haiti/1/760444/1781940098/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] New York Yankees vs Cincinnati Reds - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.st/secure/09BI_FuZEmrOgeeEnNK3Pg/easy/new-york-yankees-cincinnati-reds/1/401815813/1781939505/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Kansas City Royals vs St. Louis Cardinals - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/hCQkJLj8fgfTYTmSEI8JFA/easy/kansas-city-royals-st-louis-cardinals/2/401815819/1781939508/playlist.m3u8
+https://lb6.wfty.st/secure/7Zrebc-Tt1uTt9Q9wtW0sA/easy/new-york-yankees-cincinnati-reds/1/401815813/1781940102/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Atlanta Braves vs Milwaukee Brewers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/1LkfjsChXjlQKpYoQpRo9Q/pro/atlanta-braves-milwaukee-brewers/2/401815814/1781939512/playlist.m3u8
+https://lb3.wfty.st/secure/CFQYkhFUwVobNRE2NR_ZuQ/pro/atlanta-braves-milwaukee-brewers/2/401815814/1781940105/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Detroit Tigers vs Chicago White Sox - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Events] WWE: Friday Night Smackdown - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/rTQ0BG2Aee2VDjSyLIO2LA/pro/detroit-tigers-chicago-white-sox/2/401815812/1781939515/playlist.m3u8
+https://lb4.wfty.st/secure/bbENSATqPAO7RpYkQD_uFw/easy/wwe-friday-night-smackdown/1/62435661/1781940109/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Connecticut Sun vs Toronto Tempo - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/e2JcUvpoU_5AENiInfDlVA/pro/connecticut-sun-toronto-tempo/2/4659738/1781939519/playlist.m3u8
+https://lb5.wfty.st/secure/a5g7MtCPnmK3xxZfsk0khA/pro/connecticut-sun-toronto-tempo/2/4659738/1781940112/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NASCAR Craftsman] Navy 250 - NASCAR - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/jUJWwbPLnwTTmaXf7Q3msw/diamond/navy-250/1/nascar6162/1781939522/playlist.m3u8
+https://lb6.wfty.st/secure/c-1t2n9DgKtBvKgsuGkDXw/diamond/navy-250/1/nascar6162/1781940116/playlist.m3u8
 
