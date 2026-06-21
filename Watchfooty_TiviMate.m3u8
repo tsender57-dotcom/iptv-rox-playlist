@@ -1,33 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-21 21:41 UTC
+# Last Updated: 2026-06-21 21:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Los Angeles Dodgers vs Baltimore Orioles - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/C-Bfsq0pHqo9hkTPry5LqQ/easy/los-angeles-dodgers-baltimore-orioles/1/401815851/1782099694/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Seattle Mariners vs Boston Red Sox - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/2JO6Yer5o7PUKJnu8KG70w/easy/seattle-mariners-boston-red-sox/1/401815852/1782099696/playlist.m3u8
+https://lb1.wfty.st/secure/NzwS6LJ4AzkbkXKDAfjKng/easy/los-angeles-dodgers-baltimore-orioles/1/401815851/1782100298/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Athletics vs Los Angeles Angels - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/YFkhGoqz1VM-1tgwE_sTIw/easy/athletics-los-angeles-angels/1/401815850/1782099700/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NASCAR] Anduril 250 - NASCAR - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/uqdWn7_2fTRYb6KGsasfiw/diamond/anduril-250/1/nascar6080/1782099703/playlist.m3u8
+https://lb4.wfty.st/secure/CqNqcqyRKLVm8NPQH5jBxQ/easy/athletics-los-angeles-angels/1/401815850/1782100302/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Las Vegas Aces vs Golden State Valkyries - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.st/secure/FkNJPkcBuofwRLmQbV92YA/pro/las-vegas-aces-golden-state-valkyries/2/4659743/1782099707/playlist.m3u8
+https://lb6.wfty.st/secure/IGkbV14CUyYny6zGRhU07A/pro/las-vegas-aces-golden-state-valkyries/2/4659743/1782100305/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NASCAR] Anduril 250 - NASCAR - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.wfty.st/secure/1VzBnxzVhH3_DIqLY4i7JQ/diamond/anduril-250/1/nascar6080/1782100309/playlist.m3u8
 
