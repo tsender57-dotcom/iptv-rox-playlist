@@ -1,16 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:10 WIB] [Baseball] New York Yankees at Detroit Tigers (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:10 WIB] [Baseball] New York Yankees at Detroit Tigers (STRMCNTR)
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] Kansas City Royals at Tampa Bay Rays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] Kansas City Royals at Tampa Bay Rays (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/dazhfiach15.m3u8?st=RTwO1EBtH7ebgl3SXZtuLQChbFRGqwBPl4NenGl_uGI&e=1782153152
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[04:00 WIB] [Football] Iraq at France (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[04:00 WIB] [Football] Iraq at France (STRMCNTR)
+https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=o9uVLAB_RKgki7hpkq_7La05PpMm4VpANkn97B3nnCA&e=1782153706
+#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] Texas Rangers at Miami Marlins (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] Texas Rangers at Miami Marlins (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=3zmJtMOaF-saTXggw_xEnu0zar504G1gXaRaep9oWyY&e=1782153154
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[00:00 WIB] [Football] Austria at Argentina (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[00:00 WIB] [Football] Austria at Argentina (STRMCNTR)
+https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=nahrFvEZbxz1sg1ZtiIDYUoomlZwRMSnIUL83fKVf5k&e=1782153707
+#EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:10 WIB] [Baseball] New York Yankees at Detroit Tigers (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:10 WIB] [Baseball] New York Yankees at Detroit Tigers (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=WthucpbHBMzQqM_0qV9Tbw5Wwc1oc0uorruLULvudFg&e=1782153155
+https://mainstreams.pro/hls/dazhfiach15.m3u8?st=2Mocx5wHlpv0VSWKSQehM_njVr_IC6lFUkM_nnscOY8&e=1782153708
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[04:00 WIB] [Football] Iraq at France (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[04:00 WIB] [Football] Iraq at France (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=1LixzU-nydw1NGdRo4cA4mUCwKBOB0t1PRThwgnFkes&e=1782153709
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[00:00 WIB] [Football] Austria at Argentina (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[00:00 WIB] [Football] Austria at Argentina (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=1LixzU-nydw1NGdRo4cA4mUCwKBOB0t1PRThwgnFkes&e=1782153709
