@@ -1,45 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-22 01:51 UTC
+# Last Updated: 2026-06-22 02:01 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[03:00 WIB] [WNBA] Golden State Valkyries vs Las Vegas Aces - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lv2.lvfiles.cfd/live/aces/stream.m3u8?expires=1782088168&token=87f9bd6ce7f291ac0220cb2fc0659cae278675a39950f368def80cbb5c4fa53f
+https://lv2.lvfiles.cfd/live/aces/stream.m3u8?expires=1782088357&token=6b5ede597fa705ab78132513eb52137eaad13027c58d877d8a2b43111a55f47a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[03:05 WIB] [MLB] Los Angeles Angels vs Athletics - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lvb1.lvfiles.cfd/live/1/stream.m3u8?expires=1782089496&token=756c5f6d541ec35aa13dda1b719580414c0dd83a1bf55aa4b4969120dfa43f06
+https://lvb1.lvfiles.cfd/live/1/stream.m3u8?expires=1782088205&token=09ba5eaf79b4c412d7823bd54d4b4970481bdc11148d247f284e38cc63fa61bd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[03:10 WIB] [MLB] Baltimore Orioles vs Los Angeles Dodgers - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lvb1.lvfiles.cfd/live/2/stream.m3u8?expires=1782088840&token=8fb36f530cf67096b3e7a1a7ea4a029624b6fb7bfc52b983d691cbd2017b4c61
+https://lvb1.lvfiles.cfd/live/2/stream.m3u8?expires=1782088107&token=990083333c3f1ed6019680bd3011e5d0b7c1cc7221c2eb83d25d74095d66af48
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[03:10 WIB] [MLB] Boston Red Sox vs Seattle Mariners - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lvb1.lvfiles.cfd/live/3/stream.m3u8?expires=1782089768&token=27772f528ecd2e3c153b3ada0a3075b1bd9757ea91619bf4f2f73b50076e29be
+https://lvb1.lvfiles.cfd/live/3/stream.m3u8?expires=1782088114&token=341e9040d53b9dad68a86134d0ec362912b3e87ad7328660a9cdfbaba0eadf29
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[🔴 LIVE] [05:00 WIB] [WNBA] Washington Mystics vs Minnesota Lynx - SHRK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[05:00 WIB] [WNBA] Washington Mystics vs Minnesota Lynx - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lbb1.bbcfiles.cfd/live/lynx/stream.m3u8?expires=1782088115&token=24cd70098cc11b294325861ebfd0fff8b0a36fa24bd0963e80fbcf3eadbb992e
+https://lbb1.bbcfiles.cfd/live/lynx/stream.m3u8?expires=1782088094&token=5c71e6e6319eb9a76641110edecc586e738ed46b7c3cd8fb721b86ba6574a512
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Shark - MLB",[🔴 LIVE] [06:20 WIB] [MLB] New York Mets vs Philadelphia Phillies - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bbc1.bbcfiles.cfd/live/4/stream.m3u8?expires=1782088092&token=d69107eaf0b0470faeaecc350d9ed379aedb596aa6b5e8685d735c1e48476245
+https://bbc1.bbcfiles.cfd/live/4/stream.m3u8?expires=1782088158&token=94cacc16cf8ee6d3adc4a4a0a3872c57798135e846bded78ae8cffe456a4e84d
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Shark - NBA",[🔴 LIVE] [07:00 WIB] [WNBA] New York Liberty vs Los Angeles Sparks - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bb1.bbcfiles.cfd/live/spark/stream.m3u8?expires=1782088137&token=c909935e9abaf1b2ef14293da3aab9f829c463a2034a35462d1466ca88495e04
+https://bb1.bbcfiles.cfd/live/spark/stream.m3u8?expires=1782088093&token=e6efe323a2c203c5990510077c0cd1ccd2b3c6b4c8834b860d234a2f7f7fdf82
 
