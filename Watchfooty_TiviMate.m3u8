@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-22 00:51 UTC
+# Last Updated: 2026-06-22 01:01 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [MLS NEXT Pro] Austin FC II vs Sporting Kansas City II - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/Vv0AQ8TCmodEfYczNduBOg/regular/austin-fc-ii-sporting-kansas-city-ii/1/1000007606/1782111705/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Los Angeles Sparks vs New York Liberty - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/FhJ7vEwzesOXRtVw6Aulpw/easy/los-angeles-sparks-new-york-liberty/1/4659745/1782111087/playlist.m3u8
+https://lb3.wfty.st/secure/JWUV-hEw2A4wYRtW8mR02Q/easy/los-angeles-sparks-new-york-liberty/1/4659745/1782111708/playlist.m3u8
 
