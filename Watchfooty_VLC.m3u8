@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-23 11:51 UTC
+# Last Updated: 2026-06-23 12:01 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Bad Homburg - Round of 32] Xin-Yu Wang vs Leylah Fernandez - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/fm-tn1auRnmJYpdGnFX_ww/easy/xin-yu-wang-leylah-fernandez/1/4743431/1782237082/playlist.m3u8
+https://lb6.wfty.st/secure/eNkQeGrtBFYWmLzLe_jUZw/easy/xin-yu-wang-leylah-fernandez/1/4743431/1782237692/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Hanshin Tigers vs Yakult Swallows - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/yV22j5qDq9eMLef0p_7f0g/sigma/hanshin-tigers-yakult-swallows/1/4626449/1782237085/playlist.m3u8
+https://lb4.wfty.st/secure/Ci1aOePVzRjU3YJ-UwhA3w/sigma/hanshin-tigers-yakult-swallows/1/4626449/1782237695/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Fukuoka Hawks vs Orix Buffaloes - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.wfty.st/secure/JACEI-d8KfAHhAVMT2fWJQ/sigma/fukuoka-hawks-orix-buffaloes/1/4627053/1782237699/playlist.m3u8
 
