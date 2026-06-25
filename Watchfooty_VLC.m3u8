@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-25 14:41 UTC
+# Last Updated: 2026-06-25 14:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [PGA TOUR: Travelers Championship (USA)] PGA TOUR: Travelers Championship (USA) - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/YMPCraKF59KOnU7bfkKrmw/prime/pga-tour-travelers-championship-usa/2/23_YRfMYBIj/1782420075/playlist.m3u8
+https://lb2.wfty.st/secure/J2AIDDOLxfYs1SbGJURIxg/prime/pga-tour-travelers-championship-usa/2/23_YRfMYBIj/1782420698/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Bad Homburg - Quarter Finals] Emma Navarro vs Elena Gabriela Ruse - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/ajIkPFvOeDZhZkzANg0WiA/easy/emma-navarro-elena-gabriela-ruse/1/4745043/1782420701/playlist.m3u8
 
