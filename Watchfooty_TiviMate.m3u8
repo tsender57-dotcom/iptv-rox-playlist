@@ -1,15 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-25 09:31 UTC
+# Last Updated: 2026-06-25 09:51 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Chunichi Dragons vs Yokohama Baystars - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/af5XBGWwL-HvReJeaIPYgQ/sigma/chunichi-dragons-yokohama-baystars/1/4626482/1782401498/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Premier League] Khovd vs Hunters - WFTY
-#EXTVLCOPT:http-referrer=https://sportsembed.su/
-#EXTVLCOPT:http-origin=https://sportsembed.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/DTnGRpBaaxu6VgrwSab7NQ/regular/khovd-hunters/1/4742192/1782401501/playlist.m3u8
+https://lb1.wfty.st/secure/FFmYCOeDllwkZUXEHFkbKw/sigma/chunichi-dragons-yokohama-baystars/1/4626482/1782402685/playlist.m3u8
 
