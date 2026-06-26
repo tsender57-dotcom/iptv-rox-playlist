@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-26 11:21 UTC
+# Last Updated: 2026-06-26 11:31 UTC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Premier League] Negele Arsi Ketema vs Ethiopia Nigd Bank - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/4AiWRgnen58ErrcUgBuhdQ/regular/negele-arsi-ketema-ethiopia-nigd-bank/1/4703514/1782495100/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Bad Homburg - Semi Finals] Xin-Yu Wang vs Naomi Osaka - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.st/secure/qPbid70emldXNU9jRGWZjg/easy/xin-yu-wang-naomi-osaka/1/4745667/1782494475/playlist.m3u8
+https://lb1.wfty.st/secure/PkL1KkU6aFRGkn1Y8MaAMg/easy/xin-yu-wang-naomi-osaka/1/4745667/1782495103/playlist.m3u8
 
