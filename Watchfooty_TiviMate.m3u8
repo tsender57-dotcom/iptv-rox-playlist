@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-06-27 07:52 UTC
+# Last Updated: 2026-06-27 08:01 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [AVC Men's Cup - 9th Place - 9th Place] New Zealand vs Oman - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [AIHL] Melbourne Mustangs vs Newcastle North Stars - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/OPZl4CQD71-as_tFCdn8sA/regular/new-zealand-oman/1/4748084/1782568314/playlist.m3u8
+https://lb2.wfty.st/secure/c4RWn2jM72iFBAMZasxhng/regular/melbourne-mustangs-newcastle-north-stars/1/4736673/1782568885/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [K3 League] Changwon City vs Yeoju FC - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/ITGtkxNPp0pEm9_wvt0gvw/regular/changwon-city-yeoju-fc/1/4667040/1782568889/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [NPB] Hiroshima Toyo Carp vs Hanshin Tigers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/Td8KwmwUg8cwUBhPghtkBg/regular/hiroshima-toyo-carp-hanshin-tigers/1/4626804/1782568318/playlist.m3u8
+https://lb5.wfty.st/secure/uEdb8hu5u8dGE5aIeUyn9g/regular/hiroshima-toyo-carp-hanshin-tigers/1/4626804/1782568892/playlist.m3u8
 
