@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-07-01 18:31 UTC
+# Last Updated: 2026-07-01 18:42 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Baltimore Orioles vs Chicago White Sox - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/qnPE2ih3gnz1yk1mZRp0cw/easy/baltimore-orioles-chicago-white-sox/1/401815979/1782952294/playlist.m3u8
+https://lb5.wfty.st/secure/pBmpKDP6Ia2bTW0xnRQTHw/easy/baltimore-orioles-chicago-white-sox/1/401815979/1782952900/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA European Under-19 Championship] Denmark U19 vs Spain U19 - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Cleveland Guardians vs Texas Rangers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/2xej9I4Ab_5OXrlcRVEz_A/regular/denmark-u19-spain-u19/1/4703106/1782952302/playlist.m3u8
+https://lb3.wfty.st/secure/ye9sRUqQEEH3gR5K5_C4BQ/sigma/cleveland-guardians-texas-rangers/1/401815984/1782952911/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [Canadian Premier League] Forge FC vs Vancouver Fc - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/usijWcDdqJ53UMffAROXDw/easy/forge-fc-vancouver-fc/1/4664876/1782952305/playlist.m3u8
+https://lb5.wfty.st/secure/b7zzaKUJiPb6ZUb3sArO_A/easy/forge-fc-vancouver-fc/1/4664876/1782952915/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA U19 Championship] Denmark U19 vs Spain U19 - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [European Championship U22] Ukraine U22 vs Portugal U22 - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb5.wfty.st/secure/B40WxKT9dhiQYbTGTNgPEQ/regular/denmark-u19-spain-u19/1/5344657/1782952309/playlist.m3u8
+https://lb1.wfty.st/secure/LctiRFeFeKGJX_k598GX4Q/regular/ukraine-u22-portugal-u22/1/4665506/1782952919/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [UEFA European Under-19 Championship] Denmark U19 vs Spain U19 - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/tJXExSNa273ijNxxQbKedQ/regular/denmark-u19-spain-u19/1/4703106/1782952922/playlist.m3u8
 
