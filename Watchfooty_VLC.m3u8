@@ -1,27 +1,33 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-07-03 02:31 UTC
+# Last Updated: 2026-07-03 02:41 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [CFL] Calgary Stampeders vs Toronto Argonauts - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/we-uwB7m-vd-HUm3eJKkTw/prime/calgary-stampeders-toronto-argonauts/4/4738385/1783067494/playlist.m3u8
+https://lb6.wfty.st/secure/wXYBRQY1qM8QdGR4jG5EpQ/prime/calgary-stampeders-toronto-argonauts/1/4738385/1783068086/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Seattle Mariners vs Los Angeles Angels - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/pwRbS50DrmL9MxJlqNdqBg/easy/seattle-mariners-los-angeles-angels/1/4555258/1783067502/playlist.m3u8
+https://lb3.wfty.st/secure/wicQLKlII_rjnnuYTfKUvA/easy/seattle-mariners-los-angeles-angels/1/4555258/1783068093/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Watchfooty - MLB",[🔴 LIVE] [MLB] Texas Rangers vs Detroit Tigers - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/S-mNxLSA8Aa6ZHngHynlaw/easy/texas-rangers-detroit-tigers/1/4555226/1783067505/playlist.m3u8
+https://lb6.wfty.st/secure/ReHv2ok2ZoTniwVK0wnPMw/easy/texas-rangers-detroit-tigers/1/4555226/1783068096/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Watchfooty - Random Events",[🔴 LIVE] [USL League One] Boise vs One Knoxville SC - WFTY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Connecticut Sun vs Dallas Wings - WFTY
 #EXTVLCOPT:http-referrer=https://sportsembed.su/
 #EXTVLCOPT:http-origin=https://sportsembed.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lb2.wfty.st/secure/srs48Z8tbhQLv1yD8MasrQ/regular/athletic-club-boise-one-knoxville/3/5109443/1783067512/playlist.m3u8
+https://lb5.wfty.st/secure/T2rZJQJPNsDrpQcbWm6U3A/easy/connecticut-sun-dallas-wings/1/4659769/1783068100/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Watchfooty - NBA",[🔴 LIVE] [WNBA] Phoenix Mercury vs Seattle Storm - WFTY
+#EXTVLCOPT:http-referrer=https://sportsembed.su/
+#EXTVLCOPT:http-origin=https://sportsembed.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/GTVleBd53pk69JzZhho3Pw/pro/phoenix-mercury-seattle-storm/1/4659771/1783068103/playlist.m3u8
 
