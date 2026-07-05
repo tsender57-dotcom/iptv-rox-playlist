@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-07-05 08:31 UTC
+# Last Updated: 2026-07-05 08:41 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [21:00 WIB] AMA Motocross
-https://admin.formaturamaxi.com.br/sx.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [00:00 WIB] World Cup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [03:00 WIB] World Cup
 https://customer-k7esp6o17le0nad2.cloudflarestream.com/e55558e0ecd91f1c75bfb02b727ff650/manifest/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [05:10 WIB] NASCAR Cup Series - Race
+https://admin.formaturamaxi.com.br/nas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [00:05 WIB] Baltimore Orioles vs Cincinnati Reds
 https://admin.formaturamaxi.com.br/mlb3.m3u8
@@ -43,15 +43,6 @@ https://admin.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [08:30 WIB] Boston Red Sox vs Los Angeles Angels
 https://admin.formaturamaxi.com.br/mlb15.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Nba - [04:00 WIB] Golden State Warriors vs Sacramento Kings
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/b5d5801b00e60a1a0a558a488419d2bd/manifest/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Nba - [06:00 WIB] San Antonio Spurs vs Golden State Warriors
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/d6e0bd30861d00a40ef3a010a31c9357/manifest/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [17:15 WIB] MXGP (MX2) - Coverage
 https://admin.formaturamaxi.com.br/mxgp.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [05:10 WIB] NASCAR Cup Series - Race
-https://admin.formaturamaxi.com.br/nas.m3u8
 
