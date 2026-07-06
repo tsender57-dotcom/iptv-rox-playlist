@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Spain at Portugal (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Spain at Portugal (STRMCNTR)
+#EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[05:40 WIB] [Baseball] New York Yankees at Tampa Bay Rays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[05:40 WIB] [Baseball] New York Yankees at Tampa Bay Rays (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8?st=ziZ-QOe1xZCbAifpLjOSnLv5dqjVq0u2f-P0BTj4clk&e=1783362724
-#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[01:10 WIB] [Baseball] Philadelphia Phillies at Kansas City Royals (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[01:10 WIB] [Baseball] Philadelphia Phillies at Kansas City Royals (STRMCNTR)
+https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?st=v5uVBl6ngz3sV7YQy8-Fmt0RQP-0n655Qu3zqGCmjiI&e=1783363325
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[02:00 WIB] [Football] Spain at Portugal (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[02:00 WIB] [Football] Spain at Portugal (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/dazhfiach15.m3u8?st=Vh0ie-7571bccDZD6h4V5nX9tahVJjv6a75774jxFgU&e=1783362725
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8?st=XnCdjYSQyPm07mg-UkuBojZFRgKighWhG5RkF0AeQ8I&e=1783363326
+#EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[01:10 WIB] [Baseball] Philadelphia Phillies at Kansas City Royals (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[01:10 WIB] [Baseball] Philadelphia Phillies at Kansas City Royals (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edgestream1.pro/hls/dazhfiach15.m3u8?st=JrMR5VA8-SxKekzFlLIuEq3l3v38fn344cwBkXrGsns&e=1783363327
