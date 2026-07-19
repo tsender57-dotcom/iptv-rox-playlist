@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-07-19 17:21 UTC
+# Last Updated: 2026-07-19 17:31 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:20 WIB] Los Angeles Dodgers vs New York Yankees
 https://admin2.formaturamaxi.com.br/mlb3.m3u8
@@ -39,4 +39,7 @@ https://admin2.formaturamaxi.com.br/mlb15.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [03:10 WIB] St. Louis Cardinals vs Arizona Diamondbacks
 https://admin2.formaturamaxi.com.br/mlb16.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [06:30 WIB] Winged 410 Sprint Cars - Huset's Speedway
+https://admin2.formaturamaxi.com.br/flo.m3u8
 
