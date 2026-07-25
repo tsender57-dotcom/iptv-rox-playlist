@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-07-25 20:11 UTC
+# Last Updated: 2026-07-25 20:21 UTC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMm0rc3L/247.png" tvg-id="Sports.Dummy.us" group-title="Roxiestreams - Random Events",Roxiestreams - [🔴 LIVE] [00:00 WIB] AMA Motocross (10/1PM)
 https://temp.formaturamaxi.com.br/sx.m3u8
@@ -40,6 +40,9 @@ https://temp.formaturamaxi.com.br/mlb14.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:15 WIB] Seattle Mariners vs Texas Rangers
 https://temp.formaturamaxi.com.br/mlb15.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [05:30 WIB] High Limit Racing
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [05:30 WIB] USAC Sprint Cars
 https://temp.formaturamaxi.com.br/flo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [05:30 WIB] High Limit Racing
+https://temp.formaturamaxi.com.br/flo2.m3u8
 
