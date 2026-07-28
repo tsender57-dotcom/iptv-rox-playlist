@@ -1,30 +1,45 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2026-07-28 08:01 UTC
+# Last Updated: 2026-07-28 08:11 UTC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [05:40 WIB] Arizona Diamondbacks vs Pittsburgh Pirates
-https://snowcone.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [05:40 WIB] Baltimore Orioles vs Detroit Tigers
+https://admin2.formaturamaxi.com.br/mlb3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [05:40 WIB] Texas Rangers vs Tampa Bay Rays
+https://admin2.formaturamaxi.com.br/mlb5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [05:40 WIB] Philadelphia Phillies vs Miami Marlins
+https://admin2.formaturamaxi.com.br/mlb6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [05:45 WIB] Toronto Blue Jays vs Washington Nationals
-https://snowcone.formaturamaxi.com.br/mlb5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:10 WIB] Cleveland Guardians vs Cincinnati Reds
-https://snowcone.formaturamaxi.com.br/mlb6.m3u8
+https://admin2.formaturamaxi.com.br/mlb7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:10 WIB] Atlanta Braves vs New York Mets
-https://snowcone.formaturamaxi.com.br/mlb7.m3u8
+https://admin2.formaturamaxi.com.br/mlb8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:40 WIB] Kansas City Royals vs Minnesota Twins
+https://admin2.formaturamaxi.com.br/mlb9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:40 WIB] New York Yankees vs Chicago White Sox
-https://snowcone.formaturamaxi.com.br/mlb8.m3u8
+https://admin2.formaturamaxi.com.br/mlb10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [06:45 WIB] Chicago Cubs vs St. Louis Cardinals
-https://snowcone.formaturamaxi.com.br/mlb9.m3u8
+https://admin2.formaturamaxi.com.br/mlb11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [08:38 WIB] Houston Astros vs Los Angeles Angels
-https://snowcone.formaturamaxi.com.br/mlb10.m3u8
+https://admin2.formaturamaxi.com.br/mlb12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [08:40 WIB] Boston Red Sox vs Athletics
-https://snowcone.formaturamaxi.com.br/mlb11.m3u8
+https://admin2.formaturamaxi.com.br/mlb13.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [08:40 WIB] Colorado Rockies vs San Diego Padres
+https://admin2.formaturamaxi.com.br/mlb14.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [08:45 WIB] Milwaukee Brewers vs San Francisco Giants
-https://snowcone.formaturamaxi.com.br/mlb12.m3u8
+https://admin2.formaturamaxi.com.br/mlb15.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams - MLB",Mlb - [09:10 WIB] Seattle Mariners vs Los Angeles Dodgers
+https://admin2.formaturamaxi.com.br/mlb16.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Motorsports - [05:30 WIB] High Limit Racing
+https://admin2.formaturamaxi.com.br/flo.m3u8
 
