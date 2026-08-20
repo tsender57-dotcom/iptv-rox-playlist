@@ -1,0 +1,9 @@
+{
+  "name": "camel-hybrid-scraper",
+  "version": "2.0.0",
+  "description": "API + Playwright Automated Sniffer",
+  "main": "scraper.js",
+  "dependencies": {
+    "playwright": "^1.42.1"
+  }
+}

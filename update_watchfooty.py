@@ -1,0 +1,266 @@
+#!/usr/bin/env python3
+
+import asyncio
+import json
+import re
+import requests
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
+from urllib.parse import quote
+
+from playwright.async_api import async_playwright
+
+# Konfigurasi Dasar
+BASE_DOMAIN = "watchfooty.st"
+API_URL = f"https://api.{BASE_DOMAIN}"
+BASE_URL = f"https://www.{BASE_DOMAIN}"
+
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+HEADERS = {"User-Agent": USER_AGENT, "Referer": BASE_URL + "/"}
+
+VLC_OUTPUT = "Watchfooty_VLC.m3u8"
+TIVIMATE_OUTPUT = "Watchfooty_TiviMate.m3u8"
+
+# Dictionary Logo
+TV_INFO = {
+    "soccer": ("Soccer.Dummy.us", "https://i.postimg.cc/HsWHFvV0/Soccer.png", "Soccer"),
+    "mlb": ("MLB.Baseball.Dummy.us", "https://i.postimg.cc/FsFmwC7K/Baseball3.png", "MLB"),
+    "nba": ("NBA.Basketball.Dummy.us", "https://i.postimg.cc/jdqKB3LW/Basketball-2.png", "NBA"),
+    "nfl": ("Football.Dummy.us", "https://i.postimg.cc/tRNpSGCq/Maxx.png", "NFL"),
+    "nhl": ("NHL.Hockey.Dummy.us", "https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png", "NHL"),
+    "fighting": ("PPV.EVENTS.Dummy.us", "https://i.postimg.cc/8c4GjMnH/Combat-Sports.png", "Combat Sports"),
+    "motorsports": ("Racing.Dummy.us", "https://i.postimg.cc/yY6B2pkv/F1.png", "Motorsports"),
+    "ufc": ("UFC.Fight.Pass.Dummy.us", "https://i.postimg.cc/59Sb7W9D/Combat-Sports2.png", "UFC"),
+    "ppv": ("PPV.EVENTS.Dummy.us", "https://i.postimg.cc/mkj4tC62/PPV.png", "PPV"),
+    "wwe": ("PPV.EVENTS.Dummy.us", "https://i.postimg.cc/wTxHn47J/WWE2.png", "WWE"),
+    "misc": ("Sports.Dummy.us", "https://i.postimg.cc/qMm0rc3L/247.png", "Random Events"),
+}
+
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+
+def get_tv_data(sport_name):
+    key = sport_name.lower().strip()
+    if key in TV_INFO: return TV_INFO[key]
+    for k in TV_INFO:
+        if k in key: return TV_INFO[k]
+    return TV_INFO["misc"]
+
+def get_wfty_live_events():
+    """Mengambil jadwal pertandingan LIVE melalui API TRPC Watchfooty."""
+    print(f"Mencari jadwal LIVE di API {BASE_DOMAIN}...")
+    
+    now = datetime.utcnow()
+    start_iso = now.isoformat() + "Z"
+    end_iso = (now + timedelta(days=1)).isoformat() + "Z"
+
+    url = f"{API_URL}/_internal/trpc/sports.getSportsLiveMatchesCount,sports.getPopularMatches,sports.getPopularLiveMatches"
+    input_data = {
+        "0": {"json": {"start": start_iso, "end": end_iso}},
+        "1": {"json": None, "meta": {"values": ["undefined"]}},
+        "2": {"json": None, "meta": {"values": ["undefined"]}}
+    }
+    
+    params = {"batch": "1", "input": json.dumps(input_data, separators=(",", ":"))}
+
+    try:
+        r = SESSION.get(url, params=params, timeout=15)
+        r.raise_for_status()
+        data = r.json()
+        
+        api_data = data[-1].get("result", {}).get("data", {}).get("json", [])
+        if not api_data: return []
+
+        events = []
+        for link in api_data:
+            if not link.get("viewerCount"): continue
+            
+            league = link.get("league") or link.get("competition") or "Misc"
+            title = link.get("title", "Unknown Event")
+            
+            raw_time = link.get("startTime") or link.get("startDate")
+            time_str = ""
+            if raw_time:
+                try:
+                    if isinstance(raw_time, (int, float)) or (isinstance(raw_time, str) and raw_time.isdigit()):
+                        ts = float(raw_time)
+                        if ts > 9999999999: ts /= 1000
+                        dt_utc = datetime.fromtimestamp(ts, tz=ZoneInfo("UTC"))
+                    else:
+                        dt_utc = datetime.fromisoformat(str(raw_time).replace("Z", "+00:00"))
+                    dt_wib = dt_utc.astimezone(ZoneInfo("Asia/Jakarta"))
+                    time_str = f"[{dt_wib.strftime('%H:%M WIB')}] "
+                except: pass
+
+            events.append({
+                "id": link.get("id"),
+                "sport": league,
+                "title": title,
+                "league_name": league,
+                "time_str": time_str
+            })
+            
+        return events
+    except Exception as e:
+        print(f"Gagal mengakses API WFTY: {e}")
+        return []
+
+def get_embed_data(event_id, fallback_time):
+    """Menembak API detail untuk mendapatkan URL Iframe DAN Jam Kick-off."""
+    now = datetime.utcnow()
+    start_iso = now.isoformat() + "Z"
+    end_iso = (now + timedelta(days=1)).isoformat() + "Z"
+
+    url = f"{API_URL}/_internal/trpc/sports.getSportsLiveMatchesCount,sports.getMatchById"
+    input_data = {
+        "0": {"json": {"start": start_iso, "end": end_iso}},
+        "1": {"json": {"id": event_id, "withoutAdditionalInfo": True, "withoutLinks": False}}
+    }
+    params = {"batch": "1", "input": json.dumps(input_data, separators=(",", ":"))}
+
+    try:
+        r = SESSION.get(url, params=params, timeout=10)
+        data = r.json()
+        api_data = data[-1].get("result", {}).get("data", {}).get("json", {})
+        
+        time_str = fallback_time
+        fixture_data = api_data.get("fixtureData", {})
+        
+        if not time_str:
+            raw_time = fixture_data.get("startTime") or fixture_data.get("startDate") or api_data.get("startTime")
+            if raw_time:
+                try:
+                    if isinstance(raw_time, (int, float)) or (isinstance(raw_time, str) and raw_time.isdigit()):
+                        ts = float(raw_time)
+                        if ts > 9999999999: ts /= 1000
+                        dt_utc = datetime.fromtimestamp(ts, tz=ZoneInfo("UTC"))
+                    else:
+                        dt_utc = datetime.fromisoformat(str(raw_time).replace("Z", "+00:00"))
+                    dt_wib = dt_utc.astimezone(ZoneInfo("Asia/Jakarta"))
+                    time_str = f"[{dt_wib.strftime('%H:%M WIB')}] "
+                except: pass
+
+        links = fixture_data.get("links", [])
+        valid_links = [l for l in links if l.get("wld") and "e" not in l.get("wld")]
+        valid_links.sort(key=lambda x: x.get("viewerCount", -1), reverse=True)
+        
+        if not valid_links: return None, time_str
+        
+        best = valid_links[0]
+        gi, t = best.get("gi"), best.get("t")
+        cn, sn = best.get("wld", {}).get("cn"), best.get("wld", {}).get("sn")
+        
+        if not all([gi, t, cn, sn]): return None, time_str
+        
+        embed_url = f"https://sportsembed.su/embed/{gi}/{t}/{cn}/{sn}?player=clappr&autoplay=true"
+        return embed_url, time_str
+
+    except Exception:
+        return None, fallback_time
+
+# --- JURUS MENCURI M3U8 (Playwright) ---
+async def extract_m3u8_playwright(page, url):
+    stream_url = None
+
+    def handle_request(request):
+        nonlocal stream_url
+        if ".m3u8" in request.url and "ad" not in request.url.lower():
+            if not stream_url: stream_url = request.url
+
+    page.on("request", handle_request)
+
+    try:
+        await page.goto(url, wait_until="domcontentloaded", timeout=20000)
+        await page.wait_for_timeout(3000)
+
+        try:
+            btn = page.locator("button.streambutton").first
+            if await btn.count() > 0:
+                await btn.dblclick(force=True, timeout=2000)
+        except: pass
+
+        try:
+            src = await page.evaluate("() => clapprPlayer.options.source")
+            if src and ".m3u8" in src: stream_url = src
+        except: pass
+
+    except Exception:
+        pass
+
+    page.remove_listener("request", handle_request)
+    return stream_url
+
+async def main():
+    print("Memulai Watchfooty playlist generation...")
+    events = get_wfty_live_events()
+    
+    if not events:
+        print("Tidak ada jadwal LIVE yang ditemukan dari API.")
+        return
+
+    print(f"Menemukan {len(events)} jadwal LIVE. Mempersiapkan Sniper...")
+    all_streams = []
+
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(
+            headless=True, 
+            args=["--no-sandbox", "--disable-dev-shm-usage", "--disable-web-security"]
+        )
+        context = await browser.new_context(user_agent=USER_AGENT)
+        page = await context.new_page()
+
+        for ev in events:
+            print(f"Memproses: {ev['title']}")
+            
+            embed_data = get_embed_data(ev['id'], ev['time_str'])
+            if not embed_data or not embed_data[0]:
+                print("  ❌ Gagal mendapatkan Iframe embed.")
+                continue
+                
+            embed_url, time_str = embed_data
+            
+            full_title = f"[🔴 LIVE] {time_str}[{ev['league_name']}] {ev['title']} - WFTY"
+            
+            m3u8_link = await extract_m3u8_playwright(page, embed_url)
+            
+            if m3u8_link:
+                all_streams.append((ev['sport'], full_title, m3u8_link))
+                print(f"  ✅ BERHASIL: {m3u8_link}")
+            else:
+                print(f"  ⚠️ M3U8 tidak terdeteksi.")
+
+        await browser.close()
+
+    if not all_streams:
+        print("\nGagal mengekstrak stream apapun.")
+        return
+
+    ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    header = f'#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n# Last Updated: {ts}\n\n'
+
+    # JURUS FORMAT BARIS (EXTVLCOPT)
+    with open(VLC_OUTPUT, "w", encoding="utf-8") as f:
+        f.write(header)
+        for sport, title, url in all_streams:
+            tvg_id, logo, group_name = get_tv_data(sport)
+            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Watchfooty - {group_name}",{title}\n')
+            f.write(f'#EXTVLCOPT:http-referrer=https://sportsembed.su/\n')
+            f.write(f'#EXTVLCOPT:http-origin=https://sportsembed.su\n')
+            f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
+            f.write(f'{url}\n\n')
+
+    with open(TIVIMATE_OUTPUT, "w", encoding="utf-8") as f:
+        f.write(header)
+        for sport, title, url in all_streams:
+            tvg_id, logo, group_name = get_tv_data(sport)
+            f.write(f'#EXTINF:-1 tvg-logo="{logo}" tvg-id="{tvg_id}" group-title="Watchfooty - {group_name}",{title}\n')
+            f.write(f'#EXTVLCOPT:http-referrer=https://sportsembed.su/\n')
+            f.write(f'#EXTVLCOPT:http-origin=https://sportsembed.su\n')
+            f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
+            f.write(f'{url}\n\n')
+
+    print(f"\nSelesai! {len(all_streams)} tayangan berhasil disimpan.")
+
+if __name__ == "__main__":
+    asyncio.run(main())
+        

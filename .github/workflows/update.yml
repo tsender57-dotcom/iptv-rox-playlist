@@ -1,0 +1,82 @@
+name: Auto Update Playlists
+
+on:
+  workflow_dispatch: # Mengizinkan Anda menekan tombol "Run" manual / via API cron-job.org
+
+jobs:
+  update-playlists:
+    runs-on: ubuntu-latest
+
+    # Memberikan izin kepada bot untuk menulis file ke repository
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Menggabungkan SEMUA library dari kelima script
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests bs4 playwright pytz httpx[http2] selectolax
+          playwright install --with-deps
+          playwright install chromium
+        
+      - name: Run Roxiestreams Script
+        run: python update_rox.py
+        continue-on-error: true
+
+      - name: Run Sharkstreams Script
+        run: python update_shark.py
+        continue-on-error: true
+
+      - name: Run Watchfooty Script
+        run: python update_watchfooty.py
+        continue-on-error: true
+
+      # Menambahkan Environment Variable untuk CenterStrm
+      - name: Run CenterStrm Script
+        env:
+          CENTERSTRM_API: ${{ secrets.CENTERSTRM_API }}
+        run: python centerstrm.py
+        continue-on-error: true
+
+      # Menambahkan Environment Variable untuk SportIR (berjaga-jaga)
+      - name: Run Sport IR Script
+        env:
+          PYTHONUNBUFFERED: 1
+        run: python sport_ir.py
+        continue-on-error: true
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # HANYA menjaring file .m3u8 dan .json (jika CenterStrm masih pakai .json untuk cache)
+          git add *.m3u8 *.json
+          
+          # Cek apakah ada perubahan file
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git commit -m "Auto-update All Playlists (Roxie, Shark, WFTY, Center, SportIR)"
+          
+          # Push dengan aman (Safe Push)
+          if ! git push origin main; then
+            echo "Push rejected — rebasing safely..."
+            git stash
+            git pull --rebase origin main
+            git stash pop
+            git add *.m3u8 *.json
+            git commit -m "Auto-update All Playlists (rebased)" || true
+            git push origin main
+          fi

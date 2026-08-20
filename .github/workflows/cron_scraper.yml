@@ -1,0 +1,45 @@
+name: Scheduled M3U8 Scraper (Hybrid)
+
+on:
+  workflow_dispatch: 
+
+jobs:
+  scrape_and_update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Playwright & Dependencies
+        # Menambahkan --no-save agar meminimalisir pembuatan file sampah lock
+        run: |
+          npm install playwright --no-save
+          npx playwright install chromium --with-deps
+
+      - name: Run Scraper Engine
+        run: node scraper.js
+
+      - name: Commit and Push M3U Playlist
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          
+          if [ -f playlist.m3u ]; then
+            git add playlist.m3u
+            git commit -m "Auto-Update: Camelscore M3U8 [$(date)]" || echo "No changes to commit"
+            
+            # LOGIKA PRO 100%: Bersihkan sisa file instalasi (seperti package-lock.json)
+            # agar area kerja bersih 100% sebelum melakukan rebase
+            git stash || true
+            
+            git pull --rebase origin main
+            git push
+          fi
+          
