@@ -1,0 +1,84 @@
+name: Auto Update Akun 3
+on:
+  schedule:
+    - cron: '0 0 * * *' # Berjalan otomatis setiap 24 jam
+  workflow_dispatch: # Tombol manual jika ingin djalankan kapan saja
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tarik Repositori
+        uses: actions/checkout@v3
+
+      - name: Siapkan Mesin Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Unduh Data MAC Portal 3
+        run: |
+          curl -s -H "Cookie: mac=00:1A:79:7C:98:42" -A "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3" "http://a47.streamtrx.xyz/server/load.php?type=itv&action=get_all_channels" -o mac_channels.json
+          curl -s -H "Cookie: mac=00:1A:79:7C:98:42" -A "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3" "http://a47.streamtrx.xyz/server/load.php?type=itv&action=get_genres" -o mac_genres.json
+
+      - name: Buat dan Eksekusi Skrip
+        run: |
+          cat << 'EOF' > update3.py
+          import os, json
+          from datetime import datetime
+          PORTAL_URL = "http://a47.streamtrx.xyz"
+          MAC_ADDRESS = "00:1A:79:7C:98:42"
+          GITHUB_RAW_BASE = "https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/"
+          OUTPUT_FOLDER = "MyIPTV/channels3"
+          MASTER_PLAYLIST = "MyIPTV/playlist3.m3u"
+          CLEAN_HOST = PORTAL_URL.replace(":80", "").replace("/c", "").rstrip("/")
+          
+          def load_genres():
+              genre_map = {}
+              try:
+                  with open("mac_genres.json", "r", encoding="utf-8") as f:
+                      for g in json.load(f).get("js", []):
+                          if g.get("id") and g.get("title"):
+                              genre_map[str(g.get("id"))] = g.get("title")
+              except Exception: pass
+              return genre_map
+              
+          def process_channels():
+              genre_map = load_genres()
+              try:
+                  with open("mac_channels.json", "r", encoding="utf-8") as f:
+                      channels = json.load(f).get("js", {}).get("data", [])
+              except Exception: return
+              if not channels: return
+              if not os.path.exists(OUTPUT_FOLDER): os.makedirs(OUTPUT_FOLDER)
+              
+              with open(MASTER_PLAYLIST, "w", encoding="utf-8") as master_file:
+                  master_file.write("#EXTM3U\n# ==========================================\n")
+                  master_file.write("# TYPE: MAC Portal to M3U8 Conversion (AKUN 3)\n")
+                  master_file.write(f"# GENERATED: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+                  master_file.write("# ==========================================\n\n")
+                  
+                  for channel in channels:
+                      ch_id = str(channel.get("id", ""))
+                      if not ch_id: continue
+                      ch_name = channel.get("name", "Unknown Channel").strip()
+                      ch_logo = channel.get("logo", "")
+                      ch_group = genre_map.get(str(channel.get("tv_genre_id", "")), "Uncategorized")
+                      m3u8_content = f"#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000\n{CLEAN_HOST}/play/live.php?mac={MAC_ADDRESS}&stream={ch_id}&extension=m3u8\n"
+                      
+                      with open(os.path.join(OUTPUT_FOLDER, f"{ch_id}.m3u8"), "w", encoding="utf-8") as f:
+                          f.write(m3u8_content)
+                      master_file.write(f'#EXTINF:-1 group-title="{ch_group}" tvg-logo="{ch_logo}", {ch_name}\n')
+                      master_file.write(f'{GITHUB_RAW_BASE}{ch_id}.m3u8\n')
+          process_channels()
+          EOF
+          python update3.py
+          rm update3.py mac_channels.json mac_genres.json
+
+      - name: Simpan ke GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add MyIPTV/
+          git commit -m "Auto Update Akun 3 (24 Jam)" || echo "Tidak ada perubahan channel"
+          git push
