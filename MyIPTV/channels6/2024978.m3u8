@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://simpletv.uk/play/live.php?mac=00:1A:79:4F:E1:07&stream=2024978&extension=m3u8
