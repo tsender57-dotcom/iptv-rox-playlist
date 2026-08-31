@@ -1,8 +1,6 @@
 name: Auto Update Akun 9 (Superjal)
 on:
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # HANYA BERJALAN SECARA MANUAL
 
 jobs:
   update-playlist:
@@ -29,22 +27,18 @@ jobs:
 
           def fetch_json(url):
               try:
-                  # Menyamar sebagai aplikasi IPTV Smarters Pro agar diizinkan masuk
                   req = urllib.request.Request(url, headers={'User-Agent': 'IPTVSmartersPro'})
                   with urllib.request.urlopen(req, timeout=30) as response:
                       return json.loads(response.read().decode('utf-8', errors='ignore'))
-              except Exception as e:
-                  print(f"Error mengambil data: {e}")
+              except Exception:
                   return None
 
           def process():
-              print("Mengambil kategori...")
               cats = fetch_json(f"{HOST}/player_api.php?username={USER}&password={PASS}&action=get_live_categories")
               if not cats: cats = []
               
               cat_map = {str(c.get("category_id")): c.get("category_name", "Uncategorized") for c in cats if isinstance(c, dict)}
 
-              print("Mengambil daftar channel...")
               streams = fetch_json(f"{HOST}/player_api.php?username={USER}&password={PASS}&action=get_live_streams")
               if not streams:
                   print("Gagal mengambil stream Xtream API!")
@@ -52,13 +46,33 @@ jobs:
 
               os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
               
+              # Mendata semua group title unik yang aktif
+              active_groups = set()
+              for s in streams:
+                  if isinstance(s, dict):
+                      cat_id = str(s.get("category_id", ""))
+                      active_groups.add(cat_map.get(cat_id, "Uncategorized"))
+              
+              sorted_groups = sorted(list(active_groups))
+              
               with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                   f.write("#EXTM3U\n")
                   f.write("# ==========================================\n")
                   f.write(f"# TYPE: Direct Xtream API (AKUN 9)\n")
                   f.write(f"# GENERATED: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+                  f.write("# ==========================================\n")
+                  f.write("# DAFTAR GROUP TITLE:\n")
+                  
+                  # Menulis daftar group title berjejer ke bawah dengan koma
+                  for i, g in enumerate(sorted_groups):
+                      if i < len(sorted_groups) - 1:
+                          f.write(f"# {g},\n")
+                      else:
+                          f.write(f"# {g}\n")
+                          
                   f.write("# ==========================================\n\n")
                   
+                  # Menulis link m3u8
                   for s in streams:
                       if not isinstance(s, dict): continue
                       ch_id = str(s.get("stream_id", ""))
@@ -69,7 +83,6 @@ jobs:
                       cat_id = str(s.get("category_id", ""))
                       group = cat_map.get(cat_id, "Uncategorized")
                       
-                      # Merakit link murni Xtream Codes
                       xc_link = f"{HOST}/{USER}/{PASS}/{ch_id}"
                       f.write(f'#EXTINF:-1 group-title="{group}" tvg-logo="{logo}", {name}\n')
                       f.write(f"{xc_link}\n")
@@ -85,5 +98,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add MyIPTV/
-          git commit -m "Auto Update Akun 9 (Menggunakan Xtream API)" || echo "Tidak ada perubahan"
+          git commit -m "Manual Update Akun 9 (List Grup Ditambahkan)" || echo "Tidak ada perubahan"
           git push
