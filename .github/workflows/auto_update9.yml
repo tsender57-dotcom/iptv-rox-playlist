@@ -1,0 +1,91 @@
+name: Auto Update Akun 9 (Superjal)
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Berjalan otomatis setiap 6 JAM SEKALI
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tarik Repositori
+        uses: actions/checkout@v3
+
+      - name: Siapkan Mesin Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Unduh Data MAC Portal 9
+        run: |
+          # Tetap menggunakan MAC untuk mendownload struktur channel dari portal Stalker
+          curl -s -H "Cookie: mac=00:1A:79:7E:59:B3" -A "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3" "http://superjal.xyz:80/c/server/load.php?type=itv&action=get_all_channels" -o mac_channels9.json
+          curl -s -H "Cookie: mac=00:1A:79:7E:59:B3" -A "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3" "http://superjal.xyz:80/c/server/load.php?type=itv&action=get_genres" -o mac_genres9.json
+
+      - name: Buat dan Eksekusi Skrip Akun 9 (Format Xtream Direct)
+        run: |
+          cat << 'EOF' > update9.py
+          import os, json
+          from datetime import datetime
+          
+          # Konfigurasi Xtream Codes
+          HOST = "http://superjal.xyz"
+          XC_USER = "563541M6C2PUXM9"
+          XC_PASS = "AwTB2aVYlw"
+          
+          OUTPUT_FOLDER = "MyIPTV"
+          MASTER_PLAYLIST = os.path.join(OUTPUT_FOLDER, "playlist9.m3u")
+          
+          def load_genres():
+              genre_map = {}
+              try:
+                  with open("mac_genres9.json", "r", encoding="utf-8") as f:
+                      for g in json.load(f).get("js", []):
+                          if g.get("id") and g.get("title"):
+                              genre_map[str(g.get("id"))] = g.get("title")
+              except Exception: pass
+              return genre_map
+              
+          def process_channels():
+              genre_map = load_genres()
+              try:
+                  with open("mac_channels9.json", "r", encoding="utf-8") as f:
+                      channels = json.load(f).get("js", {}).get("data", [])
+              except Exception: return
+              if not channels: return
+              
+              if not os.path.exists(OUTPUT_FOLDER):
+                  os.makedirs(OUTPUT_FOLDER)
+              
+              with open(MASTER_PLAYLIST, "w", encoding="utf-8") as master_file:
+                  master_file.write("#EXTM3U\n# ==========================================\n")
+                  master_file.write(f"# TYPE: Direct Xtream Codes (AKUN 9)\n")
+                  master_file.write(f"# GENERATED: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+                  master_file.write("# ==========================================\n\n")
+                  
+                  for channel in channels:
+                      ch_id = str(channel.get("id", ""))
+                      if not ch_id: continue
+                      
+                      ch_name = channel.get("name", "Unknown Channel").strip()
+                      ch_logo = channel.get("logo", "")
+                      ch_group = genre_map.get(str(channel.get("tv_genre_id", "")), "Uncategorized")
+                      
+                      # MERAKIT LINK XTREAM CODES MURNI
+                      xc_link = f"{HOST}/{XC_USER}/{XC_PASS}/{ch_id}"
+                      
+                      master_file.write(f'#EXTINF:-1 group-title="{ch_group}" tvg-logo="{ch_logo}", {ch_name}\n')
+                      master_file.write(f'{xc_link}\n')
+                      
+          process_channels()
+          EOF
+          python update9.py
+          rm update9.py mac_channels9.json mac_genres9.json
+
+      - name: Simpan ke GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add MyIPTV/playlist9.m3u
+          git commit -m "Auto Update Akun 9 (Xtream Direct Format)" || echo "Tidak ada perubahan"
+          git push
