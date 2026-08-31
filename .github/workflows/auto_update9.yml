@@ -1,0 +1,103 @@
+name: Auto Update Akun 9 (Suprx47)
+on:
+  workflow_dispatch: # HANYA BERJALAN SECARA MANUAL
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tarik Repositori
+        uses: actions/checkout@v3
+
+      - name: Siapkan Mesin Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Buat dan Eksekusi Skrip Xtream API
+        run: |
+          cat << 'EOF' > update9.py
+          import os, json, urllib.request
+          from datetime import datetime
+
+          # KREDENSIAL AKUN BARU
+          HOST = "http://suprx47.xyz"
+          USER = "5D27ZN55V53QA12"
+          PASS = "9l1VAcd3HN"
+          OUTPUT_FILE = "MyIPTV/playlist9.m3u"
+
+          def fetch_json(url):
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'IPTVSmartersPro'})
+                  with urllib.request.urlopen(req, timeout=30) as response:
+                      return json.loads(response.read().decode('utf-8', errors='ignore'))
+              except Exception:
+                  return None
+
+          def process():
+              cats = fetch_json(f"{HOST}/player_api.php?username={USER}&password={PASS}&action=get_live_categories")
+              if not cats: cats = []
+              
+              cat_map = {str(c.get("category_id")): c.get("category_name", "Uncategorized") for c in cats if isinstance(c, dict)}
+
+              streams = fetch_json(f"{HOST}/player_api.php?username={USER}&password={PASS}&action=get_live_streams")
+              if not streams:
+                  print("Gagal mengambil stream Xtream API!")
+                  return
+
+              os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+              
+              # Mendata semua group title unik yang aktif
+              active_groups = set()
+              for s in streams:
+                  if isinstance(s, dict):
+                      cat_id = str(s.get("category_id", ""))
+                      active_groups.add(cat_map.get(cat_id, "Uncategorized"))
+              
+              sorted_groups = sorted(list(active_groups))
+              
+              with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+                  f.write("#EXTM3U\n")
+                  f.write("# ==========================================\n")
+                  f.write(f"# TYPE: Direct Xtream API (AKUN 9)\n")
+                  f.write(f"# GENERATED: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+                  f.write("# ==========================================\n")
+                  f.write("# DAFTAR GROUP TITLE:\n")
+                  
+                  # Menulis daftar group title berjejer ke bawah dengan koma
+                  for i, g in enumerate(sorted_groups):
+                      if i < len(sorted_groups) - 1:
+                          f.write(f"# {g},\n")
+                      else:
+                          f.write(f"# {g}\n")
+                          
+                  f.write("# ==========================================\n\n")
+                  
+                  # Menulis link m3u8
+                  for s in streams:
+                      if not isinstance(s, dict): continue
+                      ch_id = str(s.get("stream_id", ""))
+                      if not ch_id: continue
+                      
+                      name = s.get("name", "Unknown Channel").strip()
+                      logo = s.get("stream_icon", "")
+                      cat_id = str(s.get("category_id", ""))
+                      group = cat_map.get(cat_id, "Uncategorized")
+                      
+                      xc_link = f"{HOST}/{USER}/{PASS}/{ch_id}"
+                      f.write(f'#EXTINF:-1 group-title="{group}" tvg-logo="{logo}", {name}\n')
+                      f.write(f"{xc_link}\n")
+              print("File playlist9.m3u berhasil dibuat dengan akun baru!")
+
+          process()
+          EOF
+          python update9.py
+          rm update9.py
+
+      - name: Simpan ke GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add MyIPTV/
+          git commit -m "Ganti Akun 9 ke Suprx47 (Manual Execution)" || echo "Tidak ada perubahan"
+          git push
