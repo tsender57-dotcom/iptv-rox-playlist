@@ -1,7 +1,7 @@
 name: Auto Update Akun 10
 on:
   schedule:
-    - cron: '0 */3 * * *' # Berjalan otomatis setiap 3 JAM SEKALI
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,13 +21,12 @@ jobs:
           curl -s -H "Cookie: mac=00:1A:79:75:6F:75" -A "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3" "http://mag.tiger-ott.net/server/load.php?type=itv&action=get_all_channels" -o mac_channels10.json
           curl -s -H "Cookie: mac=00:1A:79:75:6F:75" -A "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3" "http://mag.tiger-ott.net/server/load.php?type=itv&action=get_genres" -o mac_genres10.json
           
-          # Fallback jika URL di atas kosong (menggunakan /c/)
           if [ ! -s mac_channels10.json ]; then
             curl -s -H "Cookie: mac=00:1A:79:75:6F:75" -A "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3" "http://mag.tiger-ott.net/c/server/load.php?type=itv&action=get_all_channels" -o mac_channels10.json
             curl -s -H "Cookie: mac=00:1A:79:75:6F:75" -A "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3" "http://mag.tiger-ott.net/c/server/load.php?type=itv&action=get_genres" -o mac_genres10.json
           fi
 
-      - name: Buat dan Eksekusi Skrip Akun 10 (Trik Exoplayer, Tanpa Token)
+      - name: Buat dan Eksekusi Skrip Akun 10 (Daftar Grup + Trik Exoplayer)
         run: |
           cat << 'EOF' > update10.py
           import os, json, shutil
@@ -62,12 +61,31 @@ jobs:
                   shutil.rmtree(OUTPUT_FOLDER)
               os.makedirs(OUTPUT_FOLDER)
               
+              # Mendata semua group title unik yang aktif dari JSON
+              active_groups = set()
+              for channel in channels:
+                  ch_group = genre_map.get(str(channel.get("tv_genre_id", "")), "Uncategorized")
+                  active_groups.add(ch_group)
+              
+              sorted_groups = sorted(list(active_groups))
+              
               with open(MASTER_PLAYLIST, "w", encoding="utf-8") as master_file:
                   master_file.write("#EXTM3U\n# ==========================================\n")
                   master_file.write(f"# TYPE: MAC Portal (AKUN 10 - NO TOKEN)\n")
                   master_file.write(f"# GENERATED: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+                  master_file.write("# ==========================================\n")
+                  master_file.write("# DAFTAR GROUP TITLE:\n")
+                  
+                  # Menulis daftar group title berjejer ke bawah
+                  for i, g in enumerate(sorted_groups):
+                      if i < len(sorted_groups) - 1:
+                          master_file.write(f"# {g},\n")
+                      else:
+                          master_file.write(f"# {g}\n")
+                          
                   master_file.write("# ==========================================\n\n")
                   
+                  # Memproses link dan membuat file m3u8
                   for channel in channels:
                       ch_id = str(channel.get("id", ""))
                       if not ch_id: continue
@@ -92,5 +110,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add MyIPTV/
-          git commit -m "Auto Update Akun 10 (Cron 3 Jam, No Token)" || echo "Tidak ada perubahan"
+          git commit -m "Auto Update Akun 10 (Cron 3 Jam, Tambah Fitur Daftar Grup)" || echo "Tidak ada perubahan"
           git push
