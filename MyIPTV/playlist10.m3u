@@ -1,7 +1,7 @@
 #EXTM3U
 # ==========================================
 # TYPE: MAC Portal (AKUN 10 - NO TOKEN)
-# GENERATED: 2026-09-03 10:56:02
+# GENERATED: 2026-09-03 16:07:15
 # ==========================================
 # DAFTAR GROUP TITLE:
 # HORSE RACING,
@@ -270,7 +270,6 @@
 # ┃DE┃ PREMIUM THRILLER,
 # ┃DE┃ REGIONAL | ANDERE,
 # ┃DE┃ RTL+,
-# ┃DE┃ RTL+ GO,
 # ┃DE┃ RTL+ THEMEN SENDER,
 # ┃DE┃ SERIEN 24/7,
 # ┃DE┃ SKY SPORT BUNDESLIGA FHD,
@@ -350,7 +349,6 @@
 # ┃FR┃ OD CANAL+ BOXOFFICE,
 # ┃FR┃ OD NETFLIX PREMIERE,
 # ┃FR┃ OD PLAY SUPER,
-# ┃FR┃ OD TOP 100,
 # ┃FR┃ RMC SPORT,
 # ┃FR┃ SPORTS,
 # ┃FR┃ SWEEK EVENTS,
@@ -7946,26 +7944,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/796165.m3u8
 #EXTINF:-1 group-title="┃DE┃ OD PRIME VIDEO" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/PRIMEVIDEO SERIES HD.png", ┃DE┃ PRIMEVIDEO SERIES 8 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/796164.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 1 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757575.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 2 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757576.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 3 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757577.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 4 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757578.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 5 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757579.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 6 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757580.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 7 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757581.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 8 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757582.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 9 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757583.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png", ┃DE┃ HBOMAX PREMIERE 10 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757584.m3u8
 #EXTINF:-1 group-title="┃DE┃ OD APPLE TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png", ┃DE┃ APPLE TV+ SERIES INFO HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/796163.m3u8
 #EXTINF:-1 group-title="┃DE┃ OD APPLE TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png", ┃DE┃ APPLE TV+ SERIES 1 HD
@@ -7988,50 +7966,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/796154.m3u8
 #EXTINF:-1 group-title="┃DE┃ OD APPLE TV+" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ENTERTAINMENT HUB/APPLE TV+ SERIES HD.png", ┃DE┃ APPLE TV+ SERIES 10 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/796153.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 1 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757615.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 2 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757616.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 3 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757617.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 4 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757618.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 5 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757619.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 6 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757620.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 7 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757621.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 8 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757623.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 9 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757629.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="", ┃DE┃ VODAFONE GO 10 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1757630.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 1 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759463.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 2 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759484.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 3 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759603.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 4 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759609.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 5 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759635.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 6 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759636.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 7 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759637.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 8 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759638.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 9 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759639.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 10 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759640.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 11 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759641.m3u8
-#EXTINF:-1 group-title="┃DE┃ RTL+ GO" tvg-logo="", ┃DE┃ RTL+ GO 12 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1759642.m3u8
 #EXTINF:-1 group-title="┃DE┃ OD PLEX" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png", ┃DE┃ PLEX BOX-OFFICE 1
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/689896.m3u8
 #EXTINF:-1 group-title="┃DE┃ OD PLEX" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png", ┃DE┃ PLEX BOX-OFFICE 2
@@ -13306,26 +13240,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/942051.m3u8
 #EXTINF:-1 group-title="┃FR┃ OD PLAY SUPER" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png", ┃FR┃ PLAY EXTRA HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/942055.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 1 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762033.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 2 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762034.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 3 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762035.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 4 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762036.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 5 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762037.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 6 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762038.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 7 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762043.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 8 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762044.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 9 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762045.m3u8
-#EXTINF:-1 group-title="┃FR┃ OD TOP 100" tvg-logo="", ┃FR┃ TOP 100 MOVIES 10 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1762046.m3u8
 #EXTINF:-1 group-title="┃CH┃ SWITZERLAND" tvg-logo="http://picon.tivi-ott.net:25461/picon/SWISS/srf-19125.logowik.png", ┃CH┃ SRF 1 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/2451.m3u8
 #EXTINF:-1 group-title="┃CH┃ SWITZERLAND" tvg-logo="http://picon.tivi-ott.net:25461/picon/SWISS/SRFSWEI.png", ┃CH┃ SRF ZWEI 4K
