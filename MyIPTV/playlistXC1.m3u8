@@ -1,0 +1,1525 @@
+#EXTM3U
+# ==========================================
+# TYPE: Direct Xtream API (Playlist XC 1)
+# GENERATED: 2026-09-04 05:30:44
+# ==========================================
+# DAFTAR GROUP TITLE:
+# AD| ABU DHABI SERIE A (STARZPLAY),
+# AE| UNITED ARAB EMIRATES,
+# AR| AD SPORTS + KSA SPORT,
+# AR| AL FAJER,
+# AR| AL MAJD,
+# AR| ALGERIA,
+# AR| ALRABIAA SPORTS & الرابعة العرلقية,
+# AR| ARAB KIDS,
+# AR| ARABIC CINEMA TV,
+# AR| ARABIC NEWS,
+# AR| Al KASS SPORTS,
+# AR| AlWAN SPORTS & الوان الرياضية,
+# AR| BEIN SPORTS AFC,
+# AR| BEIN SPORTS FHD,
+# AR| BEIN SPORTS HD,
+# AR| BEIN SPORTS HD&SD,
+# AR| BEIN SPORTS SD,
+# AR| BUNDESLIGA & الدوري الالماني,
+# AR| CHRISTIAN ARABIC,
+# AR| ISLAMIC CHANNELS,
+# AR| MAURITANIA,
+# AR| PALESTINE,
+# AR| QATAR & JORDAN & OMAN,
+# AR| QURAN القرأن الكريم,
+# AR| SHAHSA شاشة الرياضية,
+# AR| THMANYAH الدوري السعودي,
+# AR| TUNISIA,
+# AR| beIN SPORT XTRA,
+# EG| EGYPT,
+# IQ| IRAQ,
+# KW| KUWAIT,
+# LB| LEBANON,
+# LY| LIBYA,
+# MA| MAROC (MOROCCO),
+# MA| MAROC +6H USA,
+# MA| MOROCCO RADIO,
+# PPV| SHAHID VIP,
+# PPV| UFC 319,
+# SA| SAUDI ARABIA,
+# SD| SUDAN,
+# SY| SYRIA,
+# US| APPLE TV: MLS - الدوري الأمريكي,
+# YE| YEMEN
+# ==========================================
+
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", MA|2M NAT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/228686.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", MA|2M MONDE
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/228687.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/2m%20tnt.png", MA|2M MAROC (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/178458.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/2m%20tnt.png", MA|2M TV (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/14988.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", MA|Al AOULA INTER HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/228688.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", MA|Al AOULA INTER 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/228685.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20oula%20inter%20hd.png", MA|Al AOULA HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/1589.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20oula%20tnt%20hd.png", MA|AL AOULA FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/3326.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", MA |AFLAMᐩ TNT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/203210.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MOROOCO/ALOUYOUN.png", MA| LAAYOUNE HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/64915.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MOROOCO/ALOUYOUN.png", MA|LAAYOUNE FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/164630.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/aflam7%20hd.png", MA|AFLAM TV HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/3327.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", MA |ARRYADIAᐩ TNT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/185112.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", AR|ARRYADIA LIVE HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238657.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png", MA|ARRYADIA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/1588.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hevc.png", MA|ARRYADIA FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/55547.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", AR|ARRYADIA 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238659.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", AR|ARRYADIA 1 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238658.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", AR|ARRYADIA 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238661.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", AR|ARRYADIA 2 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238660.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", AR|ARRYADIA 3 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238663.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", AR|ARRYADIA 3 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238662.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", MA |ARRYADIA OLYMPICS HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/222964.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="", MA | ARRYADIA OLYMPICS 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/222963.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/arrabia%20tnt.png", MA|ARRABIAA HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/1014.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/arrabia%20hevc.png", MA|ARRABIAA FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77803.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20maghribia%20hd.png", MA|AL MAGHRIBIA HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/1012.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20maghribia%20fhd.png", MA|Al MAGHRIBIA FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/14986.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/assadissa%20hd.png", MA|ASSADISSA HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/1015.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/assadissa%20hevc.png", MA|ASSADISSA FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/55546.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/tamazight%20hd.png", MA|TAMAZIGHT HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/1016.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/tamazight%20hd.png", MA|TAMAZIGHT FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/164629.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20maghtib%20hd.png", MA|MEDI1 TV MAGHREB HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/1010.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20maghtib%20hd.png", MA|MEDI1 TV MAGHREB FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/178448.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20%20tnt.png", MA|MEDI1 TV ARABIC HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74840.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20%20tnt.png", MA|MEDI1 TV ARABIC FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/164627.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20afrique%20hd.png", MA|MEDI1 TV AFRIQUE HD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/1587.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20afrique%20hd.png", MA|MEDI1 TV AFRIQUE FHD (TNT)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/178449.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/mbc%205.png", MA|MBC 5 MAROC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/81778.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/CHADA%20TV.png", MA|CHADA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7540.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/tele%20maroc.png", MA|Télé Maroc
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/5688.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/AL%20ONS%20TV.png", MA|Al Ons TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/73944.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/M%2024%20TV.png", MA|M24 MAROC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74841.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MOROOCO/1COMIDY.png", MA|°°°° MAROC COMIDY °°°°MA|
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/141718.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/KABOR%20WLAHBIB%201.png", MA| Kabour&lahbib
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153509.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/KABOR%20WLAHBIB%202.png", MA| Kabour&lahbib 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153510.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/COMEDIA%20SHOW.png", MA| KONTWAR&كونطوار
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153511.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/COMEDIA%20SHOW.png", MA| MODAWAKHA & مدوخة
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153512.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/COMEDIA%20SHOW.png", MA| Souhlifa & سوليحفة
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153513.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/COMEDIA%20SHOW.png", MA| ZBAYLKOM & زبايلكم
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153514.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/COMEDIA%20SHOW.png", MA| FED TV & فد تفي
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153515.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/COMEDIA%20SHOW.png", MA| Kabour & ch3aybiya 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153516.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="http://kinglogo.newtvhd.com/logoo/MAROC4K/COMEDIA%20SHOW.png", MA| DED KOL DED ضد كل ضد
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153517.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="https://www.radioking.com/api/track/cover/a623c1b7-5f74-4a7e-b3e1-e5d838a753ab", (MA-RADIO) MANARAT - منارات
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/88660.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Atlantic Radio FM
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102469.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > CAP
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102470.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > La Confiserie Sonore
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102471.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Media 1 Radio Hits
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102472.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Media 1 Radio Andalouse
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102473.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Media 1 Radio Dance
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102474.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Media 1 Radio Jazz
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102475.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Media 1 Radio Latino
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102476.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Media 1 Radio Lounge
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102477.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Media 1 Radio Soufi
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102478.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Media 1 Radio Tarab
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102479.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Radio 2M
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102480.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Radio Atbir 1
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102481.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Radio Habayiib
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102482.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Radio Medi1
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102483.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Radio Safi
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102484.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Radio Star Maroc FM
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102485.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > The Moroccan Radio
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102486.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Izlanzik Radio
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102487.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Radio Sawa
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102488.ts
+#EXTINF:-1 group-title="MA| MOROCCO RADIO" tvg-logo="", < MA > Radio Yabiladi
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102489.ts
+#EXTINF:-1 group-title="MA| MAROC (MOROCCO)" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png", MA| ARRYADIA TNT FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/240101.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| 2M MONDE +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241684.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| Al Aoula Inter +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241685.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| AL AOULA LAAYOUNE +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241683.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| AL MAGHRIBIA +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241689.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| ARRYADIA +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241686.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| ASSADISSA +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241690.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| ATHAQAFIA +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241687.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| M24 MAROC +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241692.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| MBC 5 HD +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241681.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| MEDI1 TV HD +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241688.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| TAMAZIGHT +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241691.ts
+#EXTINF:-1 group-title="MA| MAROC +6H USA" tvg-logo="", MA| TELE MAROC +6H
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/241682.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png", AR| beIN SPORTS HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239672.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png", AR| beIN SPORTS HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239673.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="", beIN SPORTS HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237786.ts
+#EXTINF:-1 group-title="PPV| UFC 319" tvg-logo="", PPV| UFC 319 GLORY Kickboxing
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/236792.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20news%20hd.png", beIN SPORTS NEWS HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102546.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png", beIN SPORTS FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7757.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%201%20HD.png", beIN SPORTS 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7756.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153582.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%202%20HD.png", beIN SPORTS 2HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7755.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153583.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%203%20HD.png", beIN SPORTS 3HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7749.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 3 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153584.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%201%20HD.png", beIN SPORTS 4 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7754.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%202%20HD.png", beIN SPORTS 4HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7751.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%203%20HD.png", beIN SPORTS 5HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7753.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 5 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153587.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%204%20HD.png", beIN SPORTS 6HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7752.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 6 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153588.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%205%20HD.png", beIN SPORTS 7HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7748.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 7 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153589.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%206%20HD.png", beIN SPORTS 8HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7750.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 8 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153590.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%207%20HD.png", beIN SPORTS 9HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7747.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 9 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153591.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%201%20ENGLISH%20HD.png", beIN SPORTS 1HD EN
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/3632.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 1 EN
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153592.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%202%20ENGLISH%20HD.png", beIN SPORTS 2HD EN
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/4038.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS NBA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153594.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%201%20FRENCH%20HD.png", beIN SPORTS 1HD FR
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/4036.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 1 FR
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153595.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%202%20FRENCH%20HD.png", beIN SPORTS 2 FR HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/144483.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png", beIN SPORTS 2 FR
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153596.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%203%20FRENCH%20HD.png", beIN SPORTS 3 FR HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/144482.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%20premium%201%20SD.png", beIN SPORTS 8 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125326.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%20premium%202%20SD.png", beIN SPORTS 9 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125327.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%201%20SD.png", beIN SPORTS 1 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125319.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%202%20SD.png", beIN SPORTS 2 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125320.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%203%20SD.png", beIN SPORTS 3 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125321.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%204%20SD.png", beIN SPORTS 4 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125322.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%205%20SD.png", beIN SPORTS 5 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125323.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%206%20SD.png", beIN SPORTS 6 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125324.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%207%20SD.png", beIN SPORTS 7 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125325.ts
+#EXTINF:-1 group-title="AR| Al KASS SPORTS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-1.png", AR|Al KASS 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102199.ts
+#EXTINF:-1 group-title="AR| Al KASS SPORTS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-2.png", AR|Al KASS 2HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102200.ts
+#EXTINF:-1 group-title="AR| Al KASS SPORTS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-3.png", AR|Al KASS 3HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102201.ts
+#EXTINF:-1 group-title="AR| Al KASS SPORTS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-5.png", AR|Al KASS 5HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102203.ts
+#EXTINF:-1 group-title="AR| Al KASS SPORTS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-4.png", AR|Al KASS 4HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/102202.ts
+#EXTINF:-1 group-title="AR| Al KASS SPORTS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALKASS4K/Al-Kass-6.png", AR|Al KASS 6HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/164857.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="http://kinglogo.newtvhd.com/logoo/SSC/ABU%20DHABI%20%20ASIA%201%20HD.png", AR| ABU DHABI ASIA 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/151864.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="http://kinglogo.newtvhd.com/logoo/SSC/ABU%20DHABI%20%20ASIA%202%20HD.png", AR| ABU DHABI ASIA 2HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/151866.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 1HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198689.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 1FHD LEVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198690.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 2HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198691.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 2FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198692.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 3HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198693.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 3FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198694.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 4HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198695.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 4FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198696.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 5HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198697.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 5FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198698.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 6HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198699.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 6FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198700.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 7HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198701.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 7FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198702.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 8HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198703.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 9HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198704.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 9FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198705.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 10HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198706.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="http://kinglogo.newtvhd.com/logoo/APPLE/appletv1.png", US| MLS APPLE TV 10FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/198707.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="", US| MLS APPLE TV 11FHD LEVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/200013.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="", US| MLS APPLE TV 11HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/200012.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="", US| MLS APPLE TV 12FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/200015.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="", US| MLS APPLE TV 12HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/200014.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="", US| MLS APPLE TV 13FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/200017.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="", US| MLS APPLE TV 13HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/200016.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="", US| MLS APPLE TV 14FHD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/200019.ts
+#EXTINF:-1 group-title="US| APPLE TV: MLS - الدوري الأمريكي" tvg-logo="", US| MLS APPLE TV 14HD LIVE EVENT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/200018.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219546.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC HDᐩ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219545.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219548.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC SDᐩ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219547.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC4k
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219550.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219549.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC 1SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219552.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219551.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC 1FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219553.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC 2SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219555.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC 2HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219554.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC 2FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219556.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC 3SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219558.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC 3HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219557.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS AFC" tvg-logo="http://kinglogo.newtvhd.com/logoo/beinAFC/bein%20SPORTS%20AFC%204K.png", AR|beIN AFC 3FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/219559.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220364.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 1 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220365.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220366.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 2 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220367.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 3 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220368.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 3 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220369.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 4 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220370.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 4 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220371.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 5 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220372.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 5 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220373.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 6 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220374.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 6 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220375.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 7 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220376.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 7 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220377.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 8 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220378.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 8 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220379.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 9 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220380.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS HD&SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png", NX| BEIN SPORTS 9 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220381.ts
+#EXTINF:-1 group-title="PPV| UFC 319" tvg-logo="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0", PPV| UFC 319 Fighting Championship
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/223222.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORTS XTRA 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/4033.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 1 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71695.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORTS XTRA 2HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/4034.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227441.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN-SPORTS XTRA 2 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71696.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORTS XTRA 3HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/153593.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 03 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227442.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 03 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227440.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 3 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227443.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 4HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227444.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 5HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227445.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 6HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227446.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 7HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227447.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 8HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227448.ts
+#EXTINF:-1 group-title="AR| beIN SPORT XTRA" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/4K/bein%20sports%20XTRA%201%204k.png", beIN SPORT XTRA 9HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/227449.ts
+#EXTINF:-1 group-title="AR| THMANYAH الدوري السعودي" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png", AR| THMANYAH 1ᴴᴰ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/236894.ts
+#EXTINF:-1 group-title="AR| THMANYAH الدوري السعودي" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png", AR| THMANYAH 1ᶠᴴᴰ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/236891.ts
+#EXTINF:-1 group-title="AR| THMANYAH الدوري السعودي" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png", AR| THMANYAH 2ᴴᴰ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/236895.ts
+#EXTINF:-1 group-title="AR| THMANYAH الدوري السعودي" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png", AR| THMANYAH 2ᶠᴴᴰ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/236892.ts
+#EXTINF:-1 group-title="AR| THMANYAH الدوري السعودي" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png", AR| THMANYAH 3ᴴᴰ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/236896.ts
+#EXTINF:-1 group-title="AR| THMANYAH الدوري السعودي" tvg-logo="https://thmanyah.com/apple-touch-icon-180x180.png", AR| THMANYAH 3ᶠᴴᴰ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/236893.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237015.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 1 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237016.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 1 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237014.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237018.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 2 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237019.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 2 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237017.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 3 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237021.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 3 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237022.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 3 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237020.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 4 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237024.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 4 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237025.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 4 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237023.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 5 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237027.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 5 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237028.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 5 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237026.ts
+#EXTINF:-1 group-title="AR| AlWAN SPORTS & الوان الرياضية" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png", AR| ALWAN SPORT 6 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237029.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237187.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237188.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 3 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237189.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 4 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237190.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 5 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237191.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 6 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237192.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 7 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237193.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 8 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237194.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 9 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237195.ts
+#EXTINF:-1 group-title="AR| BUNDESLIGA & الدوري الالماني" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/BUNDES%20LIGA.png", AR| BUNDES LIGA SHAHID 10 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/237196.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/ADSPORT/ad%20sp%201%20hd.png", AD|AD SPORTS 1 PREMIUM HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/177284.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/ADSPORT/ad%20sp%201%20fhd.png", AD|AD SPORTS 1 PREMIUM FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/177285.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/ADSPORT/ad%20sp%202%20hd.png", AD|AD SPORTS 2 PREMIUM HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/177286.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/ADSPORT/ad%20sp%202%20fhd.png", AD|AD SPORTS 2 PREMIUM FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/177287.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/ADSPORT/ad%20sp%201%20asia%20hd.png", AD|ABU DHABI ASIA 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/177084.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="", AR|STARZPLAY CricLife 1
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/202148.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="", AR|STARZPLAY CricLife 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/202149.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="", AR|STARZPLAY CricLife 3
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/202150.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="", AR|STARZPLAY Criclife max
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/202151.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="", AR|STARZPLAY GOLF
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/202152.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="", AR|STARZPLAY Sports FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/202147.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="", AR|STARZPLAY Sports HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/202146.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA NEWS HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239249.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA SPORT 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239245.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA SPORT 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239247.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA GEO HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239251.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA MOVIES HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239252.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA MUSIC HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239256.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA NOW HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239250.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA QURAN HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239257.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA SERIES 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239253.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA SERIES 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239254.ts
+#EXTINF:-1 group-title="AR| ALRABIAA SPORTS & الرابعة العرلقية" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png", AR|AL RABIAA VARIETY HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239255.ts
+#EXTINF:-1 group-title="AR| SHAHSA شاشة الرياضية" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png", AR|SHAHSA 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239258.ts
+#EXTINF:-1 group-title="AR| SHAHSA شاشة الرياضية" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png", AR|SHAHSA 1 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239261.ts
+#EXTINF:-1 group-title="AR| SHAHSA شاشة الرياضية" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png", AR|SHAHSA 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239259.ts
+#EXTINF:-1 group-title="AR| SHAHSA شاشة الرياضية" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png", AR|SHAHSA 2 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239262.ts
+#EXTINF:-1 group-title="AR| SHAHSA شاشة الرياضية" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png", AR|SHAHSA 3 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239260.ts
+#EXTINF:-1 group-title="AR| SHAHSA شاشة الرياضية" tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png", AR|SHAHSA 3 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239263.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%20premium%201%20FHD.png", beIN SPORTS 1 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7266.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%20premium%202%20FHD.png", beIN SPORTS 2 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/107267.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein sports premium 3 FHD.png", beIN SPORTS 3 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7264.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%201%20FHD.png", beIN SPORTS 4 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7273.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%202%20FHD.png", beIN SPORTS 5 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7272.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%204%20FHD.png", beIN SPORTS 6 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7270.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%205%20%20FHD.png", beIN SPORTS 7 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7269.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%206%20FHD.png", beIN SPORTS 8FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7268.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%207%20FHD.png", beIN SPORTS 9 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7267.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%201%20FRENSH%20FHD.png", beIN SPORTS FR 1 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/88500.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%202%20FRENSH%20FHD.png", beIN SPORTS 2 FR FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/144475.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%203%20FRENSH%20FHD.png", beIN SPORTS 3 FR FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/144476.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%201%20ENGLISH%20%20FHD.png", beIN SPORTS 1 EN FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71694.ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN4K/FHD/bein%20sports%202%20ENGLISH%20%20FHD.png", beIN SPORTS EN 2 FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/88499.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="https://www4.0zz0.com/2020/04/12/03/246208499.jpg", AR|AJYAL HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77150.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="https://www10.0zz0.com/2020/04/12/03/891926336.jpg", AR|AL SALAM TV HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77149.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="http://kinglogo.newtvhd.com/logoo/PALASTIN/RAYA.png", AR|RAYA TV HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77148.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="http://kinglogo.newtvhd.com/logoo/PALASTIN/RAYA.png", AR|RAYA 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/148176.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="http://kinglogo.newtvhd.com/logoo/PALASTIN/RAYA.png", AR|RAYA 3 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/148177.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="http://kinglogo.newtvhd.com/logoo/PALASTIN/Al-Fajer%20.png", AR|AL FAJER TV 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70414.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="http://kinglogo.newtvhd.com/logoo/PALASTIN/Al-Fajer%20.png", AR|AL FAJER TV 2HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70416.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="http://kinglogo.newtvhd.com/logoo/PALASTIN/Al-Fajer%20.png", AR|AL FAJER TV 3 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/148174.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="http://kinglogo.newtvhd.com/logoo/PALASTIN/Al-Fajer%20.png", AR|AL FAJER TV 4 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/148178.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="http://kinglogo.newtvhd.com/logoo/PALASTIN/Al-Fajer%20.png", AR|AL FAJER TV 5 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/148175.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/ADSPORT1.png", AD Sports 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/3341.ts
+#EXTINF:-1 group-title="AD| ABU DHABI SERIE A (STARZPLAY)" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/AADSPORT2.png", AD Sports 2HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/3340.ts
+#EXTINF:-1 group-title="AR| AD SPORTS + KSA SPORT" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/AADSPORT2.png", AD SPORT 2 HEVC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/64917.ts
+#EXTINF:-1 group-title="AR| AD SPORTS + KSA SPORT" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/KSA_SPORT1.png", AR| KSA Sport 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/68817.ts
+#EXTINF:-1 group-title="AR| AD SPORTS + KSA SPORT" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/KSA_SPORT1.png", AR| KSA Sport 1HD+
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/68820.ts
+#EXTINF:-1 group-title="AR| AD SPORTS + KSA SPORT" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/KSA_SPORT2.png", AR| KSA Sport 2HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/68818.ts
+#EXTINF:-1 group-title="AR| AD SPORTS + KSA SPORT" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/KSA_SPORT2.png", AR| KSA Sport 2HD+
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/68821.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/Quraan.png", AR|Al MAJD QURAN
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52324.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/almajd.png", AR|Al MAJD TGHRIDA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52323.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/hadeth.png", AR|Al MAJD Hadith
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52322.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/news_almajd.png", AR|Al MAJD NEWS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52321.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/Tabeaeyah.png", AR|Al MAJD NATURE HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52320.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/Wathaeqeyah.png", AR|Al MAJD DOCUMENTARIES HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52319.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/Dal.png", AR|Al MAJD DAL HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52318.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/basma.png", AR|Al MAJD BASMA  HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52317.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/majid.png", AR|Al MAJD MASAH
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52316.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="", AR|Al MAJD RAWDA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/166420.ts
+#EXTINF:-1 group-title="AR| AL MAJD" tvg-logo="http://kinglogo.newtvhd.com/logoo/AL%20MAJD/TAGHAREED.png", AR|Al MAJD TAGHARIDA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/52315.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://i.pinimg.com/1200x/b2/bd/42/b2bd420b173e7c01746f5c3855a4c429.jpg", ARI AL JAZEERA ARABIC 2 SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/245506.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://i.pinimg.com/1200x/b2/bd/42/b2bd420b173e7c01746f5c3855a4c429.jpg", ARI AL JAZEERA ARABIC 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/245507.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="", AR|ABN SAT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238578.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="", AR|RED TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238577.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="", AR|Libya Sport 1 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238219.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="", AR|Libya Sport 1 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238218.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="", AR|Libya Sport 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238221.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="", AR|Libya Sport 2 4K
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/238220.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www.alaraby2.com/themes/custom/arabytv/images/touch-icon-iphone.png", AR|AL ARABY TV 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/199710.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|SBC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/228440.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="", AR|Nickelodeon Jr HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/177742.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="", AR|WANASAT TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/177740.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="https://www.tvseventeen.com/img/logo.png", AR|ONE LEBANON
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/156007.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/FAARRISABAD.png", AR| FARISS ABAD فارس عباد
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154877.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/ABDLBASAT.png", AR| ABEDE LBASAT عبدالباسط عبدالصمد
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154876.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/CHRRIM.png", AR| SAOUD CHRRIM سعود شريم
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154875.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0", AR| khalid Al Jileel  خالد الجليل
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154874.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/LAMAIKLI.png", AR| MAHIR LAMAIKLIماهر المعيقلي
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154873.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/LGHAMDI.png", AR| SAAD LGHAMDI سعد الغامدي
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154872.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/TABLAWI.png", AR| Raad Al Kurdi رعد محمد الكردي
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154871.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/ABKAR.png", AR| IDRISS ABKAR ادريس ابكر
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154870.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/HUDAIFI.png", AR| ALI AL HUDAYFI علي الحذيفى
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154869.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/QURAN.png", AR| QURANالعفاسي
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154868.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/SDISS.png", AR| ABDE RAHMAN SDIS عبد الرحمن السديس
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154867.ts
+#EXTINF:-1 group-title="AR| QURAN القرأن الكريم" tvg-logo="http://kinglogo.newtvhd.com/logoo/QURAN/AJAMI.png", AR| AHMED AL AJAMI الشيخ أحمد العجمى
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154866.ts
+#EXTINF:-1 group-title="AR| ALGERIA" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALGERIE/ALMAGHARIBIA.png", AR| AL MAGHARIBIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154652.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", AR|KTV Al Qurain
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/147207.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="", AR|ATV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/147203.ts
+#EXTINF:-1 group-title="AR| ALGERIA" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALGERIE/SAMIRA+.png", AR|SAMIRA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/135649.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="https://i.imgur.com/QrwZu4W.png", AR|NourSAT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/135609.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg", AR|Nour Mariam
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/135608.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="https://i.imgur.com/hiAwky4.jpg", AR|Nour Al Sharq
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/135607.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="https://i.imgur.com/6yxE1jv.jpg", AR|Nour Al Shabab
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/135606.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="https://i.imgur.com/5VvPLEl.jpg", AR|Nour Al Koddas
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/135605.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", AR|SAUDI 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125499.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|SAUDI ZEKRAYAT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125500.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Saudia Sunna
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125506.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Saudia Sunna HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125505.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Saudia Quran
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125504.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Saudia Quran HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125503.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|SAUDI AL EKHEBARIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125502.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|JEDDA RADIO
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125523.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|QURAN RADIO
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125522.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Azhari
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125519.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Saudi 24
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125518.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Al Nass
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125517.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|ALAFASIY
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125516.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|SAUDIA RADIO
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125515.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Alfath
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125514.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Al Resalah
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125513.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|SAUDIA ALAAN HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125512.ts
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Makkah
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125508.ts
+#EXTINF:-1 group-title="AR| TUNISIA" tvg-logo="https://www3.0zz0.com/2020/04/23/00/443811850.png", AR|Jawhra TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74713.ts
+#EXTINF:-1 group-title="AR| MAURITANIA" tvg-logo="https://www5.0zz0.com/2020/04/22/23/712337945.jpg", AR|AL_MOURITANIYA_HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74705.ts
+#EXTINF:-1 group-title="AR| MAURITANIA" tvg-logo="https://www4.0zz0.com/2020/04/22/23/624926489.jpg", AR|MEDINA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74706.ts
+#EXTINF:-1 group-title="AR| MAURITANIA" tvg-logo="https://www10.0zz0.com/2020/04/22/23/908273799.jpg", AR|AL BARLEMANIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74707.ts
+#EXTINF:-1 group-title="AR| MAURITANIA" tvg-logo="https://www4.0zz0.com/2020/04/22/23/556259523.jpg", AR|EL MAHADRA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74708.ts
+#EXTINF:-1 group-title="AR| MAURITANIA" tvg-logo="https://www4.0zz0.com/2020/04/22/23/413642140.jpg", AR|EL MOURITANIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74709.ts
+#EXTINF:-1 group-title="AR| MAURITANIA" tvg-logo="https://www4.0zz0.com/2020/04/23/00/492864144.jpg", AR|EL MOURITANIA 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74711.ts
+#EXTINF:-1 group-title="AR| MAURITANIA" tvg-logo="https://www9.0zz0.com/2020/04/23/00/209990964.jpg", AR|Arriadia MOURITANIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74712.ts
+#EXTINF:-1 group-title="AR| MAURITANIA" tvg-logo="https://www6.0zz0.com/2020/04/23/00/223653115.png", AR|EL WATANIA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74714.ts
+#EXTINF:-1 group-title="AR| MAURITANIA" tvg-logo="https://www8.0zz0.com/2020/04/23/00/834718062.jpg", AR|AL MOURABITOUNE
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74715.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/213px-Al-jazeera-logo.jpg", ARI AL JAZEERA ARABIC SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/93089.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png", ARI AL JAZEERA ARABIC HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/73960.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyXT2noimKLPI1Uca3qpnBT3f46GQvT1ltbi3qZJpafePVeJdw56M4b_U", AR|AL JAZEERA ARABIC FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28069.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18zsZ3cyiLZxQ5xnZXL3BsK-phIeXYeekkslsFmNCLOwJa6xtt9QiZA", AR|AL JAZEERA MUBASHER FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28061.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5fvIX7o5BnAmnaruZ9pCzyaCsVceTUc5q4y3igjM0Ezdy0ug8_I6pQw", AR|AL JAZEERA DOCUMENTARY HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28062.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18zsZ3cyiLZxQ5xnZXL3BsK-phIeXYeekkslsFmNCLOwJa6xtt9QiZA", AR|AL JAZEERA MUBASHER HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74846.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5fvIX7o5BnAmnaruZ9pCzyaCsVceTUc5q4y3igjM0Ezdy0ug8_I6pQw", AR|AL JAZEERA DOCUMENTARY FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75019.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www4.0zz0.com/2020/04/18/21/134137150.png", AR|AL HADATH HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75015.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="http://kinglogo.newtvhd.com/logoo/MY%20HD/Alarabya.png", AR|AL ARABIYA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75020.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www4.0zz0.com/2020/04/18/21/134137150.png", AR|AL HADATH FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72343.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkuFXKZNqK1neEciTt4GWfJk5UDu9ktfzOSRGYT16zxoOluObOvy8XvU", AR|BBC NEWS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28058.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQh3T5q-Uja88LQ5aJZ8MPT4gIANAjpJCyJAgcTUjxWb2RNjBg9x_f6plm", AR|RT ARABIC HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28055.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www7.0zz0.com/2020/04/18/22/670383546.jpg", AR|EL SHARQ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28052.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8CWrtDZ1_4TUTIrDk_fDNRPDwWn0naB2xKN4YYJvfb_WWtJt2gY6JBA", AR|DW ARABIC HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28056.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www10.0zz0.com/2020/04/18/22/511993620.png", AR| AL ALAM TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28065.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Al_Aan_TV_Logo.png/150px-Al_Aan_TV_Logo.png", AR|AL AAN TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28066.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www9.0zz0.com/2020/04/18/22/211575414.jpg", AR|AL MAYADEEN TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28067.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="http://kinglogo.newtvhd.com/logoo/MY%20HD/Alarabya.png", AR|AL ARABIYA FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72341.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png", AR|AL ARABY TV FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72342.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png", AR|AL ARABY TV HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75014.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www10.0zz0.com/2020/04/18/21/443857709.jpg", AR|Mehwer
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72347.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www.alhiwar.tv/all/images/logo.png", AR|AL HIWAR HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72344.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www8.0zz0.com/2020/04/18/21/421059560.png", AR|BBC Arabic
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72345.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www6.0zz0.com/2020/04/18/21/857798367.png", AR|France 24 Arabic HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72346.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www6.0zz0.com/2020/04/18/21/857798367.png", AR|France 24 Arabic FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/116901.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg", AR|MEKAMELEEN TV HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72348.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Ucx2Z-DdL._SY355_.png", AR|SKY NEWS ARABIA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72350.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG4Z3F2dd0pkfzZLmfWV-8XwK-vLJxpQyliQZJUWufHtskW-EU&usqp=CAU", AR|TRT ARABI HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75021.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG4Z3F2dd0pkfzZLmfWV-8XwK-vLJxpQyliQZJUWufHtskW-EU&usqp=CAU", AR|TRT ARABIC FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/72351.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG4Z3F2dd0pkfzZLmfWV-8XwK-vLJxpQyliQZJUWufHtskW-EU&usqp=CAU", AR|TRT ARABI FHD (H.265)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75022.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png", AR|CGTN ARABIC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74466.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Almostaqila.jpg", AR|AL MUSTAKILLAH
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74467.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www13.0zz0.com/2020/04/18/22/134233337.png", AR|AL SHARQIYA NEWS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74468.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www.iraq-businessnews.com/wp-content/uploads/2019/09/Al-Hurra-TV.png", AR|ALHURRA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74469.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png", AR|NBN LEBANON FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74470.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://lh3.googleusercontent.com/proxy/qgTSqfPpYjPQsGt3jN_6v7YJS0CXugaFgl_1S-jQPc-syXI_TZNV--kPAEKJ1MMPp23auz1OPtC5XTJNXmdZkhRn49ZtCfaEclQNNFUO-yXPizmZ4KU", AR|i24NEWS ARABIC SD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130657.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://lh3.googleusercontent.com/proxy/qgTSqfPpYjPQsGt3jN_6v7YJS0CXugaFgl_1S-jQPc-syXI_TZNV--kPAEKJ1MMPp23auz1OPtC5XTJNXmdZkhRn49ZtCfaEclQNNFUO-yXPizmZ4KU", AR|i24NEWS ARABIC FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130656.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/%D8%A7%D9%84%D9%82%D9%86%D8%A7.png", AR|AL EKHBARIYA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75023.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXoqWIAnPGAre09uKBBXsMTHbDTmbScg7iyrRst8oAlHMmdmMjHJmzA", ***** QURAN CHANNAL *****
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28028.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/ALQURAN.png", AR|Saudi Quran
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70328.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="https://www6.0zz0.com/2020/04/18/22/855005841.jpg", AR|SIRAT Quran
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70329.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/Saudi%20sunnah.png", AR|Saudi sunnah
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70331.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="https://www10.0zz0.com/2020/04/18/22/577288654.jpg", AR|Al Nas
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70332.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/AL%20RAHMA.jpg", AR|AL RAHMA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70333.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="https://www3.0zz0.com/2020/04/18/22/631749320.jpg", AR|IQRAA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70334.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="https://www14.0zz0.com/2020/04/18/22/861445734.jpg", AR|AL Resala
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70335.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="https://www3.0zz0.com/2020/04/18/22/161960003.jpg", AR|Madinha For Sunnah
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70337.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="https://www5.0zz0.com/2020/04/18/22/160101082.jpg", AR|Makkah live For Quran
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70338.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/ZAD.jpg", AR|ZAD TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/80023.ts
+#EXTINF:-1 group-title="AR| ISLAMIC CHANNELS" tvg-logo="http://kinglogo.newtvhd.com/logoo/SAUDI/MAHABA%20TV.png", AR|Al Hadeeth Al Nabawy
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/80026.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="https://www14.0zz0.com/2020/04/19/00/263562228.jpg", AR|Nile Cinema
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70299.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="https://www3.0zz0.com/2020/04/19/00/681330795.jpg", AR|Nile LIVE
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70300.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-cinema-egypt.png", AR|Rotana Cinema EGY
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70301.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-classic.png", AR|Rotana Classic
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70303.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="https://www5.0zz0.com/2020/04/19/00/486106691.jpg", AR|ZEE AFLAM
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70308.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="https://www4.0zz0.com/2020/04/19/00/341889207.png", AR|Panorama Film
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70310.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="https://www13.0zz0.com/2020/04/19/00/965787618.jpg", AR|MIX ONE
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70318.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="http://kinglogo.newtvhd.com/logoo/OSN/ARTCINEMA.jpg", AR|ART CINEMA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70323.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="http://kinglogo.newtvhd.com/logoo/OSN/ART-AFLAM-1.png", AR|ART AFLAM 1
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70324.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="http://kinglogo.newtvhd.com/logoo/OSN/AFLAM2.png", AR|ART AFLAM 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70325.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="http://kinglogo.newtvhd.com/logoo/OSN/HEKAYAT-2.png", AR|ART HEKAYAT 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70327.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="https://www5.0zz0.com/2020/04/18/23/442066577.jpg", AR|Melody AFLAM
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/60547.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="https://www6.0zz0.com/2020/04/18/23/764245221.jpg", AR|MIX HOLLYWOOD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70292.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="https://www2.0zz0.com/2020/04/18/23/820186572.jpg", AR|Cima
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70293.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="https://www4.0zz0.com/2020/04/18/23/103979730.png", AR|Mix Bel Araby
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/70295.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-kids.png", AR|ROTANA KIDS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/82169.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="", AR|AlKarma Praise
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/40400.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ARABIC_KIDS/TOYORJANA.png", AR|TOYOR AL JANAH Kids
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/40404.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ARABIC_KIDS/TOYOR_BABY.png", AR|TOYOR BABY Kids
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/40405.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="http://212.8.253.112/logo/BEIN/BEINCARTONNETWORK-1.png", AR|CARTOON.Kids
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/58384.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="https://www13.0zz0.com/2020/04/19/06/316447180.png", AR|KARAMEESH.KIDS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/58385.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="https://www10.0zz0.com/2020/04/19/06/254220577.jpg", AR|MAJID.KIDS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/58387.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ARABIC_KIDS/MBC3.png", AR|MBC3.KIDS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/58388.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="https://www10.0zz0.com/2020/04/19/06/807558502.png", AR|Koogi TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/58389.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="https://www5.0zz0.com/2020/04/19/06/755624676.png", AR|SPACETOON.KIDS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/58391.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ARABIC_KIDS/TOYORJANA.png", AR|TOYOR AL JANAH.KIDS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/58393.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="", AR|WANASAT BABY.KIDS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/58394.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ARABIC_KIDS/Hod%20Hod%20KIDS.jpg", AR|Hod Hod KIDS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/79314.ts
+#EXTINF:-1 group-title="AR| ARAB KIDS" tvg-logo="http://kinglogo.newtvhd.com/logoo/ARABIC_KIDS/Atfal%20mawaheb.jpg", AR|ATFAL & MAWAHEB
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/79317.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/ZAMALIK.png", AR|ZAMALIK TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160367.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/alahly.png", AL|Al AHLY TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160366.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="", AR|ON TIME  SPORTS 1HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71436.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/ON%20TV%20LIVE.png", AR|ON TIME SPORTS 2HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71435.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTVE.png", AR|ON  E
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71434.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/ON%20TV%20DRAMA.png", AR|ON Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71437.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/DMCHD.jpg", AR|DMC TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71406.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/DMC_DRAMA.png", AR|DMC DRAMA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71407.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="", AR|TEN TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71410.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/CBC.png", AR|CBC HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/79967.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/CBC_SOFRA.png", AR|CBC Sofra HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/79968.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/CBC_DRAMA.png", AR|CBC DRAMA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/79969.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/NELDRAMA.png", AR|Nile Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71426.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/NILFAMILLY.png", AR|Nile Family
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71427.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/Nile%20Life.jpg", AR|Nile Life
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71428.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/NILE%20NEWS.png", AR|Nile News
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71429.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/NILE%20SPORT.png", AR|Nile Sport
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71430.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/PANORAMADRAMA.png", AR|PNC DRAMA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71439.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/PANORAMADRAMA2.png", AR|Panorama Drama 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71440.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/PANORAMAFOOD.png", AR|Panorama Food
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71441.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/SADA%20EL%20BALAD.png", AR|Sada El Balad
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71443.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/SADAELBALAD%2B.png", AR|Sada ElBalad Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71444.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="https://www6.0zz0.com/2020/04/20/07/985699429.jpg", AR|MBC MASR
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71451.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-aflam-plus.png", AR|Rotana Aflam HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71457.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-cinema-egypt.png", AR|Rotana Cinema HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71458.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-classic.png", AR|Rotana Classic HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71459.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-clips.png", AR|Rotana Clip
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71460.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-drama.png", AR|Rotana Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71461.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-khalijiat.png", AR|Rotana Khalijia HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71463.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/Rotana/Rotana-khalijiat.png", AR|Rotana Khalijiah
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71464.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="https://www4.0zz0.com/2020/04/19/06/198937958.jpg", AR|Al Kahera Wal Nas
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71382.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/NAHAR-DRAM.png", AR|Al-Nahar Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71386.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/ANAHAR_ONE.jpg", AR|Al NAHAR HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71387.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/ALHAYAT%202.png", AR|ALhayat
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71390.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="http://212.8.253.112/logo/EGYPT/AL%20HAYAT%20MUSLSALAT.png", AR|Mix Bel Araby
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71392.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|°°°° قنواة مسيحية °°°°°
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160935.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|AL HORREYA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160936.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|AL HAYAH
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160937.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|AL KARMA US
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160938.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|AL KARMA AUSTRALIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160939.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|AL KARMA MA 1
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160940.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|AL KARMA MA 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160941.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|AL KARMA NA 1
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160942.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|AL KARMA TASBEEH
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160943.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|AL MALAKOOT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160944.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|IUC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160945.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="http://kinglogo.newtvhd.com/logoo/EGYPT/MASIH.png", AR|ME SAT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/160946.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="https://i.imgur.com/QrwZu4W.png", AR| NourSAT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/161810.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="https://i.imgur.com/5VvPLEl.jpg", AR| Nour Al Koddas
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/161806.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="https://i.imgur.com/6yxE1jv.jpg", AR| Nour Al Shabab
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/161807.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="https://i.imgur.com/hiAwky4.jpg", AR| Nour Al Sharq
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/161808.ts
+#EXTINF:-1 group-title="AR| CHRISTIAN ARABIC" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg", AR| Nour Mariam
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/161809.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAI%20Zaman.jpg", AR|DUBAI Zaman
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69256.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www9.0zz0.com/2020/04/20/01/184310478.jpg", AR|AL DHAFRA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69257.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www9.0zz0.com/2020/04/20/01/184310478.jpg", AR|Baynounah TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69258.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www7.0zz0.com/2020/04/20/01/708701012.jpg", AR|Majid Kids TV HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69259.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www8.0zz0.com/2020/04/20/01/278166770.png", AR|Al Emarat TV HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69260.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www2.0zz0.com/2020/04/20/01/635644496.jpg", AR|Abu Dhabi TV FHD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69261.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www2.0zz0.com/2020/04/20/01/635644496.jpg", AR|Abu Dhabi TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69262.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/AD8NATGEO.png", AR|AD Nat Geo HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69263.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/NATGEO_AD.png", AR|AD Nat Geo
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69264.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAITV.png", AR|DUBAI TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69265.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/YAS%20SPORTS.jpg", AR|YAS SPORTS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69266.ts
+#EXTINF:-1 group-title="AR| ARABIC NEWS" tvg-logo="https://www6.0zz0.com/2020/04/20/02/998155499.jpg", AR|CNBC Arabiya
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69267.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAI_ONE.png", AR|DUBAI One
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69268.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www4.0zz0.com/2020/04/20/02/612530680.jpg", AR|DW-TV ARABIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69269.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="https://www4.0zz0.com/2020/04/20/02/750258278.jpg", AR|FUNOON
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69271.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www8.0zz0.com/2020/04/20/02/451123195.jpg", AR|AJMAN TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69272.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAI_RACING2.jpg", AR|DUBAI RACING 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69273.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAI_RACING3.jpg", AR|DUBAI RACING
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69274.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/DUBAI%20SPORTS%202.jpg", AR|DUBAI SPORTS 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69275.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www7.0zz0.com/2020/04/20/02/922879968.jpg", AR|MAJID TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/69276.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/Noor_Dubai.jpg", AR|Noor Dubai
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77793.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="", AR|SHARQIYA FROM KALABA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/169715.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="", AR|AL KHALIJ TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/169714.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", AR|ALITTHAD TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/169713.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="", AR|FUJAIRAH TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/169712.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="", AR|DAFRAH
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/169711.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="", AR|SHARJAH HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/169710.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", AR|SHARJAH KALBA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/169709.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://i.imgur.com/IaRaabJ.jpg", AR|Sharjah Sport
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/161995.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://i.imgur.com/iYgHR5D.png", AR|Dubai Sports 1
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/161994.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://alittihad.tv/assets/images/logo.png", AR|LDC Lebanon
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/156010.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="http://kinglogo.newtvhd.com/logoo/IMARAT/SAMA_DUBAI.png", AR|Sama Dubai HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77792.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www10.0zz0.com/2020/04/20/02/198619568.jpg", AR|YASS TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77794.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www8.0zz0.com/2020/04/20/02/196959427.png", AR|AL RAYYAN
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77795.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www10.0zz0.com/2020/04/20/03/907385639.jpg", AR|Baynounah TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77800.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www4.0zz0.com/2020/04/10/17/414810715.jpg", AR|Zee Alwan TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77801.ts
+#EXTINF:-1 group-title="AE| UNITED ARAB EMIRATES" tvg-logo="https://www3.0zz0.com/2020/04/20/03/448226069.jpg", AR|Zee Aflam TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77802.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXoqWIAnPGAre09uKBBXsMTHbDTmbScg7iyrRst8oAlHMmdmMjHJmzA", AR|ALMAJLIS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28120.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_J8u3MCZHgKarmtLw_TVFWNG9F6Kz6FcJhyeb5jM5SdbCWcJZcKp2A", AR|KTV 1
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28119.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqrEd6gFFkVnwnj91WZgfZAJuR7n0LWlxP32aXF4ApxqNy3dPcFcwjTI", AR| KTV 2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28118.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrNxnMGaDOZqOBM68uLJgBGACM3NRT6xbiaO24dbJ_5-SNCdl6W0vdEAYwQ", AR|  KTV SPORT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28109.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzzSRVkck2cGQ-mJw8I86bARCTTjn00RM6uxEuPdWVaNCYB7pqJ_GutBY", AR| KTV S.PLUS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28110.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FyDyyi831vFr4uAMF8BxkhkXAUAu2x3CK1Uafh7SmRw4hGpiU0jyx4A", AR| KTV ETHRAA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28116.ts
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4CA1dzoT1Bo8SzBNU2V4Ng5iIIHZsvxR4gWXAm4_9oyA1BFEYTjyNOg", AR| KTV AL ARABIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28117.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www5.0zz0.com/2020/04/20/03/806762460.jpg", AR|SYRIA TIBBIAH
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74474.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www9.0zz0.com/2020/04/20/03/246715405.jpg", AR|SYRIA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74475.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www5.0zz0.com/2020/04/20/03/806762460.jpg", AR|SYRIA DRAMA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74477.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www5.0zz0.com/2020/04/20/03/469796073.jpg", AR|SAMA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74478.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www9.0zz0.com/2020/04/20/03/148300384.jpg", AR|LANA PLUS TV SYRIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74479.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www2.0zz0.com/2020/04/20/03/700987915.jpg", AR|LANA TV SYRIA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74480.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www7.0zz0.com/2020/04/20/03/389802947.jpg", AR|AL ALAM SYRIA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74481.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www4.0zz0.com/2020/04/20/03/494743344.jpg", AR|SYRIA EDUCATION
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74482.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www4.0zz0.com/2020/04/20/03/830049452.jpg", AR|SYRIA NEWS TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74483.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www6.0zz0.com/2020/04/20/04/604015101.jpg", AR|Sham TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74484.ts
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www5.0zz0.com/2020/04/20/04/970782162.jpg", AR|NOOR AL SHAM
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74486.ts
+#EXTINF:-1 group-title="YE| YEMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AOPG6W1B8u4_81iXOTdadjqp1CbvGO9fVko0CNTgkrdSazJ7Tzkrmg", AR|Yemen.Today
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/27945.ts
+#EXTINF:-1 group-title="YE| YEMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUscoUDwrP7wBA4mn1oeV9rL9hi6lsdgH3B_KMXfJ38MKwUnGEjXOnWg", AR|Yemen.suhail
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/27946.ts
+#EXTINF:-1 group-title="YE| YEMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkU-kAeNlWpXDUypuJsIWRHIM7pZRjdK_2HsCzaUsAVkTZCd5b3r3LSMM", AR|Yemen.Shabab
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/27947.ts
+#EXTINF:-1 group-title="YE| YEMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIS1Mmh1NpjvWgZEml4dVwho2F_s8gVTfjgBcK9LRVb5kfHGa66M0ymiwgQ", AR|Yemen.BELQEES
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/27948.ts
+#EXTINF:-1 group-title="YE| YEMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-o0h3vrDH9NitEH_Ncwo0GqahobcZvBR2XSCSTWg44IxkxH4w1Qr5Lzjw", AR|YEMEN
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/27949.ts
+#EXTINF:-1 group-title="SD| SUDAN" tvg-logo="http://kinglogo.newtvhd.com/logoo/SUDAN/Sudan%20Drama.jpg", AR|Sudan AL Gezira TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71701.ts
+#EXTINF:-1 group-title="SD| SUDAN" tvg-logo="http://kinglogo.newtvhd.com/logoo/SUDAN/Sudania%2024HD.jpg", AR|Sudania 24HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71702.ts
+#EXTINF:-1 group-title="SD| SUDAN" tvg-logo="http://kinglogo.newtvhd.com/logoo/SUDAN/Alalamia.jpg", AR|Sudan Knowledge
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71703.ts
+#EXTINF:-1 group-title="SD| SUDAN" tvg-logo="http://kinglogo.newtvhd.com/logoo/SUDAN/ASHOROOQ.jpg", AR|ASHOROOQ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71704.ts
+#EXTINF:-1 group-title="SD| SUDAN" tvg-logo="http://kinglogo.newtvhd.com/logoo/SUDAN/Kassala%20TV.jpg", AR|S24 TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71707.ts
+#EXTINF:-1 group-title="SD| SUDAN" tvg-logo="http://kinglogo.newtvhd.com/logoo/SUDAN/Khartoum%20TV%20.jpg", AR|SUDAN TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71708.ts
+#EXTINF:-1 group-title="SD| SUDAN" tvg-logo="http://kinglogo.newtvhd.com/logoo/SUDAN/NILE%20AL%20AZRAK.jpg", AR|BLUE NILE
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71712.ts
+#EXTINF:-1 group-title="SD| SUDAN" tvg-logo="http://kinglogo.newtvhd.com/logoo/SUDAN/Sudan%20sport.jpg", AR|Sudan Sport
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71713.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALIRAQIASPORT.png", AR|Iraqia Sport
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75228.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALIRAQIANEWS.png", AR|Iraqia News
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75229.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALIRAQIATV.png", AR|IRAQIA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75230.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="https://www3.0zz0.com/2020/04/20/05/340243112.jpg", AR|TAGHEER
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75233.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/DIJLAHTV.png", AR|Dijlah TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75234.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/BAGHDADTV.png", AR|ALBAGHDADIA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75235.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALRAFIDAYN.png", AR|AL RAFIDAYN
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75236.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALSHARQIYAHD.png", AR|Al Sharqiya
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75241.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="https://www2.0zz0.com/2020/04/20/05/123210042.jpg", AR|AL RASHEED TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75242.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALHURRAIRAQ.png", AR|AL_HURRA IRAQ TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75244.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALFORATTV.png", AR|Al Forat
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75246.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALANWAR.png", AR|Al Basra TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75248.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg", AR|ABN SAT
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77671.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="https://i.imgur.com/GLfhYSH.png", AR|Kurdistan TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77673.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="https://www3.0zz0.com/2020/04/20/04/511816782.jpg", AR|Fursan Al Iraq
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77679.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="https://www5.0zz0.com/2020/04/20/04/658860512.jpg", AR|U TV IRAQ
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77680.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="https://www6.0zz0.com/2020/04/20/04/453209425.jpg", AR|Al Iraqia 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77681.ts
+#EXTINF:-1 group-title="IQ| IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALSHARQIYAHD.png", AR|Al Sharqiya Live
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/77697.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/TANASUH%20LIBYA.jpg", AR|TANASUH LIBYA
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75284.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/Libyaelwatan.jpg", AR|Libyaelwatan
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75287.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/LIBYA%20TV.jpg", AR|LIBYA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75288.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/ALJAMAHIRIA%20TV.jpg", AR|ALJAMAHIRIA TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75291.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/LIBYA%20ALHADATH.jpg", AR|LIBYA ALHADATH
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75292.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/Libya%20Al%20Ahrar%20TV.jpg", AR|Libya Al Ahrar TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75293.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/Libya%20218%20News.jpg", AR|Libya Alrasmia
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75294.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/Libya%20Febrayer.jpg", AR| Libya Febrayer
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75297.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/LIBYA%20AADFM.jpg", AR|LIBYA AL Masar TV HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75299.ts
+#EXTINF:-1 group-title="LY| LIBYA" tvg-logo="http://kinglogo.newtvhd.com/logoo/LIBYA/Libya%20WTV.png", AR|Libya WTV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/75300.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXoqWIAnPGAre09uKBBXsMTHbDTmbScg7iyrRst8oAlHMmdmMjHJmzA", AR|NBN LEBANON HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/28107.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/AL%20JADEED.jpg", AR|AL JADEED HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71466.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/ALAAN.png", AR|NBN HD TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71468.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/AL%20MANAR.jpg", AR|AL MANAR
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71469.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/Teleliban.TV.png", AR|TELE LIBAN HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71470.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/Future.jpg", AR|FUTURE LEBANON
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71476.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/LBC%20SAT.jpg", AR|LBC HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71478.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/LDC.jpg", AR|LBC International
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71479.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/MTV%20Lebanon.jpg", AR|MTV HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71480.ts
+#EXTINF:-1 group-title="LB| LEBANON" tvg-logo="http://kinglogo.newtvhd.com/logoo/LEBANOON/OTV.png", AR|OTV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/71481.ts
+#EXTINF:-1 group-title="AR| PALESTINE" tvg-logo="", AR|PALESTINE
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130658.ts
+#EXTINF:-1 group-title="AR| PALESTINE" tvg-logo="", AR|Palestine Live
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130659.ts
+#EXTINF:-1 group-title="AR| PALESTINE" tvg-logo="", AR|Palestine Today
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130662.ts
+#EXTINF:-1 group-title="AR| PALESTINE" tvg-logo="", AR|Awdeh TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130666.ts
+#EXTINF:-1 group-title="AR| PALESTINE" tvg-logo="", AR|Nablus TV3
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130680.ts
+#EXTINF:-1 group-title="AR| PALESTINE" tvg-logo="", AR|Holy quran
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130677.ts
+#EXTINF:-1 group-title="AR| PALESTINE" tvg-logo="", AR|Mussawa TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130676.ts
+#EXTINF:-1 group-title="AR| AL FAJER" tvg-logo="", AR|Horyaa Riyadiya
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130674.ts
+#EXTINF:-1 group-title="AR| PALESTINE" tvg-logo="", AR|Wattan HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130672.ts
+#EXTINF:-1 group-title="AR| PALESTINE" tvg-logo="", AR|Raya TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/130671.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", ----- QATAR -----
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136450.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|QATAR 2 HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136451.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|QATAR HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136452.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", ----- JORDAN -----
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136461.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|JORDAN HEVC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136462.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|JORDAN AMMAN HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136463.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|JORDAN NOW TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136464.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|ROYA HEVC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136465.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|ROYA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136466.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|AMMAN HEVC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136467.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|AMMAN HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136468.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|AL MAMLAKA HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136471.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|JORDAN AMEN HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136472.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|JORDAN SPORT HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/136476.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", ----- OMAN -----
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/139772.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|OMAN HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/139773.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|OMAN TV GENERAL HEVC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/139774.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|OMAN TV CULTURE HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/139775.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|OMAN TV CULTURE HEVC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/139776.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|OMAN TV live
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/139777.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|OMAN TV LIVE HEVC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/139778.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|OMAN TV SPORTS
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/139779.ts
+#EXTINF:-1 group-title="AR| QATAR & JORDAN & OMAN" tvg-logo="", AR|OMAN TV SPORTS HEVC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/139780.ts
+#EXTINF:-1 group-title="EG| EGYPT" tvg-logo="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", AR|Rotana Music HD
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/186540.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Al Jokar Aflam
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242463.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Al Jokar Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242464.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|AL Sa3aa Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242453.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|AL Saied
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242458.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Apple Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242467.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Beirut Aflam
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242444.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Beirut Al Yoom
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242446.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Beirut Cinema
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242447.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Beirut Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242445.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Dolly Mosalsalat
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242472.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|El Omda Aflam
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242450.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|El Omda Al Yom
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242449.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|El Omda Cinema
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242451.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Elzaeem Cinema
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242471.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Elzaeem Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242470.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Fox Movies
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242457.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Hala Al Youm
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242460.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Hala Cinema
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242452.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Hala Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242462.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Hala Hekayat
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242461.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Madh Al nabi
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242459.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|One Movies
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242456.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Sukariya Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242455.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Top Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242468.ts
+#EXTINF:-1 group-title="AR| ARABIC CINEMA TV" tvg-logo="", AR|Top Zaman
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/242469.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Aflam
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239725.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Movies Action
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239723.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Movies Thriller
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239724.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Spooky Nights
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239701.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| BIG TIME
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239740.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Big Time Plus
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239741.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239702.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC4
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239707.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC5
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239700.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC Action
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239706.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC Bollywood
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239710.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239699.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC Iraq
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239711.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC Masr
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239705.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC Masr2
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239708.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC Masr Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239704.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC MAX
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239703.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC Persia
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239712.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MBC Plus Drama
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239709.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| MTV Lebanon
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239713.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Anime
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239746.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Asharq
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239721.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Asharq Discovery
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239734.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Asharq Documentary
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239733.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Spacetoon
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239755.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Al Arabiya
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239717.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Al Arabiya Business
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239718.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Alikhbariya
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239720.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Al Hadath
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239719.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| AlSahraa
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239747.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Alkhuzama Radio
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239743.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR|Al Quraan al Kareem
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239736.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| AlSaudia
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239716.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Al Sunnah al Nabawiyah
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239754.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| AlThaqafeya
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239714.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Abdul Majeed Abdullah
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239758.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Al Asouf
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239752.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Al Hisn Channel
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239726.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Bab Al Hara
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239751.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Bab Al Hara Channel
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239730.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| El Kebeer Awi Channel
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239731.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| El Le'ba Channel
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239732.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Fairuz
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239738.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Fifa+
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239745.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Hikayat Ba'ed Alfasl
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239737.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| KSA Now
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239722.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Majid Almohandis
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239742.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Maraya Channel
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239728.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Masrah Masr Channel
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239727.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Mohammed Abdu
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239757.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Nasser Al Qassabi
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239753.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Rabeh Saqer
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239760.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Rashed Al-Majed
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239759.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Red Bull TV
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239735.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| SBC
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239748.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Selfie
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239749.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Sikkat Safar
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239750.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Tarab
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239739.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Tash
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239744.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Thikrayat
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239715.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Top Chef Channel
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239729.ts
+#EXTINF:-1 group-title="PPV| SHAHID VIP" tvg-logo="", AR| Wanasa
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/239756.ts
