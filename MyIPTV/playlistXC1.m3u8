@@ -1,7 +1,7 @@
 #EXTM3U
 # ==========================================
 # TYPE: Direct Xtream API (Playlist XC 1)
-# GENERATED: 2026-09-04 16:13:48
+# GENERATED: 2026-09-05 04:11:30
 # ==========================================
 # DAFTAR GROUP TITLE:
 # AD| ABU DHABI SERIE A (STARZPLAY),
@@ -737,7 +737,7 @@ http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154866.ts
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/154652.ts
 #EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", AR|KTV Al Qurain
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/147207.ts
-#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="", AR|ATV
+#EXTINF:-1 group-title="KW| KUWAIT" tvg-logo="", AR|Ritmu TV
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/147203.ts
 #EXTINF:-1 group-title="AR| ALGERIA" tvg-logo="http://kinglogo.newtvhd.com/logoo/ALGERIE/SAMIRA+.png", AR|SAMIRA TV
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/135649.ts
@@ -783,7 +783,7 @@ http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125515.ts
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125514.ts
 #EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Al Resalah
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125513.ts
-#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|SAUDIA ALAAN HD
+#EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|SAUDIA Naba
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125512.ts
 #EXTINF:-1 group-title="SA| SAUDI ARABIA" tvg-logo="", AR|Makkah
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/125508.ts
@@ -1165,7 +1165,7 @@ http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74475.ts
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74477.ts
 #EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www5.0zz0.com/2020/04/20/03/469796073.jpg", AR|SAMA TV
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74478.ts
-#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www9.0zz0.com/2020/04/20/03/148300384.jpg", AR|LANA PLUS TV SYRIA
+#EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www9.0zz0.com/2020/04/20/03/148300384.jpg", AR|HALAB TODAY
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74479.ts
 #EXTINF:-1 group-title="SY| SYRIA" tvg-logo="https://www2.0zz0.com/2020/04/20/03/700987915.jpg", AR|LANA TV SYRIA
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/74480.ts
