@@ -1,7 +1,7 @@
 #EXTM3U
 # ==========================================
 # TYPE: MAC Portal (AKUN 10 - NO TOKEN)
-# GENERATED: 2026-09-06 20:13:10
+# GENERATED: 2026-09-06 22:48:33
 # ==========================================
 # DAFTAR GROUP TITLE:
 # HORSE RACING,
@@ -584,7 +584,6 @@
 # ┃UK┃ DOCUMENTARY | LIFESTYLE HEVC,
 # ┃UK┃ ENTERTAINMENT,
 # ┃UK┃ ENTERTAINMENT HEVC,
-# ┃UK┃ EPL PREMIER LEAGUE PPV,
 # ┃UK┃ EPL PREMIER LEAGUE REPLAY,
 # ┃UK┃ EPL PREMIER LEAGUE TEAMS,
 # ┃UK┃ ESPN+ PPV,
@@ -3885,19 +3884,19 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141417.m3u8
 #EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 02 - NO EVENT
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141416.m3u8
-#EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 03 - 9:40am Radical Cup COTA
+#EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 03 - NO EVENT
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141415.m3u8
 #EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 04 - 10:30am American Flat Track Mile Springfield
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141414.m3u8
 #EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 05 - 11:30am Budweiser Int'l Classic Oswego
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141413.m3u8
-#EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 06 - 2pm Zenith Racing Series Homestead-Miami
+#EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 06 - NO EVENT
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141412.m3u8
 #EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 07 - 4pm Labor Day Classic Thunder Road
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141411.m3u8
-#EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 08 - 5pm Cole Cup Utica-Rome
+#EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 08 - 6pm Cole Cup Utica-Rome
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141410.m3u8
-#EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 09 - 5:20pm Weekly Racing Slinger
+#EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 09 - 6:20pm Weekly Racing Slinger
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141409.m3u8
 #EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 10 - 5:45pm USAC National Midgets Angell Park
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141408.m3u8
@@ -10699,28 +10698,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313248.m3u8
 #EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE TEAMS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/EPL 2.png", ┃UK┃ EPL 2 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313247.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL Goal Rush: Multi View
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313251.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL01: Burnley 12:30 Chelsea 22/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313252.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL02: Bournemouth 15:00 West Ham 22/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313253.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL03: Brighton 15:00 Brentford 22/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313254.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL04: Fulham 15:00 Sunderland AFC 22/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313255.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL05: Liverpool 15:00 Notts Forest 22/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313256.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL06: Wolves 15:00 Crystal Palace 22/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313257.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL07: Newcastle Utd 17:30 Man City 22/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313258.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL08: Leeds United 14:00 Aston Villa 23/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313259.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL09: Arsenal 16:30 Spurs 23/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313260.m3u8
-#EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIER LEAGUE/PREMIER LEAGUE.png", EPL10: Man Utd 20:00 Everton 24/11
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313261.m3u8
 #EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png", ┃UK┃ PREMIER LEAGUE REPLAY INFO
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/830116.m3u8
 #EXTINF:-1 group-title="┃UK┃ EPL PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png", ┃UK┃ PREMIER LEAGUE REPLAY 1
@@ -41459,134 +41436,18 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1154765.m3u8
 #EXTINF:-1 group-title="┃GE┃ GEORGIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/GEORGIA/MARAO.png", ┃GR┃ MARAO
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1154764.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/CNN.png", ┃LT┃ CNN FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734087.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/BBC NEWS.png", ┃LT┃ BBC NEWS FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734086.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FRANCE 24.png", ┃LT┃ FRANCE 24 FR FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734085.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/EURONEWS EN.png", ┃LT┃ EURONEWS EN FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734084.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/BLOOMBERG.png", ┃LT┃ BLOOMBERG
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734083.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/Žvaigždė.png", ┃LT┃ Žvaigždė
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734082.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/TravelXP.png", ┃LT┃ TravelXP FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734081.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SkyNews.png", ┃LT┃ SkyNews
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734080.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/Seimas tiesiogiai.png", ┃LT┃ Seimas tiesiogiai
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734079.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/Seimas tiesiogiai.png", ┃LT┃ EURONEWS RU
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734078.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/MEZZO.png", ┃LT┃ MEZZO FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734077.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FASHION AND LIFESTYLE.png", ┃LT┃ FASHION AND LIFESTYLE FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734076.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SMART ZONE.png", ┃LT┃ SMART ZONE FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734075.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/JimJam.png", ┃LT┃ JimJam
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734074.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/DuckTV.png", ┃LT┃ DuckTV FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734073.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/Disney Junior.png", ┃LT┃ Disney Junior
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734072.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/Disney Channel.png", ┃LT┃ Disney Channel
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734071.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/Cartoonito.png", ┃LT┃ Cartoonito
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734070.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/KIDZONE.png", ┃LT┃ KIDZONE FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734069.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/BOLT.png", ┃LT┃ BOLT FHD [RUS-UKR]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734068.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SIAULIU TELEVIZIJA.png", ┃LT┃ SIAULIU TELEVIZIJA FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734067.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/DW.png", ┃LT┃ DW FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734066.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/CNBC.png", ┃LT┃ CNBC FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734065.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/MARIJAMPOLES TV.png", ┃LT┃ MARIJAMPOLES TV FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734064.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/GN TV.png", ┃LT┃ GN TV FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734063.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/LRT LITUANICA.png", ┃LT┃ LRT LITUANICA
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734062.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/VIASAT NATURE.png", ┃LT┃ VIASAT NATURE FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734061.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/VIASAT EXPLORE.png", ┃LT┃ VIASAT EXPLORE FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734060.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/KIDZONE MINI.png", ┃LT┃ KIDZONE MINI FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734059.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/Da Vinci.png", ┃LT┃ Da Vinci FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734058.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/HISTORY.png", ┃LT┃ HISTORY CHANNEL FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734057.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/NAT GEO.png", ┃LT┃ NAT GEO FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734056.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/DOCUBOX.png", ┃LT┃ DOCUBOX FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734055.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/VIASAT HISTORY.png", ┃LT┃ VIASAT HISTORY FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734054.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/EURO CHANNEL.png", ┃LT┃ EUROCHANNEL FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734053.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FILMUA DRAMA.png", ┃LT┃ FILMUA DRAMA FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734052.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/STAR CINEMA.png", ┃LT┃ STAR CINEMA FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734051.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/STAR FAMILY.png", ┃LT┃ STAR FAMILY FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734050.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/BALTICUM PLATINUM.png", ┃LT┃ BALTICUM PLATINUM FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734049.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/DUO 5.png", ┃LT┃ DUO 5 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734048.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/Pūkas TV.png", ┃LT┃ Pūkas TV FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734047.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FILMZONE+.png", ┃LT┃ FILMZONE+ FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734046.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FILM ZONE.png", ┃LT┃ FILMZONE FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734045.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FILM BOX ARTHOUSE.png", ┃LT┃ FILMBOX ARTHOUSE
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734044.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FILM BOX.png", ┃LT┃ FILMBOX BALTIC
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734043.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/EPIC DRAMA.png", ┃LT┃ EPIC DRAMA FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734042.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/DUO 6.png", ┃LT┃ DUO 6 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734041.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/DUO 3.png", ┃LT┃ DUO 3 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734040.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FX LIFE.png", ┃LT┃ FX LIFE FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734039.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FX.png", ┃LT┃ FX CHANNEL LT FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734038.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/VIASAT KINO COMEDY.png", ┃LT┃ VIASAT KINO COMEDY FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734037.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/VIASAT KINO WORLD.png", ┃LT┃ VIASAT KINO WORLD FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734036.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/VIASAT KINO ACTION.png", ┃LT┃ VIASAT KINO ACTION
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734035.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/VIASAT KINO.png", ┃LT┃ VIASAT KINO
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734034.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/24_7 (2).png", ┃LT┃ GO3 FILM FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734033.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/NICK JR.png", ┃LT┃ NICK JR.
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734032.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/NICKELODEON.png", ┃LT┃ NICKELODEON
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734031.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FOOD NETWORK.png", ┃LT┃ FOOD NETWORK FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734030.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/ANIMAL PLANET.png", ┃LT┃ ANIMAL PLANET FHD [LT-RU]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734029.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/TRVL CHANNEL.png", ┃LT┃ TRAVEL CHANNEL FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734028.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/INVESTIGATION DISCO.png", ┃LT┃ INVESTIGATION DISCOVERY FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734027.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/TLC.png", ┃LT┃ TLC FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734026.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/DISCOVERY.png", ┃LT┃ DISCOVERY CHANNEL FHD [EN-RU]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734025.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/BALTICUM AUKSINIS.png", ┃LT┃ BALTICUM AUKSINIS FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734024.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/BALTICUM TV.png", ┃LT┃ BALTICUM TV FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734023.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/LRT PLIUS.png", ┃LT┃ LRT PLIUS FHD
@@ -41605,7 +41466,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734016.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/24_71.png", ┃LT┃ LNK FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734015.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/TV3.png", ┃LT┃ TV3 PLUS FHD
+#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/TV3.png", ┃LT┃ TV3 FILM FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734014.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/TV 8.png", ┃LT┃ TV8 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734013.m3u8
@@ -41615,22 +41476,12 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734011.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/DELFI 2.png", ┃LT┃ DELFI TV FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734010.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/FIGHT SPORTS.png", ┃LT┃ Fight Sports FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734009.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SPORT.png", ┃LT┃ SPORT 1 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734008.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/EUROSPORT 1.png", ┃LT┃ EUROSPORT 2 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734007.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/EUROSPORT 1.png", ┃LT┃ EUROSPORT 1 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734006.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/GO 3 SPORTS 2.png", ┃LT┃ GO3 SPORT 2 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734005.m3u8
 #EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/GO 3 SPORTS.png", ┃LT┃ GO3 SPORT FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734004.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 2.png", ┃LT┃ SETANTA SPORTS 2 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734003.m3u8
-#EXTINF:-1 group-title="┃LT┃ LITHUANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Lithuania/┃LT┃ LITHUANIA/SETANTA SPORTS 1.png", ┃LT┃ SETANTA SPORTS 1 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734002.m3u8
 #EXTINF:-1 group-title="┃LV┃ LATVIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Latvia/┃LV┃ LATVIA/EURONEWS.png", ┃LV┃ EURONEWS FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1734134.m3u8
 #EXTINF:-1 group-title="┃LV┃ LATVIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/Latvia/┃LV┃ LATVIA/TRAVEL CHANNEL.png", ┃LV┃ TRAVEL CHANNEL FHD
