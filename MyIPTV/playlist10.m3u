@@ -1,7 +1,7 @@
 #EXTM3U
 # ==========================================
 # TYPE: MAC Portal (AKUN 10 - NO TOKEN)
-# GENERATED: 2026-09-08 03:52:18
+# GENERATED: 2026-09-08 10:56:00
 # ==========================================
 # DAFTAR GROUP TITLE:
 # HORSE RACING,
@@ -357,12 +357,12 @@
 # ┃FR┃ TÉLÉVISION DE BASE+,
 # ┃GE┃ GEORGIA,
 # ┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ,
-# ┃GR┃ COSMOTE SPORTS,
 # ┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ,
 # ┃GR┃ ENTERTAINMENT | ΨΥΧΑΓΩΓΙΚΑ,
 # ┃GR┃ GENERAL | ΓΕΝΙΚΑ,
 # ┃GR┃ KIDS | ΠΑΙΔΙΚΑ,
 # ┃GR┃ LOCAL | ΠΕΡΙΦΕΡΕΙΑΚΑ,
+# ┃GR┃ MAGENTA SPORTS,
 # ┃GR┃ NOVA SPORTS,
 # ┃GR┃ OD CINEMA,
 # ┃GR┃ OD GREECE,
@@ -3948,7 +3948,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141385.m3u8
 #EXTINF:-1 group-title="┃PPV┃ PAY PER VIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", LIVE EVENT 34 -
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1141384.m3u8
-#EXTINF:-1 group-title="┃PPV┃ UFC PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", UFC 00 : UFC FIGHT NIGHT: HOOKER VS PARNASSE PRELIMS start:2026-09-05 17:55:00 stop:2026-09-05 21:00:00
+#EXTINF:-1 group-title="┃PPV┃ UFC PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", UFC 00 : DANA WHITES CONTENDER SERIES: SEASON 10, WEEK 5 start:2026-09-09 00:55:00 stop:2026-09-09 04:00:00
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/181569.m3u8
 #EXTINF:-1 group-title="┃PPV┃ UFC PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png", UFC 01 : UFC PARIS: POST-FIGHT PRESS CONFERENCE start:2026-09-05 23:55:00 stop:2026-09-06 02:00:00
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/181568.m3u8
@@ -4064,81 +4064,81 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972846.m3u8
 #EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", ┃PPV┃ TENNIS CHANNEL FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972847.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", US Open Day 9 @ Sep 7 3:30 PM :Tennis  01
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", US Open Quarter Finals @ Sep 8 4:00 PM :Tennis  01
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972796.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", US Open: Day #9 vs Court TBD A @ Sep 7 11:00 :Tennis  02
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", US Open: Day #10 vs Court TBD A @ Sep 8 11:00 :Tennis  02
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972797.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", 2026 US Open Tennis: Round of 16 @ Sep 7 11:00 :Tennis  03
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", US Open: Day #10 vs Court TBD B @ Sep 8 11:30 :Tennis  03
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972798.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", US Open: Day #9 vs Court TBD B @ Sep 7 11:30 :Tennis  04
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", 2026 US Open Tennis: Quarterfinals A @ Sep 8 11:30 :Tennis  04
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972799.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Mirra Andreeva vs Anastasia Potapova @ Sep 7 17:00 PM :Tennis  05
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Aryna Sabalenka vs Linda Noskova @ Sep 8 17:30 PM :Tennis  05
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972800.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Iga Swiatek vs Qinwen Zheng @ Sep 7 17:30 PM :Tennis  06
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Jessica Pegula vs Emma Navarro @ Sep 9 01:00 AM :Tennis  06
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972801.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Naomi Osaka vs Elena Rybakina @ Sep 7 22:00 PM :Tennis  07
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Frances Tiafoe vs Alex Michelsen @ Sep 8 20:00 PM :Tennis  07
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972802.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Iva Jović vs Coco Gauff @ Sep 8 01:00 AM :Tennis  08
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Ben Shelton vs Carlos Alcaraz @ Sep 9 03:30 AM :Tennis  08
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972803.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Alexander Zverev vs Luciano Darderi @ Sep 8 03:30 AM :Tennis  09
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Ksenia Efremova vs Zhang Ruien @ Sep 8 17:00 PM :Tennis  09
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972804.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Isha Manchala vs Alexandra Malova @ Sep 7 17:00 PM :Tennis  10
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Yannik Alvarez vs Kirill Filaretov @ Sep 8 17:00 PM :Tennis  10
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972805.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Emilio Camacho vs Matteo Gribaldo @ Sep 7 17:00 PM :Tennis  11
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Oluwaseun Peter Ogunsakin vs Connor Doig @ Sep 8 17:00 PM :Tennis  11
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972806.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Olivia Traynor vs Nauhany Vitoria Leme da Silva @ Sep 7 17:00 PM :Tennis  12
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Hannah Ayrault vs Jana Kovackova @ Sep 8 17:00 PM :Tennis  12
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972807.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Felitsata Dorofeeva vs Rybas vs Sofiia Bielinska @ Sep 7 17:00 PM :Tennis  13
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Emilio Camacho vs Dimitar Kisimov @ Sep 8 17:00 PM :Tennis  13
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972808.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Kirill Filaretov vs Kamil Stolarczyk @ Sep 7 17:00 PM :Tennis  14
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Marcel latak vs Tito Chavez @ Sep 8 17:00 PM :Tennis  14
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972809.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Gavin Goode vs Tito Chavez @ Sep 7 17:00 PM :Tennis  15
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Felitsata Dorofeeva Rybas vs Katerina Zajickova @ Sep 8 17:00 PM :Tennis  15
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972810.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Yannik Alvarez vs Hyu Kawanishi @ Sep 7 17:00 PM :Tennis  16
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Jack Kennedy vs Benjamin Azar @ Sep 8 17:00 PM :Tennis  16
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972811.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Janae Preston vs Fleur de Bresser @ Sep 7 17:00 PM :Tennis  17
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Daniella Britton vs Nauhany Vitoria Leme Da Silva @ Sep 8 17:00 PM :Tennis  17
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972812.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Alyssa James vs Daniella Britton @ Sep 7 17:00 PM :Tennis  18
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Kanta Watanabe vs Jamie MacKenzie @ Sep 8 17:00 PM :Tennis  18
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972813.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Hollie Smart vs Polina Skliar @ Sep 7 17:00 PM :Tennis  19
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Janae Preston vs Avery Alexander @ Sep 8 19:30 PM :Tennis  19
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972833.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Pedro Henrique Chabalgoity vs Keaton Hance @ Sep 7 17:00 PM :Tennis  20
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Jack Secord vs Yannick Alexandrescou @ Sep 8 19:30 PM :Tennis  20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972834.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Marija Lauva vs Avery Alexander @ Sep 7 17:00 PM :Tennis  21
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Oliver Majdandzic vs Keaton Hance @ Sep 8 19:30 PM :Tennis  21
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972835.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Tanishk Konduri vs Mathys Domenc @ Sep 7 19:30 PM :Tennis  22
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Snooker: Gary Wilson vs Daniel Wells @ Sep 8 20:00 PM :Tennis  22
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972836.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Luis Guto Miguel vs Mark Ceban @ Sep 7 19:30 PM :Tennis  23
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Chukwumelije Clarke vs Charo Esquiva Banuls @ Sep 8 22:00 PM :Tennis  23
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972837.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Kai Thompson vs Dante pagani @ Sep 7 19:30 PM :Tennis  24
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  24
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972838.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Valentin Gonzalez Galino vs Jordan Lee @ Sep 7 19:30 PM :Tennis  25
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  25
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972839.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Antonina Sushkova vs Kristina Penickova @ Sep 7 19:30 PM :Tennis  26
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  26
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972840.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Xinran Sun vs Thara Gowda @ Sep 7 19:30 PM :Tennis  27
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  27
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972841.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Ziga Sesko vs Marcel Latak @ Sep 7 19:30 PM :Tennis  28
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  28
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972842.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Anna Pushkareva vs Yushan Shao @ Sep 7 19:30 PM :Tennis  29
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  29
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972843.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Thea Frodin vs Katerina Zajickova @ Sep 7 19:30 PM :Tennis  30
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  30
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972844.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Snooker: Zhao Xintong vs Oliver Lines @ Sep 7 20:00 PM :Tennis  32
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  32
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972814.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Snooker: Elliot Slessor vs Ashley Hugill @ Sep 7 20:00 PM :Tennis  33
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  33
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972815.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Francisco Cerundolo vs Alexander Blockx @ Sep 7 20:00 PM :Tennis  34
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  34
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972816.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Matei Victor Chelemen vs Thilo Behrmann @ Sep 7 22:00 PM :Tennis  35
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  35
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972817.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Vihaan Reddy vs Daniel Jade @ Sep 7 22:00 PM :Tennis  36
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  36
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972818.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Yael Saffar vs Paola Pinera Celorio @ Sep 7 22:00 PM :Tennis  37
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  37
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972819.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Arthur Gea vs Botic van de Zandschulp @ Sep 8 00:30 AM :Tennis  38
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  38
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972820.m3u8
-#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", Tennis: Karen Khachanov vs Learner Tien @ Sep 8 00:30 AM :Tennis  39
+#EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  39
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972821.m3u8
 #EXTINF:-1 group-title="┃PPV┃ TENNIS PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png", :Tennis  40
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1972822.m3u8
@@ -14682,71 +14682,87 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/987467.m3u8
 #EXTINF:-1 group-title="┃GR┃ SPORTS | ΑΘΛΗΤΙΚΑ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png", ┃GR┃ PADELTIME TV FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/987468.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 4K
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1648352.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT HIGHLIGHTS FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT LEAGUE 1 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977050.m3u8
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT LEAGUE 1 SD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977073.m3u8
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT LEAGUE 2 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977051.m3u8
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT LEAGUE 2 SD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977074.m3u8
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT LEAGUE 3 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977052.m3u8
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT LEAGUE 3 SD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977075.m3u8
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT LEAGUE 4 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977053.m3u8
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT LEAGUE 4 SD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977076.m3u8
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT HIGHLIGHTS FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1891.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT HIGHLIGHTS HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT HIGHLIGHTS HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671498.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 1 FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 1 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/174426.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 1 HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 1 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1890.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 1 SD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 1 SD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671508.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 2 FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 2 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/174427.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 2 HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 2 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1889.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 2 SD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 2 SD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671509.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 3 FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 3 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/174428.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 3 HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 3 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1888.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 3 SD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 3 SD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671510.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 4 FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 4 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/174429.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 4 HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 4 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1887.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 4 SD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 4 SD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671511.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 5 FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 5 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/174430.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 5 HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 5 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1886.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 5 SD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 5 SD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671512.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 6 FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 6 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/174265.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 6 HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 6 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1885.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 6 SD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 6 SD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671513.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 7 FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 7 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/174264.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 7 HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 7 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1884.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 8 FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 8 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/174263.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 8 HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 8 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1883.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 9 FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 9 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1882.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 9 HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA SPORT 9 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671507.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png", ┃GR┃ COSMOTE SPORT SL PASS PANATHINAIKOS FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png", ┃GR┃ MAGENTA SPORT SL PASS PANATHINAIKOS FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/699599.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Panathinaikos_F.C._logo.png", ┃GR┃ COSMOTE SPORT SL PANATHINAIKOS PASS HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Panathinaikos_F.C._logo.png", ┃GR┃ MAGENTA SPORT SL PANATHINAIKOS PASS HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/242084.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png", ┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png", ┃GR┃ MAGENTA SPORT SL PASS OLYMPIAKOS FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/699598.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png", ┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png", ┃GR┃ MAGENTA SPORT SL PASS OLYMPIAKOS HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/242085.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png", ┃GR┃ COSMOTE SPORT SL PASS AEK FHD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png", ┃GR┃ MAGENTA SPORT SL PASS AEK FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/699597.m3u8
-#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/AEKPASS.png", ┃GR┃ COSMOTE SPORT SL PASS AEK HD
+#EXTINF:-1 group-title="┃GR┃ MAGENTA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/AEKPASS.png", ┃GR┃ MAGENTA SPORT SL PASS AEK HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/242086.m3u8
 #EXTINF:-1 group-title="┃GR┃ NOVA SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png", ┃GR┃ NOVA SPORTS NEWS FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1880.m3u8
@@ -14880,25 +14896,25 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671253.m3u8
 #EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png", ┃GR┃ ANT 1 DRAMA HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671252.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE CINEMA 1 FHD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA CINEMA 1 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671365.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE CINEMA 1 HD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA CINEMA 1 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671322.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE CINEMA 2 FHD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA CINEMA 2 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671364.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE CINEMA 2 HD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA CINEMA 2 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671321.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE CINEMA 3 FHD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA CINEMA 3 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671363.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE CINEMA 3 HD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA CINEMA 3 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671320.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE SERIES FHD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA SERIES FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671362.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE SERIES HD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA SERIES HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671324.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE SERIES MARATHON FHD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA SERIES 2 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671361.m3u8
-#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ COSMOTE CINEMA OSCARS HD
+#EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ MAGENTA CINEMA OSCARS HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671326.m3u8
 #EXTINF:-1 group-title="┃GR┃ CINEMA | ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CosmOTECINEMA.png", ┃GR┃ VILLAGE CINEMA FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671360.m3u8
@@ -15308,7 +15324,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671287.m3u8
 #EXTINF:-1 group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ANIMALPLANETHD.png", ┃GR┃ ANIMAL PLANET FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671276.m3u8
-#EXTINF:-1 group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE HISTORY HD
+#EXTINF:-1 group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ MAGENTA HISTORY HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671275.m3u8
 #EXTINF:-1 group-title="┃GR┃ DOCUMENTARY | ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Viasat_Nature.png", ┃GR┃ VIASAT NATURE FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/671274.m3u8
@@ -21766,35 +21782,35 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1947415.m3u8
 #EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", ┃USA┃ MLB STRIKE ZONE
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1947416.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 01 |  Braves x Phillies start:2026-09-07 18:05:00 stop:2026-09-08 01:18:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 01 |  Guardians x Orioles start:2026-09-08 23:35:00 stop:2026-09-09 06:48:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861349.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 02 |  Mets x Marlins start:2026-09-07 18:10:00 stop:2026-09-08 01:23:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 02 |  Twins x Tigers start:2026-09-08 23:40:00 stop:2026-09-09 06:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861348.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 03 |  Angels x Red Sox start:2026-09-07 18:35:00 stop:2026-09-08 01:48:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 03 |  Astros x Phillies start:2026-09-08 23:40:00 stop:2026-09-09 06:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861347.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 04 |  Guardians x Orioles start:2026-09-07 18:35:00 stop:2026-09-08 01:48:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 04 |  Mets x Marlins start:2026-09-08 23:40:00 stop:2026-09-09 06:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861346.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 05 |  D-backs x Royals start:2026-09-07 19:10:00 stop:2026-09-08 02:23:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 05 |  Angels x Red Sox start:2026-09-08 23:45:00 stop:2026-09-09 06:58:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861345.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 06 |  Cubs x Brewers start:2026-09-07 19:10:00 stop:2026-09-08 02:23:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 06 |  Rockies x Yankees start:2026-09-09 00:05:00 stop:2026-09-09 07:18:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861344.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 07 |  Twins x Tigers start:2026-09-07 20:10:00 stop:2026-09-08 03:23:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 07 |  Rays x Braves start:2026-09-09 00:15:00 stop:2026-09-09 07:28:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861343.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 08 |  Nationals x Padres start:2026-09-07 22:10:00 stop:2026-09-08 05:23:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 08 |  D-backs x Royals start:2026-09-09 00:40:00 stop:2026-09-09 07:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861342.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 10 |  Cardinals x Giants start:2026-09-08 01:10:00 stop:2026-09-08 08:23:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 09 |  Pirates x White Sox start:2026-09-09 00:40:00 stop:2026-09-09 07:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861341.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 10 |  Rays x Rangers start:2026-09-06 19:35:00 stop:2026-09-07 02:48:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 10 |  Cubs x Brewers start:2026-09-09 00:40:00 stop:2026-09-09 07:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861340.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 11 |  Reds x Dodgers start:2026-09-08 02:10:00 stop:2026-09-08 09:23:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 11 |  Nationals x Padres start:2026-09-09 02:40:00 stop:2026-09-09 09:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861339.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 12  |  Blue Jays x Athletics start:2026-09-08 03:05:00 stop:2026-09-08 10:18:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 12  |  Rangers x Mariners start:2026-09-09 02:40:00 stop:2026-09-09 09:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861338.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 13 |  Yankees x Padres start:2026-09-06 21:10:00 stop:2026-09-07 04:23:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 13 |  Blue Jays x Athletics start:2026-09-09 02:40:00 stop:2026-09-09 09:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861337.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 14 |  Twins x White Sox start:2026-09-06 23:20:00 stop:2026-09-07 06:33:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 14 |  Cardinals x Giants start:2026-09-09 02:45:00 stop:2026-09-09 09:58:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861336.m3u8
-#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 15 |  Nationals x Dodgers start:2026-09-07 03:10:00 stop:2026-09-07 10:23:20
+#EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 15 |  Reds x Dodgers start:2026-09-09 03:10:00 stop:2026-09-09 10:23:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861335.m3u8
 #EXTINF:-1 group-title="┃USA┃ MLB PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLB/MLB.png", MLB 16 |  Yankees x Padres start:2026-09-05 02:40:00 stop:2026-09-05 09:53:20
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861334.m3u8
