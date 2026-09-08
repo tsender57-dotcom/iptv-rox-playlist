@@ -1,7 +1,7 @@
 #EXTM3U
 # ==========================================
 # TYPE: MAC Portal (AKUN 10 - NO TOKEN)
-# GENERATED: 2026-09-08 20:55:35
+# GENERATED: 2026-09-08 23:16:19
 # ==========================================
 # DAFTAR GROUP TITLE:
 # HORSE RACING,
@@ -36184,14 +36184,28 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/660262.m3u8
 #EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EGYPT/ONtv_logo.png", ┃EG┃ ON TV E HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/660261.m3u8
-#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EGYPT/On_Time_Sports_Logo.png", ┃EG┃ ONTIME SPORTS 2
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/660260.m3u8
-#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EGYPT/On_Time_Sports_Logo.png", ┃EG┃ ONTIME SPORTS PLUS HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/660259.m3u8
-#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EGYPT/On_Time_Sports_Logo.png", ┃EG┃ ONTIME SPORTS
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/660258.m3u8
-#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EGYPT/On_Time_Sports_Logo.png", ┃EG┃ ONTIME SPORTS HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/660257.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT HEVC
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977935.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977934.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977936.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT SD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977937.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EGYPT/ONtv_logo.png", ┃EG┃ ON SPORT MAX HEVC
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977939.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT MAX FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977938.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT MAX HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977940.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT MAX SD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977941.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT PLUS HEVC
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977943.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT PLUS FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977942.m3u8
+#EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="", ┃EG┃ ON SPORT PLUS HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1977944.m3u8
 #EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EGYPT/Dmc_logo%20(1).png", ┃EG┃ DMC HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/660256.m3u8
 #EXTINF:-1 group-title="┃AR┃ EGYPT | مصر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EGYPT/Dmc_logo%20(1).png", ┃EG┃ DMC DRAMA
